@@ -15232,7 +15232,7 @@ var km = {
 										style: {
 											"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 										},
-										children: "Pause or cancel anytime. "
+										children: "Pause or cancel anytime."
 									}), "You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
 								})
 							}),
@@ -17813,7 +17813,7 @@ var Hd = Te(Bt),
 												style: {
 													backgroundImage: "linear-gradient(93deg, rgba(255, 255, 255, 0.8) 0%, rgb(255, 255, 255) 43.2432%, rgba(255, 255, 255, 0) 140.921%)"
 												},
-												children: "That's one hefty design stack"
+												children: "The better way to get design done"
 											})
 										})
 									}),
@@ -19313,14 +19313,14 @@ var Hd = Te(Bt),
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 												"--framer-letter-spacing": "-0.05em",
-												"--framer-line-height": "25.5px",
+												"--framer-line-height": "15.5px",
 												"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: [o("span", {
 												style: {
 													"--framer-text-color": "rgb(203,255,13)"
 												},
-												children: "Pause or cancel anytime."
+												children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
 											}), "  You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
 										})
 									}),
@@ -19607,7 +19607,7 @@ var Hd = Te(Bt),
 														style: {
 															backgroundImage: "linear-gradient(98deg, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, rgb(203,255,13)) 10.3672%, hsla(0, 0%, 0%, 0) 174.901%)"
 														},
-														children: "It's simple and straightforward, Here's the quick overview."
+														children: "It's simple and straightforward."
 													})
 												})
 											})
@@ -19631,7 +19631,7 @@ var Hd = Te(Bt),
 													style: {
 														backgroundImage: "linear-gradient(98deg, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, rgb(203,255,13)) 10.3672%, hsla(0, 0%, 0%, 0) 174.901%)"
 													},
-													children: "It's simple and straightforward, Here's the quick overview."
+													children: "It's simple and straightforward."
 												})
 											})
 										}),
@@ -19734,7 +19734,7 @@ var Hd = Te(Bt),
 																style: {
 																	"--framer-font-size": "52px"
 																},
-																children: "to Notion"
+																children: "to Slack"
 															})]
 														})
 													})
@@ -19756,7 +19756,7 @@ var Hd = Te(Bt),
 															"--framer-text-alignment": "left",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "Upon registration, You\u2019ll  have your own Notion Board. Where, you or any of your team members. can add design tasks and track their live progress on Figma, while their status updates in Notion."
+														children: "Upon registration, you'll join Kislap Creative’s Slack for communication and project tracking. We can also use your preferred project management app, though we typically use Asana."
 													})
 												}),
 												className: "framer-iu7loq",
@@ -19855,7 +19855,7 @@ var Hd = Te(Bt),
 															style: {
 																backgroundImage: "linear-gradient(283deg, rgba(255, 255, 255, 0) -19.5906%, rgb(255, 255, 255) 100%)"
 															},
-															children: "Sit back & Relax or talk to us?"
+															children: "Review your designs"
 														})
 													})
 												}),
@@ -19876,7 +19876,7 @@ var Hd = Te(Bt),
 															"--framer-text-alignment": "left",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "Our teams collaborate on Slack, eliminating the need for lengthy Zoom calls or emails. We're just a text away, ensuring quick and easy comms anytime you need."
+														children: "Expect your personalized email designs ready for feedback and approval in just 24 hours. We combine speed and reliability, delivering top-notch quality and style every time."
 													})
 												}),
 												className: "framer-15aft5w",
@@ -19951,7 +19951,7 @@ var Hd = Te(Bt),
 															"--framer-text-alignment": "left",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "Our teams collaborate on Slack, eliminating the need for lengthy Zoom calls or emails. We're just a text away, ensuring quick and easy comms anytime you need."
+														children: "Expect your personalized email designs ready for feedback and approval in just 24 hours. We combine speed and reliability, delivering top-notch quality and style every time."
 													})
 												}),
 												className: "framer-1fok0b1",
@@ -20121,7 +20121,7 @@ var Hd = Te(Bt),
 															style: {
 																backgroundImage: "linear-gradient(283deg, rgba(255, 255, 255, 0) 5.44465%, rgb(255, 255, 255) 100%)"
 															},
-															children: "Review your designs"
+															children: "Launch Your Email"
 														})
 													})
 												}),
@@ -20142,7 +20142,7 @@ var Hd = Te(Bt),
 															"--framer-text-alignment": "left",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "After completion, the designs get updated to Figma for you to review and drop comments before your deadline. This gives you with ample time for revisions, giving you peace of mind."
+														children: "After completing any necessary revisions, our team will upload your fully optimized email campaigns through your Klaviyo channel template or we can send the designs to you."
 													})
 												}),
 												className: "framer-ichsnb",
@@ -20238,7 +20238,7 @@ var Hd = Te(Bt),
 																			"--framer-font-size": "52px"
 																		},
 																		children: o("br", {})
-																	}), "to Notion"]
+																	}), "to Slack"]
 																})
 															})
 														})
@@ -20277,7 +20277,7 @@ var Hd = Te(Bt),
 																	style: {
 																		"--framer-font-size": "52px"
 																	},
-																	children: "to Notion"
+																	children: "to Slack"
 																})]
 															})
 														})
@@ -20300,7 +20300,7 @@ var Hd = Te(Bt),
 															"--framer-text-alignment": "left",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "Upon registration, You\u2019ll  have your exclusive Notion Board. Here, you or any of your team members. can add design tasks and track their live progress on Figma, while their status updates in Notion."
+														children: "Upon registration, you'll join Kislap Creative’s Slack for communication and project tracking. We can also use your preferred project management app, though we typically use Asana."
 													})
 												}),
 												className: "framer-1gue4wa",
@@ -22192,9 +22192,9 @@ var Hd = Te(Bt),
 									})
 								}),
 								className: "framer-107banh",
-								"data-framer-name": "Not the cheapest, but No Hassle.",
+								"data-framer-name": "One subscription for all your creative needs",
 								fonts: ["GF;Instrument Sans-regular"],
-								name: "Not the cheapest, but No Hassle.",
+								name: "One subscription for all your creative needs",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							})]
@@ -22338,14 +22338,14 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(92deg, rgb(203,255,13) 0%, rgba(255, 255, 255, 0) 164.173%)"
 											},
-											children: "Not the cheapest, but No Hassle."
+											children: "One subscription for all your creative needs"
 										})
 									})
 								}),
 								className: "framer-zh252o",
-								"data-framer-name": "Not the cheapest, but No Hassle.",
+								"data-framer-name": "One subscription for all your creative needs",
 								fonts: ["GF;Instrument Sans-regular"],
-								name: "Not the cheapest, but No Hassle.",
+								name: "One subscription for all your creative needs",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							})]
@@ -22618,7 +22618,7 @@ var Hd = Te(Bt),
 												style: {
 													backgroundImage: "linear-gradient(98deg, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, rgb(203,255,13)) 10.3672%, hsla(0, 0%, 0%, 0) 174.901%)"
 												},
-												children: "Not the cheapest, but No Hassle."
+												children: "One subscription for all your creative needs"
 											})
 										})
 									}),
@@ -22683,11 +22683,12 @@ var Hd = Te(Bt),
 																"--framer-font-family": '"Instrument Sans", sans-serif',
 																"--framer-font-size": "26px",
 																"--framer-font-weight": "600",
-																"--framer-line-height": "31.72px",
-																"--framer-text-color": "rgb(255, 255, 255)"
+																"--framer-line-height": "14.72px",
+																"--framer-text-color": "rgb(15, 15, 16)"
 															},
-															children: "Monthly"
+															children: "Featured Price"
 														})
+														
 													}),
 													className: "framer-1vyhwaf",
 													fonts: ["GF;Instrument Sans-600"],
@@ -22701,10 +22702,10 @@ var Hd = Te(Bt),
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 																"--framer-font-size": "14px",
-																"--framer-line-height": "17.08px",
-																"--framer-text-color": "rgb(168, 168, 168)"
+																"--framer-line-height": "15.08px",
+																"--framer-text-color": "rgb(15, 15, 16)"
 															},
-															children: "Pause or cancel anytime"
+															children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
 														})
 													}),
 													className: "framer-w5ce3r",
@@ -22721,13 +22722,13 @@ var Hd = Te(Bt),
 																"--framer-font-size": "26px",
 																"--framer-letter-spacing": "-0.05em",
 																"--framer-line-height": "31.72px",
-																"--framer-text-color": "rgb(168, 168, 168)"
+																"--framer-text-color": "rgb(15, 15, 16)"
 															},
-															children: "$3,999/mo"
+															children: "$ 1,200/mo"
 														})
 													}),
 													className: "framer-by67le",
-													fonts: ["GF;Instrument Sans-regular"],
+													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: cc,
 													verticalAlignment: "top",
 													withExternalLayout: !0
@@ -22939,7 +22940,7 @@ var Hd = Te(Bt),
 															"--framer-line-height": "25.5px",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "Perfect for those with an on-going need for professional design with fast turnarounds looking to grow"
+														children: "We offer customizable design packages to fit your needs. Contact us for more details or a personalized quote."
 													})
 												}),
 												className: "framer-1nwq99w",
@@ -23002,8 +23003,8 @@ var Hd = Te(Bt),
 									})]
 								}), o("div", {
 									className: "framer-lm6f6i",
-									"data-framer-name": "Not there yet - section",
-									name: "Not there yet - section",
+									"data-framer-name": "Got more questions?",
+									name: "Got more questions?",
 									children: O("div", {
 										className: "framer-q0cc5l",
 										"data-framer-name": "Step 1",
@@ -23061,7 +23062,7 @@ var Hd = Te(Bt),
 																	style: {
 																		backgroundImage: "linear-gradient(99deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 169.104%)"
 																	},
-																	children: "Not there"
+																	children: "Got more"
 																})
 															}), o("h1", {
 																style: {
@@ -23079,7 +23080,7 @@ var Hd = Te(Bt),
 																	style: {
 																		backgroundImage: "linear-gradient(99deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 169.104%)"
 																	},
-																	children: "yet?"
+																	children: "question?"
 																})
 															})]
 														})
@@ -23104,7 +23105,7 @@ var Hd = Te(Bt),
 																style: {
 																	backgroundImage: "linear-gradient(99deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 169.104%)"
 																},
-																children: "Not there"
+																children: "Got more"
 															})
 														}), o("h1", {
 															style: {
@@ -23122,7 +23123,7 @@ var Hd = Te(Bt),
 																style: {
 																	backgroundImage: "linear-gradient(99deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 169.104%)"
 																},
-																children: "yet?"
+																children: "question?"
 															})
 														})]
 													}),
@@ -23144,7 +23145,7 @@ var Hd = Te(Bt),
 															"--framer-text-alignment": "left",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "If our current plan doesn't quite align with your needs or feels a bit excessive for you right now, Book a call with us and maybe we can tailor a plan that suits you better."
+														children: "Drop us a message or book a call with us!"
 													})
 												}),
 												className: "framer-bvne3x",
@@ -23199,7 +23200,7 @@ var Hd = Te(Bt),
 													"--framer-line-height": "22.5px",
 													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 												},
-												children: "Upon registration, You\u2019ll have your exclusive Notion Board. Here, you or any of your team members. can add design tasks and track their live progress on Figma, while their status updates in Notion."
+												children: "Upon registration, you'll join Kislap Creative’s Slack for communication and project tracking. We can also use your preferred project management app, though we typically use Asana."
 											})
 										}),
 										className: "framer-qird3m",
@@ -23246,7 +23247,7 @@ var Hd = Te(Bt),
 														style: {
 															backgroundImage: "linear-gradient(90deg, rgb(255, 255, 255) 0%, rgba(0, 0, 0, 0) 148.743%)"
 														},
-														children: "to Notion"
+														children: "to Slack"
 													})
 												})]
 											}),
@@ -24366,7 +24367,7 @@ var Hd = Te(Bt),
 								})
 							})
 						}), d() && o(rt, {
-							href: "https://portal.creativecue.co/",
+							href: "https://portal.kislapcreative.com/",
 							children: o("a", {
 								className: "framer-1waheur hidden-1i86tcs framer-4zsb7x",
 								"data-framer-name": "Link",
@@ -24396,7 +24397,7 @@ var Hd = Te(Bt),
 								})
 							})
 						}), d() && o(rt, {
-							href: "https://www.notion.so/creativecue/Terms-of-Usage-creativecue-7a3fb3ac7ef34eb598fa60f65900568f?pvs=4",
+							href: "https://www.notion.so/kislapcreative/Terms-",
 							children: o("a", {
 								className: "framer-kai4cv hidden-1i86tcs framer-4zsb7x",
 								"data-framer-name": "Link",
@@ -24426,7 +24427,7 @@ var Hd = Te(Bt),
 								})
 							})
 						}), m() && o(rt, {
-							href: "https://www.notion.so/creativecue/Terms-of-Usage-creativecue-7a3fb3ac7ef34eb598fa60f65900568f?pvs=4",
+							href: "https://www.notion.so/kislapcreative/Terms-of-Usage-",
 							children: o("a", {
 								className: "framer-1dyypyc hidden-11ouoyp hidden-1i86tcs framer-4zsb7x",
 								"data-framer-name": "Link",
@@ -24471,7 +24472,7 @@ var Hd = Te(Bt),
 											"--framer-letter-spacing": "-1px",
 											"--framer-text-color": "rgba(255, 255, 255, 0.4399999976158142)"
 										},
-										children: "\xA9 2024 Creativecue."
+										children: "\xA9 2024 KislapCreative"
 									})
 								})
 							}),
@@ -24506,14 +24507,14 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(96deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 163.647%)"
 											},
-											children: "That's one hefty design stack"
+											children: "The better way to get design done"
 										})
 									})
 								}),
 								className: "framer-1e3ix3m",
-								"data-framer-name": "That's one hefty design stack",
+								"data-framer-name": "The better way to get design done",
 								fonts: ["GF;Instrument Sans-regular"],
-								name: "That's one hefty design stack",
+								name: "The better way to get design done",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							}), o(N, {
@@ -24758,14 +24759,14 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(95deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 249.768%)"
 											},
-											children: "Not there yet? "
+											children: "Got more questions?"
 										})
 									})
 								}),
 								className: "framer-1soesdx",
-								"data-framer-name": "Not there yet?",
+								"data-framer-name": "Got more questions?",
 								fonts: ["GF;Instrument Sans-600"],
-								name: "Not there yet?",
+								name: "Got more questions?",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							}), o(N, {
@@ -24784,7 +24785,7 @@ var Hd = Te(Bt),
 												"--framer-letter-spacing": "-1px",
 												"--framer-text-color": "rgba(255, 255, 255, 0.4399999976158142)"
 											},
-											children: "If our current plan doesn't quite align with your needs or feels a bit excessive for you right now, Book a call with us and maybe we can tailor a plan that suits you better."
+											children: "Drop us a message or book a call with us!"
 										})
 									})
 								}),
@@ -24923,7 +24924,7 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(98deg, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, rgb(203,255,13)) 10.3672%, hsla(0, 0%, 0%, 0) 174.901%)"
 											},
-											children: "Not the cheapest, but No Hassle."
+											children: "One subscription for all your creative needs"
 										})
 									})
 								}),
@@ -24989,7 +24990,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "17.08px",
 																	"--framer-text-color": "rgb(168, 168, 168)"
 																},
-																children: "Pause or cancel anytime"
+																children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
 															})
 														}),
 														className: "framer-1vehi06",
@@ -25008,7 +25009,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "31.72px",
 																	"--framer-text-color": "rgb(255, 255, 255)"
 																},
-																children: "Monthly"
+																children: "Featured Price"
 															})
 														}),
 														className: "framer-psv9v",
@@ -25028,7 +25029,7 @@ var Hd = Te(Bt),
 																"--framer-line-height": "31.72px",
 																"--framer-text-color": "rgb(168, 168, 168)"
 															},
-															children: "$3,999/mo"
+															children: "$ 1,200/mo"
 														})
 													}),
 													className: "framer-g5hv61",
@@ -25287,7 +25288,7 @@ var Hd = Te(Bt),
 														"--framer-text-alignment": "center",
 														"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 													},
-													children: "Perfect for those with an on-going need for professional design with fast turnarounds looking to grow"
+													children: "We offer customizable design packages to fit your needs. Contact us for more details or a personalized quote."
 												})
 											}),
 											className: "framer-b8q45a",
