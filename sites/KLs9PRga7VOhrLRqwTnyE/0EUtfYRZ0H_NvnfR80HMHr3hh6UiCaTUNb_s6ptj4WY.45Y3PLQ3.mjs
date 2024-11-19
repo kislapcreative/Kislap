@@ -12711,7 +12711,7 @@ var sf = {
 					children: O(A.div, {
 						...u,
 						className: de("framer-14gqcjr", i),
-						"data-framer-name": "Book a Call",
+						"data-framer-name": "Email Us",
 						layoutDependency: m,
 						layoutId: "Z9F2OEidd",
 						ref: r ?? p,
@@ -13770,7 +13770,7 @@ var Gf = {
 												"--framer-line-height": "18px",
 												"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 											},
-											children: "Why $3,999 a month?"
+											children: "What design software do you use?"
 										})
 									}),
 									className: "framer-qnenhh",
@@ -14065,7 +14065,7 @@ var rm = {
 		var f, h, u;
 		return {
 			...s,
-			fmGszZxB5: (f = n ?? s.fmGszZxB5) !== null && f !== void 0 ? f : "How quickly will I receive designs?",
+			fmGszZxB5: (f = n ?? s.fmGszZxB5) !== null && f !== void 0 ? f : "What if I don’t have lifestyle images for my brand or products?",
 			variant: (u = (h = nm[s.variant]) !== null && h !== void 0 ? h : s.variant) !== null && u !== void 0 ? u : "a9umRHria",
 			VxLwCV_f7: a ?? s.VxLwCV_f7
 		}
@@ -14208,7 +14208,7 @@ var rm = {
 												"--framer-line-height": "18px",
 												"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 											},
-											children: "Why $3,999 a month?"
+											children: "Do you offer standard pricing for particular brands and agencies?"
 										})
 									}),
 									className: "framer-jw05bp",
@@ -14261,7 +14261,7 @@ var rm = {
 										"--framer-line-height": "25.5px",
 										"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 									},
-									children: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. "
+									children: "Yes, we do! Our pricing is tailored for different types of brands and agencies:"
 								}), o(A.p, {
 									style: {
 										"--framer-line-height": "25.5px",
@@ -14279,7 +14279,9 @@ var rm = {
 										"--framer-line-height": "25.5px",
 										"--framer-text-color": "var(--extracted-1iakedh, rgba(255, 255, 255, 0.76))"
 									},
-									children: "Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace.  This almost always guarantees subpar designs."
+									children: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
+
+Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 								}), o(A.p, {
 									style: {
 										"--framer-line-height": "25.5px",
@@ -14297,7 +14299,7 @@ var rm = {
 										"--framer-line-height": "25.5px",
 										"--framer-text-color": "var(--extracted-ydz9fi, rgba(255, 255, 255, 0.76))"
 									},
-									children: "So while $6,995 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals."
+									children: "We provide flexible design packages tailored to your needs. Reach out for more information or a custom quote."
 								})]
 							}),
 							className: "framer-989fij",
@@ -14328,7 +14330,7 @@ var rm = {
 												"--framer-line-height": "25.5px",
 												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 											},
-											children: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. "
+											children: "Yes, we do! Our pricing is tailored for different types of brands and agencies:"
 										}), o(A.p, {
 											style: {
 												"--framer-line-height": "25.5px",
@@ -14346,7 +14348,13 @@ var rm = {
 												"--framer-line-height": "25.5px",
 												"--framer-text-color": "var(--extracted-1iakedh, rgba(255, 255, 255, 0.76))"
 											},
-											children: "Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace.  This almost always guarantees subpar designs."
+											children: `Standard Brands: 10 requests per month for $800 USD/month, with a maximum of 1 request per day. Ideal for small businesses.
+
+Premium Brands: 20 requests per month for $1,200 USD/month, with a maximum of 2 requests per day. Best for brands looking to refresh and optimize their processes.
+
+Standard Agencies: 25 requests per month for $1,500 USD/month, with a maximum of 3 requests per day. Designed for small agencies with 1-3 clients.
+
+Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 5 requests per day. Recommended for agencies with 4-10 clients.`,
 										}), o(A.p, {
 											style: {
 												"--framer-line-height": "25.5px",
@@ -14364,7 +14372,7 @@ var rm = {
 												"--framer-line-height": "25.5px",
 												"--framer-text-color": "var(--extracted-ydz9fi, rgba(255, 255, 255, 0.76))"
 											},
-											children: "So while $3,999 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals."
+											children: "We provide flexible design packages tailored to your needs. Reach out for more information or a custom quote."
 										})]
 									})
 								},
@@ -14379,7 +14387,7 @@ var rm = {
 												"--framer-line-height": "25.5px",
 												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 											},
-											children: "Our designers work quickly and can respond to design requests within 2 hours; however, the time can take up to 3-4 business days depending on the complexity of the design request."
+											children: "No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.\nOur AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot."
 										})
 									})
 								}
@@ -14408,7 +14416,7 @@ ia.displayName = "FAQ - Single Component", ia.defaultProps = {
 		type: H.EventHandler
 	},
 	fmGszZxB5: {
-		defaultValue: "How quickly will I receive designs?",
+		defaultValue: "What if I don’t have lifestyle images for my brand or products?",
 		displayTextArea: !1,
 		placeholder: "",
 		title: "Title",
@@ -14588,7 +14596,7 @@ var pm = {
 						layoutDependency: m,
 						layoutId: "cPitwCeTg-container",
 						children: o(Jn, {
-							fmGszZxB5: "Why $3,999 a month?",
+							fmGszZxB5: "Do you offer standard pricing for particular brands and agencies?",
 							height: "100%",
 							id: "cPitwCeTg",
 							layoutId: "cPitwCeTg",
@@ -14611,13 +14619,13 @@ var pm = {
 							height: "100%",
 							id: "FHmqXR3BO",
 							layoutId: "FHmqXR3BO",
-							NjxELG2Gg: `We imply that there won\u2019t be a maximum limit on the amount of creatives which you can get done or that you\u2019ll ever be charged for any specific work during the duration of the plan, To give you a rough estimate.
+							NjxELG2Gg: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
 
-Our designers can comfortably produce 100\u2013150 email designs per month for email marketing agencies without any compromise on the quality.`,
+Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: 'Just what does "unlimited" mean?',
+							SxNXHpJ3V: 'Do you offer trial for emails?',
 							variant: "JrNr_BFNn",
 							width: "100%",
 							...gr({
@@ -14628,9 +14636,7 @@ Our designers can comfortably produce 100\u2013150 email designs per month for e
 									NjxELG2Gg: "Content needs to be added"
 								},
 								YTxXS4HMK: {
-									NjxELG2Gg: `We imply that there won\u2019t be a maximum limit on the amount of creatives which you can get done or that you\u2019ll ever be charged for any specific work during the duration of the plan, To give you a rough estimate.
-
-Our designers can comfortably produce 100\u2013150 email designs per month for one of our client who runs an email marketing agency without any compromise on the quality.`,
+									NjxELG2Gg: `Absolutely, we offer paid trials to help you decide before making a full commitment.`,
 									variant: "IXECW_zv0"
 								},
 								z16pTDwl_: {
@@ -14651,15 +14657,19 @@ Our designers can comfortably produce 100\u2013150 email designs per month for o
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: "What programs you design in?",
+							SxNXHpJ3V: "What design software do you use?",
 							variant: "JrNr_BFNn",
 							width: "100%",
 							...gr({
 								vt3MRGL2h: {
-									NjxELG2Gg: "Our designers work quickly and can respond to design requests within 2 hours; however, the time can take up to 3-4 business days depending on the complexity of the design request."
+									NjxELG2Gg: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
+
+Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 								},
 								z16pTDwl_: {
-									NjxELG2Gg: "Our designers work quickly and can respond to design requests within 2 hours; however, the time can take up to 3-4 business days depending on the complexity of the design request."
+									NjxELG2Gg: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
+
+Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 								}
 							}, g, b)
 						})
@@ -14672,11 +14682,13 @@ Our designers can comfortably produce 100\u2013150 email designs per month for o
 							height: "100%",
 							id: "wJk2r2HET",
 							layoutId: "wJk2r2HET",
-							NjxELG2Gg: "Our designers work quickly and can respond to design requests within 2 hours; however, the time can take up to 3-4 business days depending on the complexity of the design request.",
+							NjxELG2Gg: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
+
+Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: "How quickly will I receive designs?",
+							SxNXHpJ3V: "What if I don’t have lifestyle images for my brand or products?",
 							variant: "JrNr_BFNn",
 							width: "100%",
 							...gr({
@@ -14698,16 +14710,16 @@ Our designers can comfortably produce 100\u2013150 email designs per month for o
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: "Is there a request limit?",
+							SxNXHpJ3V: "Do you offer other design service apart from emails?",
 							variant: "JrNr_BFNn",
 							width: "100%",
 							...gr({
 								vt3MRGL2h: {
-									NjxELG2Gg: `As much as you possibly can, There\u2019s no upper limit or any cap of any kind of any of our plans, which makes us truly unlimited design service.
+									NjxELG2Gg: `Yes, we also offer paid static ads, amazon designs, photo manipulations and pitch decks.
 `
 								},
 								z16pTDwl_: {
-									NjxELG2Gg: `As much as you possibly can, There\u2019s no upper limit or any cap of any kind of any of our plans, which makes us truly unlimited design service.
+									NjxELG2Gg: `Yes, we also offer paid static ads, amazon designs, photo manipulations and pitch decks.
 `,
 									variant: "IXECW_zv0"
 								}
@@ -14722,20 +14734,20 @@ Our designers can comfortably produce 100\u2013150 email designs per month for o
 							height: "100%",
 							id: "tEtFbOu1s",
 							layoutId: "tEtFbOu1s",
-							NjxELG2Gg: "Other than 3D / Animations , you can have anything designed.",
+							NjxELG2Gg: "Our designers work quickly and can respond to design requests within an hour;",
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: "What can i get designed?",
+							SxNXHpJ3V: "How quickly will I receive my designs?",
 							variant: "JrNr_BFNn",
 							width: "100%",
 							...gr({
 								vt3MRGL2h: {
-									NjxELG2Gg: "Other than 3D / Animations , you can have anything designed. Landing Pages, Emails, Websites, Full Branding, Pitch Decks, Apps and alot more!",
+									NjxELG2Gg: "Our designers work quickly and can respond to design requests within an hour; We want what’s best for your brand and always focused on custom made designs however, the time can take up to 1-2 business days depending on the complexity of the design request.",
 									variant: "IXECW_zv0"
 								},
 								z16pTDwl_: {
-									NjxELG2Gg: "Other than 3D / Animations , you can have anything designed. Landing Pages, Emails, Websites, Full Branding, Pitch Decks, Apps and alot more!"
+									NjxELG2Gg: "Our designers work quickly and can respond to design requests within an hour; We want what’s best for your brand and always focused on custom made designs however, the time can take up to 1-2 business days depending on the complexity of the design request."
 								}
 							}, g, b)
 						})
@@ -14748,11 +14760,11 @@ Our designers can comfortably produce 100\u2013150 email designs per month for o
 							height: "100%",
 							id: "dAySRTW2B",
 							layoutId: "dAySRTW2B",
-							NjxELG2Gg: "We cannot offer refunds due to the nature of our service, but in exceptional circumstances, we may offer you a full refund.",
+							NjxELG2Gg: "We do not offer refunds, due to the nature of our service but you are welcome to pause or cancel your contract at any time.",
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: "Are there any refunds?",
+							SxNXHpJ3V: "Do you offer any refunds?",
 							variant: "JrNr_BFNn",
 							width: "100%"
 						})
@@ -15233,7 +15245,7 @@ var km = {
 											"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 										},
 										children: "Pause or cancel anytime."
-									}), "You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
+									}), " You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
 								})
 							}),
 							className: "framer-62z2m1",
@@ -16904,7 +16916,7 @@ var Ld = {
 								style: {
 									width: "100%"
 								},
-								SxNXHpJ3V: "Why $3,999 a month?",
+								SxNXHpJ3V: "Do you offer standard pricing for particular brands and agencies?",
 								variant: "Nqla507UG",
 								width: "100%",
 								...Or({
@@ -16923,13 +16935,13 @@ var Ld = {
 								height: "100%",
 								id: "WY72KyQ0p",
 								layoutId: "WY72KyQ0p",
-								NjxELG2Gg: `We imply that there won\u2019t be a maximum limit on the amount of creatives which you can get done or that you\u2019ll ever be charged for any specific work during the duration of the plan, To give you a rough estimate.
+								NjxELG2Gg: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
 
-Our designers can comfortably produce 100\u2013150 email designs per month for email marketing agencies without any compromise on the quality.`,
+Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 								style: {
 									width: "100%"
 								},
-								SxNXHpJ3V: 'Just what does "unlimited" mean?',
+								SxNXHpJ3V: 'Do you offer trial for emails?',
 								variant: "Nqla507UG",
 								width: "100%",
 								...Or({
@@ -16947,7 +16959,7 @@ Our designers can comfortably produce 100\u2013150 email designs per month for e
 								height: "100%",
 								id: "ve88RtPlH",
 								layoutId: "ve88RtPlH",
-								NjxELG2Gg: "All of our designers are skilled with Adobe Illustrator, XD, Photoshop, After Effects & Figma.",
+								NjxELG2Gg: "All of our designers are skilled with Adobe Illustrator, Photoshop, After Effects & Figma.",
 								style: {
 									width: "100%"
 								},
@@ -16981,7 +16993,7 @@ Our designers can comfortably produce 100\u2013150 email designs per month for e
 								height: "100%",
 								id: "VJXdCCa3s",
 								layoutId: "VJXdCCa3s",
-								NjxELG2Gg: "Our designers work quickly and can respond to design requests within 2 hours; however, the time can take up to 3-4 business days depending on the complexity of the design request.",
+								NjxELG2Gg: "No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.",
 								style: {
 									width: "100%"
 								},
@@ -17003,11 +17015,11 @@ Our designers can comfortably produce 100\u2013150 email designs per month for e
 								height: "100%",
 								id: "PJMZKQ4cm",
 								layoutId: "PJMZKQ4cm",
-								NjxELG2Gg: "As much as you possibly can, There\u2019s no upper limit or any cap of any kind of any of our plans, which makes us truly unlimited design service.",
+								NjxELG2Gg: "Yes, we also offer paid static ads, amazon designs, photo manipulations and pitch decks.",
 								style: {
 									width: "100%"
 								},
-								SxNXHpJ3V: "Is there a request limit?",
+								SxNXHpJ3V: "Do you offer other design service apart from emails?",
 								variant: "Nqla507UG",
 								width: "100%",
 								...Or({
@@ -17025,11 +17037,11 @@ Our designers can comfortably produce 100\u2013150 email designs per month for e
 								height: "100%",
 								id: "Rf8jYimcq",
 								layoutId: "Rf8jYimcq",
-								NjxELG2Gg: "We cannot offer refunds due to the nature of our service, but in exceptional circumstances, we may offer you a full refund.",
+								NjxELG2Gg: "We do not offer refunds, due to the nature of our service but you are welcome to pause or cancel your contract at any time.",
 								style: {
 									width: "100%"
 								},
-								SxNXHpJ3V: "Are there any refunds?",
+								SxNXHpJ3V: "Do you offer any refunds?",
 								variant: "Nqla507UG",
 								width: "100%",
 								...Or({
@@ -18590,7 +18602,7 @@ var Hd = Te(Bt),
 														style: {
 															backgroundImage: "linear-gradient(96deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 148.925%)"
 														},
-														children: "Our Edge "
+														children: "Why Work With Us?"
 													})
 												})
 											})
@@ -18605,22 +18617,22 @@ var Hd = Te(Bt),
 													"--framer-font-family": '"Instrument Sans", sans-serif',
 													"--framer-font-size": "38px",
 													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-2.5px",
-													"--framer-line-height": "71px"
+													"--framer-letter-spacing": "-1.0px",
+													"--framer-line-height": "41px"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
 													style: {
 														backgroundImage: "linear-gradient(96deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 148.925%)"
 													},
-													children: "Our Edge "
+													children: "Why Work With Us? "
 												})
 											})
 										}),
 										className: "framer-hii79w",
-										"data-framer-name": "Our Edge",
+										"data-framer-name": "Why Work With Us?",
 										fonts: ["GF;Instrument Sans-600"],
-										name: "Our Edge",
+										name: "Why Work With Us?",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									})
@@ -18951,14 +18963,14 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(96deg, rgb(255, 255, 255) 21.8629%, rgba(255, 255, 255, 0.84) 24.1447%, rgba(255, 255, 255, 0) 148.925%)"
 											},
-											children: "Our Edge    "
+											children: "Why Work With Us?"
 										})
 									})
 								}),
 								className: "framer-5u8dhy",
-								"data-framer-name": "Our Edge",
+								"data-framer-name": "Why Work With Us?",
 								fonts: ["GF;Instrument Sans-600"],
-								name: "Our Edge",
+								name: "Why Work With Us?",
 								verticalAlignment: "top",
 								withExternalLayout: !0
 							}), o(N, {
@@ -19568,7 +19580,7 @@ var Hd = Te(Bt),
 													"--framer-font-family": '"Instrument Sans", sans-serif',
 													"--framer-font-size": "38px",
 													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-2.5px",
+													"--framer-letter-spacing": "-1.0px",
 													"--framer-line-height": "71px",
 													"--framer-text-alignment": "center",
 													"--framer-text-color": "rgb(255, 255, 255)"
@@ -22471,7 +22483,7 @@ var Hd = Te(Bt),
 								})]
 							})
 						}), o(rt, {
-							href: "https://calendly.com/creativecue/call",
+							href: "https://calendly.com/accountmanager-kislapcreative/new-meeting",
 							children: o("a", {
 								className: "framer-2w5w22 framer-4zsb7x",
 								"data-border": !0,
@@ -22582,7 +22594,7 @@ var Hd = Te(Bt),
 												"--framer-font-family": '"Instrument Sans", sans-serif',
 												"--framer-font-size": "38px",
 												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2px",
+												"--framer-letter-spacing": "-1.0px",
 												"--framer-line-height": "38px",
 												"--framer-text-alignment": "center",
 												"--framer-text-color": "rgb(255, 255, 255)"
@@ -22760,7 +22772,7 @@ var Hd = Te(Bt),
 																		"--framer-line-height": "25.5px",
 																		"--framer-text-color": "rgb(255, 255, 255)"
 																	},
-																	children: "Unlimited requests"
+																	children: "Unlimited Requests"
 																})
 															}),
 															className: "framer-1bp733s",
@@ -22791,7 +22803,7 @@ var Hd = Te(Bt),
 																		"--framer-line-height": "25.5px",
 																		"--framer-text-color": "rgb(255, 255, 255)"
 																	},
-																	children: "Dedicated Designer"
+																	children: "Design + Set-up Klaviyo"
 																})
 															}),
 															className: "framer-5acu8x",
@@ -22822,7 +22834,7 @@ var Hd = Te(Bt),
 																		"--framer-line-height": "25.5px",
 																		"--framer-text-color": "rgb(255, 255, 255)"
 																	},
-																	children: "Invite your team"
+																	children: "Slack Channel"
 																})
 															}),
 															className: "framer-1jrx6up",
@@ -22854,7 +22866,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "25.5px",
 																	"--framer-text-color": "rgb(255, 255, 255)"
 																},
-																children: "Unlimited revisions"
+																children: "Unlimited Revisions"
 															})
 														}),
 														className: "framer-oq6rvd",
@@ -22885,7 +22897,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "25.5px",
 																	"--framer-text-color": "rgb(255, 255, 255)"
 																},
-																children: "Backup Designer"
+																children: "Pause or Cancel"
 															})
 														}),
 														className: "framer-17p0elc",
@@ -22916,7 +22928,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "25.5px",
 																	"--framer-text-color": "rgb(255, 255, 255)"
 																},
-																children: "2-4hr turnaround"
+																children: "24hr turnaround"
 															})
 														}),
 														className: "framer-xb82il",
@@ -22952,7 +22964,7 @@ var Hd = Te(Bt),
 												"data-framer-name": "CTA Buttons",
 												name: "CTA Buttons",
 												children: [o(rt, {
-													href: "https://calendly.com/creativecue/call",
+													href: "https://calendly.com/accountmanager-kislapcreative/new-meeting",
 													children: o("a", {
 														className: "framer-1yj5q9e framer-4zsb7x",
 														children: o(te, {
@@ -22973,7 +22985,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}), o(rt, {
-													href: "https://buy.stripe.com/6oE29Vebg0vua7m8xr",
+													href: "mailto: hello@kislapcreative.com",
 													openInNewTab: !0,
 													children: o("a", {
 														className: "framer-1foiob9 framer-4zsb7x",
@@ -22992,7 +23004,7 @@ var Hd = Te(Bt),
 																		width: "100%"
 																	},
 																	width: "100%",
-																	XsBF6cGy0: "SUBSCRIBE NOW"
+																	XsBF6cGy0: "EMAIL US"
 																})
 															})
 														})
@@ -23159,7 +23171,7 @@ var Hd = Te(Bt),
 												children: o(re, {
 													className: "framer-i67t0s-container",
 													children: o(pr, {
-														calendar: "creativecue/call",
+														calendar: "accountmanager-kislapcreative/new-meeting",
 														height: "100%",
 														hideGdprBanner: !0,
 														hideLandingPageDetails: !0,
@@ -23794,7 +23806,7 @@ var Hd = Te(Bt),
 												"--framer-font-family": '"Instrument Sans", sans-serif',
 												"--framer-font-size": "38px",
 												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2px",
+												"--framer-letter-spacing": "-1px",
 												"--framer-line-height": "38px",
 												"--framer-text-alignment": "center",
 												"--framer-text-color": "rgb(255, 255, 255)"
@@ -23804,7 +23816,7 @@ var Hd = Te(Bt),
 												style: {
 													backgroundImage: "linear-gradient(95deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 245.491%)"
 												},
-												children: "Questions? Answered."
+												children: "Frequently Asked Questions."
 											})
 										})
 									}),
@@ -23857,7 +23869,7 @@ var Hd = Te(Bt),
 												style: {
 													backgroundImage: "linear-gradient(98deg, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, rgb(203,255,13)) 10.3672%, hsla(0, 0%, 0%, 0) 174.901%)"
 												},
-												children: "All your concerns, Resolved."
+												children: "Need further info? We've got answers!"
 											})
 										})
 									}),
@@ -24355,7 +24367,7 @@ var Hd = Te(Bt),
 							children: o(re, {
 								className: "framer-rjulho-container",
 								children: o(Qr, {
-									appId: "ru4cn6sh",
+									appId: "",
 									height: "100%",
 									id: "LR90HfSQy",
 									layoutId: "LR90HfSQy",
@@ -24854,7 +24866,7 @@ var Hd = Te(Bt),
 								children: o(re, {
 									className: "framer-qmab6r-container",
 									children: o(pr, {
-										calendar: "creativecue/call",
+										calendar: "accountmanager-kislapcreative/new-meeting",
 										height: "100%",
 										hideGdprBanner: !0,
 										hideLandingPageDetails: !0,
@@ -25272,7 +25284,7 @@ var Hd = Te(Bt),
 															width: "100%"
 														},
 														width: "100%",
-														XsBF6cGy0: "SUBSCRIBE NOW"
+														XsBF6cGy0: "EMAIL US"
 													})
 												})
 											})]
@@ -25306,7 +25318,7 @@ var Hd = Te(Bt),
 							layoutScroll: !0,
 							children: o(Zr, {
 								height: "100%",
-								html: '<div id="awwwards" style="position: fixed; z-index: 999; transform: translateY(-50%); top: 50%;  left: 0"><a href="https://www.awwwards.com/sites/creativecue" target="_blank"><svg width="53.08" height="171.358"><path class="js-color-bg" fill="black" d="M0 0h53.08v171.358H0z"></path><g class="js-color-text" fill="white"><path d="M20.048 153.585v-2.002l6.752-3.757h-6.752v-1.9h10.23v2.002l-6.752 3.757h6.752v1.9zM29.899 142.382a3.317 3.317 0 0 1-1.359 1.293c-.575.297-1.223.446-1.944.446-.721 0-1.369-.149-1.944-.446a3.317 3.317 0 0 1-1.359-1.293c-.331-.564-.497-1.232-.497-2.003 0-.769.166-1.437.497-2.002a3.332 3.332 0 0 1 1.359-1.294c.575-.297 1.224-.445 1.944-.445.722 0 1.369.148 1.944.445a3.326 3.326 0 0 1 1.359 1.294c.33.565.496 1.233.496 2.002.001.77-.166 1.438-.496 2.003m-1.703-3.348c-.435-.331-.967-.497-1.601-.497s-1.167.166-1.601.497c-.434.332-.65.78-.65 1.345s.217 1.014.65 1.346c.434.33.967.496 1.601.496s1.166-.166 1.601-.496c.434-.332.649-.78.649-1.346.001-.565-.215-1.013-.649-1.345M22.912 134.996v-1.812h1.185c-.43-.283-.752-.593-.973-.929-.219-.336-.329-.732-.329-1.19 0-.479.127-.902.38-1.272.254-.37.635-.633 1.141-.79-.478-.262-.851-.591-1.118-.985a2.221 2.221 0 0 1-.402-1.265c0-.682.2-1.218.599-1.607.4-.391.957-.585 1.668-.585h5.218v1.812H25.37c-.682 0-1.023.303-1.023.907 0 .467.264.85.789 1.146.527.299 1.286.446 2.28.446h2.865v1.813H25.37c-.682 0-1.023.303-1.023.906 0 .468.275.851.826 1.147.551.298 1.352.446 2.404.446h2.704v1.812h-7.369zM21.626 122.457c-.225.224-.502.336-.833.336s-.608-.112-.833-.336a1.128 1.128 0 0 1-.336-.833c0-.331.111-.609.336-.833.225-.225.502-.336.833-.336s.608.111.833.336c.225.224.337.502.337.833 0 .332-.112.608-.337.833m1.286-1.739h7.366v1.813h-7.366v-1.813zM22.912 118.668v-1.812h1.185a3.348 3.348 0 0 1-.951-1.009 2.434 2.434 0 0 1-.351-1.272c0-.681.19-1.229.57-1.644.38-.414.931-.621 1.651-.621h5.263v1.812h-4.722c-.418 0-.727.096-.92.285-.195.19-.293.447-.293.769 0 .302.116.58.351.833.233.254.577.458 1.03.613.453.156.992.234 1.615.234h2.938v1.812h-7.366zM29.833 109.129a3.33 3.33 0 0 1-1.432 1.169 4.535 4.535 0 0 1-1.805.373 4.537 4.537 0 0 1-1.807-.373c-.579-.248-1.057-.638-1.432-1.169s-.563-1.196-.563-1.995c0-.771.183-1.413.549-1.93a3.28 3.28 0 0 1 1.382-1.141 4.221 4.221 0 0 1 1.709-.364h.746v5.071c.447-.02.838-.183 1.168-.49.332-.307.498-.724.498-1.248 0-.41-.093-.754-.277-1.031-.186-.278-.473-.529-.863-.753l.542-1.462c.69.303 1.224.724 1.592 1.265.371.541.556 1.235.556 2.083 0 .799-.188 1.464-.563 1.995m-4.085-3.574c-.41.088-.746.261-1.009.52-.262.258-.395.61-.395 1.06 0 .428.137.784.409 1.067.272.282.604.458.994.525v-3.172zM29.833 100.878c-.375.531-.852.921-1.432 1.169a4.552 4.552 0 0 1-3.612 0c-.579-.248-1.057-.638-1.432-1.169s-.563-1.196-.563-1.995c0-.77.183-1.412.549-1.93a3.278 3.278 0 0 1 1.382-1.14 4.222 4.222 0 0 1 1.709-.365h.746v5.072a1.794 1.794 0 0 0 1.168-.49c.332-.307.498-.724.498-1.249 0-.41-.093-.753-.277-1.031-.186-.277-.473-.528-.863-.753l.542-1.462c.69.302 1.224.724 1.592 1.265.371.541.556 1.234.556 2.083 0 .799-.188 1.464-.563 1.995m-4.085-3.573c-.41.088-.746.261-1.009.519-.262.258-.395.611-.395 1.06 0 .429.137.784.409 1.067.272.282.604.458.994.526v-3.172zM35.481 16.926l-4.782 14.969h-3.266l-2.584-9.682-2.584 9.682h-3.268l-4.781-14.969h3.713l2.673 10.276 2.524-10.276h3.445l2.524 10.276 2.674-10.276zM37.979 27.083c1.426 0 2.495 1.068 2.495 2.495 0 1.425-1.069 2.495-2.495 2.495-1.425 0-2.495-1.07-2.495-2.495-.001-1.427 1.07-2.495 2.495-2.495"></path></g></svg></a></div>',
+								html: '</div>',
 								id: "qHMwG_Mlc",
 								layoutId: "qHMwG_Mlc",
 								style: {
