@@ -22483,7 +22483,7 @@ var Hd = Te(Bt),
 								})]
 							})
 						}), o(rt, {
-							href: "https://calendly.com/creativecue/call",
+							href: "https://calendly.com/accountmanager-kislapcreative/new-meeting",
 							children: o("a", {
 								className: "framer-2w5w22 framer-4zsb7x",
 								"data-border": !0,
@@ -22964,7 +22964,7 @@ var Hd = Te(Bt),
 												"data-framer-name": "CTA Buttons",
 												name: "CTA Buttons",
 												children: [o(rt, {
-													href: "mailto:hello@kislapcreative.com",
+													href: "https://calendly.com/accountmanager-kislapcreative/new-meeting",
 													children: o("a", {
 														className: "framer-1yj5q9e framer-4zsb7x",
 														children: o(te, {
@@ -22978,14 +22978,14 @@ var Hd = Te(Bt),
 																		height: "100%",
 																		width: "100%"
 																	},
-																	us8lN4ZCB: "EMAIL US",
+																	us8lN4ZCB: "BOOK A CALL",
 																	width: "100%"
 																})
 															})
 														})
 													})
 												}), o(rt, {
-													href: "https://buy.stripe.com/6oE29Vebg0vua7m8xr",
+													href: "mailto: hello@kislapcreative.com",
 													openInNewTab: !0,
 													children: o("a", {
 														className: "framer-1foiob9 framer-4zsb7x",
@@ -23004,7 +23004,7 @@ var Hd = Te(Bt),
 																		width: "100%"
 																	},
 																	width: "100%",
-																	XsBF6cGy0: "SUBSCRIBE NOW"
+																	XsBF6cGy0: "EMAIL US"
 																})
 															})
 														})
@@ -23171,7 +23171,7 @@ var Hd = Te(Bt),
 												children: o(re, {
 													className: "framer-i67t0s-container",
 													children: o(pr, {
-														calendar: "creativecue/call",
+														calendar: "accountmanager-kislapcreative/new-meeting",
 														height: "100%",
 														hideGdprBanner: !0,
 														hideLandingPageDetails: !0,
@@ -24367,7 +24367,7 @@ var Hd = Te(Bt),
 							children: o(re, {
 								className: "framer-rjulho-container",
 								children: o(Qr, {
-									appId: "ru4cn6sh",
+									appId: "",
 									height: "100%",
 									id: "LR90HfSQy",
 									layoutId: "LR90HfSQy",
@@ -24866,7 +24866,7 @@ var Hd = Te(Bt),
 								children: o(re, {
 									className: "framer-qmab6r-container",
 									children: o(pr, {
-										calendar: "creativecue/call",
+										calendar: "accountmanager-kislapcreative/new-meeting",
 										height: "100%",
 										hideGdprBanner: !0,
 										hideLandingPageDetails: !0,
@@ -25284,7 +25284,7 @@ var Hd = Te(Bt),
 															width: "100%"
 														},
 														width: "100%",
-														XsBF6cGy0: "SUBSCRIBE NOW"
+														XsBF6cGy0: "EMAIL US"
 													})
 												})
 											})]
