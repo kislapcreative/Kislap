@@ -976,10 +976,10 @@ var us = {
 	},
 	gs = ["Fel7O5110", "upbC5czta", "amUJzHXuO", "BntdFkCbD"];
 var ys = {
-	amUJzHXuO: "framer-v-1wwyg8b",
-	BntdFkCbD: "framer-v-1b6tnhy",
-	Fel7O5110: "framer-v-ljpqay",
-	upbC5czta: "framer-v-gs1pzy"
+	amUJzHXuO: "frame-v-1wwyg8b",
+	BntdFkCbD: "frame-v-1b6tnhy",
+	Fel7O5110: "frame-v-ljpqay",
+	upbC5czta: "frame-v-gs1pzy"
 };
 
 function vs(t, ...r) {
@@ -1089,7 +1089,7 @@ var bs = {
 				onTapCancel: () => y({
 					isPressed: !1
 				}),
-				className: de("framer-wzxM1", b),
+				className: de("frame-wzxM1", b),
 				style: {
 					display: "contents"
 				},
@@ -1097,8 +1097,8 @@ var bs = {
 					value: c,
 					children: O(A.div, {
 						...g,
-						className: de("framer-ljpqay", i),
-						"data-framer-name": "Top",
+						className: de("frame-ljpqay", i),
+						"data-frame-name": "Top",
 						"data-highlight": !0,
 						layoutDependency: p,
 						layoutId: "Fel7O5110",
@@ -1118,30 +1118,30 @@ var bs = {
 						},
 						...vs({
 							"amUJzHXuO-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"BntdFkCbD-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"Fel7O5110-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"upbC5czta-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							amUJzHXuO: {
-								"data-framer-name": "Bottom"
+								"data-frame-name": "Bottom"
 							},
 							BntdFkCbD: {
-								"data-framer-name": "Left"
+								"data-frame-name": "Left"
 							},
 							upbC5czta: {
-								"data-framer-name": "Right"
+								"data-frame-name": "Right"
 							}
 						}, w, v),
 						children: [o(A.div, {
-							className: "framer-1fxb2l9",
-							"data-framer-name": "Glow",
+							className: "frame-1fxb2l9",
+							"data-frame-name": "Glow",
 							layoutDependency: p,
 							layoutId: "QnSijLPP0",
 							style: {
@@ -1177,8 +1177,8 @@ var bs = {
 								}
 							}
 						}), o(A.div, {
-							className: "framer-y7wefh",
-							"data-framer-name": "Stroke",
+							className: "frame-y7wefh",
+							"data-frame-name": "Stroke",
 							layoutDependency: p,
 							layoutId: "pKXDKYrR3",
 							style: {
@@ -1212,8 +1212,8 @@ var bs = {
 								}
 							}
 						}), o(A.div, {
-							className: "framer-1b4tfix",
-							"data-framer-name": "Fill",
+							className: "frame-1b4tfix",
+							"data-frame-name": "Fill",
 							layoutDependency: p,
 							layoutId: "f_6RSU5Br",
 							style: {
@@ -1224,17 +1224,17 @@ var bs = {
 								borderTopRightRadius: 114
 							},
 							children: O(A.div, {
-								className: "framer-3va36a",
+								className: "frame-3va36a",
 								layoutDependency: p,
 								layoutId: "uZc99hJ2x",
 								children: [O(A.div, {
-									className: "framer-4hlqek",
-									"data-framer-name": "Ball",
+									className: "frame-4hlqek",
+									"data-frame-name": "Ball",
 									layoutDependency: p,
 									layoutId: "XFcLaQBh9",
 									children: [o(A.div, {
-										className: "framer-1ay0fs4",
-										"data-framer-name": "Ellipse 5",
+										className: "frame-1ay0fs4",
+										"data-frame-name": "Ellipse 5",
 										layoutDependency: p,
 										layoutId: "o92a2uTeX",
 										style: {
@@ -1247,8 +1247,8 @@ var bs = {
 											WebkitFilter: "blur(6.270700931549072px)"
 										}
 									}), o(A.div, {
-										className: "framer-1hgcb8j",
-										"data-framer-name": "Ellipse 6",
+										className: "frame-1hgcb8j",
+										"data-frame-name": "Ellipse 6",
 										layoutDependency: p,
 										layoutId: "UNmDrP3JD",
 										style: {
@@ -1261,8 +1261,8 @@ var bs = {
 											WebkitFilter: "blur(6.270700931549072px)"
 										}
 									}), o(A.div, {
-										className: "framer-132rjw7",
-										"data-framer-name": "Ellipse 4",
+										className: "frame-132rjw7",
+										"data-frame-name": "Ellipse 4",
 										layoutDependency: p,
 										layoutId: "Nlx9w4CG_",
 										style: {
@@ -1279,23 +1279,23 @@ var bs = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "12px",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "12px",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 											},
 											children: "2 Spots remaining"
 										})
 									}),
-									className: "framer-1joeba0",
-									"data-framer-name": "Text",
+									className: "frame-1joeba0",
+									"data-frame-name": "Text",
 									fonts: ["GF;Instrument Sans-regular"],
 									layoutDependency: p,
 									layoutId: "pS3kOwVVD",
 									style: {
 										"--extracted-r6o4lv": "rgb(255, 255, 255)",
-										"--framer-link-text-color": "rgb(0, 153, 255)",
-										"--framer-link-text-decoration": "underline",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-link-text-color": "rgb(0, 153, 255)",
+										"--frame-link-text-decoration": "underline",
+										"--frame-paragraph-spacing": "0px"
 									},
 									text: h,
 									verticalAlignment: "top",
@@ -1308,8 +1308,8 @@ var bs = {
 			})
 		})
 	}),
-	ks = ['.framer-wzxM1 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-wzxM1 .framer-1iuvbgt { display: block; }", ".framer-wzxM1 .framer-ljpqay { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: 16px; justify-content: center; overflow: visible; padding: 20px 28px 10px 28px; position: relative; width: 179px; }", ".framer-wzxM1 .framer-1fxb2l9, .framer-wzxM1 .framer-y7wefh { bottom: 0px; flex: none; left: 0px; overflow: hidden; position: absolute; right: -1px; top: 0px; will-change: var(--framer-will-change-override, transform); z-index: 0; }", ".framer-wzxM1 .framer-1b4tfix { bottom: 2px; flex: none; left: 2px; overflow: hidden; position: absolute; right: 2px; top: 2px; will-change: var(--framer-will-change-override, transform); z-index: 0; }", ".framer-wzxM1 .framer-3va36a { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 14px; justify-content: center; left: calc(49.71428571428574% - 117px / 2); overflow: visible; padding: 0px 0px 0px 0px; position: absolute; top: calc(50.00000000000002% - 14px / 2); width: 117px; }", ".framer-wzxM1 .framer-4hlqek { flex: none; height: 4px; overflow: visible; position: relative; width: 5px; }", ".framer-wzxM1 .framer-1ay0fs4, .framer-wzxM1 .framer-1hgcb8j, .framer-wzxM1 .framer-132rjw7 { aspect-ratio: 1 / 1; bottom: -1px; flex: none; height: var(--framer-aspect-ratio-supported, 5px); left: 0px; position: absolute; right: 0px; }", ".framer-wzxM1 .framer-1joeba0 { flex: none; height: auto; position: relative; white-space: pre; width: auto; z-index: 1; }", ".framer-wzxM1 .framer-v-ljpqay .framer-ljpqay, .framer-wzxM1 .framer-v-gs1pzy .framer-ljpqay, .framer-wzxM1 .framer-v-1wwyg8b .framer-ljpqay, .framer-wzxM1 .framer-v-1b6tnhy .framer-ljpqay { cursor: pointer; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-wzxM1 .framer-ljpqay, .framer-wzxM1 .framer-3va36a { gap: 0px; } .framer-wzxM1 .framer-ljpqay > * { margin: 0px; margin-left: calc(15px / 2); margin-right: calc(15px / 2); } .framer-wzxM1 .framer-ljpqay > :first-child, .framer-wzxM1 .framer-3va36a > :first-child { margin-left: 0px; } .framer-wzxM1 .framer-ljpqay > :last-child, .framer-wzxM1 .framer-3va36a > :last-child { margin-right: 0px; } .framer-wzxM1 .framer-3va36a > * { margin: 0px; margin-left: calc(10px / 2); margin-right: calc(10px / 2); } }", ".framer-wzxM1.framer-v-gs1pzy .framer-ljpqay { height: 30px; }"],
-	Ur = Re(Cs, ks, "framer-wzxM1"),
+	ks = ['.frame-wzxM1 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-wzxM1 .frame-1iuvbgt { display: block; }", ".frame-wzxM1 .frame-ljpqay { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: 16px; justify-content: center; overflow: visible; padding: 20px 28px 10px 28px; position: relative; width: 179px; }", ".frame-wzxM1 .frame-1fxb2l9, .frame-wzxM1 .frame-y7wefh { bottom: 0px; flex: none; left: 0px; overflow: hidden; position: absolute; right: -1px; top: 0px; will-change: var(--frame-will-change-override, transform); z-index: 0; }", ".frame-wzxM1 .frame-1b4tfix { bottom: 2px; flex: none; left: 2px; overflow: hidden; position: absolute; right: 2px; top: 2px; will-change: var(--frame-will-change-override, transform); z-index: 0; }", ".frame-wzxM1 .frame-3va36a { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 14px; justify-content: center; left: calc(49.71428571428574% - 117px / 2); overflow: visible; padding: 0px 0px 0px 0px; position: absolute; top: calc(50.00000000000002% - 14px / 2); width: 117px; }", ".frame-wzxM1 .frame-4hlqek { flex: none; height: 4px; overflow: visible; position: relative; width: 5px; }", ".frame-wzxM1 .frame-1ay0fs4, .frame-wzxM1 .frame-1hgcb8j, .frame-wzxM1 .frame-132rjw7 { aspect-ratio: 1 / 1; bottom: -1px; flex: none; height: var(--frame-aspect-ratio-supported, 5px); left: 0px; position: absolute; right: 0px; }", ".frame-wzxM1 .frame-1joeba0 { flex: none; height: auto; position: relative; white-space: pre; width: auto; z-index: 1; }", ".frame-wzxM1 .frame-v-ljpqay .frame-ljpqay, .frame-wzxM1 .frame-v-gs1pzy .frame-ljpqay, .frame-wzxM1 .frame-v-1wwyg8b .frame-ljpqay, .frame-wzxM1 .frame-v-1b6tnhy .frame-ljpqay { cursor: pointer; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-wzxM1 .frame-ljpqay, .frame-wzxM1 .frame-3va36a { gap: 0px; } .frame-wzxM1 .frame-ljpqay > * { margin: 0px; margin-left: calc(15px / 2); margin-right: calc(15px / 2); } .frame-wzxM1 .frame-ljpqay > :first-child, .frame-wzxM1 .frame-3va36a > :first-child { margin-left: 0px; } .frame-wzxM1 .frame-ljpqay > :last-child, .frame-wzxM1 .frame-3va36a > :last-child { margin-right: 0px; } .frame-wzxM1 .frame-3va36a > * { margin: 0px; margin-left: calc(10px / 2); margin-right: calc(10px / 2); } }", ".frame-wzxM1.frame-v-gs1pzy .frame-ljpqay { height: 30px; }"],
+	Ur = Re(Cs, ks, "frame-wzxM1"),
 	ja = Ur;
 Ur.displayName = "Running-Stroke", Ur.defaultProps = {
 	height: 30,
@@ -11875,7 +11875,7 @@ function $e(t) {
 				...Zl
 			},
 			"aria-label": "Slideshow pagination controls",
-			className: "framer--slideshow-controls",
+			className: "frame--slideshow-controls",
 			children: [O(A.div, {
 				style: {
 					position: "absolute",
@@ -12611,7 +12611,7 @@ var rf = {
 	},
 	af = ["Z9F2OEidd"];
 var nf = {
-	Z9F2OEidd: "framer-v-14gqcjr"
+	Z9F2OEidd: "frame-v-14gqcjr"
 };
 
 function of(t, ...r) {
@@ -12702,7 +12702,7 @@ var sf = {
 				onTapCancel: () => v({
 					isPressed: !1
 				}),
-				className: de("framer-SYC1v", w),
+				className: de("frame-SYC1v", w),
 				style: {
 					display: "contents"
 				},
@@ -12710,8 +12710,8 @@ var sf = {
 					value: _,
 					children: O(A.div, {
 						...u,
-						className: de("framer-14gqcjr", i),
-						"data-framer-name": "Email Us",
+						className: de("frame-14gqcjr", i),
+						"data-frame-name": "Email Us",
 						layoutDependency: m,
 						layoutId: "Z9F2OEidd",
 						ref: r ?? p,
@@ -12720,13 +12720,13 @@ var sf = {
 						},
 						...of({
 							"Z9F2OEidd-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							}
 						}, g, b),
 						children: [o(A.div, {
-							className: "framer-1fvex6t",
+							className: "frame-1fvex6t",
 							"data-border": !0,
-							"data-framer-name": "BG",
+							"data-frame-name": "BG",
 							layoutDependency: m,
 							layoutId: "ukSz2PxO4",
 							style: {
@@ -12748,12 +12748,12 @@ var sf = {
 								}
 							}
 						}), O(A.div, {
-							className: "framer-evltmf",
+							className: "frame-evltmf",
 							layoutDependency: m,
 							layoutId: "g7v78mBGd",
 							children: [O(A.div, {
-								className: "framer-ssyt5d",
-								"data-framer-name": "Text",
+								className: "frame-ssyt5d",
+								"data-frame-name": "Text",
 								layoutDependency: m,
 								layoutId: "p5849UkWX",
 								style: {
@@ -12769,35 +12769,35 @@ var sf = {
 									children: o(R, {
 										children: o(A.p, {
 											style: {
-												"--framer-font-size": "15.945204734802246px"
+												"--frame-font-size": "15.945204734802246px"
 											},
 											children: o(A.span, {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans"',
-													"--framer-font-size": "15.95px",
-													"--framer-font-weight": "600",
-													"--framer-text-color": "var(--extracted-1w3ko1f, rgba(255, 255, 255, 1))"
+													"--frame-font-family": '"Instrument Sans"',
+													"--frame-font-size": "15.95px",
+													"--frame-font-weight": "600",
+													"--frame-text-color": "var(--extracted-1w3ko1f, rgba(255, 255, 255, 1))"
 												},
 												children: "BOOK A CALL"
 											})
 										})
 									}),
-									className: "framer-5wjuxc",
-									"data-framer-name": "BOOK A CALL",
+									className: "frame-5wjuxc",
+									"data-frame-name": "BOOK A CALL",
 									fonts: ["GF;Instrument Sans-600"],
 									layoutDependency: m,
 									layoutId: "UX4G4Ifdo",
 									style: {
 										"--extracted-1w3ko1f": "rgba(255, 255, 255, 1)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									text: h,
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								}), o(Se, {
-									className: "framer-tqexl8",
-									"data-framer-name": "Vector",
+									className: "frame-tqexl8",
+									"data-frame-name": "Vector",
 									fill: "rgba(0,0,0,1)",
 									intrinsicHeight: 14,
 									intrinsicWidth: 20,
@@ -12810,8 +12810,8 @@ var sf = {
 									withExternalLayout: !0
 								})]
 							}), O(A.div, {
-								className: "framer-xmdiu7",
-								"data-framer-name": "Text",
+								className: "frame-xmdiu7",
+								"data-frame-name": "Text",
 								layoutDependency: m,
 								layoutId: "ULthhn11l",
 								children: [o(N, {
@@ -12820,29 +12820,29 @@ var sf = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "15.95px",
-												"--framer-font-weight": "600",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.5))"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "15.95px",
+												"--frame-font-weight": "600",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.5))"
 											},
 											children: "BOOK A CALL"
 										})
 									}),
-									className: "framer-89suz0",
-									"data-framer-name": "BOOK A CALL",
+									className: "frame-89suz0",
+									"data-frame-name": "BOOK A CALL",
 									fonts: ["GF;Instrument Sans-600"],
 									layoutDependency: m,
 									layoutId: "ZB4Fz4cKm",
 									style: {
 										"--extracted-r6o4lv": "rgba(255, 255, 255, 0.5)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									text: h,
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								}), o(Se, {
-									className: "framer-1ktdvgm",
-									"data-framer-name": "Vector",
+									className: "frame-1ktdvgm",
+									"data-frame-name": "Vector",
 									fill: "rgba(0,0,0,1)",
 									intrinsicHeight: 14,
 									intrinsicWidth: 20,
@@ -12864,8 +12864,8 @@ var sf = {
 			})
 		})
 	}),
-	cf = ['.framer-SYC1v [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-SYC1v .framer-7ki3uq { display: block; }", ".framer-SYC1v .framer-14gqcjr { height: 62px; overflow: hidden; position: relative; width: 237px; }", ".framer-SYC1v .framer-1fvex6t { flex: none; height: 62px; left: 0px; position: absolute; top: 0px; width: 237px; }", ".framer-SYC1v .framer-evltmf { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: 19px; justify-content: flex-end; left: calc(49.36708860759496% - 153px / 2); overflow: visible; padding: 0px 0px 0px 0px; position: absolute; top: calc(50.00000000000002% - 19px / 2); width: 153px; }", ".framer-SYC1v .framer-ssyt5d, .framer-SYC1v .framer-xmdiu7 { flex: none; height: 19px; overflow: visible; position: relative; width: 100%; }", ".framer-SYC1v .framer-5wjuxc, .framer-SYC1v .framer-89suz0 { flex: none; height: 18px; left: 41px; position: absolute; top: 0px; white-space: pre-wrap; width: 112px; word-break: break-word; word-wrap: break-word; }", ".framer-SYC1v .framer-tqexl8, .framer-SYC1v .framer-1ktdvgm { bottom: 3px; flex: none; left: 0px; position: absolute; right: 133px; top: 3px; }", ".framer-SYC1v .framer-v-14gqcjr .framer-14gqcjr { cursor: pointer; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-SYC1v .framer-evltmf { gap: 0px; } .framer-SYC1v .framer-evltmf > * { margin: 0px; margin-bottom: calc(42px / 2); margin-top: calc(42px / 2); } .framer-SYC1v .framer-evltmf > :first-child { margin-top: 0px; } .framer-SYC1v .framer-evltmf > :last-child { margin-bottom: 0px; } }", ".framer-SYC1v.framer-v-14gqcjr.hover .framer-evltmf { justify-content: flex-start; }"],
-	$r = Re(df, cf, "framer-SYC1v"),
+	cf = ['.frame-SYC1v [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-SYC1v .frame-7ki3uq { display: block; }", ".frame-SYC1v .frame-14gqcjr { height: 62px; overflow: hidden; position: relative; width: 237px; }", ".frame-SYC1v .frame-1fvex6t { flex: none; height: 62px; left: 0px; position: absolute; top: 0px; width: 237px; }", ".frame-SYC1v .frame-evltmf { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: 19px; justify-content: flex-end; left: calc(49.36708860759496% - 153px / 2); overflow: visible; padding: 0px 0px 0px 0px; position: absolute; top: calc(50.00000000000002% - 19px / 2); width: 153px; }", ".frame-SYC1v .frame-ssyt5d, .frame-SYC1v .frame-xmdiu7 { flex: none; height: 19px; overflow: visible; position: relative; width: 100%; }", ".frame-SYC1v .frame-5wjuxc, .frame-SYC1v .frame-89suz0 { flex: none; height: 18px; left: 41px; position: absolute; top: 0px; white-space: pre-wrap; width: 112px; word-break: break-word; word-wrap: break-word; }", ".frame-SYC1v .frame-tqexl8, .frame-SYC1v .frame-1ktdvgm { bottom: 3px; flex: none; left: 0px; position: absolute; right: 133px; top: 3px; }", ".frame-SYC1v .frame-v-14gqcjr .frame-14gqcjr { cursor: pointer; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-SYC1v .frame-evltmf { gap: 0px; } .frame-SYC1v .frame-evltmf > * { margin: 0px; margin-bottom: calc(42px / 2); margin-top: calc(42px / 2); } .frame-SYC1v .frame-evltmf > :first-child { margin-top: 0px; } .frame-SYC1v .frame-evltmf > :last-child { margin-bottom: 0px; } }", ".frame-SYC1v.frame-v-14gqcjr.hover .frame-evltmf { justify-content: flex-start; }"],
+	$r = Re(df, cf, "frame-SYC1v"),
 	ea = $r;
 $r.displayName = "CTA - Book a Call", $r.defaultProps = {
 	height: 62,
@@ -12893,9 +12893,9 @@ var hf = {
 		}
 	},
 	pf = ["z5GLqRSHl"],
-	uf = "framer-4MBTE",
+	uf = "frame-4MBTE",
 	gf = {
-		z5GLqRSHl: "framer-v-1i5olrl"
+		z5GLqRSHl: "frame-v-1i5olrl"
 	};
 
 function yf(t, ...r) {
@@ -12978,8 +12978,8 @@ var vf = {
 					value: vf,
 					children: O(A.div, {
 						...g,
-						className: de(uf, ...E, "framer-1i5olrl", s, b),
-						"data-framer-name": "CTA - Get Started",
+						className: de(uf, ...E, "frame-1i5olrl", s, b),
+						"data-frame-name": "CTA - Get Started",
 						"data-highlight": !0,
 						layoutDependency: m,
 						layoutId: "z5GLqRSHl",
@@ -13005,12 +13005,12 @@ var vf = {
 						},
 						...yf({
 							"z5GLqRSHl-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							}
 						}, w, v),
 						children: [O(A.div, {
-							className: "framer-154iggs",
-							"data-framer-name": "Frame 4",
+							className: "frame-154iggs",
+							"data-frame-name": "Frame 4",
 							layoutDependency: m,
 							layoutId: "XtnBDLunX",
 							style: {
@@ -13020,9 +13020,9 @@ var vf = {
 								borderTopRightRadius: 30.57
 							},
 							children: [o(A.div, {
-								className: "framer-1x3h8w9",
+								className: "frame-1x3h8w9",
 								"data-border": !0,
-								"data-framer-name": "BG",
+								"data-frame-name": "BG",
 								layoutDependency: m,
 								layoutId: "CD3y923_r",
 								style: {
@@ -13041,8 +13041,8 @@ var vf = {
 									WebkitBackdropFilter: "blur(6.643835067749023px)"
 								}
 							}), o(A.div, {
-								className: "framer-rseg64",
-								"data-framer-name": "Rectangle 41",
+								className: "frame-rseg64",
+								"data-frame-name": "Rectangle 41",
 								layoutDependency: m,
 								layoutId: "izslyygXw",
 								style: {
@@ -13059,8 +13059,8 @@ var vf = {
 								}
 							})]
 						}), o(A.div, {
-							className: "framer-12yb0w4",
-							"data-framer-name": "Glow",
+							className: "frame-12yb0w4",
+							"data-frame-name": "Glow",
 							layoutDependency: m,
 							layoutId: "WVLGZg90v",
 							style: {
@@ -13079,8 +13079,8 @@ var vf = {
 								}
 							}
 						}), O(A.div, {
-							className: "framer-y74e74",
-							"data-framer-name": "Text",
+							className: "frame-y74e74",
+							"data-frame-name": "Text",
 							layoutDependency: m,
 							layoutId: "IOSvVSot1",
 							children: [o(N, {
@@ -13089,15 +13089,15 @@ var vf = {
 									children: o(A.p, {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", sans-serif',
-											"--framer-font-size": "15.95px",
-											"--framer-font-weight": "600"
+											"--frame-font-family": '"Instrument Sans", sans-serif',
+											"--frame-font-size": "15.95px",
+											"--frame-font-weight": "600"
 										},
 										children: "GET STARTED"
 									})
 								}),
-								className: "framer-1bkhzsq",
-								"data-framer-name": "GET STARTED",
+								className: "frame-1bkhzsq",
+								"data-frame-name": "GET STARTED",
 								fonts: ["GF;Instrument Sans-600"],
 								layoutDependency: m,
 								layoutId: "iK8myzdTy",
@@ -13105,8 +13105,8 @@ var vf = {
 								verticalAlignment: "top",
 								withExternalLayout: !0
 							}), o(Se, {
-								className: "framer-578kwr",
-								"data-framer-name": "Arrow 1",
+								className: "frame-578kwr",
+								"data-frame-name": "Arrow 1",
 								fill: "rgba(0,0,0,1)",
 								intrinsicHeight: 11,
 								intrinsicWidth: 158,
@@ -13131,8 +13131,8 @@ var vf = {
 			})
 		})
 	}),
-	Cf = ["@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-4MBTE.framer-1hmdayt, .framer-4MBTE .framer-1hmdayt { display: block; }", ".framer-4MBTE.framer-1i5olrl { cursor: pointer; height: 61px; overflow: visible; position: relative; width: 320px; }", ".framer-4MBTE .framer-154iggs { flex: none; height: 62px; left: 0px; overflow: hidden; position: absolute; top: 0px; width: 321px; will-change: var(--framer-will-change-override, transform); }", ".framer-4MBTE .framer-1x3h8w9 { flex: none; height: 62px; left: 0px; position: absolute; top: 0px; width: 321px; }", ".framer-4MBTE .framer-rseg64 { bottom: -24px; flex: none; left: -48px; position: absolute; top: -34px; width: 44px; }", ".framer-4MBTE .framer-12yb0w4 { flex: none; height: 23px; left: 189px; position: absolute; top: 14px; width: 136px; }", ".framer-4MBTE .framer-y74e74 { flex: none; height: 21px; left: 50px; overflow: visible; position: absolute; top: 22px; width: 225px; }", ".framer-4MBTE .framer-1bkhzsq { flex: none; height: 21px; left: 0px; position: absolute; top: 0px; white-space: pre; width: auto; }", ".framer-4MBTE .framer-578kwr { flex: none; height: 11px; left: 51px; position: absolute; top: calc(48.50338245519512% - 11px / 2); width: 158px; }", ".framer-4MBTE.framer-v-1i5olrl.hover.framer-1i5olrl { aspect-ratio: 5.245912613407258 / 1; height: var(--framer-aspect-ratio-supported, 61px); }", ".framer-4MBTE.framer-v-1i5olrl.hover .framer-rseg64 { left: unset; right: 31px; width: 44px; }", ".framer-4MBTE.framer-v-1i5olrl.hover .framer-578kwr { left: unset; right: -4px; }", '.framer-4MBTE[data-border="true"]::after, .framer-4MBTE [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }'],
-	ta = Re(_f, Cf, "framer-4MBTE"),
+	Cf = ["@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-4MBTE.frame-1hmdayt, .frame-4MBTE .frame-1hmdayt { display: block; }", ".frame-4MBTE.frame-1i5olrl { cursor: pointer; height: 61px; overflow: visible; position: relative; width: 320px; }", ".frame-4MBTE .frame-154iggs { flex: none; height: 62px; left: 0px; overflow: hidden; position: absolute; top: 0px; width: 321px; will-change: var(--frame-will-change-override, transform); }", ".frame-4MBTE .frame-1x3h8w9 { flex: none; height: 62px; left: 0px; position: absolute; top: 0px; width: 321px; }", ".frame-4MBTE .frame-rseg64 { bottom: -24px; flex: none; left: -48px; position: absolute; top: -34px; width: 44px; }", ".frame-4MBTE .frame-12yb0w4 { flex: none; height: 23px; left: 189px; position: absolute; top: 14px; width: 136px; }", ".frame-4MBTE .frame-y74e74 { flex: none; height: 21px; left: 50px; overflow: visible; position: absolute; top: 22px; width: 225px; }", ".frame-4MBTE .frame-1bkhzsq { flex: none; height: 21px; left: 0px; position: absolute; top: 0px; white-space: pre; width: auto; }", ".frame-4MBTE .frame-578kwr { flex: none; height: 11px; left: 51px; position: absolute; top: calc(48.50338245519512% - 11px / 2); width: 158px; }", ".frame-4MBTE.frame-v-1i5olrl.hover.frame-1i5olrl { aspect-ratio: 5.245912613407258 / 1; height: var(--frame-aspect-ratio-supported, 61px); }", ".frame-4MBTE.frame-v-1i5olrl.hover .frame-rseg64 { left: unset; right: 31px; width: 44px; }", ".frame-4MBTE.frame-v-1i5olrl.hover .frame-578kwr { left: unset; right: -4px; }", '.frame-4MBTE[data-border="true"]::after, .frame-4MBTE [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }'],
+	ta = Re(_f, Cf, "frame-4MBTE"),
 	ra = ta;
 ta.displayName = "CTA - Get Started";
 ta.defaultProps = {
@@ -13361,10 +13361,10 @@ ye(Rt, {
 var If = Te(Rt),
 	Af = ["TkTDQ5Dfj", "mDorYWo2_", "dpqsqjXwe", "QFz5o13r4"];
 var Ff = {
-	dpqsqjXwe: "framer-v-ooszww",
-	mDorYWo2_: "framer-v-5o5ciy",
-	QFz5o13r4: "framer-v-uwzgu3",
-	TkTDQ5Dfj: "framer-v-1nd1qet"
+	dpqsqjXwe: "frame-v-ooszww",
+	mDorYWo2_: "frame-v-5o5ciy",
+	QFz5o13r4: "frame-v-uwzgu3",
+	TkTDQ5Dfj: "frame-v-1nd1qet"
 };
 
 function po(t, ...r) {
@@ -13459,7 +13459,7 @@ var Lf = {
 				onTapCancel: () => b({
 					isPressed: !1
 				}),
-				className: de("framer-9Fgx6", ...l, g),
+				className: de("frame-9Fgx6", ...l, g),
 				style: {
 					display: "contents"
 				},
@@ -13467,8 +13467,8 @@ var Lf = {
 					value: y,
 					children: o(A.div, {
 						...h,
-						className: de("framer-1nd1qet", i),
-						"data-framer-name": "Variant 1",
+						className: de("frame-1nd1qet", i),
+						"data-frame-name": "Variant 1",
 						layoutDependency: c,
 						layoutId: "TkTDQ5Dfj",
 						ref: r ?? m,
@@ -13490,17 +13490,17 @@ var Lf = {
 						},
 						...po({
 							dpqsqjXwe: {
-								"data-framer-name": "Mobile Open"
+								"data-frame-name": "Mobile Open"
 							},
 							mDorYWo2_: {
-								"data-framer-name": "Variant 2"
+								"data-frame-name": "Variant 2"
 							},
 							QFz5o13r4: {
-								"data-framer-name": "Variant 4"
+								"data-frame-name": "Variant 4"
 							}
 						}, u, w),
 						children: o(A.div, {
-							className: "framer-1o4oic1-container",
+							className: "frame-1o4oic1-container",
 							layoutDependency: c,
 							layoutId: "WBlwYfwOF-container",
 							style: {
@@ -13545,8 +13545,8 @@ var Lf = {
 			})
 		})
 	}),
-	Hf = ['.framer-9Fgx6 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-9Fgx6 .framer-1n6gfmg { display: block; }", ".framer-9Fgx6 .framer-1nd1qet { height: 30px; overflow: hidden; position: relative; width: 30px; will-change: var(--framer-will-change-override, transform); }", ".framer-9Fgx6 .framer-1o4oic1-container { aspect-ratio: 1 / 1; bottom: 5px; flex: none; height: var(--framer-aspect-ratio-supported, 17px); left: 50%; position: absolute; width: 14px; }", ".framer-9Fgx6.framer-v-5o5ciy .framer-1o4oic1-container { left: 47%; }", ".framer-9Fgx6.framer-v-ooszww .framer-1nd1qet, .framer-9Fgx6.framer-v-uwzgu3 .framer-1nd1qet { height: 17px; width: 17px; }", ".framer-9Fgx6.framer-v-ooszww .framer-1o4oic1-container { aspect-ratio: unset; bottom: 9px; height: unset; left: 5px; right: 5px; top: 1px; width: unset; }", ".framer-9Fgx6.framer-v-uwzgu3 .framer-1o4oic1-container { aspect-ratio: unset; bottom: 8px; height: unset; left: 8px; right: 2px; top: 2px; width: unset; }"],
-	aa = Re(Nf, Hf, "framer-9Fgx6"),
+	Hf = ['.frame-9Fgx6 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-9Fgx6 .frame-1n6gfmg { display: block; }", ".frame-9Fgx6 .frame-1nd1qet { height: 30px; overflow: hidden; position: relative; width: 30px; will-change: var(--frame-will-change-override, transform); }", ".frame-9Fgx6 .frame-1o4oic1-container { aspect-ratio: 1 / 1; bottom: 5px; flex: none; height: var(--frame-aspect-ratio-supported, 17px); left: 50%; position: absolute; width: 14px; }", ".frame-9Fgx6.frame-v-5o5ciy .frame-1o4oic1-container { left: 47%; }", ".frame-9Fgx6.frame-v-ooszww .frame-1nd1qet, .frame-9Fgx6.frame-v-uwzgu3 .frame-1nd1qet { height: 17px; width: 17px; }", ".frame-9Fgx6.frame-v-ooszww .frame-1o4oic1-container { aspect-ratio: unset; bottom: 9px; height: unset; left: 5px; right: 5px; top: 1px; width: unset; }", ".frame-9Fgx6.frame-v-uwzgu3 .frame-1o4oic1-container { aspect-ratio: unset; bottom: 8px; height: unset; left: 8px; right: 2px; top: 2px; width: unset; }"],
+	aa = Re(Nf, Hf, "frame-9Fgx6"),
 	Tr = aa;
 aa.displayName = "Plus";
 aa.defaultProps = {
@@ -13570,10 +13570,10 @@ var Wf = Te(Tr),
 	},
 	Df = ["JrNr_BFNn", "IXECW_zv0", "vZcBks6hr", "Nqla507UG"];
 var jf = {
-	IXECW_zv0: "framer-v-1mq528a",
-	JrNr_BFNn: "framer-v-1576uqo",
-	Nqla507UG: "framer-v-1x2cnnu",
-	vZcBks6hr: "framer-v-1jjx3jm"
+	IXECW_zv0: "frame-v-1mq528a",
+	JrNr_BFNn: "frame-v-1576uqo",
+	Nqla507UG: "frame-v-1x2cnnu",
+	vZcBks6hr: "frame-v-1jjx3jm"
 };
 
 function Qa(t, ...r) {
@@ -13690,7 +13690,7 @@ var Gf = {
 				onTapCancel: () => _({
 					isPressed: !1
 				}),
-				className: de("framer-Xgxwz", v),
+				className: de("frame-Xgxwz", v),
 				style: {
 					display: "contents"
 				},
@@ -13698,8 +13698,8 @@ var Gf = {
 					value: m,
 					children: O(A.div, {
 						...w,
-						className: de("framer-1576uqo", i),
-						"data-framer-name": "FAQ - V2 +",
+						className: de("frame-1576uqo", i),
+						"data-frame-name": "FAQ - V2 +",
 						"data-highlight": !0,
 						layoutDependency: l,
 						layoutId: "JrNr_BFNn",
@@ -13732,29 +13732,29 @@ var Gf = {
 						},
 						...Qa({
 							"Nqla507UG-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							IXECW_zv0: {
-								"data-framer-name": "Variant 2",
+								"data-frame-name": "Variant 2",
 								onTap: E
 							},
 							Nqla507UG: {
-								"data-framer-name": "Mob Close",
+								"data-frame-name": "Mob Close",
 								onTap: T
 							},
 							vZcBks6hr: {
-								"data-framer-name": "Mob Open",
+								"data-frame-name": "Mob Open",
 								onTap: k
 							}
 						}, b, y),
 						children: [o(A.div, {
-							className: "framer-2yntfj",
-							"data-framer-name": "Question",
+							className: "frame-2yntfj",
+							"data-frame-name": "Question",
 							layoutDependency: l,
 							layoutId: "JrNr_BFNnRhknGtcn0",
 							children: O(A.div, {
-								className: "framer-13bt7d4",
-								"data-framer-name": "Text box",
+								className: "frame-13bt7d4",
+								"data-frame-name": "Text box",
 								layoutDependency: l,
 								layoutId: "JrNr_BFNnKHhtwQW9q",
 								children: [o(N, {
@@ -13763,25 +13763,25 @@ var Gf = {
 										children: o(A.h4, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "0px",
-												"--framer-line-height": "18px",
-												"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "0px",
+												"--frame-line-height": "18px",
+												"--frame-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 											},
 											children: "What design software do you use?"
 										})
 									}),
-									className: "framer-qnenhh",
+									className: "frame-qnenhh",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: l,
 									layoutId: "JrNr_BFNnIaTtPT4tO",
 									style: {
 										"--extracted-1eung3n": "rgb(255, 255, 255)",
-										"--framer-link-text-color": "rgb(0, 153, 255)",
-										"--framer-link-text-decoration": "underline",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-link-text-color": "rgb(0, 153, 255)",
+										"--frame-link-text-decoration": "underline",
+										"--frame-paragraph-spacing": "0px"
 									},
 									text: u,
 									verticalAlignment: "top",
@@ -13792,12 +13792,12 @@ var Gf = {
 												children: o(A.h4, {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "18px",
-														"--framer-font-weight": "500",
-														"--framer-letter-spacing": "0px",
-														"--framer-line-height": "18px",
-														"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "18px",
+														"--frame-font-weight": "500",
+														"--frame-letter-spacing": "0px",
+														"--frame-line-height": "18px",
+														"--frame-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 													},
 													children: "Why Creativecue instead of hiring?"
 												})
@@ -13808,12 +13808,12 @@ var Gf = {
 												children: o(A.h4, {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "15px",
-														"--framer-font-weight": "500",
-														"--framer-letter-spacing": "-0.2px",
-														"--framer-line-height": "17px",
-														"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "15px",
+														"--frame-font-weight": "500",
+														"--frame-letter-spacing": "-0.2px",
+														"--frame-line-height": "17px",
+														"--frame-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 													},
 													children: "Why Creativecue instead of hiring?"
 												})
@@ -13824,12 +13824,12 @@ var Gf = {
 												children: o(A.h4, {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "15px",
-														"--framer-font-weight": "500",
-														"--framer-letter-spacing": "-0.2px",
-														"--framer-line-height": "17px",
-														"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "15px",
+														"--frame-font-weight": "500",
+														"--frame-letter-spacing": "-0.2px",
+														"--frame-line-height": "17px",
+														"--frame-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 													},
 													children: "Why Creativecue instead of hiring?"
 												})
@@ -13837,7 +13837,7 @@ var Gf = {
 										}
 									}, b, y)
 								}), !(y === "Nqla507UG-hover" || ["vZcBks6hr", "Nqla507UG"].includes(b)) && o(A.div, {
-									className: "framer-13o7nh1-container",
+									className: "frame-13o7nh1-container",
 									layoutDependency: l,
 									layoutId: "JrNr_BFNnh_Tc1_5co-container",
 									children: o(Tr, {
@@ -13866,8 +13866,8 @@ var Gf = {
 										pixelWidth: 52,
 										src: "./images/yVzTiD2a8ImtjdVxgVDTEBLDk.png"
 									},
-									className: "framer-gnq5dx",
-									"data-framer-name": "Open",
+									className: "frame-gnq5dx",
+									"data-frame-name": "Open",
 									layoutDependency: l,
 									layoutId: "GD1eMr3C6"
 								}), b === "vZcBks6hr" && o(he, {
@@ -13880,8 +13880,8 @@ var Gf = {
 										pixelWidth: 52,
 										src: "./images/sU0kU15epCWCVa2WBehTkvl9DTc.png"
 									},
-									className: "framer-v5o5fw",
-									"data-framer-name": "Open_1",
+									className: "frame-v5o5fw",
+									"data-frame-name": "Open_1",
 									layoutDependency: l,
 									layoutId: "oTycAjdYQ"
 								})]
@@ -13892,24 +13892,24 @@ var Gf = {
 								children: o(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-1px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-1px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 									},
 									children: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace.  This almost always guarantees subpar designs.So while $6,995 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals."
 								})
 							}),
-							className: "framer-pxwp0i",
+							className: "frame-pxwp0i",
 							fonts: ["GF;Instrument Sans-regular"],
 							layoutDependency: l,
 							layoutId: "JrNr_BFNnbL_AAqTmU",
 							style: {
 								"--extracted-r6o4lv": "rgba(255, 255, 255, 0.76)",
-								"--framer-link-text-color": "rgb(0, 153, 255)",
-								"--framer-link-text-decoration": "underline",
-								"--framer-paragraph-spacing": "0px"
+								"--frame-link-text-color": "rgb(0, 153, 255)",
+								"--frame-link-text-decoration": "underline",
+								"--frame-paragraph-spacing": "0px"
 							},
 							text: g,
 							verticalAlignment: "top",
@@ -13920,11 +13920,11 @@ var Gf = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.8px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.8px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 											},
 											children: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace.  This almost always guarantees subpar designs.So while $6,995 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals."
 										})
@@ -13935,11 +13935,11 @@ var Gf = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-letter-spacing": "0px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-letter-spacing": "0px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 											},
 											children: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace.  This almost always guarantees subpar designs.So while $6,995 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals."
 										})
@@ -13952,8 +13952,8 @@ var Gf = {
 			})
 		})
 	}),
-	Qf = ['.framer-Xgxwz [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-Xgxwz .framer-y3wjbk { display: block; }", ".framer-Xgxwz .framer-1576uqo { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 27px; height: min-content; justify-content: center; overflow: hidden; padding: 20px 20px 20px 28px; position: relative; width: 672px; will-change: var(--framer-will-change-override, transform); }", ".framer-Xgxwz .framer-2yntfj { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 100%; }", ".framer-Xgxwz .framer-13bt7d4 { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 1px; }", ".framer-Xgxwz .framer-qnenhh { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".framer-Xgxwz .framer-13o7nh1-container { flex: none; height: 30px; position: relative; width: 30px; }", ".framer-Xgxwz .framer-gnq5dx, .framer-Xgxwz .framer-v5o5fw { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 17px); overflow: visible; position: relative; width: 17px; }", ".framer-Xgxwz .framer-pxwp0i { flex: none; height: auto; overflow: visible; position: relative; white-space: pre-wrap; width: 619px; word-break: break-word; word-wrap: break-word; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-Xgxwz .framer-1576uqo { gap: 0px; } .framer-Xgxwz .framer-1576uqo > * { margin: 0px; margin-bottom: calc(27px / 2); margin-top: calc(27px / 2); } .framer-Xgxwz .framer-1576uqo > :first-child { margin-top: 0px; } .framer-Xgxwz .framer-1576uqo > :last-child { margin-bottom: 0px; } }", ".framer-Xgxwz.framer-v-1mq528a .framer-pxwp0i, .framer-Xgxwz.framer-v-1jjx3jm .framer-pxwp0i { width: 100%; }", ".framer-Xgxwz.framer-v-1jjx3jm .framer-1576uqo { gap: 20px; padding: 20px 20px 20px 20px; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-Xgxwz.framer-v-1jjx3jm .framer-1576uqo { gap: 0px; } .framer-Xgxwz.framer-v-1jjx3jm .framer-1576uqo > * { margin: 0px; margin-bottom: calc(20px / 2); margin-top: calc(20px / 2); } .framer-Xgxwz.framer-v-1jjx3jm .framer-1576uqo > :first-child { margin-top: 0px; } .framer-Xgxwz.framer-v-1jjx3jm .framer-1576uqo > :last-child { margin-bottom: 0px; } }", ".framer-Xgxwz.framer-v-1x2cnnu .framer-1576uqo { padding: 20px 20px 20px 20px; }"],
-	na = Re(Zf, Qf, "framer-Xgxwz"),
+	Qf = ['.frame-Xgxwz [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-Xgxwz .frame-y3wjbk { display: block; }", ".frame-Xgxwz .frame-1576uqo { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 27px; height: min-content; justify-content: center; overflow: hidden; padding: 20px 20px 20px 28px; position: relative; width: 672px; will-change: var(--frame-will-change-override, transform); }", ".frame-Xgxwz .frame-2yntfj { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 100%; }", ".frame-Xgxwz .frame-13bt7d4 { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 1px; }", ".frame-Xgxwz .frame-qnenhh { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".frame-Xgxwz .frame-13o7nh1-container { flex: none; height: 30px; position: relative; width: 30px; }", ".frame-Xgxwz .frame-gnq5dx, .frame-Xgxwz .frame-v5o5fw { aspect-ratio: 1 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 17px); overflow: visible; position: relative; width: 17px; }", ".frame-Xgxwz .frame-pxwp0i { flex: none; height: auto; overflow: visible; position: relative; white-space: pre-wrap; width: 619px; word-break: break-word; word-wrap: break-word; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-Xgxwz .frame-1576uqo { gap: 0px; } .frame-Xgxwz .frame-1576uqo > * { margin: 0px; margin-bottom: calc(27px / 2); margin-top: calc(27px / 2); } .frame-Xgxwz .frame-1576uqo > :first-child { margin-top: 0px; } .frame-Xgxwz .frame-1576uqo > :last-child { margin-bottom: 0px; } }", ".frame-Xgxwz.frame-v-1mq528a .frame-pxwp0i, .frame-Xgxwz.frame-v-1jjx3jm .frame-pxwp0i { width: 100%; }", ".frame-Xgxwz.frame-v-1jjx3jm .frame-1576uqo { gap: 20px; padding: 20px 20px 20px 20px; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-Xgxwz.frame-v-1jjx3jm .frame-1576uqo { gap: 0px; } .frame-Xgxwz.frame-v-1jjx3jm .frame-1576uqo > * { margin: 0px; margin-bottom: calc(20px / 2); margin-top: calc(20px / 2); } .frame-Xgxwz.frame-v-1jjx3jm .frame-1576uqo > :first-child { margin-top: 0px; } .frame-Xgxwz.frame-v-1jjx3jm .frame-1576uqo > :last-child { margin-bottom: 0px; } }", ".frame-Xgxwz.frame-v-1x2cnnu .frame-1576uqo { padding: 20px 20px 20px 20px; }"],
+	na = Re(Zf, Qf, "frame-Xgxwz"),
 	pt = na;
 na.displayName = "FAQ - Component", na.defaultProps = {
 	height: 70,
@@ -14012,11 +14012,11 @@ var Kf = Te(Tr),
 	},
 	em = ["a9umRHria", "blluYttBP", "puVPJkMxp", "HC7wOAA3J", "MI6klQ7XI"];
 var tm = {
-	a9umRHria: "framer-v-1stupk7",
-	blluYttBP: "framer-v-17lzmrc",
-	HC7wOAA3J: "framer-v-2sahed",
-	MI6klQ7XI: "framer-v-13080nb",
-	puVPJkMxp: "framer-v-9nm3k3"
+	a9umRHria: "frame-v-1stupk7",
+	blluYttBP: "frame-v-17lzmrc",
+	HC7wOAA3J: "frame-v-2sahed",
+	MI6klQ7XI: "frame-v-13080nb",
+	puVPJkMxp: "frame-v-9nm3k3"
 };
 
 function Mn(t, ...r) {
@@ -14132,7 +14132,7 @@ var rm = {
 				onTapCancel: () => y({
 					isPressed: !1
 				}),
-				className: de("framer-XVlX3", b),
+				className: de("frame-XVlX3", b),
 				style: {
 					display: "contents"
 				},
@@ -14140,8 +14140,8 @@ var rm = {
 					value: c,
 					children: O(A.div, {
 						...g,
-						className: de("framer-1stupk7", i),
-						"data-framer-name": "Closed",
+						className: de("frame-1stupk7", i),
+						"data-frame-name": "Closed",
 						"data-highlight": !0,
 						layoutDependency: p,
 						layoutId: "a9umRHria",
@@ -14162,37 +14162,37 @@ var rm = {
 						},
 						...Mn({
 							"a9umRHria-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"puVPJkMxp-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							blluYttBP: {
-								"data-framer-name": "Open",
+								"data-frame-name": "Open",
 								onTap: S
 							},
 							HC7wOAA3J: {
-								"data-framer-name": "Variant 4",
+								"data-frame-name": "Variant 4",
 								onTap: k
 							},
 							MI6klQ7XI: {
-								"data-framer-name": "Variant 5",
+								"data-frame-name": "Variant 5",
 								"data-highlight": void 0,
 								onTap: void 0
 							},
 							puVPJkMxp: {
-								"data-framer-name": "Q2",
+								"data-frame-name": "Q2",
 								onTap: E
 							}
 						}, w, v),
 						children: [o(A.div, {
-							className: "framer-5prgpz",
-							"data-framer-name": "Question",
+							className: "frame-5prgpz",
+							"data-frame-name": "Question",
 							layoutDependency: p,
 							layoutId: "RhknGtcn0",
 							children: O(A.div, {
-								className: "framer-gz60lp",
-								"data-framer-name": "Text box",
+								className: "frame-gz60lp",
+								"data-frame-name": "Text box",
 								layoutDependency: p,
 								layoutId: "KHhtwQW9q",
 								children: [o(N, {
@@ -14201,31 +14201,31 @@ var rm = {
 										children: o(A.h4, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "0px",
-												"--framer-line-height": "18px",
-												"--framer-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "0px",
+												"--frame-line-height": "18px",
+												"--frame-text-color": "var(--extracted-1eung3n, rgb(255, 255, 255))"
 											},
 											children: "Do you offer standard pricing for particular brands and agencies?"
 										})
 									}),
-									className: "framer-jw05bp",
+									className: "frame-jw05bp",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: p,
 									layoutId: "IaTtPT4tO",
 									style: {
 										"--extracted-1eung3n": "rgb(255, 255, 255)",
-										"--framer-link-text-color": "rgb(0, 153, 255)",
-										"--framer-link-text-decoration": "underline",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-link-text-color": "rgb(0, 153, 255)",
+										"--frame-link-text-decoration": "underline",
+										"--frame-paragraph-spacing": "0px"
 									},
 									text: u,
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								}), o(A.div, {
-									className: "framer-tjsu79-container",
+									className: "frame-tjsu79-container",
 									layoutDependency: p,
 									layoutId: "h_Tc1_5co-container",
 									children: o(Tr, {
@@ -14255,17 +14255,17 @@ var rm = {
 								children: [o(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-1px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-1px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 									},
 									children: "Yes, we do! Our pricing is tailored for different types of brands and agencies:"
 								}), o(A.p, {
 									style: {
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-2gxw0f, rgb(255, 255, 255))"
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-2gxw0f, rgb(255, 255, 255))"
 									},
 									children: o(A.br, {
 										className: "trailing-break"
@@ -14273,19 +14273,19 @@ var rm = {
 								}), o(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-1px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-1iakedh, rgba(255, 255, 255, 0.76))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-1px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-1iakedh, rgba(255, 255, 255, 0.76))"
 									},
 									children: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
 
 Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
 								}), o(A.p, {
 									style: {
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-14qxiz, rgb(255, 255, 255))"
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-14qxiz, rgb(255, 255, 255))"
 									},
 									children: o(A.br, {
 										className: "trailing-break"
@@ -14293,16 +14293,16 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								}), o(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-1px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-ydz9fi, rgba(255, 255, 255, 0.76))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-1px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-ydz9fi, rgba(255, 255, 255, 0.76))"
 									},
 									children: "We provide flexible design packages tailored to your needs. Reach out for more information or a custom quote."
 								})]
 							}),
-							className: "framer-989fij",
+							className: "frame-989fij",
 							fonts: ["GF;Instrument Sans-regular"],
 							layoutDependency: p,
 							layoutId: "bL_AAqTmU",
@@ -14312,9 +14312,9 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								"--extracted-2gxw0f": "rgb(255, 255, 255)",
 								"--extracted-r6o4lv": "rgba(255, 255, 255, 0.76)",
 								"--extracted-ydz9fi": "rgba(255, 255, 255, 0.76)",
-								"--framer-link-text-color": "rgb(0, 153, 255)",
-								"--framer-link-text-decoration": "underline",
-								"--framer-paragraph-spacing": "0px"
+								"--frame-link-text-color": "rgb(0, 153, 255)",
+								"--frame-link-text-decoration": "underline",
+								"--frame-paragraph-spacing": "0px"
 							},
 							verticalAlignment: "top",
 							withExternalLayout: !0,
@@ -14324,17 +14324,17 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 										children: [o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.5px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.5px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 											},
 											children: "Yes, we do! Our pricing is tailored for different types of brands and agencies:"
 										}), o(A.p, {
 											style: {
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-2gxw0f, rgb(255, 255, 255))"
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-2gxw0f, rgb(255, 255, 255))"
 											},
 											children: o(A.br, {
 												className: "trailing-break"
@@ -14342,11 +14342,11 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 										}), o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.5px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-1iakedh, rgba(255, 255, 255, 0.76))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.5px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-1iakedh, rgba(255, 255, 255, 0.76))"
 											},
 											children: `Standard Brands: 10 requests per month for $800 USD/month, with a maximum of 1 request per day. Ideal for small businesses.
 
@@ -14357,8 +14357,8 @@ Standard Agencies: 25 requests per month for $1,500 USD/month, with a maximum of
 Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 5 requests per day. Recommended for agencies with 4-10 clients.`,
 										}), o(A.p, {
 											style: {
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-14qxiz, rgb(255, 255, 255))"
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-14qxiz, rgb(255, 255, 255))"
 											},
 											children: o(A.br, {
 												className: "trailing-break"
@@ -14366,11 +14366,11 @@ Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 
 										}), o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.5px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-ydz9fi, rgba(255, 255, 255, 0.76))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.5px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-ydz9fi, rgba(255, 255, 255, 0.76))"
 											},
 											children: "We provide flexible design packages tailored to your needs. Reach out for more information or a custom quote."
 										})]
@@ -14381,11 +14381,11 @@ Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.5px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.5px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.76))"
 											},
 											children: "No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.\nOur AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot."
 										})
@@ -14398,8 +14398,8 @@ Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 
 			})
 		})
 	}),
-	lm = ['.framer-XVlX3 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-XVlX3 .framer-1lji38b { display: block; }", ".framer-XVlX3 .framer-1stupk7 { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 27px; height: min-content; justify-content: center; overflow: hidden; padding: 20px 20px 20px 28px; position: relative; width: 672px; will-change: var(--framer-will-change-override, transform); }", ".framer-XVlX3 .framer-5prgpz { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 100%; }", ".framer-XVlX3 .framer-gz60lp { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 1px; }", ".framer-XVlX3 .framer-jw05bp { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".framer-XVlX3 .framer-tjsu79-container { flex: none; height: 30px; position: relative; width: 30px; }", ".framer-XVlX3 .framer-989fij { flex: none; height: auto; overflow: visible; position: relative; white-space: pre-wrap; width: 619px; word-break: break-word; word-wrap: break-word; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-XVlX3 .framer-1stupk7 { gap: 0px; } .framer-XVlX3 .framer-1stupk7 > * { margin: 0px; margin-bottom: calc(27px / 2); margin-top: calc(27px / 2); } .framer-XVlX3 .framer-1stupk7 > :first-child { margin-top: 0px; } .framer-XVlX3 .framer-1stupk7 > :last-child { margin-bottom: 0px; } }", ".framer-XVlX3.framer-v-13080nb .framer-1stupk7 { cursor: unset; }"],
-	ia = Re(sm, lm, "framer-XVlX3"),
+	lm = ['.frame-XVlX3 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-XVlX3 .frame-1lji38b { display: block; }", ".frame-XVlX3 .frame-1stupk7 { align-content: flex-start; align-items: flex-start; cursor: pointer; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 27px; height: min-content; justify-content: center; overflow: hidden; padding: 20px 20px 20px 28px; position: relative; width: 672px; will-change: var(--frame-will-change-override, transform); }", ".frame-XVlX3 .frame-5prgpz { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 100%; }", ".frame-XVlX3 .frame-gz60lp { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: 1px; }", ".frame-XVlX3 .frame-jw05bp { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".frame-XVlX3 .frame-tjsu79-container { flex: none; height: 30px; position: relative; width: 30px; }", ".frame-XVlX3 .frame-989fij { flex: none; height: auto; overflow: visible; position: relative; white-space: pre-wrap; width: 619px; word-break: break-word; word-wrap: break-word; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-XVlX3 .frame-1stupk7 { gap: 0px; } .frame-XVlX3 .frame-1stupk7 > * { margin: 0px; margin-bottom: calc(27px / 2); margin-top: calc(27px / 2); } .frame-XVlX3 .frame-1stupk7 > :first-child { margin-top: 0px; } .frame-XVlX3 .frame-1stupk7 > :last-child { margin-bottom: 0px; } }", ".frame-XVlX3.frame-v-13080nb .frame-1stupk7 { cursor: unset; }"],
+	ia = Re(sm, lm, "frame-XVlX3"),
 	Jn = ia;
 ia.displayName = "FAQ - Single Component", ia.defaultProps = {
 	height: 70,
@@ -14444,14 +14444,14 @@ ia.displayName = "FAQ - Single Component", ia.defaultProps = {
 var fm = Te(Jn),
 	mm = Te(pt),
 	dm = ["mNPAraT_L", "nZGWrN6_I", "YTxXS4HMK", "NPaWEivIf", "z16pTDwl_", "vt3MRGL2h"],
-	cm = "framer-q7RS9",
+	cm = "frame-q7RS9",
 	hm = {
-		mNPAraT_L: "framer-v-100ed3f",
-		NPaWEivIf: "framer-v-g48xyp",
-		nZGWrN6_I: "framer-v-1sr4s4h",
-		vt3MRGL2h: "framer-v-xhbkym",
-		YTxXS4HMK: "framer-v-hzonhe",
-		z16pTDwl_: "framer-v-1igofxo"
+		mNPAraT_L: "frame-v-100ed3f",
+		NPaWEivIf: "frame-v-g48xyp",
+		nZGWrN6_I: "frame-v-1sr4s4h",
+		vt3MRGL2h: "frame-v-xhbkym",
+		YTxXS4HMK: "frame-v-hzonhe",
+		z16pTDwl_: "frame-v-1igofxo"
 	};
 
 function gr(t, ...r) {
@@ -14550,8 +14550,8 @@ var pm = {
 				children: O(A.div, {
 					...u,
 					animate: c,
-					className: de(cm, ...j, "framer-100ed3f", s, w),
-					"data-framer-name": "FAQ - New",
+					className: de(cm, ...j, "frame-100ed3f", s, w),
+					"data-frame-name": "FAQ - New",
 					initial: h,
 					layoutDependency: m,
 					layoutId: "mNPAraT_L",
@@ -14576,23 +14576,23 @@ var pm = {
 					},
 					...gr({
 						NPaWEivIf: {
-							"data-framer-name": "Variant 4"
+							"data-frame-name": "Variant 4"
 						},
 						nZGWrN6_I: {
-							"data-framer-name": "Variant 2"
+							"data-frame-name": "Variant 2"
 						},
 						vt3MRGL2h: {
-							"data-framer-name": "Variant 6"
+							"data-frame-name": "Variant 6"
 						},
 						YTxXS4HMK: {
-							"data-framer-name": "Variant 3"
+							"data-frame-name": "Variant 3"
 						},
 						z16pTDwl_: {
-							"data-framer-name": "Variant 5"
+							"data-frame-name": "Variant 5"
 						}
 					}, g, b),
 					children: [o(A.div, {
-						className: "framer-1adlwx7-container",
+						className: "frame-1adlwx7-container",
 						layoutDependency: m,
 						layoutId: "cPitwCeTg-container",
 						children: o(Jn, {
@@ -14611,7 +14611,7 @@ var pm = {
 							}, g, b)
 						})
 					}), o(A.div, {
-						className: "framer-9ksolm-container",
+						className: "frame-9ksolm-container",
 						layoutDependency: m,
 						layoutId: "FHmqXR3BO-container",
 						children: o(pt, {
@@ -14645,7 +14645,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 							}, g, b)
 						})
 					}), o(A.div, {
-						className: "framer-1hqa5hi-container",
+						className: "frame-1hqa5hi-container",
 						layoutDependency: m,
 						layoutId: "D1f6tBOvj-container",
 						children: o(pt, {
@@ -14674,7 +14674,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 							}, g, b)
 						})
 					}), o(A.div, {
-						className: "framer-14k3oxy-container",
+						className: "frame-14k3oxy-container",
 						layoutDependency: m,
 						layoutId: "wJk2r2HET-container",
 						children: o(pt, {
@@ -14698,7 +14698,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 							}, g, b)
 						})
 					}), o(A.div, {
-						className: "framer-3fng66-container",
+						className: "frame-3fng66-container",
 						layoutDependency: m,
 						layoutId: "RtXqGOk0V-container",
 						children: o(pt, {
@@ -14726,7 +14726,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 							}, g, b)
 						})
 					}), o(A.div, {
-						className: "framer-14mciam-container",
+						className: "frame-14mciam-container",
 						layoutDependency: m,
 						layoutId: "tEtFbOu1s-container",
 						children: o(pt, {
@@ -14752,7 +14752,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 							}, g, b)
 						})
 					}), o(A.div, {
-						className: "framer-1i1shsk-container",
+						className: "frame-1i1shsk-container",
 						layoutDependency: m,
 						layoutId: "dAySRTW2B-container",
 						children: o(pt, {
@@ -14773,8 +14773,8 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 			})
 		})
 	}),
-	xm = ['.framer-q7RS9[data-border="true"]::after, .framer-q7RS9 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-q7RS9.framer-iw0n4s, .framer-q7RS9 .framer-iw0n4s { display: block; }", ".framer-q7RS9.framer-100ed3f { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: min-content; }", ".framer-q7RS9 .framer-1adlwx7-container { flex: none; height: auto; position: relative; width: auto; }", ".framer-q7RS9 .framer-9ksolm-container, .framer-q7RS9 .framer-1hqa5hi-container, .framer-q7RS9 .framer-14k3oxy-container, .framer-q7RS9 .framer-3fng66-container, .framer-q7RS9 .framer-14mciam-container, .framer-q7RS9 .framer-1i1shsk-container { flex: none; height: auto; position: relative; width: 672px; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-q7RS9.framer-100ed3f { gap: 0px; } .framer-q7RS9.framer-100ed3f > * { margin: 0px; margin-bottom: calc(10px / 2); margin-top: calc(10px / 2); } .framer-q7RS9.framer-100ed3f > :first-child { margin-top: 0px; } .framer-q7RS9.framer-100ed3f > :last-child { margin-bottom: 0px; } }"],
-	oa = Re(bm, xm, "framer-q7RS9"),
+	xm = ['.frame-q7RS9[data-border="true"]::after, .frame-q7RS9 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-q7RS9.frame-iw0n4s, .frame-q7RS9 .frame-iw0n4s { display: block; }", ".frame-q7RS9.frame-100ed3f { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px 0px 0px 0px; position: relative; width: min-content; }", ".frame-q7RS9 .frame-1adlwx7-container { flex: none; height: auto; position: relative; width: auto; }", ".frame-q7RS9 .frame-9ksolm-container, .frame-q7RS9 .frame-1hqa5hi-container, .frame-q7RS9 .frame-14k3oxy-container, .frame-q7RS9 .frame-3fng66-container, .frame-q7RS9 .frame-14mciam-container, .frame-q7RS9 .frame-1i1shsk-container { flex: none; height: auto; position: relative; width: 672px; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-q7RS9.frame-100ed3f { gap: 0px; } .frame-q7RS9.frame-100ed3f > * { margin: 0px; margin-bottom: calc(10px / 2); margin-top: calc(10px / 2); } .frame-q7RS9.frame-100ed3f > :first-child { margin-top: 0px; } .frame-q7RS9.frame-100ed3f > :last-child { margin-bottom: 0px; } }"],
+	oa = Re(bm, xm, "frame-q7RS9"),
 	zn = oa;
 oa.displayName = "Test - FAQ";
 oa.defaultProps = {
@@ -14813,12 +14813,12 @@ var wm = Te(Gt),
 	},
 	_m = ["bEa82otil", "FPMS7R1Ue", "QguuclJzg", "MLOEoxh8N", "dAMJgE1M3", "SvA8Uz8Zn"];
 var Cm = {
-	bEa82otil: "framer-v-ve3aw2",
-	dAMJgE1M3: "framer-v-n47tb1",
-	FPMS7R1Ue: "framer-v-15surlb",
-	MLOEoxh8N: "framer-v-os2h5b",
-	QguuclJzg: "framer-v-vhfjyv",
-	SvA8Uz8Zn: "framer-v-6g3f8p"
+	bEa82otil: "frame-v-ve3aw2",
+	dAMJgE1M3: "frame-v-n47tb1",
+	FPMS7R1Ue: "frame-v-15surlb",
+	MLOEoxh8N: "frame-v-os2h5b",
+	QguuclJzg: "frame-v-vhfjyv",
+	SvA8Uz8Zn: "frame-v-6g3f8p"
 };
 
 function Vn(t, ...r) {
@@ -14915,7 +14915,7 @@ var km = {
 				onTapCancel: () => b({
 					isPressed: !1
 				}),
-				className: de("framer-FPxl5", g),
+				className: de("frame-FPxl5", g),
 				style: {
 					display: "contents"
 				},
@@ -14923,8 +14923,8 @@ var km = {
 					value: y,
 					children: O(A.div, {
 						...h,
-						className: de("framer-ve3aw2", i),
-						"data-framer-name": "Eye",
+						className: de("frame-ve3aw2", i),
+						"data-frame-name": "Eye",
 						layoutDependency: c,
 						layoutId: "bEa82otil",
 						ref: r ?? m,
@@ -14937,42 +14937,42 @@ var km = {
 						},
 						...Vn({
 							"bEa82otil-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"dAMJgE1M3-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"FPMS7R1Ue-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"MLOEoxh8N-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"QguuclJzg-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"SvA8Uz8Zn-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							dAMJgE1M3: {
-								"data-framer-name": "Elites"
+								"data-frame-name": "Elites"
 							},
 							FPMS7R1Ue: {
-								"data-framer-name": "Micro"
+								"data-frame-name": "Micro"
 							},
 							MLOEoxh8N: {
-								"data-framer-name": "Unique"
+								"data-frame-name": "Unique"
 							},
 							QguuclJzg: {
-								"data-framer-name": "Lightning"
+								"data-frame-name": "Lightning"
 							},
 							SvA8Uz8Zn: {
-								"data-framer-name": "Pause"
+								"data-frame-name": "Pause"
 							}
 						}, u, w),
 						children: [o(A.div, {
-							className: "framer-veh1td",
-							"data-framer-name": "Up",
+							className: "frame-veh1td",
+							"data-frame-name": "Up",
 							layoutDependency: c,
 							layoutId: "Z6xbh9pMQ",
 							style: {
@@ -15000,8 +15000,8 @@ var km = {
 								}
 							}
 						}), o(A.div, {
-							className: "framer-7qsx9o",
-							"data-framer-name": "Down",
+							className: "frame-7qsx9o",
+							"data-frame-name": "Down",
 							layoutDependency: c,
 							layoutId: "GNRcO_Gfa",
 							style: {
@@ -15029,8 +15029,8 @@ var km = {
 								}
 							}
 						}), O(A.div, {
-							className: "framer-1ft8cy0",
-							"data-framer-name": "Card",
+							className: "frame-1ft8cy0",
+							"data-frame-name": "Card",
 							layoutDependency: c,
 							layoutId: "dUywr6XqR",
 							style: {
@@ -15046,35 +15046,35 @@ var km = {
 									children: O(A.p, {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "18px",
-											"--framer-letter-spacing": "-0.8px",
-											"--framer-line-height": "25.5px",
-											"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "18px",
+											"--frame-letter-spacing": "-0.8px",
+											"--frame-line-height": "25.5px",
+											"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
 										},
 										children: [o(A.span, {
 											style: {
-												"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+												"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 											},
 											children: "Demure & Mindful. "
 										}), " Our designs are always 100% original and unique. We never use templates, kits, or recycled designs."]
 									})
 								}),
-								className: "framer-1dyotp3",
+								className: "frame-1dyotp3",
 								fonts: ["GF;Instrument Sans-regular"],
 								layoutDependency: c,
 								layoutId: "hDKt4FvBH",
 								style: {
 									"--extracted-1w3ko1f": "rgb(203,255,13)",
 									"--extracted-r6o4lv": "rgba(255, 255, 255, 0.44)",
-									"--framer-link-text-color": "rgb(0, 153, 255)",
-									"--framer-link-text-decoration": "underline",
-									"--framer-paragraph-spacing": "0px"
+									"--frame-link-text-color": "rgb(0, 153, 255)",
+									"--frame-link-text-decoration": "underline",
+									"--frame-paragraph-spacing": "0px"
 								},
 								verticalAlignment: "top",
 								withExternalLayout: !0
 							}), o(A.div, {
-								className: "framer-1fa1u9c-container",
+								className: "frame-1fa1u9c-container",
 								layoutDependency: c,
 								layoutId: "eqeU5Rwpv-container",
 								children: o(Gt, {
@@ -15120,30 +15120,30 @@ var km = {
 								children: O(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-0.5px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-0.5px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
 									},
 									children: [o(A.span, {
 										style: {
-											"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+											"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 										},
 										children: "No Hassle."
 									}), " We handle the selection and hiring of top designers, so you don't have to worry the unreliable ones."]
 								})
 							}),
-							className: "framer-1y3hjyg",
+							className: "frame-1y3hjyg",
 							fonts: ["GF;Instrument Sans-regular"],
 							layoutDependency: c,
 							layoutId: "F4c4kS9tq",
 							style: {
 								"--extracted-1w3ko1f": "rgb(203,255,13)",
 								"--extracted-r6o4lv": "rgba(255, 255, 255, 0.44)",
-								"--framer-link-text-color": "rgb(0, 153, 255)",
-								"--framer-link-text-decoration": "underline",
-								"--framer-paragraph-spacing": "0px"
+								"--frame-link-text-color": "rgb(0, 153, 255)",
+								"--frame-link-text-decoration": "underline",
+								"--frame-paragraph-spacing": "0px"
 							},
 							variants: {
 								QguuclJzg: {
@@ -15158,15 +15158,15 @@ var km = {
 										children: O(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.5px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.5px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
 											},
 											children: [o(A.span, {
 												style: {
-													"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+													"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 												},
 												children: "No Micromanaging. "
 											}), "We are taking the initiative to manage all aspects, including designers, tasks, and deadlines. "]
@@ -15178,16 +15178,16 @@ var km = {
 										children: O(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-1.1px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "var(--extracted-r6o4lv, var(--token-5d5295bd-a551-4ef9-ba58-7cfab2ac71cc, rgba(255, 255, 255, 0.44)))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-1.1px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "var(--extracted-r6o4lv, var(--token-5d5295bd-a551-4ef9-ba58-7cfab2ac71cc, rgba(255, 255, 255, 0.44)))"
 											},
 											children: [o(A.span, {
 												style: {
-													"--framer-letter-spacing": "-0.5px",
-													"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+													"--frame-letter-spacing": "-0.5px",
+													"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 												},
 												children: "Lightning Fast Turnarounds. "
 											}), "Our designers respond and begin the task within 4 hours from it\u2019s creation & assignment in Notion."]
@@ -15201,30 +15201,30 @@ var km = {
 								children: O(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-0.8px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-0.8px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
 									},
 									children: [o(A.span, {
 										style: {
-											"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+											"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 										},
 										children: "A+ Designers Only."
 									}), "  All our designers are industry experts with over 5 years of experience in email and social designs."]
 								})
 							}),
-							className: "framer-1pg0ems",
+							className: "frame-1pg0ems",
 							fonts: ["GF;Instrument Sans-regular"],
 							layoutDependency: c,
 							layoutId: "pVHLzkirS",
 							style: {
 								"--extracted-1w3ko1f": "rgb(203,255,13)",
 								"--extracted-r6o4lv": "rgba(255, 255, 255, 0.44)",
-								"--framer-link-text-color": "rgb(0, 153, 255)",
-								"--framer-link-text-decoration": "underline",
-								"--framer-paragraph-spacing": "0px"
+								"--frame-link-text-color": "rgb(0, 153, 255)",
+								"--frame-link-text-decoration": "underline",
+								"--frame-paragraph-spacing": "0px"
 							},
 							verticalAlignment: "top",
 							withExternalLayout: !0
@@ -15234,30 +15234,30 @@ var km = {
 								children: O(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "18px",
-										"--framer-letter-spacing": "-0.9px",
-										"--framer-line-height": "25.5px",
-										"--framer-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "18px",
+										"--frame-letter-spacing": "-0.9px",
+										"--frame-line-height": "25.5px",
+										"--frame-text-color": "var(--extracted-r6o4lv, rgba(255, 255, 255, 0.44))"
 									},
 									children: [o(A.span, {
 										style: {
-											"--framer-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+											"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 										},
 										children: "Pause or cancel anytime."
 									}), " You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
 								})
 							}),
-							className: "framer-62z2m1",
+							className: "frame-62z2m1",
 							fonts: ["GF;Instrument Sans-regular"],
 							layoutDependency: c,
 							layoutId: "icQnHxqhL",
 							style: {
 								"--extracted-1w3ko1f": "rgb(203,255,13)",
 								"--extracted-r6o4lv": "rgba(255, 255, 255, 0.44)",
-								"--framer-link-text-color": "rgb(0, 153, 255)",
-								"--framer-link-text-decoration": "underline",
-								"--framer-paragraph-spacing": "0px"
+								"--frame-link-text-color": "rgb(0, 153, 255)",
+								"--frame-link-text-decoration": "underline",
+								"--frame-paragraph-spacing": "0px"
 							},
 							verticalAlignment: "top",
 							withExternalLayout: !0
@@ -15267,8 +15267,8 @@ var km = {
 			})
 		})
 	}),
-	Am = ['.framer-FPxl5 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-FPxl5 .framer-1rd3ib7 { display: block; }", ".framer-FPxl5 .framer-ve3aw2 { cursor: pointer; height: 220px; overflow: hidden; position: relative; width: 370px; will-change: var(--framer-will-change-override, transform); }", ".framer-FPxl5 .framer-veh1td { flex: none; height: 20px; left: 0px; overflow: visible; position: absolute; top: 0px; width: 71px; }", ".framer-FPxl5 .framer-7qsx9o { bottom: 0px; flex: none; height: 20px; overflow: visible; position: absolute; right: 0px; width: 71px; }", ".framer-FPxl5 .framer-1ft8cy0 { flex: none; height: 218px; left: calc(50.00000000000002% - 368px / 2); overflow: hidden; position: absolute; top: calc(50.00000000000002% - 218px / 2); width: 368px; will-change: var(--framer-will-change-override, transform); }", ".framer-FPxl5 .framer-1dyotp3, .framer-FPxl5 .framer-1y3hjyg, .framer-FPxl5 .framer-1pg0ems { bottom: 13px; flex: none; height: 77px; left: calc(50.13850415512467% - 326px / 2); position: absolute; white-space: pre-wrap; width: 326px; word-break: break-word; word-wrap: break-word; }", ".framer-FPxl5 .framer-1fa1u9c-container { aspect-ratio: 1.5333333333333334 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 29px); left: 19px; position: absolute; top: 25px; width: 44px; }", ".framer-FPxl5 .framer-62z2m1 { bottom: 13px; flex: none; height: 77px; left: calc(50.00000000000002% - 328px / 2); position: absolute; white-space: pre-wrap; width: 328px; word-break: break-word; word-wrap: break-word; }", ".framer-FPxl5.framer-v-vhfjyv .framer-1ft8cy0 { overflow: visible; }", ".framer-FPxl5.framer-v-vhfjyv .framer-1fa1u9c-container { aspect-ratio: unset; height: 40px; left: 18px; top: 24px; }", ".framer-FPxl5.framer-v-os2h5b .framer-1fa1u9c-container { aspect-ratio: 1 / 1; height: var(--framer-aspect-ratio-supported, 48px); left: 18px; top: 24px; width: 48px; }", ".framer-FPxl5.framer-v-n47tb1 .framer-1fa1u9c-container { aspect-ratio: 1.1891891891891893 / 1; height: var(--framer-aspect-ratio-supported, 34px); left: 18px; top: 24px; width: 40px; }", ".framer-FPxl5.framer-v-6g3f8p .framer-1fa1u9c-container { aspect-ratio: unset; height: 36px; left: 18px; top: 24px; }", ".framer-FPxl5.framer-v-ve3aw2.hover .framer-veh1td, .framer-FPxl5.framer-v-vhfjyv.hover .framer-veh1td { height: 95px; left: unset; right: -9px; width: 273px; }", ".framer-FPxl5.framer-v-ve3aw2.hover .framer-7qsx9o, .framer-FPxl5.framer-v-15surlb.hover .framer-7qsx9o, .framer-FPxl5.framer-v-vhfjyv.hover .framer-7qsx9o, .framer-FPxl5.framer-v-os2h5b.hover .framer-7qsx9o, .framer-FPxl5.framer-v-n47tb1.hover .framer-7qsx9o, .framer-FPxl5.framer-v-6g3f8p.hover .framer-7qsx9o { left: 0px; right: unset; width: 244px; }", ".framer-FPxl5.framer-v-15surlb.hover .framer-veh1td { height: 95px; left: 97px; right: -9px; width: unset; }", ".framer-FPxl5.framer-v-vhfjyv.hover .framer-1fa1u9c-container, .framer-FPxl5.framer-v-6g3f8p.hover .framer-1fa1u9c-container { aspect-ratio: unset; }", ".framer-FPxl5.framer-v-os2h5b.hover .framer-veh1td { height: 94px; left: unset; right: -9px; width: 274px; }", ".framer-FPxl5.framer-v-n47tb1.hover .framer-veh1td { height: 94px; left: unset; right: 0px; width: 273px; }", ".framer-FPxl5.framer-v-6g3f8p.hover .framer-veh1td { height: 90px; left: unset; right: 0px; width: 273px; }"],
-	sa = Re(Im, Am, "framer-FPxl5"),
+	Am = ['.frame-FPxl5 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-FPxl5 .frame-1rd3ib7 { display: block; }", ".frame-FPxl5 .frame-ve3aw2 { cursor: pointer; height: 220px; overflow: hidden; position: relative; width: 370px; will-change: var(--frame-will-change-override, transform); }", ".frame-FPxl5 .frame-veh1td { flex: none; height: 20px; left: 0px; overflow: visible; position: absolute; top: 0px; width: 71px; }", ".frame-FPxl5 .frame-7qsx9o { bottom: 0px; flex: none; height: 20px; overflow: visible; position: absolute; right: 0px; width: 71px; }", ".frame-FPxl5 .frame-1ft8cy0 { flex: none; height: 218px; left: calc(50.00000000000002% - 368px / 2); overflow: hidden; position: absolute; top: calc(50.00000000000002% - 218px / 2); width: 368px; will-change: var(--frame-will-change-override, transform); }", ".frame-FPxl5 .frame-1dyotp3, .frame-FPxl5 .frame-1y3hjyg, .frame-FPxl5 .frame-1pg0ems { bottom: 13px; flex: none; height: 77px; left: calc(50.13850415512467% - 326px / 2); position: absolute; white-space: pre-wrap; width: 326px; word-break: break-word; word-wrap: break-word; }", ".frame-FPxl5 .frame-1fa1u9c-container { aspect-ratio: 1.5333333333333334 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 29px); left: 19px; position: absolute; top: 25px; width: 44px; }", ".frame-FPxl5 .frame-62z2m1 { bottom: 13px; flex: none; height: 77px; left: calc(50.00000000000002% - 328px / 2); position: absolute; white-space: pre-wrap; width: 328px; word-break: break-word; word-wrap: break-word; }", ".frame-FPxl5.frame-v-vhfjyv .frame-1ft8cy0 { overflow: visible; }", ".frame-FPxl5.frame-v-vhfjyv .frame-1fa1u9c-container { aspect-ratio: unset; height: 40px; left: 18px; top: 24px; }", ".frame-FPxl5.frame-v-os2h5b .frame-1fa1u9c-container { aspect-ratio: 1 / 1; height: var(--frame-aspect-ratio-supported, 48px); left: 18px; top: 24px; width: 48px; }", ".frame-FPxl5.frame-v-n47tb1 .frame-1fa1u9c-container { aspect-ratio: 1.1891891891891893 / 1; height: var(--frame-aspect-ratio-supported, 34px); left: 18px; top: 24px; width: 40px; }", ".frame-FPxl5.frame-v-6g3f8p .frame-1fa1u9c-container { aspect-ratio: unset; height: 36px; left: 18px; top: 24px; }", ".frame-FPxl5.frame-v-ve3aw2.hover .frame-veh1td, .frame-FPxl5.frame-v-vhfjyv.hover .frame-veh1td { height: 95px; left: unset; right: -9px; width: 273px; }", ".frame-FPxl5.frame-v-ve3aw2.hover .frame-7qsx9o, .frame-FPxl5.frame-v-15surlb.hover .frame-7qsx9o, .frame-FPxl5.frame-v-vhfjyv.hover .frame-7qsx9o, .frame-FPxl5.frame-v-os2h5b.hover .frame-7qsx9o, .frame-FPxl5.frame-v-n47tb1.hover .frame-7qsx9o, .frame-FPxl5.frame-v-6g3f8p.hover .frame-7qsx9o { left: 0px; right: unset; width: 244px; }", ".frame-FPxl5.frame-v-15surlb.hover .frame-veh1td { height: 95px; left: 97px; right: -9px; width: unset; }", ".frame-FPxl5.frame-v-vhfjyv.hover .frame-1fa1u9c-container, .frame-FPxl5.frame-v-6g3f8p.hover .frame-1fa1u9c-container { aspect-ratio: unset; }", ".frame-FPxl5.frame-v-os2h5b.hover .frame-veh1td { height: 94px; left: unset; right: -9px; width: 274px; }", ".frame-FPxl5.frame-v-n47tb1.hover .frame-veh1td { height: 94px; left: unset; right: 0px; width: 273px; }", ".frame-FPxl5.frame-v-6g3f8p.hover .frame-veh1td { height: 90px; left: unset; right: 0px; width: 273px; }"],
+	sa = Re(Im, Am, "frame-FPxl5"),
 	Et = sa;
 sa.displayName = "Card", sa.defaultProps = {
 	height: 220,
@@ -15306,10 +15306,10 @@ var Fm = {
 	},
 	Lm = ["oIn4zedvr", "Ys_ag7icQ", "LnMOgXlNH", "ppg5iAHKB"];
 var Rm = {
-	LnMOgXlNH: "framer-v-16mota5",
-	oIn4zedvr: "framer-v-8wzjcd",
-	ppg5iAHKB: "framer-v-11al7za",
-	Ys_ag7icQ: "framer-v-5vyiay"
+	LnMOgXlNH: "frame-v-16mota5",
+	oIn4zedvr: "frame-v-8wzjcd",
+	ppg5iAHKB: "frame-v-11al7za",
+	Ys_ag7icQ: "frame-v-5vyiay"
 };
 
 function Mm(t, ...r) {
@@ -15421,7 +15421,7 @@ var Jm = {
 				onTapCancel: () => _({
 					isPressed: !1
 				}),
-				className: de("framer-Zit52", ...T, v),
+				className: de("frame-Zit52", ...T, v),
 				style: {
 					display: "contents"
 				},
@@ -15429,8 +15429,8 @@ var Jm = {
 					value: m,
 					children: O(A.div, {
 						...w,
-						className: de("framer-8wzjcd", s),
-						"data-framer-name": "Top",
+						className: de("frame-8wzjcd", s),
+						"data-frame-name": "Top",
 						"data-highlight": !0,
 						layoutDependency: l,
 						layoutId: "oIn4zedvr",
@@ -15450,30 +15450,30 @@ var Jm = {
 						},
 						...Mm({
 							"LnMOgXlNH-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"oIn4zedvr-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"ppg5iAHKB-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"Ys_ag7icQ-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							LnMOgXlNH: {
-								"data-framer-name": "Bottom"
+								"data-frame-name": "Bottom"
 							},
 							ppg5iAHKB: {
-								"data-framer-name": "Left"
+								"data-frame-name": "Left"
 							},
 							Ys_ag7icQ: {
-								"data-framer-name": "Right"
+								"data-frame-name": "Right"
 							}
 						}, b, y),
 						children: [o(A.div, {
-							className: "framer-7fubv2",
-							"data-framer-name": "Glow",
+							className: "frame-7fubv2",
+							"data-frame-name": "Glow",
 							layoutDependency: l,
 							layoutId: "sSise5l46",
 							style: {
@@ -15509,8 +15509,8 @@ var Jm = {
 								}
 							}
 						}), o(A.div, {
-							className: "framer-tcje9m",
-							"data-framer-name": "Stroke",
+							className: "frame-tcje9m",
+							"data-frame-name": "Stroke",
 							layoutDependency: l,
 							layoutId: "TBc6iKQYD",
 							style: {
@@ -15544,8 +15544,8 @@ var Jm = {
 								}
 							}
 						}), o(A.div, {
-							className: "framer-x6w7j2",
-							"data-framer-name": "Fill",
+							className: "frame-x6w7j2",
+							"data-frame-name": "Fill",
 							layoutDependency: l,
 							layoutId: "SY8HiyV8T",
 							style: {
@@ -15556,13 +15556,13 @@ var Jm = {
 								borderTopRightRadius: 114
 							}
 						}), O(A.div, {
-							className: "framer-18llsms",
-							"data-framer-name": "Ball",
+							className: "frame-18llsms",
+							"data-frame-name": "Ball",
 							layoutDependency: l,
 							layoutId: "bW9u9vXTv",
 							children: [o(A.div, {
-								className: "framer-o1j0x",
-								"data-framer-name": "Ellipse 5",
+								className: "frame-o1j0x",
+								"data-frame-name": "Ellipse 5",
 								layoutDependency: l,
 								layoutId: "cZXlKLLEV",
 								style: {
@@ -15575,8 +15575,8 @@ var Jm = {
 									WebkitFilter: "blur(6.270700931549072px)"
 								}
 							}), o(A.div, {
-								className: "framer-1rp00v0",
-								"data-framer-name": "Ellipse 6",
+								className: "frame-1rp00v0",
+								"data-frame-name": "Ellipse 6",
 								layoutDependency: l,
 								layoutId: "GmrH6JhTk",
 								style: {
@@ -15589,8 +15589,8 @@ var Jm = {
 									WebkitFilter: "blur(6.270700931549072px)"
 								}
 							}), o(A.div, {
-								className: "framer-18jl2om",
-								"data-framer-name": "Ellipse 4",
+								className: "frame-18jl2om",
+								"data-frame-name": "Ellipse 4",
 								layoutDependency: l,
 								layoutId: "M3ZE9g3I5",
 								style: {
@@ -15607,23 +15607,23 @@ var Jm = {
 								children: o(A.p, {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "12px",
-										"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "12px",
+										"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 									},
 									children: "2 Spots remaining"
 								})
 							}),
-							className: "framer-1rpyddg",
-							"data-framer-name": "Text",
+							className: "frame-1rpyddg",
+							"data-frame-name": "Text",
 							fonts: ["GF;Instrument Sans-regular"],
 							layoutDependency: l,
 							layoutId: "PDuJpmTwi",
 							style: {
 								"--extracted-r6o4lv": "rgb(255, 255, 255)",
-								"--framer-link-text-color": "rgb(0, 153, 255)",
-								"--framer-link-text-decoration": "underline",
-								"--framer-paragraph-spacing": "0px"
+								"--frame-link-text-color": "rgb(0, 153, 255)",
+								"--frame-link-text-decoration": "underline",
+								"--frame-paragraph-spacing": "0px"
 							},
 							text: u,
 							verticalAlignment: "top",
@@ -15634,8 +15634,8 @@ var Jm = {
 			})
 		})
 	}),
-	Bm = ['.framer-Zit52 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-Zit52 .framer-18vnb3o { display: block; }", ".framer-Zit52 .framer-8wzjcd { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: 30px; justify-content: center; overflow: visible; padding: 20px 28px 20px 28px; position: relative; width: 179px; }", ".framer-Zit52 .framer-7fubv2, .framer-Zit52 .framer-tcje9m { bottom: 0px; flex: none; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; will-change: var(--framer-will-change-override, transform); z-index: 0; }", ".framer-Zit52 .framer-x6w7j2 { bottom: 2px; flex: none; left: 2px; overflow: hidden; position: absolute; right: 2px; top: 2px; will-change: var(--framer-will-change-override, transform); z-index: 0; }", ".framer-Zit52 .framer-18llsms { flex: none; height: 5px; overflow: visible; position: relative; width: 5px; }", ".framer-Zit52 .framer-o1j0x, .framer-Zit52 .framer-1rp00v0, .framer-Zit52 .framer-18jl2om { aspect-ratio: 1 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 5px); left: 0px; position: absolute; top: 0px; width: 5px; }", ".framer-Zit52 .framer-1rpyddg { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-Zit52 .framer-8wzjcd { gap: 0px; } .framer-Zit52 .framer-8wzjcd > * { margin: 0px; margin-left: calc(15px / 2); margin-right: calc(15px / 2); } .framer-Zit52 .framer-8wzjcd > :first-child { margin-left: 0px; } .framer-Zit52 .framer-8wzjcd > :last-child { margin-right: 0px; } }", ".framer-Zit52.framer-v-5vyiay .framer-8wzjcd { height: 33px; }"],
-	la = Re(Wm, Bm, "framer-Zit52"),
+	Bm = ['.frame-Zit52 [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-Zit52 .frame-18vnb3o { display: block; }", ".frame-Zit52 .frame-8wzjcd { align-content: center; align-items: center; cursor: pointer; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: 30px; justify-content: center; overflow: visible; padding: 20px 28px 20px 28px; position: relative; width: 179px; }", ".frame-Zit52 .frame-7fubv2, .frame-Zit52 .frame-tcje9m { bottom: 0px; flex: none; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; will-change: var(--frame-will-change-override, transform); z-index: 0; }", ".frame-Zit52 .frame-x6w7j2 { bottom: 2px; flex: none; left: 2px; overflow: hidden; position: absolute; right: 2px; top: 2px; will-change: var(--frame-will-change-override, transform); z-index: 0; }", ".frame-Zit52 .frame-18llsms { flex: none; height: 5px; overflow: visible; position: relative; width: 5px; }", ".frame-Zit52 .frame-o1j0x, .frame-Zit52 .frame-1rp00v0, .frame-Zit52 .frame-18jl2om { aspect-ratio: 1 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 5px); left: 0px; position: absolute; top: 0px; width: 5px; }", ".frame-Zit52 .frame-1rpyddg { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-Zit52 .frame-8wzjcd { gap: 0px; } .frame-Zit52 .frame-8wzjcd > * { margin: 0px; margin-left: calc(15px / 2); margin-right: calc(15px / 2); } .frame-Zit52 .frame-8wzjcd > :first-child { margin-left: 0px; } .frame-Zit52 .frame-8wzjcd > :last-child { margin-right: 0px; } }", ".frame-Zit52.frame-v-5vyiay .frame-8wzjcd { height: 33px; }"],
+	la = Re(Wm, Bm, "frame-Zit52"),
 	Nn = la;
 la.displayName = "Running-Stroke";
 la.defaultProps = {
@@ -15680,10 +15680,10 @@ var Dm = {
 	},
 	jm = ["dJMVPQ3Aj", "KTLJzBayl", "vAF3bIKEs", "J0_ZHXF15"];
 var Gm = {
-	dJMVPQ3Aj: "framer-v-9icyx6",
-	J0_ZHXF15: "framer-v-8zy8c0",
-	KTLJzBayl: "framer-v-1f0h01j",
-	vAF3bIKEs: "framer-v-1yhdsb"
+	dJMVPQ3Aj: "frame-v-9icyx6",
+	J0_ZHXF15: "frame-v-8zy8c0",
+	KTLJzBayl: "frame-v-1f0h01j",
+	vAF3bIKEs: "frame-v-1yhdsb"
 };
 
 function Hn(t, ...r) {
@@ -15779,7 +15779,7 @@ var Ym = {
 				onTapCancel: () => b({
 					isPressed: !1
 				}),
-				className: de("framer-2fL2A", g),
+				className: de("frame-2fL2A", g),
 				style: {
 					display: "contents"
 				},
@@ -15798,8 +15798,8 @@ var Ym = {
 							src: "./images/XvEZUKXvBAZXTalbqADO7fNJ8.png",
 							srcSet: "./images/XvEZUKXvBAZXTalbqADO7fNJ8.png?scale-down-to=512 512w, ./images/XvEZUKXvBAZXTalbqADO7fNJ8.png 670w"
 						},
-						className: de("framer-9icyx6", i),
-						"data-framer-name": "Step 1",
+						className: de("frame-9icyx6", i),
+						"data-frame-name": "Step 1",
 						layoutDependency: c,
 						layoutId: "dJMVPQ3Aj",
 						ref: r ?? m,
@@ -15820,16 +15820,16 @@ var Ym = {
 						},
 						...Hn({
 							"dJMVPQ3Aj-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"KTLJzBayl-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							"vAF3bIKEs-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							},
 							J0_ZHXF15: {
-								"data-framer-name": "tab 1",
+								"data-frame-name": "tab 1",
 								background: {
 									alt: "",
 									fit: "fill",
@@ -15843,10 +15843,10 @@ var Ym = {
 								}
 							},
 							KTLJzBayl: {
-								"data-framer-name": "Step 2"
+								"data-frame-name": "Step 2"
 							},
 							vAF3bIKEs: {
-								"data-framer-name": "Variant 3"
+								"data-frame-name": "Variant 3"
 							}
 						}, u, w),
 						children: [!(["KTLJzBayl-hover", "vAF3bIKEs-hover"].includes(w) || ["KTLJzBayl", "vAF3bIKEs", "J0_ZHXF15"].includes(u)) && o(he, {
@@ -15861,8 +15861,8 @@ var Ym = {
 								src: "./images/Wu1IPM6OSxM3pNvqavJXlwLWIfc.png",
 								srcSet: "./images/Wu1IPM6OSxM3pNvqavJXlwLWIfc.png?scale-down-to=512 512w, ./images/Wu1IPM6OSxM3pNvqavJXlwLWIfc.png 538w"
 							},
-							className: "framer-6msupk",
-							"data-framer-name": "Image_1",
+							className: "frame-6msupk",
+							"data-frame-name": "Image_1",
 							layoutDependency: c,
 							layoutId: "ziljtPk3I",
 							transformTemplate: Wn,
@@ -15891,8 +15891,8 @@ var Ym = {
 								pixelWidth: 538,
 								src: "./images/r34xdbwu6ShiJJ4QGAOnFOIHhBI.png"
 							},
-							className: "framer-1a8d16p",
-							"data-framer-name": "Image",
+							className: "frame-1a8d16p",
+							"data-frame-name": "Image",
 							layoutDependency: c,
 							layoutId: "yYqnJjM72",
 							transformTemplate: Wn
@@ -15907,8 +15907,8 @@ var Ym = {
 								src: "./images/BVZKq2yz6zMVXWwergTLGOHGD3Q.png",
 								srcSet: "./images/BVZKq2yz6zMVXWwergTLGOHGD3Q.png?scale-down-to=512 512w, ./images/BVZKq2yz6zMVXWwergTLGOHGD3Q.png 544w"
 							},
-							className: "framer-1cobprf",
-							"data-framer-name": "image_22",
+							className: "frame-1cobprf",
+							"data-frame-name": "image_22",
 							layoutDependency: c,
 							layoutId: "uL3GKAI4a",
 							transformTemplate: Wn,
@@ -15944,8 +15944,8 @@ var Ym = {
 			})
 		})
 	}),
-	Km = ['.framer-2fL2A [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-2fL2A .framer-18cbike { display: block; }", ".framer-2fL2A .framer-9icyx6 { cursor: pointer; height: 304px; overflow: hidden; position: relative; width: 670px; }", ".framer-2fL2A .framer-6msupk, .framer-2fL2A .framer-1a8d16p { aspect-ratio: 1.9779411764705883 / 1; bottom: 0px; flex: none; height: var(--framer-aspect-ratio-supported, 272px); left: 50%; overflow: visible; position: absolute; width: 538px; }", ".framer-2fL2A .framer-1cobprf { aspect-ratio: 2.150197628458498 / 1; bottom: 0px; flex: none; height: var(--framer-aspect-ratio-supported, 253px); left: 50%; overflow: visible; position: absolute; width: 544px; }", ".framer-2fL2A.framer-v-1f0h01j .framer-9icyx6, .framer-2fL2A.framer-v-1yhdsb .framer-9icyx6, .framer-2fL2A.framer-v-9icyx6.hover .framer-9icyx6 { aspect-ratio: 2.2039473684210527 / 1; height: var(--framer-aspect-ratio-supported, 304px); }", ".framer-2fL2A.framer-v-8zy8c0 .framer-9icyx6 { cursor: unset; height: 215px; width: 360px; will-change: var(--framer-will-change-override, transform); }", ".framer-2fL2A.framer-v-8zy8c0 .framer-1cobprf { bottom: 0px; height: var(--framer-aspect-ratio-supported, 129px); width: 276px; }", ".framer-2fL2A.framer-v-9icyx6.hover .framer-6msupk, .framer-2fL2A.framer-v-1f0h01j.hover .framer-1a8d16p { height: var(--framer-aspect-ratio-supported, 281px); width: 555px; }", ".framer-2fL2A.framer-v-1yhdsb.hover .framer-1cobprf { height: var(--framer-aspect-ratio-supported, 258px); width: 555px; }"],
-	fa = Re(Qm, Km, "framer-2fL2A"),
+	Km = ['.frame-2fL2A [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-2fL2A .frame-18cbike { display: block; }", ".frame-2fL2A .frame-9icyx6 { cursor: pointer; height: 304px; overflow: hidden; position: relative; width: 670px; }", ".frame-2fL2A .frame-6msupk, .frame-2fL2A .frame-1a8d16p { aspect-ratio: 1.9779411764705883 / 1; bottom: 0px; flex: none; height: var(--frame-aspect-ratio-supported, 272px); left: 50%; overflow: visible; position: absolute; width: 538px; }", ".frame-2fL2A .frame-1cobprf { aspect-ratio: 2.150197628458498 / 1; bottom: 0px; flex: none; height: var(--frame-aspect-ratio-supported, 253px); left: 50%; overflow: visible; position: absolute; width: 544px; }", ".frame-2fL2A.frame-v-1f0h01j .frame-9icyx6, .frame-2fL2A.frame-v-1yhdsb .frame-9icyx6, .frame-2fL2A.frame-v-9icyx6.hover .frame-9icyx6 { aspect-ratio: 2.2039473684210527 / 1; height: var(--frame-aspect-ratio-supported, 304px); }", ".frame-2fL2A.frame-v-8zy8c0 .frame-9icyx6 { cursor: unset; height: 215px; width: 360px; will-change: var(--frame-will-change-override, transform); }", ".frame-2fL2A.frame-v-8zy8c0 .frame-1cobprf { bottom: 0px; height: var(--frame-aspect-ratio-supported, 129px); width: 276px; }", ".frame-2fL2A.frame-v-9icyx6.hover .frame-6msupk, .frame-2fL2A.frame-v-1f0h01j.hover .frame-1a8d16p { height: var(--frame-aspect-ratio-supported, 281px); width: 555px; }", ".frame-2fL2A.frame-v-1yhdsb.hover .frame-1cobprf { height: var(--frame-aspect-ratio-supported, 258px); width: 555px; }"],
+	fa = Re(Qm, Km, "frame-2fL2A"),
 	ma = fa;
 fa.displayName = "Step 1 - Image", fa.defaultProps = {
 	height: 304,
@@ -15960,8 +15960,8 @@ fa.displayName = "Step 1 - Image", fa.defaultProps = {
 }), Me(fa, []);
 ki.loadWebFontsFromSelectors([]);
 var uo = [],
-	go = [".framer-QepcH .framer-styles-preset-1y6hx4h:not(.rich-text-wrapper), .framer-QepcH .framer-styles-preset-1y6hx4h.rich-text-wrapper a { --framer-link-current-text-decoration: none; --framer-link-text-decoration: none; }"],
-	yo = "framer-QepcH";
+	go = [".frame-QepcH .frame-styles-preset-1y6hx4h:not(.rich-text-wrapper), .frame-QepcH .frame-styles-preset-1y6hx4h.rich-text-wrapper a { --frame-link-current-text-decoration: none; --frame-link-text-decoration: none; }"],
+	yo = "frame-QepcH";
 var ed = {
 		BHwIGyWwL: {
 			hover: !0
@@ -15969,7 +15969,7 @@ var ed = {
 	},
 	td = ["BHwIGyWwL"];
 var rd = {
-	BHwIGyWwL: "framer-v-1dv720s"
+	BHwIGyWwL: "frame-v-1dv720s"
 };
 
 function ad(t, ...r) {
@@ -16054,7 +16054,7 @@ var nd = {
 				onTapCancel: () => b({
 					isPressed: !1
 				}),
-				className: de("framer-0NOpa", g),
+				className: de("frame-0NOpa", g),
 				style: {
 					display: "contents"
 				},
@@ -16062,8 +16062,8 @@ var nd = {
 					value: y,
 					children: O(A.div, {
 						...h,
-						className: de("framer-1dv720s", i),
-						"data-framer-name": "Variant 1",
+						className: de("frame-1dv720s", i),
+						"data-frame-name": "Variant 1",
 						layoutDependency: c,
 						layoutId: "BHwIGyWwL",
 						ref: r ?? m,
@@ -16072,12 +16072,12 @@ var nd = {
 						},
 						...ad({
 							"BHwIGyWwL-hover": {
-								"data-framer-name": void 0
+								"data-frame-name": void 0
 							}
 						}, u, w),
 						children: [o(Se, {
-							className: "framer-qw7mfy",
-							"data-framer-name": "Logo",
+							className: "frame-qw7mfy",
+							"data-frame-name": "Logo",
 							fill: "rgba(0,0,0,1)",
 							intrinsicHeight: 47,
 							intrinsicWidth: 47,
@@ -16098,7 +16098,7 @@ var nd = {
 `,
 							withExternalLayout: !0
 						}), o(A.div, {
-							className: "framer-1ctbbap",
+							className: "frame-1ctbbap",
 							layoutDependency: c,
 							layoutId: "y7Q4SKH8k",
 							style: {
@@ -16118,8 +16118,8 @@ var nd = {
 			})
 		})
 	}),
-	fd = ['.framer-0NOpa [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-0NOpa .framer-i2t7nq { display: block; }", ".framer-0NOpa .framer-1dv720s { height: 47px; overflow: visible; position: relative; width: 47px; }", ".framer-0NOpa .framer-qw7mfy { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; }", ".framer-0NOpa .framer-1ctbbap { flex: none; height: 100%; left: -1px; overflow: hidden; position: absolute; top: 0px; width: 100%; }", ".framer-0NOpa .framer-v-1dv720s .framer-1dv720s { cursor: pointer; }"],
-	Ka = Re(ld, fd, "framer-0NOpa"),
+	fd = ['.frame-0NOpa [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-0NOpa .frame-i2t7nq { display: block; }", ".frame-0NOpa .frame-1dv720s { height: 47px; overflow: visible; position: relative; width: 47px; }", ".frame-0NOpa .frame-qw7mfy { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; }", ".frame-0NOpa .frame-1ctbbap { flex: none; height: 100%; left: -1px; overflow: hidden; position: absolute; top: 0px; width: 100%; }", ".frame-0NOpa .frame-v-1dv720s .frame-1dv720s { cursor: pointer; }"],
+	Ka = Re(ld, fd, "frame-0NOpa"),
 	Bn = Ka;
 Ka.displayName = "Logo", Ka.defaultProps = {
 	height: 47,
@@ -16132,7 +16132,7 @@ var md = {
 	},
 	dd = ["iDkbpzkGj"];
 var cd = {
-	iDkbpzkGj: "framer-v-1uav1zu"
+	iDkbpzkGj: "frame-v-1uav1zu"
 };
 
 function hd(t, ...r) {
@@ -16223,7 +16223,7 @@ var pd = {
 				onTapCancel: () => v({
 					isPressed: !1
 				}),
-				className: de("framer-HW40D", w),
+				className: de("frame-HW40D", w),
 				style: {
 					display: "contents"
 				},
@@ -16238,8 +16238,8 @@ var pd = {
 						smoothScroll: !0,
 						children: O(A.a, {
 							...u,
-							className: `${de("framer-1uav1zu",i)} framer-u0zax9`,
-							"data-framer-name": "Variant 1",
+							className: `${de("frame-1uav1zu",i)} frame-u0zax9`,
+							"data-frame-name": "Variant 1",
 							layoutDependency: m,
 							layoutId: "iDkbpzkGj",
 							ref: r ?? p,
@@ -16248,12 +16248,12 @@ var pd = {
 							},
 							...hd({
 								"iDkbpzkGj-hover": {
-									"data-framer-name": void 0
+									"data-frame-name": void 0
 								}
 							}, g, b),
 							children: [o(A.div, {
-								className: "framer-cf0rqf",
-								"data-framer-name": "Rectangle 38",
+								className: "frame-cf0rqf",
+								"data-frame-name": "Rectangle 38",
 								layoutDependency: m,
 								layoutId: "PDkn31XzT",
 								style: {
@@ -16269,13 +16269,13 @@ var pd = {
 									}
 								}
 							}), O(A.div, {
-								className: "framer-ihqblj",
-								"data-framer-name": "Group 133",
+								className: "frame-ihqblj",
+								"data-frame-name": "Group 133",
 								layoutDependency: m,
 								layoutId: "Sr5RvbrVy",
 								children: [o(Se, {
-									className: "framer-1ylmwlw",
-									"data-framer-name": "Arrow 1",
+									className: "frame-1ylmwlw",
+									"data-frame-name": "Arrow 1",
 									fill: "rgba(0,0,0,1)",
 									intrinsicHeight: 10,
 									intrinsicWidth: 101,
@@ -16297,26 +16297,26 @@ var pd = {
 									children: o(R, {
 										children: o(A.p, {
 											style: {
-												"--framer-font-size": "14px"
+												"--frame-font-size": "14px"
 											},
 											children: o(A.span, {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans"',
-													"--framer-font-size": "14px",
-													"--framer-font-weight": "600"
+													"--frame-font-family": '"Instrument Sans"',
+													"--frame-font-size": "14px",
+													"--frame-font-weight": "600"
 												},
 												children: "Book a Call"
 											})
 										})
 									}),
-									className: "framer-vlr2fo",
-									"data-framer-name": "Book a Call",
+									className: "frame-vlr2fo",
+									"data-frame-name": "Book a Call",
 									fonts: ["GF;Instrument Sans-600"],
 									layoutDependency: m,
 									layoutId: "U_ZbWbfOd",
 									style: {
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									text: h,
 									verticalAlignment: "top",
@@ -16329,8 +16329,8 @@ var pd = {
 			})
 		})
 	}),
-	bd = ['.framer-HW40D [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-HW40D .framer-u0zax9 { display: block; }", ".framer-HW40D .framer-1uav1zu { cursor: pointer; height: 44px; overflow: visible; position: relative; text-decoration: none; width: 189px; }", ".framer-HW40D .framer-cf0rqf { flex: none; height: 44px; left: 0px; position: absolute; top: 0px; width: 189px; }", ".framer-HW40D .framer-ihqblj { flex: none; height: 21px; left: 23px; overflow: visible; position: absolute; top: 13px; width: 143px; }", ".framer-HW40D .framer-1ylmwlw { flex: none; height: 10px; left: 45px; position: absolute; top: 5px; width: 101px; }", ".framer-HW40D .framer-vlr2fo { flex: none; height: 21px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 112px; word-break: break-word; word-wrap: break-word; }", ".framer-HW40D.framer-v-1uav1zu.hover .framer-1ylmwlw { left: unset; right: -10px; top: calc(47.61904761904764% - 10px / 2); }"],
-	da = Re(vd, bd, "framer-HW40D"),
+	bd = ['.frame-HW40D [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-HW40D .frame-u0zax9 { display: block; }", ".frame-HW40D .frame-1uav1zu { cursor: pointer; height: 44px; overflow: visible; position: relative; text-decoration: none; width: 189px; }", ".frame-HW40D .frame-cf0rqf { flex: none; height: 44px; left: 0px; position: absolute; top: 0px; width: 189px; }", ".frame-HW40D .frame-ihqblj { flex: none; height: 21px; left: 23px; overflow: visible; position: absolute; top: 13px; width: 143px; }", ".frame-HW40D .frame-1ylmwlw { flex: none; height: 10px; left: 45px; position: absolute; top: 5px; width: 101px; }", ".frame-HW40D .frame-vlr2fo { flex: none; height: 21px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 112px; word-break: break-word; word-wrap: break-word; }", ".frame-HW40D.frame-v-1uav1zu.hover .frame-1ylmwlw { left: unset; right: -10px; top: calc(47.61904761904764% - 10px / 2); }"],
+	da = Re(vd, bd, "frame-HW40D"),
 	Dn = da;
 da.displayName = "Nav - CTA", da.defaultProps = {
 	height: 44,
@@ -16356,7 +16356,7 @@ var xd = Te(Dn),
 	wd = Te(Bn),
 	Sd = ["el2lAR8Mb"];
 var _d = {
-	el2lAR8Mb: "framer-v-1isn1rj"
+	el2lAR8Mb: "frame-v-1isn1rj"
 };
 var Cd = {
 		default: {
@@ -16435,7 +16435,7 @@ var Cd = {
 				onTapCancel: () => b({
 					isPressed: !1
 				}),
-				className: de("framer-yek2q", ...l, g),
+				className: de("frame-yek2q", ...l, g),
 				style: {
 					display: "contents"
 				},
@@ -16443,8 +16443,8 @@ var Cd = {
 					value: y,
 					children: O(A.div, {
 						...h,
-						className: de("framer-1isn1rj", i),
-						"data-framer-name": "Floater Menu",
+						className: de("frame-1isn1rj", i),
+						"data-frame-name": "Floater Menu",
 						layoutDependency: c,
 						layoutId: "el2lAR8Mb",
 						ref: r ?? m,
@@ -16452,18 +16452,18 @@ var Cd = {
 							...n
 						},
 						children: [O(A.div, {
-							className: "framer-11h6b4k",
-							"data-framer-name": "Menu",
+							className: "frame-11h6b4k",
+							"data-frame-name": "Menu",
 							layoutDependency: c,
 							layoutId: "m8oxDlF36",
 							children: [O(A.div, {
-								className: "framer-exxb7k",
-								"data-framer-name": "Shadow",
+								className: "frame-exxb7k",
+								"data-frame-name": "Shadow",
 								layoutDependency: c,
 								layoutId: "GapotIL3H",
 								children: [o(A.div, {
-									className: "framer-ayg099",
-									"data-framer-name": "Rectangle 39",
+									className: "frame-ayg099",
+									"data-frame-name": "Rectangle 39",
 									layoutDependency: c,
 									layoutId: "cvQyyw2PQ",
 									style: {
@@ -16472,8 +16472,8 @@ var Cd = {
 										WebkitFilter: "blur(33px)"
 									}
 								}), o(A.div, {
-									className: "framer-zzxtov",
-									"data-framer-name": "Rectangle 40",
+									className: "frame-zzxtov",
+									"data-frame-name": "Rectangle 40",
 									layoutDependency: c,
 									layoutId: "xx95YpKBO",
 									style: {
@@ -16483,9 +16483,9 @@ var Cd = {
 									}
 								})]
 							}), o(A.div, {
-								className: "framer-5ef045",
+								className: "frame-5ef045",
 								"data-border": !0,
-								"data-framer-name": "BG",
+								"data-frame-name": "BG",
 								layoutDependency: c,
 								layoutId: "SFh_Damxf",
 								style: {
@@ -16504,8 +16504,8 @@ var Cd = {
 									WebkitBackdropFilter: "blur(10px)"
 								}
 							}), O(A.div, {
-								className: "framer-4xsqw7",
-								"data-framer-name": "Text",
+								className: "frame-4xsqw7",
+								"data-frame-name": "Text",
 								layoutDependency: c,
 								layoutId: "SKXd5pJsY",
 								children: [o(N, {
@@ -16514,11 +16514,11 @@ var Cd = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 											},
 											children: o(rt, {
 												href: {
@@ -16528,21 +16528,21 @@ var Cd = {
 												openInNewTab: !1,
 												smoothScroll: !0,
 												children: o(A.a, {
-													className: "framer-styles-preset-1y6hx4h",
+													className: "frame-styles-preset-1y6hx4h",
 													"data-styles-preset": "KjEL69wIH",
 													children: "Why Us"
 												})
 											})
 										})
 									}),
-									className: "framer-13iupbv",
-									"data-framer-name": "Why Us",
+									className: "frame-13iupbv",
+									"data-frame-name": "Why Us",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: c,
 									layoutId: "aN59kZCYq",
 									style: {
 										"--extracted-r6o4lv": "rgb(255, 255, 255)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									verticalAlignment: "top",
 									withExternalLayout: !0
@@ -16552,11 +16552,11 @@ var Cd = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 											},
 											children: o(rt, {
 												href: {
@@ -16566,21 +16566,21 @@ var Cd = {
 												openInNewTab: !1,
 												smoothScroll: !0,
 												children: o(A.a, {
-													className: "framer-styles-preset-1y6hx4h",
+													className: "frame-styles-preset-1y6hx4h",
 													"data-styles-preset": "KjEL69wIH",
 													children: "How We Work"
 												})
 											})
 										})
 									}),
-									className: "framer-1puu35h",
-									"data-framer-name": "How We Work",
+									className: "frame-1puu35h",
+									"data-frame-name": "How We Work",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: c,
 									layoutId: "GRrXgtfOW",
 									style: {
 										"--extracted-r6o4lv": "rgb(255, 255, 255)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									verticalAlignment: "top",
 									withExternalLayout: !0
@@ -16590,11 +16590,11 @@ var Cd = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 											},
 											children: o(rt, {
 												href: {
@@ -16604,7 +16604,7 @@ var Cd = {
 												openInNewTab: !1,
 												smoothScroll: !0,
 												children: o(A.a, {
-													className: "framer-styles-preset-1y6hx4h",
+													className: "frame-styles-preset-1y6hx4h",
 													"data-styles-preset": "KjEL69wIH",
 													children: ""
 												})
@@ -16612,13 +16612,13 @@ var Cd = {
 										})
 									}),
 									className: "",
-									"data-framer-name": "",
+									"data-frame-name": "",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: c,
 									layoutId: "CFrkzLLsu",
 									style: {
 										"--extracted-r6o4lv": "rgb(255, 255, 255)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									verticalAlignment: "top",
 									withExternalLayout: !0
@@ -16628,11 +16628,11 @@ var Cd = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 											},
 											children: o(rt, {
 												href: {
@@ -16642,21 +16642,21 @@ var Cd = {
 												openInNewTab: !1,
 												smoothScroll: !0,
 												children: o(A.a, {
-													className: "framer-styles-preset-1y6hx4h",
+													className: "frame-styles-preset-1y6hx4h",
 													"data-styles-preset": "KjEL69wIH",
 													children: "Pricing"
 												})
 											})
 										})
 									}),
-									className: "framer-1229i8d",
-									"data-framer-name": "Pricing",
+									className: "frame-1229i8d",
+									"data-frame-name": "Pricing",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: c,
 									layoutId: "ud3g_wvuV",
 									style: {
 										"--extracted-r6o4lv": "rgb(255, 255, 255)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									verticalAlignment: "top",
 									withExternalLayout: !0
@@ -16666,11 +16666,11 @@ var Cd = {
 										children: o(A.p, {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-text-color": "var(--extracted-r6o4lv, rgb(255, 255, 255))"
 											},
 											children: o(rt, {
 												href: {
@@ -16680,27 +16680,27 @@ var Cd = {
 												openInNewTab: !1,
 												smoothScroll: !0,
 												children: o(A.a, {
-													className: "framer-styles-preset-1y6hx4h",
+													className: "frame-styles-preset-1y6hx4h",
 													"data-styles-preset": "KjEL69wIH",
 													children: "FAQ"
 												})
 											})
 										})
 									}),
-									className: "framer-1q4ywkh",
-									"data-framer-name": "FAQ",
+									className: "frame-1q4ywkh",
+									"data-frame-name": "FAQ",
 									fonts: ["GF;Instrument Sans-500"],
 									layoutDependency: c,
 									layoutId: "mELeB08RH",
 									style: {
 										"--extracted-r6o4lv": "rgb(255, 255, 255)",
-										"--framer-paragraph-spacing": "0px"
+										"--frame-paragraph-spacing": "0px"
 									},
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								})]
 							}), o(A.div, {
-								className: "framer-4mybhl-container",
+								className: "frame-4mybhl-container",
 								layoutDependency: c,
 								layoutId: "T7rjGwVSw-container",
 								children: o(Dn, {
@@ -16716,7 +16716,7 @@ var Cd = {
 								})
 							})]
 						}), o(A.div, {
-							className: "framer-1i5vsi3-container",
+							className: "frame-1i5vsi3-container",
 							layoutDependency: c,
 							layoutId: "TrZi9l2aB-container",
 							children: o(Bn, {
@@ -16735,8 +16735,8 @@ var Cd = {
 			})
 		})
 	}),
-	Od = ['.framer-yek2q [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-yek2q .framer-1mk122i { display: block; }", ".framer-yek2q .framer-1isn1rj { height: 59px; overflow: visible; position: relative; width: 917px; }", ".framer-yek2q .framer-11h6b4k { flex: none; height: 59px; left: 0px; overflow: visible; position: absolute; top: 0px; width: 917px; }", ".framer-yek2q .framer-exxb7k { flex: none; height: 20px; left: 71px; overflow: visible; position: absolute; top: 39px; width: 778px; }", ".framer-yek2q .framer-ayg099 { flex: none; height: 11px; left: 0px; position: absolute; top: 0px; width: 778px; }", ".framer-yek2q .framer-zzxtov { flex: none; height: 11px; left: 0px; position: absolute; top: 9px; width: 778px; }", ".framer-yek2q .framer-5ef045 { flex: none; height: 55px; left: 0px; position: absolute; top: 0px; width: 917px; }", ".framer-yek2q .framer-4xsqw7 { flex: none; height: 17px; left: 110px; overflow: visible; position: absolute; top: 18px; width: 552px; }", ".framer-yek2q .framer-13iupbv { flex: none; height: 17px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 60px; word-break: break-word; word-wrap: break-word; }", ".framer-yek2q .framer-1puu35h { flex: none; height: 17px; left: 109px; position: absolute; top: 0px; white-space: pre-wrap; width: 111px; word-break: break-word; word-wrap: break-word; }", ".framer-yek2q .framer-1xy0ibn { flex: none; height: 17px; left: 269px; position: absolute; top: 0px; white-space: pre-wrap; width: 97px; word-break: break-word; word-wrap: break-word; }", ".framer-yek2q .framer-1229i8d { flex: none; height: 17px; left: 415px; position: absolute; top: 0px; white-space: pre-wrap; width: 53px; word-break: break-word; word-wrap: break-word; }", ".framer-yek2q .framer-1q4ywkh { flex: none; height: 17px; left: 517px; position: absolute; top: 0px; white-space: pre-wrap; width: 35px; word-break: break-word; word-wrap: break-word; }", ".framer-yek2q .framer-4mybhl-container { flex: none; height: 44px; left: 722px; position: absolute; top: 5px; width: 189px; }", ".framer-yek2q .framer-1i5vsi3-container { flex: none; height: 47px; left: 4px; position: absolute; top: 4px; width: 47px; }", ...go],
-	$a = Re(Td, Od, "framer-yek2q"),
+	Od = ['.frame-yek2q [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-yek2q .frame-1mk122i { display: block; }", ".frame-yek2q .frame-1isn1rj { height: 59px; overflow: visible; position: relative; width: 917px; }", ".frame-yek2q .frame-11h6b4k { flex: none; height: 59px; left: 0px; overflow: visible; position: absolute; top: 0px; width: 917px; }", ".frame-yek2q .frame-exxb7k { flex: none; height: 20px; left: 71px; overflow: visible; position: absolute; top: 39px; width: 778px; }", ".frame-yek2q .frame-ayg099 { flex: none; height: 11px; left: 0px; position: absolute; top: 0px; width: 778px; }", ".frame-yek2q .frame-zzxtov { flex: none; height: 11px; left: 0px; position: absolute; top: 9px; width: 778px; }", ".frame-yek2q .frame-5ef045 { flex: none; height: 55px; left: 0px; position: absolute; top: 0px; width: 917px; }", ".frame-yek2q .frame-4xsqw7 { flex: none; height: 17px; left: 110px; overflow: visible; position: absolute; top: 18px; width: 552px; }", ".frame-yek2q .frame-13iupbv { flex: none; height: 17px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 60px; word-break: break-word; word-wrap: break-word; }", ".frame-yek2q .frame-1puu35h { flex: none; height: 17px; left: 109px; position: absolute; top: 0px; white-space: pre-wrap; width: 111px; word-break: break-word; word-wrap: break-word; }", ".frame-yek2q .frame-1xy0ibn { flex: none; height: 17px; left: 269px; position: absolute; top: 0px; white-space: pre-wrap; width: 97px; word-break: break-word; word-wrap: break-word; }", ".frame-yek2q .frame-1229i8d { flex: none; height: 17px; left: 415px; position: absolute; top: 0px; white-space: pre-wrap; width: 53px; word-break: break-word; word-wrap: break-word; }", ".frame-yek2q .frame-1q4ywkh { flex: none; height: 17px; left: 517px; position: absolute; top: 0px; white-space: pre-wrap; width: 35px; word-break: break-word; word-wrap: break-word; }", ".frame-yek2q .frame-4mybhl-container { flex: none; height: 44px; left: 722px; position: absolute; top: 5px; width: 189px; }", ".frame-yek2q .frame-1i5vsi3-container { flex: none; height: 47px; left: 4px; position: absolute; top: 4px; width: 47px; }", ...go],
+	$a = Re(Td, Od, "frame-yek2q"),
 	jn = $a;
 $a.displayName = "Floater Menu", $a.defaultProps = {
 	height: 59,
@@ -16754,12 +16754,12 @@ $a.displayName = "Floater Menu", $a.defaultProps = {
 var Id = Te(pt),
 	Ad = ["YKurf1Umj", "wtRaeF_As", "ROr2opTPr", "jifwhypuS", "n7NcnhDBi", "SESMPc04m"];
 var Fd = {
-	jifwhypuS: "framer-v-1yky9wl",
-	n7NcnhDBi: "framer-v-1x8e2l9",
-	ROr2opTPr: "framer-v-19vrrou",
-	SESMPc04m: "framer-v-wl3ln4",
-	wtRaeF_As: "framer-v-xcv9r6",
-	YKurf1Umj: "framer-v-1bvanyn"
+	jifwhypuS: "frame-v-1yky9wl",
+	n7NcnhDBi: "frame-v-1x8e2l9",
+	ROr2opTPr: "frame-v-19vrrou",
+	SESMPc04m: "frame-v-wl3ln4",
+	wtRaeF_As: "frame-v-xcv9r6",
+	YKurf1Umj: "frame-v-1bvanyn"
 };
 
 function Or(t, ...r) {
@@ -16870,7 +16870,7 @@ var Ld = {
 				onTapCancel: () => b({
 					isPressed: !1
 				}),
-				className: de("framer-1Bcps", g),
+				className: de("frame-1Bcps", g),
 				style: {
 					display: "contents"
 				},
@@ -16878,8 +16878,8 @@ var Ld = {
 					value: y,
 					children: O(A.div, {
 						...h,
-						className: de("framer-1bvanyn", i),
-						"data-framer-name": "Variant 1",
+						className: de("frame-1bvanyn", i),
+						"data-frame-name": "Variant 1",
 						layoutDependency: c,
 						layoutId: "YKurf1Umj",
 						ref: r ?? T,
@@ -16888,23 +16888,23 @@ var Ld = {
 						},
 						...Or({
 							jifwhypuS: {
-								"data-framer-name": "Variant 4"
+								"data-frame-name": "Variant 4"
 							},
 							n7NcnhDBi: {
-								"data-framer-name": "Variant 5"
+								"data-frame-name": "Variant 5"
 							},
 							ROr2opTPr: {
-								"data-framer-name": "Variant 3"
+								"data-frame-name": "Variant 3"
 							},
 							SESMPc04m: {
-								"data-framer-name": "Variant 6"
+								"data-frame-name": "Variant 6"
 							},
 							wtRaeF_As: {
-								"data-framer-name": "Variant 2"
+								"data-frame-name": "Variant 2"
 							}
 						}, u, w),
 						children: [o(A.div, {
-							className: "framer-6c8yqw-container",
+							className: "frame-6c8yqw-container",
 							layoutDependency: c,
 							layoutId: "QLe57xEjd-container",
 							children: o(pt, {
@@ -16927,7 +16927,7 @@ var Ld = {
 								}, u, w)
 							})
 						}), o(A.div, {
-							className: "framer-70z2pk-container",
+							className: "frame-70z2pk-container",
 							layoutDependency: c,
 							layoutId: "WY72KyQ0p-container",
 							children: o(pt, {
@@ -16951,7 +16951,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								}, u, w)
 							})
 						}), o(A.div, {
-							className: "framer-mx7alt-container",
+							className: "frame-mx7alt-container",
 							layoutDependency: c,
 							layoutId: "ve88RtPlH-container",
 							children: o(pt, {
@@ -16968,7 +16968,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								width: "100%"
 							})
 						}), o(A.div, {
-							className: "framer-zzpvfw-container",
+							className: "frame-zzpvfw-container",
 							layoutDependency: c,
 							layoutId: "UsNcAXxT_-container",
 							children: o(pt, {
@@ -16985,7 +16985,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								width: "100%"
 							})
 						}), o(A.div, {
-							className: "framer-12he2mo-container",
+							className: "frame-12he2mo-container",
 							layoutDependency: c,
 							layoutId: "VJXdCCa3s-container",
 							children: o(pt, {
@@ -17007,7 +17007,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								}, u, w)
 							})
 						}), o(A.div, {
-							className: "framer-euglr5-container",
+							className: "frame-euglr5-container",
 							layoutDependency: c,
 							layoutId: "PJMZKQ4cm-container",
 							children: o(pt, {
@@ -17029,7 +17029,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								}, u, w)
 							})
 						}), o(A.div, {
-							className: "framer-iycnh-container",
+							className: "frame-iycnh-container",
 							layoutDependency: c,
 							layoutId: "Rf8jYimcq-container",
 							children: o(pt, {
@@ -17056,8 +17056,8 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 			})
 		})
 	}),
-	Nd = ['.framer-1Bcps [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", ".framer-1Bcps .framer-lpshad { display: block; }", ".framer-1Bcps .framer-1bvanyn { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; overflow: visible; padding: 0px 0px 0px 0px; position: relative; width: 380px; }", ".framer-1Bcps .framer-6c8yqw-container, .framer-1Bcps .framer-70z2pk-container, .framer-1Bcps .framer-mx7alt-container, .framer-1Bcps .framer-zzpvfw-container, .framer-1Bcps .framer-12he2mo-container, .framer-1Bcps .framer-euglr5-container, .framer-1Bcps .framer-iycnh-container { flex: none; height: auto; position: relative; width: 100%; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .framer-1Bcps .framer-1bvanyn { gap: 0px; } .framer-1Bcps .framer-1bvanyn > * { margin: 0px; margin-bottom: calc(5px / 2); margin-top: calc(5px / 2); } .framer-1Bcps .framer-1bvanyn > :first-child { margin-top: 0px; } .framer-1Bcps .framer-1bvanyn > :last-child { margin-bottom: 0px; } }", ".framer-1Bcps.framer-v-xcv9r6 .framer-6c8yqw-container { order: 0; }", ".framer-1Bcps.framer-v-xcv9r6 .framer-70z2pk-container { order: 1; }", ".framer-1Bcps.framer-v-xcv9r6 .framer-mx7alt-container { order: 2; }", ".framer-1Bcps.framer-v-xcv9r6 .framer-zzpvfw-container { order: 3; }", ".framer-1Bcps.framer-v-xcv9r6 .framer-12he2mo-container { order: 4; }", ".framer-1Bcps.framer-v-xcv9r6 .framer-euglr5-container { order: 5; }", ".framer-1Bcps.framer-v-xcv9r6 .framer-iycnh-container { order: 6; }"],
-	ca = Re(Vd, Nd, "framer-1Bcps"),
+	Nd = ['.frame-1Bcps [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }', "@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", ".frame-1Bcps .frame-lpshad { display: block; }", ".frame-1Bcps .frame-1bvanyn { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; overflow: visible; padding: 0px 0px 0px 0px; position: relative; width: 380px; }", ".frame-1Bcps .frame-6c8yqw-container, .frame-1Bcps .frame-70z2pk-container, .frame-1Bcps .frame-mx7alt-container, .frame-1Bcps .frame-zzpvfw-container, .frame-1Bcps .frame-12he2mo-container, .frame-1Bcps .frame-euglr5-container, .frame-1Bcps .frame-iycnh-container { flex: none; height: auto; position: relative; width: 100%; }", "@supports (background: -webkit-named-image(i)) and (not (font-palette:dark)) { .frame-1Bcps .frame-1bvanyn { gap: 0px; } .frame-1Bcps .frame-1bvanyn > * { margin: 0px; margin-bottom: calc(5px / 2); margin-top: calc(5px / 2); } .frame-1Bcps .frame-1bvanyn > :first-child { margin-top: 0px; } .frame-1Bcps .frame-1bvanyn > :last-child { margin-bottom: 0px; } }", ".frame-1Bcps.frame-v-xcv9r6 .frame-6c8yqw-container { order: 0; }", ".frame-1Bcps.frame-v-xcv9r6 .frame-70z2pk-container { order: 1; }", ".frame-1Bcps.frame-v-xcv9r6 .frame-mx7alt-container { order: 2; }", ".frame-1Bcps.frame-v-xcv9r6 .frame-zzpvfw-container { order: 3; }", ".frame-1Bcps.frame-v-xcv9r6 .frame-12he2mo-container { order: 4; }", ".frame-1Bcps.frame-v-xcv9r6 .frame-euglr5-container { order: 5; }", ".frame-1Bcps.frame-v-xcv9r6 .frame-iycnh-container { order: 6; }"],
+	ca = Re(Vd, Nd, "frame-1Bcps"),
 	Gn = ca;
 ca.displayName = "FAQ - Mobile", ca.defaultProps = {
 	height: 429,
@@ -17098,11 +17098,11 @@ var Hd = Te(Bt),
 		zlcSTwSVD: "(min-width: 810px) and (max-width: 1199px)"
 	},
 	pa = () => typeof document < "u",
-	vo = "framer-yJaOb",
+	vo = "frame-yJaOb",
 	nc = {
-		ochiKIVLC: "framer-v-qmdb2w",
-		UzYLOQwbI: "framer-v-1i86tcs",
-		zlcSTwSVD: "framer-v-11ouoyp"
+		ochiKIVLC: "frame-v-qmdb2w",
+		UzYLOQwbI: "frame-v-1i86tcs",
+		zlcSTwSVD: "frame-v-11ouoyp"
 	},
 	ic = {
 		damping: 40,
@@ -17366,10 +17366,10 @@ var Hd = Te(Bt),
 			let Mt = vt.bodyClassName;
 			if (Mt) {
 				let Jt = document.body;
-				Jt.classList.forEach(ir => ir.startsWith("framer-body-") && Jt.classList.remove(ir)), Jt.classList.add(`${vt.bodyClassName}-framer-yJaOb`)
+				Jt.classList.forEach(ir => ir.startsWith("frame-body-") && Jt.classList.remove(ir)), Jt.classList.add(`${vt.bodyClassName}-frame-yJaOb`)
 			}
 			return () => {
-				Mt && document.body.classList.remove(`${vt.bodyClassName}-framer-yJaOb`)
+				Mt && document.body.classList.remove(`${vt.bodyClassName}-frame-yJaOb`)
 			}
 		}, [void 0, a]);
 		let [g, w] = Ci(h, ac, !1), b = void 0, v = Q(null), y = () => !pa() || g === "UzYLOQwbI", _ = qe("TMcJJfsXi"), c = Q(null), m = () => pa() ? !["zlcSTwSVD", "UzYLOQwbI"].includes(g) : !0, p = Q(null), l = Q(null), d = () => pa() ? g !== "UzYLOQwbI" : !0, x = qe("zYCwGIwh3"), S = Q(null), E = qe("rFC8l8_GG"), k = Q(null), T = qe("aMCM_VAUf"), J = Q(null), M = () => pa() ? g !== "zlcSTwSVD" : !0, j = qe("m1QoYcSBG"), D = Q(null), U = qe("XPRGXSMMc"), X = Q(null), Y = qe("Edbhq6MEp"), F = () => !pa() || g === "zlcSTwSVD", I = qe("MUAitczmf"), P = Q(null), z = qe("BQ81uZ6RE"), Z = Q(null), B = qe("rFtZbaTBC"), me = Q(null), ne = qe("dcua9t9VQ"), pe = Q(null), oe = qe("Ic29ixVwE"), _e = Q(null), Be = qe("EmvOOwp1F"), Xe = Q(null), Ze = qe("NKTc8x8Og"), Ge = Q(null), xe = qe("wOWK8aA6n"), Je = Q(null), K = qe("o0DhXHJVD"), Ce = Q(null), lt = qe("X9Yqv_gAm"), ft = qe("cmsi4F7uX"), mt = Q(null), et = qe("P6YzsRGLM"), ve = Q(null), ue = Q(null), Ie = qe("W2rAhJWnR"), Ae = qe("eDRadCNBs"), Qe = Q(null), Ee = qe("suAEV_hZN"), He = Q(null), ae = Q(null), tt = qe("cOFSHX_CB"), ut = qe("SPKKbPrgv"), De = Q(null), Ut = Fe(), ze = [];
@@ -17382,20 +17382,20 @@ var Hd = Te(Bt),
 				id: f ?? Ut,
 				children: [O(A.div, {
 					...u,
-					className: de(vo, ...ze, "framer-qmdb2w", s),
+					className: de(vo, ...ze, "frame-qmdb2w", s),
 					ref: r ?? v,
 					style: {
 						...i
 					},
 					children: [y() && O("div", {
-						className: "framer-1esd98c hidden-qmdb2w hidden-11ouoyp",
+						className: "frame-1esd98c hidden-qmdb2w hidden-11ouoyp",
 						children: [y() && o("div", {
-							className: "framer-1x751x hidden-qmdb2w",
+							className: "frame-1x751x hidden-qmdb2w",
 							children: y() && O("div", {
-								className: "framer-1rfy42e hidden-qmdb2w",
+								className: "frame-1rfy42e hidden-qmdb2w",
 								children: [y() && o(te, {
 									children: o(re, {
-										className: "framer-1mkm3ik-container hidden-qmdb2w",
+										className: "frame-1mkm3ik-container hidden-qmdb2w",
 										children: o(Bt, {
 											alignment: "center",
 											direction: "left",
@@ -17431,8 +17431,8 @@ var Hd = Te(Bt),
 													pixelWidth: 1211,
 													src: "./images/Mp9oNQSPZkNM6BlGKSIJ6GhBg6o.png"
 												},
-												className: "framer-li6er0",
-												"data-framer-name": "V2",
+												className: "frame-li6er0",
+												"data-frame-name": "V2",
 												name: "V2"
 											})],
 											speed: 10,
@@ -17444,16 +17444,16 @@ var Hd = Te(Bt),
 										})
 									})
 								}), y() && o("div", {
-									className: "framer-1af99hb hidden-qmdb2w",
+									className: "frame-1af99hb hidden-qmdb2w",
 									children: o("div", {
-										className: "framer-83izse",
+										className: "frame-83izse",
 										children: O("div", {
-											className: "framer-pu5308",
-											"data-framer-name": "Rating",
+											className: "frame-pu5308",
+											"data-frame-name": "Rating",
 											name: "Rating",
 											children: [O("div", {
-												className: "framer-15hnh4l",
-												"data-framer-name": "Content",
+												className: "frame-15hnh4l",
+												"data-frame-name": "Content",
 												name: "Content",
 												children: [o(N, {
 													__fromCanvasComponent: !0,
@@ -17461,25 +17461,25 @@ var Hd = Te(Bt),
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-size": "11px",
-																"--framer-font-weight": "500",
-																"--framer-letter-spacing": "-0.01em",
-																"--framer-line-height": "16.77px",
-																"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-size": "11px",
+																"--frame-font-weight": "500",
+																"--frame-letter-spacing": "-0.01em",
+																"--frame-line-height": "16.77px",
+																"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 															},
 															children: "Rated by top agencies"
 														})
 													}),
-													className: "framer-6d35qk",
-													"data-framer-name": "Text",
+													className: "frame-6d35qk",
+													"data-frame-name": "Text",
 													fonts: ["GF;Instrument Sans-500"],
 													name: "Text",
 													verticalAlignment: "top",
 													withExternalLayout: !0
 												}), o(Se, {
-													className: "framer-1yv3vyc",
-													"data-framer-name": "Stars",
+													className: "frame-1yv3vyc",
+													"data-frame-name": "Stars",
 													fill: "rgba(0,0,0,1)",
 													intrinsicHeight: 17,
 													intrinsicWidth: 100,
@@ -17495,21 +17495,21 @@ var Hd = Te(Bt),
 													withExternalLayout: !0
 												})]
 											}), O("div", {
-												className: "framer-1iwtsgp",
-												"data-framer-name": "Rings",
+												className: "frame-1iwtsgp",
+												"data-frame-name": "Rings",
 												name: "Rings",
 												children: [o(A.div, {
-													className: "framer-10d18f9",
+													className: "frame-10d18f9",
 													"data-border": !0,
-													"data-framer-name": "Ellipse 10",
+													"data-frame-name": "Ellipse 10",
 													name: "Ellipse 10",
 													style: {
 														rotate: 14
 													}
 												}), o(A.div, {
-													className: "framer-19sl4ds",
+													className: "frame-19sl4ds",
 													"data-border": !0,
-													"data-framer-name": "Ellipse 11",
+													"data-frame-name": "Ellipse 11",
 													name: "Ellipse 11",
 													style: {
 														rotate: 7
@@ -17521,29 +17521,29 @@ var Hd = Te(Bt),
 													children: O("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "21.79px",
-															"--framer-font-weight": "500",
-															"--framer-letter-spacing": "-2.18px",
-															"--framer-line-height": "55.58px",
-															"--framer-text-color": "rgb(203,255,13)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "21.79px",
+															"--frame-font-weight": "500",
+															"--frame-letter-spacing": "-2.18px",
+															"--frame-line-height": "55.58px",
+															"--frame-text-color": "rgb(203,255,13)"
 														},
 														children: [o("span", {
 															style: {
-																"--framer-font-size": "39.23px"
+																"--frame-font-size": "39.23px"
 															},
 															children: "4.8"
 														}), o("span", {
 															style: {
-																"--framer-letter-spacing": "0px",
-																"--framer-text-color": "rgba(255, 255, 255, 0.42)"
+																"--frame-letter-spacing": "0px",
+																"--frame-text-color": "rgba(255, 255, 255, 0.42)"
 															},
 															children: "/5"
 														})]
 													})
 												}),
-												className: "framer-183uf98",
-												"data-framer-name": "4.8/5",
+												className: "frame-183uf98",
+												"data-frame-name": "4.8/5",
 												fonts: ["GF;Instrument Sans-500"],
 												name: "4.8/5",
 												verticalAlignment: "top",
@@ -17552,21 +17552,21 @@ var Hd = Te(Bt),
 										})
 									})
 								}), o("div", {
-									className: "framer-umc81b",
-									"data-framer-name": "Gardient",
+									className: "frame-umc81b",
+									"data-frame-name": "Gardient",
 									name: "Gardient"
 								})]
 							})
 						}), y() && O("div", {
-							className: "framer-o3zjec hidden-qmdb2w",
+							className: "frame-o3zjec hidden-qmdb2w",
 							"data-border": !0,
-							"data-framer-name": "Navbar ",
+							"data-frame-name": "Navbar ",
 							id: _,
 							name: "Navbar ",
 							ref: c,
 							children: [o(Se, {
-								className: "framer-1ljikb1",
-								"data-framer-name": "Logo",
+								className: "frame-1ljikb1",
+								"data-frame-name": "Logo",
 								fill: "black",
 								intrinsicHeight: 390,
 								intrinsicWidth: 666,
@@ -17576,8 +17576,8 @@ var Hd = Te(Bt),
 							}), o(te, {
 								children: o(Yn, {
 									animate: Xn,
-									className: "framer-1rg16my-container",
-									"data-framer-appear-id": "1rg16my",
+									className: "frame-1rg16my-container",
+									"data-frame-appear-id": "1rg16my",
 									initial: Un,
 									optimized: !0,
 									style: {
@@ -17651,7 +17651,7 @@ var Hd = Te(Bt),
 							__framer__transformViewportThreshold: 1,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1e5gbwv-container hidden-11ouoyp hidden-1i86tcs",
+							className: "frame-1e5gbwv-container hidden-11ouoyp hidden-1i86tcs",
 							layoutScroll: !0,
 							style: {
 								transformPerspective: 1200
@@ -17677,9 +17677,9 @@ var Hd = Te(Bt),
 						__framer__threshold: .5,
 						__perspectiveFX: !1,
 						__targetOpacity: 1,
-						className: "framer-1t32isl hidden-1i86tcs",
+						className: "frame-1t32isl hidden-1i86tcs",
 						"data-border": !0,
-						"data-framer-name": "Navbar ",
+						"data-frame-name": "Navbar ",
 						id: x,
 						name: "Navbar ",
 						ref: S,
@@ -17687,8 +17687,8 @@ var Hd = Te(Bt),
 							transformPerspective: 1200
 						},
 						children: [o(Se, {
-							className: "framer-i1krv3",
-							"data-framer-name": "Logo",
+							className: "frame-i1krv3",
+							"data-frame-name": "Logo",
 							fill: "black",
 							intrinsicHeight: 390,
 							intrinsicWidth: 1300,
@@ -17698,8 +17698,8 @@ var Hd = Te(Bt),
 						}), o(te, {
 							children: o(Yn, {
 								animate: Xn,
-								className: "framer-bxf5zd-container",
-								"data-framer-appear-id": "bxf5zd",
+								className: "frame-bxf5zd-container",
+								"data-frame-appear-id": "bxf5zd",
 								initial: Un,
 								optimized: !0,
 								style: {
@@ -17717,14 +17717,14 @@ var Hd = Te(Bt),
 							})
 						})]
 					}), d() && O("div", {
-						className: "framer-1bzl8fw hidden-1i86tcs",
-						"data-framer-name": "Cards",
+						className: "frame-1bzl8fw hidden-1i86tcs",
+						"data-frame-name": "Cards",
 						id: E,
 						name: "Cards",
 						ref: k,
 						children: [O("div", {
-							className: "framer-f96sfo",
-							"data-framer-name": "Lines",
+							className: "frame-f96sfo",
+							"data-frame-name": "Lines",
 							name: "Lines",
 							children: [o(Oe, {
 								__framer__loop: yr,
@@ -17734,8 +17734,8 @@ var Hd = Te(Bt),
 								__framer__loopTransition: Ht,
 								__perspectiveFX: !1,
 								__targetOpacity: .5,
-								className: "framer-139ynz2",
-								"data-framer-name": "1",
+								className: "frame-139ynz2",
+								"data-frame-name": "1",
 								name: "1"
 							}), o(Oe, {
 								__framer__loop: yr,
@@ -17745,8 +17745,8 @@ var Hd = Te(Bt),
 								__framer__loopTransition: Ht,
 								__perspectiveFX: !1,
 								__targetOpacity: .5,
-								className: "framer-10sa90y",
-								"data-framer-name": "2",
+								className: "frame-10sa90y",
+								"data-frame-name": "2",
 								name: "2"
 							}), o(Oe, {
 								__framer__loop: yr,
@@ -17756,8 +17756,8 @@ var Hd = Te(Bt),
 								__framer__loopTransition: Ht,
 								__perspectiveFX: !1,
 								__targetOpacity: .5,
-								className: "framer-x3nhlb",
-								"data-framer-name": "3",
+								className: "frame-x3nhlb",
+								"data-frame-name": "3",
 								name: "3"
 							}), o(Oe, {
 								__framer__loop: yr,
@@ -17767,8 +17767,8 @@ var Hd = Te(Bt),
 								__framer__loopTransition: Ht,
 								__perspectiveFX: !1,
 								__targetOpacity: .5,
-								className: "framer-zq1dwo",
-								"data-framer-name": "4",
+								className: "frame-zq1dwo",
+								"data-frame-name": "4",
 								name: "4"
 							}), o(Oe, {
 								__framer__loop: yr,
@@ -17778,8 +17778,8 @@ var Hd = Te(Bt),
 								__framer__loopTransition: Ht,
 								__perspectiveFX: !1,
 								__targetOpacity: .5,
-								className: "framer-1roffst",
-								"data-framer-name": "5",
+								className: "frame-1roffst",
+								"data-frame-name": "5",
 								name: "5"
 							}), o(Oe, {
 								__framer__loop: yr,
@@ -17789,16 +17789,16 @@ var Hd = Te(Bt),
 								__framer__loopTransition: Ht,
 								__perspectiveFX: !1,
 								__targetOpacity: .5,
-								className: "framer-91p4ux",
-								"data-framer-name": "5",
+								className: "frame-91p4ux",
+								"data-frame-name": "5",
 								name: "5"
 							})]
 						}), O("div", {
-							className: "framer-14jv5lw",
-							"data-framer-name": "Heading",
+							className: "frame-14jv5lw",
+							"data-frame-name": "Heading",
 							name: "Heading",
 							children: [O("div", {
-								className: "framer-1hqyc81",
+								className: "frame-1hqyc81",
 								children: [o(qn, {
 									__framer__animate: {
 										transition: wt
@@ -17814,11 +17814,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "52px",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "71px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.8)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "52px",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "71px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.8)"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -17829,7 +17829,7 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-d27789",
+									className: "frame-d27789",
 									fonts: ["GF;Instrument Sans-regular"],
 									style: {
 										transformPerspective: 1200
@@ -17851,12 +17851,12 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "52px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "68px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.8)"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "52px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "68px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.8)"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -17867,7 +17867,7 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-1d08ze6",
+									className: "frame-1d08ze6",
 									fonts: ["GF;Instrument Sans-600"],
 									style: {
 										transformPerspective: 1200
@@ -17883,10 +17883,10 @@ var Hd = Te(Bt),
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.5px",
-													"--framer-line-height": "25.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.5px",
+													"--frame-line-height": "25.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "Save time and energy with a streamlined design process that helps you create high-converting designs quickly. Our team of experts is here to support you, all for a simple, fixed monthly fee."
 											})
@@ -17908,16 +17908,16 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-0.5px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-0.5px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: "Save time and energy with a streamlined design process that helps you create high-converting designs quickly. Our team of experts is here to support you, all for a simple, fixed monthly fee."
 										})
 									}),
-									className: "framer-6dele2",
+									className: "frame-6dele2",
 									fonts: ["GF;Instrument Sans-regular"],
 									style: {
 										transformPerspective: 1200
@@ -17936,12 +17936,12 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1vjblfq",
+							className: "frame-1vjblfq",
 							style: {
 								transformPerspective: 1200
 							},
 							children: [O("div", {
-								className: "framer-vatc0c",
+								className: "frame-vatc0c",
 								children: [o(rt, {
 									href: {
 										hash: ":NKTc8x8Og",
@@ -17950,10 +17950,10 @@ var Hd = Te(Bt),
 									openInNewTab: !1,
 									smoothScroll: !0,
 									children: o("a", {
-										className: "framer-1zhde9 framer-4zsb7x",
+										className: "frame-1zhde9 frame-4zsb7x",
 										children: o(te, {
 											children: o(re, {
-												className: "framer-1asq1ww-container",
+												className: "frame-1asq1ww-container",
 												id: T,
 												ref: J,
 												children: o(ea, {
@@ -17977,7 +17977,7 @@ var Hd = Te(Bt),
 									openInNewTab: !1,
 									smoothScroll: !0,
 									children: o("a", {
-										className: "framer-124j29f framer-4zsb7x",
+										className: "frame-124j29f frame-4zsb7x",
 										children: o(Pe, {
 											breakpoint: g,
 											overrides: {
@@ -17989,7 +17989,7 @@ var Hd = Te(Bt),
 												height: 62,
 												y: 1042.01224899292,
 												children: o(re, {
-													className: "framer-19gj285-container",
+													className: "frame-19gj285-container",
 													children: o(ra, {
 														height: "100%",
 														id: "mnr8czvqk",
@@ -18006,12 +18006,12 @@ var Hd = Te(Bt),
 									})
 								})]
 							}), M() && O("div", {
-								className: "framer-148qpwl hidden-11ouoyp",
-								"data-framer-name": "Rating",
+								className: "frame-148qpwl hidden-11ouoyp",
+								"data-frame-name": "Rating",
 								name: "Rating",
 								children: [O("div", {
-									className: "framer-thgbey",
-									"data-framer-name": "Content",
+									className: "frame-thgbey",
+									"data-frame-name": "Content",
 									name: "Content",
 									children: [o(N, {
 										__fromCanvasComponent: !0,
@@ -18019,25 +18019,25 @@ var Hd = Te(Bt),
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "18px",
-													"--framer-font-weight": "500",
-													"--framer-letter-spacing": "-1px",
-													"--framer-line-height": "25.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "18px",
+													"--frame-font-weight": "500",
+													"--frame-letter-spacing": "-1px",
+													"--frame-line-height": "25.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "Rated by top agencies"
 											})
 										}),
-										className: "framer-1gi4gj8",
-										"data-framer-name": "Text",
+										className: "frame-1gi4gj8",
+										"data-frame-name": "Text",
 										fonts: ["GF;Instrument Sans-500"],
 										name: "Text",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									}), o(Se, {
-										className: "framer-1r66y0z",
-										"data-framer-name": "Stars",
+										className: "frame-1r66y0z",
+										"data-frame-name": "Stars",
 										fill: "rgba(0,0,0,1)",
 										intrinsicHeight: 24,
 										intrinsicWidth: 151,
@@ -18053,8 +18053,8 @@ var Hd = Te(Bt),
 										withExternalLayout: !0
 									})]
 								}), O("div", {
-									className: "framer-ewxlu5",
-									"data-framer-name": "Rings",
+									className: "frame-ewxlu5",
+									"data-frame-name": "Rings",
 									name: "Rings",
 									children: [o(Oe, {
 										__framer__loop: lc,
@@ -18064,17 +18064,17 @@ var Hd = Te(Bt),
 										__framer__loopTransition: sc,
 										__perspectiveFX: !1,
 										__targetOpacity: 1,
-										className: "framer-17f24sf",
+										className: "frame-17f24sf",
 										"data-border": !0,
-										"data-framer-name": "Ellipse 10",
+										"data-frame-name": "Ellipse 10",
 										name: "Ellipse 10",
 										style: {
 											rotate: 14
 										}
 									}), o(A.div, {
-										className: "framer-19c5r27",
+										className: "frame-19c5r27",
 										"data-border": !0,
-										"data-framer-name": "Ellipse 11",
+										"data-frame-name": "Ellipse 11",
 										name: "Ellipse 11",
 										style: {
 											rotate: 7
@@ -18086,29 +18086,29 @@ var Hd = Te(Bt),
 										children: O("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTUwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "33.14px",
-												"--framer-font-weight": "500",
-												"--framer-letter-spacing": "-3.31px",
-												"--framer-line-height": "84.5px",
-												"--framer-text-color": "rgb(203,255,13)"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "33.14px",
+												"--frame-font-weight": "500",
+												"--frame-letter-spacing": "-3.31px",
+												"--frame-line-height": "84.5px",
+												"--frame-text-color": "rgb(203,255,13)"
 											},
 											children: [o("span", {
 												style: {
-													"--framer-font-size": "59.64px"
+													"--frame-font-size": "59.64px"
 												},
 												children: "4.8"
 											}), o("span", {
 												style: {
-													"--framer-letter-spacing": "0px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.42)"
+													"--frame-letter-spacing": "0px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.42)"
 												},
 												children: "/5"
 											})]
 										})
 									}),
-									className: "framer-iap158",
-									"data-framer-name": "4.8/5",
+									className: "frame-iap158",
+									"data-frame-name": "4.8/5",
 									fonts: ["GF;Instrument Sans-500"],
 									name: "4.8/5",
 									verticalAlignment: "top",
@@ -18117,14 +18117,14 @@ var Hd = Te(Bt),
 							})]
 						})]
 					}), d() && o("header", {
-						className: "framer-1u1o2ms hidden-1i86tcs",
-						"data-framer-name": "Slideshow",
+						className: "frame-1u1o2ms hidden-1i86tcs",
+						"data-frame-name": "Slideshow",
 						id: j,
 						name: "Slideshow",
 						ref: D,
 						children: o(te, {
 							children: o(re, {
-								className: "framer-4h0y9q-container",
+								className: "frame-4h0y9q-container",
 								children: o($e, {
 									alignment: "center",
 									arrowOptions: {
@@ -18195,8 +18195,8 @@ var Hd = Te(Bt),
 											pixelWidth: 1128,
 											src: "./images/ocVlQq2Cb4K84yiKKz1L9Ukq4l0.png"
 										},
-										className: "framer-1lf6usv",
-										"data-framer-name": "$4",
+										className: "frame-1lf6usv",
+										"data-frame-name": "$4",
 										name: "$4"
 									}), o(he, {
 										background: {
@@ -18208,8 +18208,8 @@ var Hd = Te(Bt),
 											pixelWidth: 3384,
 											src: "./images/CbEVGAUh7bv5l5Y5y9GqkMOlvIE.png"
 										},
-										className: "framer-eeaj05",
-										"data-framer-name": "$2",
+										className: "frame-eeaj05",
+										"data-frame-name": "$2",
 										name: "$2"
 									}), o(he, {
 										background: {
@@ -18221,8 +18221,8 @@ var Hd = Te(Bt),
 											pixelWidth: 3384,
 											src: "./images/Ts2SYbxYQRYl0UWeU4ClgMBGS2g.png"
 										},
-										className: "framer-hcnyfg",
-										"data-framer-name": "$3",
+										className: "frame-hcnyfg",
+										"data-frame-name": "$3",
 										name: "$3"
 									}), o(he, {
 										background: {
@@ -18234,8 +18234,8 @@ var Hd = Te(Bt),
 											pixelWidth: 3384,
 											src: "./images/zsTVsC11VEULrt3SxWv8nUGr9Dg.png"
 										},
-										className: "framer-1sbgt9",
-										"data-framer-name": "$1",
+										className: "frame-1sbgt9",
+										"data-frame-name": "$1",
 										name: "$1"
 									}), o(he, {
 										background: {
@@ -18247,8 +18247,8 @@ var Hd = Te(Bt),
 											pixelWidth: 3384,
 											src: "./images/eXuHPeT1giy94zx6jQuayVdQ2so.png"
 										},
-										className: "framer-x6lrfq",
-										"data-framer-name": "$8",
+										className: "frame-x6lrfq",
+										"data-frame-name": "$8",
 										name: "$8"
 									}), o(he, {
 										background: {
@@ -18260,8 +18260,8 @@ var Hd = Te(Bt),
 											pixelWidth: 3384,
 											src: "./images/emZumpqlcf9IEB01jasiQZ3BU.png"
 										},
-										className: "framer-1r0c8kk",
-										"data-framer-name": "$7",
+										className: "frame-1r0c8kk",
+										"data-frame-name": "$7",
 										name: "$7"
 									}), o(he, {
 										background: {
@@ -18273,8 +18273,8 @@ var Hd = Te(Bt),
 											pixelWidth: 3384,
 											src: "./images/aqdIGydysNjVmKFIc7GLsCbug.png"
 										},
-										className: "framer-bidl8e",
-										"data-framer-name": "$6",
+										className: "frame-bidl8e",
+										"data-frame-name": "$6",
 										name: "$6"
 									}), o(he, {
 										background: {
@@ -18286,8 +18286,8 @@ var Hd = Te(Bt),
 											pixelWidth: 1128,
 											src: "./images/mJMsmI14tH3DFvBQvGyFdGquo.png"
 										},
-										className: "framer-sxjuax",
-										"data-framer-name": "$5",
+										className: "frame-sxjuax",
+										"data-frame-name": "$5",
 										name: "$5"
 									})],
 									startFrom: 0,
@@ -18307,8 +18307,8 @@ var Hd = Te(Bt),
 							})
 						})
 					}), d() && O("header", {
-						className: "framer-r7eevg hidden-1i86tcs",
-						"data-framer-name": "Logo - Ticker",
+						className: "frame-r7eevg hidden-1i86tcs",
+						"data-frame-name": "Logo - Ticker",
 						id: U,
 						name: "Logo - Ticker",
 						ref: X,
@@ -18342,13 +18342,13 @@ var Hd = Te(Bt),
 									src: "./images/wbAJ804O4oExEunH80Mu6MeQoQ.png",
 									srcSet: "./images/wbAJ804O4oExEunH80Mu6MeQoQ.png?scale-down-to=512 512w,./images/wbAJ804O4oExEunH80Mu6MeQoQ.png?scale-down-to=1024 1024w,./images/wbAJ804O4oExEunH80Mu6MeQoQ.png?scale-down-to=2048 2048w,./images/wbAJ804O4oExEunH80Mu6MeQoQ.png 3840w"
 								},
-								className: "framer-1r4t09v",
-								"data-framer-name": "BG_TEXT",
+								className: "frame-1r4t09v",
+								"data-frame-name": "BG_TEXT",
 								name: "BG_TEXT"
 							})
 						}), o(te, {
 							children: o(re, {
-								className: "framer-1wr6pmw-container",
+								className: "frame-1wr6pmw-container",
 								children: o(Bt, {
 									alignment: "center",
 									direction: "right",
@@ -18386,8 +18386,8 @@ var Hd = Te(Bt),
 											src: "./images/gFubmLLlYSsVcppENBShuflpg.png",
 											srcSet: "./images/gFubmLLlYSsVcppENBShuflpg.png?scale-down-to=512 512w,./images/gFubmLLlYSsVcppENBShuflpg.png 972w"
 										},
-										className: "framer-997zya",
-										"data-framer-name": "Logos",
+										className: "frame-997zya",
+										"data-frame-name": "Logos",
 										name: "Logos"
 									})],
 									speed: 20,
@@ -18399,13 +18399,13 @@ var Hd = Te(Bt),
 								})
 							})
 						}), o("div", {
-							className: "framer-1dnvax8",
-							"data-framer-name": "Logo",
+							className: "frame-1dnvax8",
+							"data-frame-name": "Logo",
 							name: "Logo"
 						})]
 					}), y() && O("header", {
-						className: "framer-mcxvik hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-mcxvik hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [o(rt, {
 							href: {
@@ -18415,33 +18415,33 @@ var Hd = Te(Bt),
 							openInNewTab: !1,
 							smoothScroll: !0,
 							children: o("a", {
-								className: "framer-1kuj8j framer-4zsb7x",
-								"data-framer-name": "CTA - Get Started",
+								className: "frame-1kuj8j frame-4zsb7x",
+								"data-frame-name": "CTA - Get Started",
 								name: "CTA - Get Started",
 								children: O("div", {
-									className: "framer-i4q6hx",
+									className: "frame-i4q6hx",
 									children: [o(N, {
 										__fromCanvasComponent: !0,
 										children: o(R, {
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "11.08px",
-													"--framer-font-weight": "600"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "11.08px",
+													"--frame-font-weight": "600"
 												},
 												children: "GET STARTED"
 											})
 										}),
-										className: "framer-1ws8wob",
-										"data-framer-name": "GET STARTED",
+										className: "frame-1ws8wob",
+										"data-frame-name": "GET STARTED",
 										fonts: ["GF;Instrument Sans-600"],
 										name: "GET STARTED",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									}), o(Se, {
-										className: "framer-wp5bmu",
-										"data-framer-name": "Arrow 1",
+										className: "frame-wp5bmu",
+										"data-frame-name": "Arrow 1",
 										fill: "rgba(0,0,0,1)",
 										intrinsicHeight: 9,
 										intrinsicWidth: 110,
@@ -18469,35 +18469,35 @@ var Hd = Te(Bt),
 							openInNewTab: !1,
 							smoothScroll: !0,
 							children: o("a", {
-								className: "framer-xb5g6v framer-4zsb7x",
+								className: "frame-xb5g6v frame-4zsb7x",
 								"data-border": !0,
-								"data-framer-name": "CTA - Get Started",
+								"data-frame-name": "CTA - Get Started",
 								name: "CTA - Get Started",
 								children: O("div", {
-									className: "framer-1svje5d",
+									className: "frame-1svje5d",
 									children: [o(N, {
 										__fromCanvasComponent: !0,
 										children: o(R, {
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "11.08px",
-													"--framer-font-weight": "600",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "11.08px",
+													"--frame-font-weight": "600",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: "BOOK A CALL"
 											})
 										}),
-										className: "framer-1d50s0a",
-										"data-framer-name": "BOOK A CALL",
+										className: "frame-1d50s0a",
+										"data-frame-name": "BOOK A CALL",
 										fonts: ["GF;Instrument Sans-600"],
 										name: "BOOK A CALL",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									}), o(Se, {
-										className: "framer-1wt59qy",
-										"data-framer-name": "Vector",
+										className: "frame-1wt59qy",
+										"data-frame-name": "Vector",
 										fill: "rgba(0,0,0,1)",
 										intrinsicHeight: 10,
 										intrinsicWidth: 15,
@@ -18511,14 +18511,14 @@ var Hd = Te(Bt),
 								})
 							})
 						}), o("div", {
-							className: "framer-736w6c",
+							className: "frame-736w6c",
 							children: o("div", {
-								className: "framer-fhnosr"
+								className: "frame-fhnosr"
 							})
 						})]
 					}), d() && O("header", {
-						className: "framer-1v01f4k hidden-1i86tcs",
-						"data-framer-name": "Why us - Section",
+						className: "frame-1v01f4k hidden-1i86tcs",
+						"data-frame-name": "Why us - Section",
 						id: Y,
 						name: "Why us - Section",
 						ref: p,
@@ -18559,13 +18559,13 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-e8002p",
-								"data-framer-name": "glow",
+								className: "frame-e8002p",
+								"data-frame-name": "glow",
 								name: "glow"
 							})
 						}), O("div", {
-							className: "framer-pxcg9m",
-							"data-framer-name": "Why Us",
+							className: "frame-pxcg9m",
+							"data-frame-name": "Why Us",
 							name: "Why Us",
 							children: [O(Oe, {
 								__framer__animate: {
@@ -18577,8 +18577,8 @@ var Hd = Te(Bt),
 								__framer__threshold: .5,
 								__perspectiveFX: !1,
 								__targetOpacity: 1,
-								className: "framer-1c01u1i",
-								"data-framer-name": "Text",
+								className: "frame-1c01u1i",
+								"data-frame-name": "Text",
 								name: "Text",
 								style: {
 									transformPerspective: 1200
@@ -18591,11 +18591,11 @@ var Hd = Te(Bt),
 												children: o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-														"--framer-font-family": '"Instrument Sans", sans-serif',
-														"--framer-font-size": "32px",
-														"--framer-font-weight": "600",
-														"--framer-letter-spacing": "-2.5px",
-														"--framer-line-height": "71px"
+														"--frame-font-family": '"Instrument Sans", sans-serif',
+														"--frame-font-size": "32px",
+														"--frame-font-weight": "600",
+														"--frame-letter-spacing": "-2.5px",
+														"--frame-line-height": "71px"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -18614,11 +18614,11 @@ var Hd = Te(Bt),
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "38px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-1.0px",
-													"--framer-line-height": "41px"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "38px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-1.0px",
+													"--frame-line-height": "41px"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -18629,8 +18629,8 @@ var Hd = Te(Bt),
 												})
 											})
 										}),
-										className: "framer-hii79w",
-										"data-framer-name": "Why Work With Us?",
+										className: "frame-hii79w",
+										"data-frame-name": "Why Work With Us?",
 										fonts: ["GF;Instrument Sans-600"],
 										name: "Why Work With Us?",
 										verticalAlignment: "top",
@@ -18644,10 +18644,10 @@ var Hd = Te(Bt),
 												children: o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "20px",
-														"--framer-letter-spacing": "-1.5px",
-														"--framer-line-height": "71px"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "20px",
+														"--frame-letter-spacing": "-1.5px",
+														"--frame-line-height": "71px"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -18666,10 +18666,10 @@ var Hd = Te(Bt),
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "24px",
-													"--framer-letter-spacing": "-1.5px",
-													"--framer-line-height": "71px"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "24px",
+													"--frame-letter-spacing": "-1.5px",
+													"--frame-line-height": "71px"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -18680,8 +18680,8 @@ var Hd = Te(Bt),
 												})
 											})
 										}),
-										className: "framer-nsli42",
-										"data-framer-name": "We\u2019ll give you a ton of reasons...",
+										className: "frame-nsli42",
+										"data-frame-name": "We\u2019ll give you a ton of reasons...",
 										fonts: ["GF;Instrument Sans-regular"],
 										name: "We\u2019ll give you a ton of reasons...",
 										verticalAlignment: "center",
@@ -18689,8 +18689,8 @@ var Hd = Te(Bt),
 									})
 								})]
 							}), M() && O("div", {
-								className: "framer-1nua3qr hidden-11ouoyp",
-								"data-framer-name": "Lines",
+								className: "frame-1nua3qr hidden-11ouoyp",
+								"data-frame-name": "Lines",
 								name: "Lines",
 								children: [o(Oe, {
 									__framer__loop: Zn,
@@ -18700,8 +18700,8 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Ht,
 									__perspectiveFX: !1,
 									__targetOpacity: .36,
-									className: "framer-1w75c43",
-									"data-framer-name": "1",
+									className: "frame-1w75c43",
+									"data-frame-name": "1",
 									name: "1"
 								}), o(Oe, {
 									__framer__loop: Zn,
@@ -18711,8 +18711,8 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Ht,
 									__perspectiveFX: !1,
 									__targetOpacity: .5,
-									className: "framer-q4p74c",
-									"data-framer-name": "2",
+									className: "frame-q4p74c",
+									"data-frame-name": "2",
 									name: "2"
 								}), o(Oe, {
 									__framer__loop: Zn,
@@ -18722,8 +18722,8 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Ht,
 									__perspectiveFX: !1,
 									__targetOpacity: .5,
-									className: "framer-u5ald9",
-									"data-framer-name": "3",
+									className: "frame-u5ald9",
+									"data-frame-name": "3",
 									name: "3"
 								}), o(Oe, {
 									__framer__loop: fc,
@@ -18733,8 +18733,8 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Ht,
 									__perspectiveFX: !1,
 									__targetOpacity: .5,
-									className: "framer-1fglnz0",
-									"data-framer-name": "3",
+									className: "frame-1fglnz0",
+									"data-frame-name": "3",
 									name: "3"
 								})]
 							}), O(Oe, {
@@ -18747,13 +18747,13 @@ var Hd = Te(Bt),
 								__framer__threshold: .5,
 								__perspectiveFX: !1,
 								__targetOpacity: 1,
-								className: "framer-21l2df",
+								className: "frame-21l2df",
 								style: {
 									transformPerspective: 1200
 								},
 								children: [M() && o(te, {
 									children: o(re, {
-										className: "framer-16plizr-container hidden-11ouoyp",
+										className: "frame-16plizr-container hidden-11ouoyp",
 										children: o(Et, {
 											height: "100%",
 											id: "xmonPNRsM",
@@ -18768,7 +18768,7 @@ var Hd = Te(Bt),
 									})
 								}), M() && o(te, {
 									children: o(re, {
-										className: "framer-1a2hh32-container hidden-11ouoyp",
+										className: "frame-1a2hh32-container hidden-11ouoyp",
 										children: o(Et, {
 											height: "100%",
 											id: "beMXiHuwM",
@@ -18783,7 +18783,7 @@ var Hd = Te(Bt),
 									})
 								}), M() && o(te, {
 									children: o(re, {
-										className: "framer-1ojgibk-container hidden-11ouoyp",
+										className: "frame-1ojgibk-container hidden-11ouoyp",
 										children: o(Et, {
 											height: "100%",
 											id: "RbhkpAKp6",
@@ -18798,7 +18798,7 @@ var Hd = Te(Bt),
 									})
 								}), M() && o(te, {
 									children: o(re, {
-										className: "framer-35pdbc-container hidden-11ouoyp",
+										className: "frame-35pdbc-container hidden-11ouoyp",
 										children: o(Et, {
 											height: "100%",
 											id: "linjZJYUf",
@@ -18813,7 +18813,7 @@ var Hd = Te(Bt),
 									})
 								}), M() && o(te, {
 									children: o(re, {
-										className: "framer-13unamt-container hidden-11ouoyp",
+										className: "frame-13unamt-container hidden-11ouoyp",
 										children: o(Et, {
 											height: "100%",
 											id: "WhIcjyNb8",
@@ -18828,7 +18828,7 @@ var Hd = Te(Bt),
 									})
 								}), M() && o(te, {
 									children: o(re, {
-										className: "framer-xx9ji5-container hidden-11ouoyp",
+										className: "frame-xx9ji5-container hidden-11ouoyp",
 										children: o(Et, {
 											height: "100%",
 											id: "dIzI1jR4J",
@@ -18842,12 +18842,12 @@ var Hd = Te(Bt),
 										})
 									})
 								}), F() && o("div", {
-									className: "framer-1vndgl3 hidden-qmdb2w",
+									className: "frame-1vndgl3 hidden-qmdb2w",
 									children: O("div", {
-										className: "framer-77znln",
+										className: "frame-77znln",
 										children: [o(te, {
 											children: o(re, {
-												className: "framer-1tiazad-container",
+												className: "frame-1tiazad-container",
 												children: o(Et, {
 													height: "100%",
 													id: "nBTjgimE3",
@@ -18862,7 +18862,7 @@ var Hd = Te(Bt),
 											})
 										}), o(te, {
 											children: o(re, {
-												className: "framer-on5ayz-container",
+												className: "frame-on5ayz-container",
 												children: o(Et, {
 													height: "100%",
 													id: "xtaQZtkjb",
@@ -18877,7 +18877,7 @@ var Hd = Te(Bt),
 											})
 										}), o(te, {
 											children: o(re, {
-												className: "framer-1150vy4-container",
+												className: "frame-1150vy4-container",
 												children: o(Et, {
 													height: "100%",
 													id: "JsTIS8ddS",
@@ -18892,7 +18892,7 @@ var Hd = Te(Bt),
 											})
 										}), o(te, {
 											children: o(re, {
-												className: "framer-bfdk8e-container",
+												className: "frame-bfdk8e-container",
 												children: o(Et, {
 													height: "100%",
 													id: "ChXV2FiWl",
@@ -18907,7 +18907,7 @@ var Hd = Te(Bt),
 											})
 										}), o(te, {
 											children: o(re, {
-												className: "framer-5ngluu-container",
+												className: "frame-5ngluu-container",
 												children: o(Et, {
 													height: "100%",
 													id: "emqmWFbM4",
@@ -18922,7 +18922,7 @@ var Hd = Te(Bt),
 											})
 										}), o(te, {
 											children: o(re, {
-												className: "framer-pgq12l-container",
+												className: "frame-pgq12l-container",
 												children: o(Et, {
 													height: "100%",
 													id: "Byp8IERXL",
@@ -18941,22 +18941,22 @@ var Hd = Te(Bt),
 							})]
 						})]
 					}), y() && O("header", {
-						className: "framer-qb80t hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-qb80t hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [O("div", {
-							className: "framer-1fal4sp",
+							className: "frame-1fal4sp",
 							children: [o(N, {
 								__fromCanvasComponent: !0,
 								children: o(R, {
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "27px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2.5px",
-											"--framer-line-height": "32px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "27px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2.5px",
+											"--frame-line-height": "32px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -18967,8 +18967,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-5u8dhy",
-								"data-framer-name": "Why Work With Us?",
+								className: "frame-5u8dhy",
+								"data-frame-name": "Why Work With Us?",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Why Work With Us?",
 								verticalAlignment: "top",
@@ -18979,10 +18979,10 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "18px",
-											"--framer-letter-spacing": "-0.05em",
-											"--framer-line-height": "71px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "18px",
+											"--frame-letter-spacing": "-0.05em",
+											"--frame-line-height": "71px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -18993,22 +18993,22 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-1able7e",
-								"data-framer-name": "We\u2019ll give you a ton of reasons...",
+								className: "frame-1able7e",
+								"data-frame-name": "We\u2019ll give you a ton of reasons...",
 								fonts: ["GF;Instrument Sans-regular"],
 								name: "We\u2019ll give you a ton of reasons...",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							})]
 						}), O("div", {
-							className: "framer-19jaokw",
+							className: "frame-19jaokw",
 							children: [O("div", {
-								className: "framer-1qu95x9",
-								"data-framer-name": "5",
+								className: "frame-1qu95x9",
+								"data-frame-name": "5",
 								name: "5",
 								children: [o(Se, {
-									className: "framer-82zyox",
-									"data-framer-name": "Vector",
+									className: "frame-82zyox",
+									"data-frame-name": "Vector",
 									fill: "rgba(0,0,0,1)",
 									intrinsicHeight: 30,
 									intrinsicWidth: 36,
@@ -19024,35 +19024,35 @@ var Hd = Te(Bt),
 										children: O("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: [o("span", {
 												style: {
-													"--framer-text-color": "rgb(203,255,13)"
+													"--frame-text-color": "rgb(203,255,13)"
 												},
 												children: "A+ Designers Only."
 											}), "  All our designers are industry experts with over 5 years of experience in email and social designs."]
 										})
 									}),
-									className: "framer-pi5rj",
-									"data-framer-name": "Subtext",
+									className: "frame-pi5rj",
+									"data-frame-name": "Subtext",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "Subtext",
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								})]
 							}), O("div", {
-								className: "framer-mu3t6w",
+								className: "frame-mu3t6w",
 								children: [O("div", {
-									className: "framer-zurvpn",
-									"data-framer-name": "4",
+									className: "frame-zurvpn",
+									"data-frame-name": "4",
 									name: "4",
 									children: [o(Se, {
-										className: "framer-1t66rpf",
-										"data-framer-name": "Vector",
+										className: "frame-1t66rpf",
+										"data-frame-name": "Vector",
 										fill: "rgba(0,0,0,1)",
 										intrinsicHeight: 30,
 										intrinsicWidth: 30,
@@ -19068,33 +19068,33 @@ var Hd = Te(Bt),
 											children: O("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.05em",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.05em",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: [o("span", {
 													style: {
-														"--framer-text-color": "rgb(203,255,13)"
+														"--frame-text-color": "rgb(203,255,13)"
 													},
 													children: "Demure & Mindful.."
 												}), " Our designs are always 100% original and unique. We never use templates, kits, or recycled designs."]
 											})
 										}),
-										className: "framer-1q1v2y7",
-										"data-framer-name": "Subtext",
+										className: "frame-1q1v2y7",
+										"data-frame-name": "Subtext",
 										fonts: ["GF;Instrument Sans-regular"],
 										name: "Subtext",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									})]
 								}), O("div", {
-									className: "framer-18c302j",
-									"data-framer-name": "3",
+									className: "frame-18c302j",
+									"data-frame-name": "3",
 									name: "3",
 									children: [o(Se, {
-										className: "framer-pq89hp",
-										"data-framer-name": "Vector",
+										className: "frame-pq89hp",
+										"data-frame-name": "Vector",
 										fill: "rgba(0,0,0,1)",
 										intrinsicHeight: 32,
 										intrinsicWidth: 28,
@@ -19110,34 +19110,34 @@ var Hd = Te(Bt),
 											children: [o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.05em",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgb(203,255,13)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.05em",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgb(203,255,13)"
 												},
 												children: "Lightning Fast Turnarounds."
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.05em",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.05em",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "Our designers respond and begin"
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.05em",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.05em",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: " the task within 2 - 4 hours from it\u2019s  creation in Notion."
 											})]
 										}),
-										className: "framer-lyq1xl",
-										"data-framer-name": "Subtext",
+										className: "frame-lyq1xl",
+										"data-frame-name": "Subtext",
 										fonts: ["GF;Instrument Sans-regular"],
 										name: "Subtext",
 										verticalAlignment: "top",
@@ -19145,14 +19145,14 @@ var Hd = Te(Bt),
 									})]
 								})]
 							}), O("div", {
-								className: "framer-1em7ute",
+								className: "frame-1em7ute",
 								children: [O("div", {
-									className: "framer-685hf5",
-									"data-framer-name": "4",
+									className: "frame-685hf5",
+									"data-frame-name": "4",
 									name: "4",
 									children: [o(te, {
 										children: o(re, {
-											className: "framer-kgeh0n-container",
+											className: "frame-kgeh0n-container",
 											children: o(Gt, {
 												height: "100%",
 												id: "wEl7eVAje",
@@ -19179,51 +19179,51 @@ var Hd = Te(Bt),
 											children: [o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.6px",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgb(203,255,13)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.6px",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgb(203,255,13)"
 												},
 												children: "No Hassle."
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.6px",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.6px",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "We take care of the curation and hiring"
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.6px",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.6px",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "of top designers, saving you from dealing with"
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.6px",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.6px",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "unreliable designers."
 											})]
 										}),
-										className: "framer-4xmo7b",
-										"data-framer-name": "Subtext",
+										className: "frame-4xmo7b",
+										"data-frame-name": "Subtext",
 										fonts: ["GF;Instrument Sans-regular"],
 										name: "Subtext",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									})]
 								}), O("div", {
-									className: "framer-adzvl",
-									"data-framer-name": "3",
+									className: "frame-adzvl",
+									"data-frame-name": "3",
 									name: "3",
 									children: [o(N, {
 										__fromCanvasComponent: !0,
@@ -19231,54 +19231,54 @@ var Hd = Te(Bt),
 											children: [O("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "14px",
-													"--framer-letter-spacing": "-0.03em",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "14px",
+													"--frame-letter-spacing": "-0.03em",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: [o("span", {
 													style: {
-														"--framer-font-size": "16px",
-														"--framer-text-color": "rgb(203,255,13)"
+														"--frame-font-size": "16px",
+														"--frame-text-color": "rgb(203,255,13)"
 													},
 													children: "No Micromanaging. "
 												}), o("span", {
 													style: {
-														"--framer-font-size": "16px"
+														"--frame-font-size": "16px"
 													},
 													children: "No more to-do lists. "
 												}), o("span", {
 													style: {
-														"--framer-font-size": "16px"
+														"--frame-font-size": "16px"
 													},
 													children: o("br", {})
 												}), o("span", {
 													style: {
-														"--framer-font-size": "16px"
+														"--frame-font-size": "16px"
 													},
 													children: "We manage everything from designers to tasks, and deadlines,"
 												})]
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-letter-spacing": "-0.03em",
-													"--framer-line-height": "24.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-letter-spacing": "-0.03em",
+													"--frame-line-height": "24.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "All done for you. "
 											})]
 										}),
-										className: "framer-h666d8",
-										"data-framer-name": "Subtext",
+										className: "frame-h666d8",
+										"data-frame-name": "Subtext",
 										fonts: ["GF;Instrument Sans-regular"],
 										name: "Subtext",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									}), o(te, {
 										children: o(re, {
-											className: "framer-6dpn2n-container",
+											className: "frame-6dpn2n-container",
 											children: o(Gt, {
 												height: "100%",
 												id: "b_GBfOLFg",
@@ -19302,12 +19302,12 @@ var Hd = Te(Bt),
 									})]
 								})]
 							}), O("div", {
-								className: "framer-xnwj3b",
-								"data-framer-name": "6",
+								className: "frame-xnwj3b",
+								"data-frame-name": "6",
 								name: "6",
 								children: [o(Se, {
-									className: "framer-7sri0c",
-									"data-framer-name": "Vector",
+									className: "frame-7sri0c",
+									"data-frame-name": "Vector",
 									fill: "rgba(0,0,0,1)",
 									intrinsicHeight: 30,
 									intrinsicWidth: 42,
@@ -19323,21 +19323,21 @@ var Hd = Te(Bt),
 										children: O("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-letter-spacing": "-0.05em",
-												"--framer-line-height": "15.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-letter-spacing": "-0.05em",
+												"--frame-line-height": "15.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: [o("span", {
 												style: {
-													"--framer-text-color": "rgb(203,255,13)"
+													"--frame-text-color": "rgb(203,255,13)"
 												},
 												children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
 											}), "  You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
 										})
 									}),
-									className: "framer-1lpploj",
-									"data-framer-name": "Subtext",
+									className: "frame-1lpploj",
+									"data-frame-name": "Subtext",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "Subtext",
 									verticalAlignment: "top",
@@ -19381,8 +19381,8 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-1cvfz14",
-								"data-framer-name": "glow",
+								className: "frame-1cvfz14",
+								"data-frame-name": "glow",
 								name: "glow",
 								style: {
 									rotate: 180
@@ -19425,8 +19425,8 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-1p6qwig",
-								"data-framer-name": "glow",
+								className: "frame-1p6qwig",
+								"data-frame-name": "glow",
 								name: "glow",
 								style: {
 									rotate: 180
@@ -19434,8 +19434,8 @@ var Hd = Te(Bt),
 							})
 						})]
 					}), d() && O("header", {
-						className: "framer-1m51ubg hidden-1i86tcs",
-						"data-framer-name": "",
+						className: "frame-1m51ubg hidden-1i86tcs",
+						"data-frame-name": "",
 						name: "",
 						children: [o(Pe, {
 							breakpoint: g,
@@ -19474,8 +19474,8 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-1thk2rj",
-								"data-framer-name": "glow",
+								className: "frame-1thk2rj",
+								"data-frame-name": "glow",
 								name: "glow",
 								style: {
 									rotate: 180
@@ -19518,13 +19518,13 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-922c3f",
-								"data-framer-name": "glow",
+								className: "frame-922c3f",
+								"data-frame-name": "glow",
 								name: "glow"
 							})
 						}), O("header", {
-							className: "framer-moly6x",
-							"data-framer-name": "",
+							className: "frame-moly6x",
+							"data-frame-name": "",
 							id: I,
 							name: "",
 							ref: P,
@@ -19538,8 +19538,8 @@ var Hd = Te(Bt),
 								__framer__threshold: .5,
 								__perspectiveFX: !1,
 								__targetOpacity: 1,
-								className: "framer-105ri9d",
-								"data-framer-name": "Text",
+								className: "frame-105ri9d",
+								"data-frame-name": "Text",
 								name: "Text",
 								style: {
 									transformPerspective: 1200
@@ -19552,13 +19552,13 @@ var Hd = Te(Bt),
 												children: o("h1", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "32px",
-														"--framer-font-weight": "600",
-														"--framer-letter-spacing": "-2.5px",
-														"--framer-line-height": "71px",
-														"--framer-text-alignment": "center",
-														"--framer-text-color": "rgb(255, 255, 255)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "32px",
+														"--frame-font-weight": "600",
+														"--frame-letter-spacing": "-2.5px",
+														"--frame-line-height": "71px",
+														"--frame-text-alignment": "center",
+														"--frame-text-color": "rgb(255, 255, 255)"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -19577,13 +19577,13 @@ var Hd = Te(Bt),
 											children: o("h1", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "38px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-1.0px",
-													"--framer-line-height": "71px",
-													"--framer-text-alignment": "center",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "38px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-1.0px",
+													"--frame-line-height": "71px",
+													"--frame-text-alignment": "center",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -19594,7 +19594,7 @@ var Hd = Te(Bt),
 												})
 											})
 										}),
-										className: "framer-78jt1e",
+										className: "frame-78jt1e",
 										fonts: ["GF;Instrument Sans-600"],
 										verticalAlignment: "top",
 										withExternalLayout: !0
@@ -19607,12 +19607,12 @@ var Hd = Te(Bt),
 												children: o("h1", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "20px",
-														"--framer-letter-spacing": "-1.5px",
-														"--framer-line-height": "24px",
-														"--framer-text-alignment": "center",
-														"--framer-text-color": "rgb(255, 255, 255)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "20px",
+														"--frame-letter-spacing": "-1.5px",
+														"--frame-line-height": "24px",
+														"--frame-text-alignment": "center",
+														"--frame-text-color": "rgb(255, 255, 255)"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -19631,12 +19631,12 @@ var Hd = Te(Bt),
 											children: o("h1", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "24px",
-													"--framer-letter-spacing": "-1.5px",
-													"--framer-line-height": "24px",
-													"--framer-text-alignment": "center",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "24px",
+													"--frame-letter-spacing": "-1.5px",
+													"--frame-line-height": "24px",
+													"--frame-text-alignment": "center",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -19647,15 +19647,15 @@ var Hd = Te(Bt),
 												})
 											})
 										}),
-										className: "framer-15warvq",
+										className: "frame-15warvq",
 										fonts: ["GF;Instrument Sans-regular"],
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									})
 								})]
 							}), O("div", {
-								className: "framer-1lnhujx",
-								"data-framer-name": "Cards",
+								className: "frame-1lnhujx",
+								"data-frame-name": "Cards",
 								name: "Cards",
 								children: [o(Oe, {
 									__framer__loop: yr,
@@ -19665,12 +19665,12 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Qn,
 									__perspectiveFX: !1,
 									__targetOpacity: .5,
-									className: "framer-whprmw",
-									"data-framer-name": "Line",
+									className: "frame-whprmw",
+									"data-frame-name": "Line",
 									name: "Line"
 								}), O("div", {
-									className: "framer-4l6fhs",
-									"data-framer-name": "Steps",
+									className: "frame-4l6fhs",
+									"data-frame-name": "Steps",
 									name: "Steps",
 									children: [M() && O(Oe, {
 										__framer__animate: {
@@ -19682,32 +19682,32 @@ var Hd = Te(Bt),
 										__framer__threshold: .5,
 										__perspectiveFX: !1,
 										__targetOpacity: 1,
-										className: "framer-1qtp4sr hidden-11ouoyp",
-										"data-framer-name": "Step 1",
+										className: "frame-1qtp4sr hidden-11ouoyp",
+										"data-frame-name": "Step 1",
 										name: "Step 1",
 										style: {
 											transformPerspective: 1200
 										},
 										children: [O("div", {
-											className: "framer-9x6skt",
+											className: "frame-9x6skt",
 											children: [o("div", {
-												className: "framer-1qe9ofq",
+												className: "frame-1qe9ofq",
 												children: o(N, {
 													__fromCanvasComponent: !0,
 													children: o(R, {
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", sans-serif',
-																"--framer-font-size": "18px",
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1px",
-																"--framer-line-height": "20px"
+																"--frame-font-family": '"Instrument Sans", sans-serif',
+																"--frame-font-size": "18px",
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1px",
+																"--frame-line-height": "20px"
 															},
 															children: "Step  1"
 														})
 													}),
-													className: "framer-19ofm6m",
+													className: "frame-19ofm6m",
 													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: Xt,
 													verticalAlignment: "top",
@@ -19719,13 +19719,13 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "38px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1.5px",
-															"--framer-line-height": "59px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "38px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1.5px",
+															"--frame-line-height": "59px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: O("span", {
 															"data-text-fill": "true",
@@ -19734,24 +19734,24 @@ var Hd = Te(Bt),
 															},
 															children: [o("span", {
 																style: {
-																	"--framer-font-size": "52px"
+																	"--frame-font-size": "52px"
 																},
 																children: "Add your tasks "
 															}), o("span", {
 																style: {
-																	"--framer-font-size": "52px"
+																	"--frame-font-size": "52px"
 																},
 																children: o("br", {})
 															}), o("span", {
 																style: {
-																	"--framer-font-size": "52px"
+																	"--frame-font-size": "52px"
 																},
 																children: "to Slack"
 															})]
 														})
 													})
 												}),
-												className: "framer-1ky9q1x",
+												className: "frame-1ky9q1x",
 												fonts: ["GF;Instrument Sans-600"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -19761,24 +19761,24 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "18px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "25.5px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "18px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "25.5px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "Upon registration, you'll join Kislap Creative’s Slack for communication and project tracking. We can also use your preferred project management app, though we typically use Asana."
 													})
 												}),
-												className: "framer-iu7loq",
+												className: "frame-iu7loq",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
 											})]
 										}), o(te, {
 											children: o(re, {
-												className: "framer-1adtj4q-container",
+												className: "frame-1adtj4q-container",
 												children: o(ma, {
 													height: "100%",
 													id: "o_FdcDLy9",
@@ -19802,15 +19802,15 @@ var Hd = Te(Bt),
 										__framer__threshold: .5,
 										__perspectiveFX: !1,
 										__targetOpacity: 1,
-										className: "framer-1fw8ybj hidden-11ouoyp",
-										"data-framer-name": "Step 2",
+										className: "frame-1fw8ybj hidden-11ouoyp",
+										"data-frame-name": "Step 2",
 										name: "Step 2",
 										style: {
 											transformPerspective: 1200
 										},
 										children: [o(te, {
 											children: o(re, {
-												className: "framer-1b33kce-container",
+												className: "frame-1b33kce-container",
 												children: o(ma, {
 													height: "100%",
 													id: "N46ntuD0S",
@@ -19824,25 +19824,25 @@ var Hd = Te(Bt),
 												})
 											})
 										}), O("div", {
-											className: "framer-1llimlp",
+											className: "frame-1llimlp",
 											children: [o("div", {
-												className: "framer-y39005",
+												className: "frame-y39005",
 												children: o(N, {
 													__fromCanvasComponent: !0,
 													children: o(R, {
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", sans-serif',
-																"--framer-font-size": "18px",
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1px",
-																"--framer-line-height": "20px"
+																"--frame-font-family": '"Instrument Sans", sans-serif',
+																"--frame-font-size": "18px",
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1px",
+																"--frame-line-height": "20px"
 															},
 															children: "Step  2"
 														})
 													}),
-													className: "framer-1sv0rm2",
+													className: "frame-1sv0rm2",
 													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: Xt,
 													verticalAlignment: "top",
@@ -19854,13 +19854,13 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", sans-serif',
-															"--framer-font-size": "52px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1.5px",
-															"--framer-line-height": "59px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", sans-serif',
+															"--frame-font-size": "52px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1.5px",
+															"--frame-line-height": "59px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: o("span", {
 															"data-text-fill": "true",
@@ -19871,7 +19871,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}),
-												className: "framer-15cbvpu",
+												className: "frame-15cbvpu",
 												fonts: ["GF;Instrument Sans-600"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -19881,43 +19881,43 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "18px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "25.5px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "18px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "25.5px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "Expect your personalized email designs ready for feedback and approval in just 24 hours. We combine speed and reliability, delivering top-notch quality and style every time."
 													})
 												}),
-												className: "framer-15aft5w",
+												className: "frame-15aft5w",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
 											})]
 										})]
 									}), F() && O("div", {
-										className: "framer-1og545b hidden-qmdb2w",
+										className: "frame-1og545b hidden-qmdb2w",
 										children: [O("div", {
-											className: "framer-1gkkuvd",
+											className: "frame-1gkkuvd",
 											children: [o("div", {
-												className: "framer-30eva3",
+												className: "frame-30eva3",
 												children: o(N, {
 													__fromCanvasComponent: !0,
 													children: o(R, {
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1px",
-																"--framer-line-height": "20px"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1px",
+																"--frame-line-height": "20px"
 															},
 															children: "Step  2"
 														})
 													}),
-													className: "framer-aw5rmc",
+													className: "frame-aw5rmc",
 													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: Xt,
 													verticalAlignment: "top",
@@ -19929,13 +19929,13 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "34px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1.5px",
-															"--framer-line-height": "45px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "34px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1.5px",
+															"--frame-line-height": "45px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: O("span", {
 															"data-text-fill": "true",
@@ -19946,7 +19946,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}),
-												className: "framer-117m7dm",
+												className: "frame-117m7dm",
 												fonts: ["GF;Instrument Sans-600"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -19956,17 +19956,17 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "20px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "20px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "Expect your personalized email designs ready for feedback and approval in just 24 hours. We combine speed and reliability, delivering top-notch quality and style every time."
 													})
 												}),
-												className: "framer-1fok0b1",
+												className: "frame-1fok0b1",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -19981,31 +19981,31 @@ var Hd = Te(Bt),
 												pixelWidth: 324,
 												src: "./images/mghf7EDZC0hIexZuwivFkF1WW0.png"
 											},
-											className: "framer-mtff6u",
-											"data-framer-name": "Tab_2",
+											className: "frame-mtff6u",
+											"data-frame-name": "Tab_2",
 											name: "Tab_2"
 										})]
 									}), F() && O("div", {
-										className: "framer-19sid3s hidden-qmdb2w",
+										className: "frame-19sid3s hidden-qmdb2w",
 										children: [O("div", {
-											className: "framer-qybbbj",
+											className: "frame-qybbbj",
 											children: [o("div", {
-												className: "framer-z4zw5e",
+												className: "frame-z4zw5e",
 												children: o(N, {
 													__fromCanvasComponent: !0,
 													children: o(R, {
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1px",
-																"--framer-line-height": "20px"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1px",
+																"--frame-line-height": "20px"
 															},
 															children: "Step  3"
 														})
 													}),
-													className: "framer-1k4sga3",
+													className: "frame-1k4sga3",
 													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: Xt,
 													verticalAlignment: "top",
@@ -20017,13 +20017,13 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "34px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1.5px",
-															"--framer-line-height": "45px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "34px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1.5px",
+															"--frame-line-height": "45px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: O("span", {
 															"data-text-fill": "true",
@@ -20034,7 +20034,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}),
-												className: "framer-n7rzwm",
+												className: "frame-n7rzwm",
 												fonts: ["GF;Instrument Sans-600"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -20044,17 +20044,17 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "25.5px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "25.5px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "After completion, the designs get updated to Figma for you to review and drop comments well before your deadline. This provides you with ample time & flexibility for revisions, giving you peace of mind."
 													})
 												}),
-												className: "framer-1q6i7un",
+												className: "frame-1q6i7un",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -20069,8 +20069,8 @@ var Hd = Te(Bt),
 												pixelWidth: 324,
 												src: "./images/oH642vO5mNyLzLlR67vdtWtqFs0.png"
 											},
-											className: "framer-10blq6a",
-											"data-framer-name": "Tab_3",
+											className: "frame-10blq6a",
+											"data-frame-name": "Tab_3",
 											name: "Tab_3"
 										})]
 									}), M() && O(Oe, {
@@ -20083,32 +20083,32 @@ var Hd = Te(Bt),
 										__framer__threshold: .5,
 										__perspectiveFX: !1,
 										__targetOpacity: 1,
-										className: "framer-1fwbuay hidden-11ouoyp",
-										"data-framer-name": "Step 3",
+										className: "frame-1fwbuay hidden-11ouoyp",
+										"data-frame-name": "Step 3",
 										name: "Step 3",
 										style: {
 											transformPerspective: 1200
 										},
 										children: [O("div", {
-											className: "framer-1p82eus",
+											className: "frame-1p82eus",
 											children: [o("div", {
-												className: "framer-w15tdq",
+												className: "frame-w15tdq",
 												children: o(N, {
 													__fromCanvasComponent: !0,
 													children: o(R, {
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-size": "18px",
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1px",
-																"--framer-line-height": "20px"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-size": "18px",
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1px",
+																"--frame-line-height": "20px"
 															},
 															children: "Step  3"
 														})
 													}),
-													className: "framer-1qqong",
+													className: "frame-1qqong",
 													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: Xt,
 													verticalAlignment: "top",
@@ -20120,13 +20120,13 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "52px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1.5px",
-															"--framer-line-height": "59px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "52px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1.5px",
+															"--frame-line-height": "59px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: o("span", {
 															"data-text-fill": "true",
@@ -20137,7 +20137,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}),
-												className: "framer-rln9le",
+												className: "frame-rln9le",
 												fonts: ["GF;Instrument Sans-600"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -20147,24 +20147,24 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "18px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "25.5px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "18px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "25.5px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "After completing any necessary revisions, our team will upload your fully optimized email campaigns through your Klaviyo channel template or we can send the designs to you."
 													})
 												}),
-												className: "framer-ichsnb",
+												className: "frame-ichsnb",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
 											})]
 										}), o(te, {
 											children: o(re, {
-												className: "framer-an060h-container",
+												className: "frame-an060h-container",
 												children: o(ma, {
 													height: "100%",
 													id: "U5clVg4wG",
@@ -20179,11 +20179,11 @@ var Hd = Te(Bt),
 											})
 										})]
 									}), F() && O("div", {
-										className: "framer-1ayqsed hidden-qmdb2w",
+										className: "frame-1ayqsed hidden-qmdb2w",
 										children: [O("div", {
-											className: "framer-2lwd1n",
+											className: "frame-2lwd1n",
 											children: [o("div", {
-												className: "framer-1toh9in",
+												className: "frame-1toh9in",
 												children: o(Pe, {
 													breakpoint: g,
 													overrides: {
@@ -20192,10 +20192,10 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-weight": "600",
-																		"--framer-letter-spacing": "-1px",
-																		"--framer-line-height": "20px"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-weight": "600",
+																		"--frame-letter-spacing": "-1px",
+																		"--frame-line-height": "20px"
 																	},
 																	children: "Step  1"
 																})
@@ -20208,16 +20208,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "18px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "18px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px"
 																},
 																children: "Step  1"
 															})
 														}),
-														className: "framer-1vj35v2",
+														className: "frame-1vj35v2",
 														fonts: ["GF;Instrument Sans-600"],
 														transformTemplate: Xt,
 														verticalAlignment: "top",
@@ -20232,13 +20232,13 @@ var Hd = Te(Bt),
 															children: o("h1", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "34px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1.5px",
-																	"--framer-line-height": "45px",
-																	"--framer-text-alignment": "left",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "34px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1.5px",
+																	"--frame-line-height": "45px",
+																	"--frame-text-alignment": "left",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: O("span", {
 																	"data-text-fill": "true",
@@ -20247,7 +20247,7 @@ var Hd = Te(Bt),
 																	},
 																	children: ["Add your task\u2019s ", o("span", {
 																		style: {
-																			"--framer-font-size": "52px"
+																			"--frame-font-size": "52px"
 																		},
 																		children: o("br", {})
 																	}), "to Slack"]
@@ -20262,13 +20262,13 @@ var Hd = Te(Bt),
 														children: o("h1", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-size": "38px",
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1.5px",
-																"--framer-line-height": "59px",
-																"--framer-text-alignment": "left",
-																"--framer-text-color": "rgb(255, 255, 255)"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-size": "38px",
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1.5px",
+																"--frame-line-height": "59px",
+																"--frame-text-alignment": "left",
+																"--frame-text-color": "rgb(255, 255, 255)"
 															},
 															children: O("span", {
 																"data-text-fill": "true",
@@ -20277,24 +20277,24 @@ var Hd = Te(Bt),
 																},
 																children: [o("span", {
 																	style: {
-																		"--framer-font-size": "52px"
+																		"--frame-font-size": "52px"
 																	},
 																	children: "Add your task\u2019s "
 																}), o("span", {
 																	style: {
-																		"--framer-font-size": "52px"
+																		"--frame-font-size": "52px"
 																	},
 																	children: o("br", {})
 																}), o("span", {
 																	style: {
-																		"--framer-font-size": "52px"
+																		"--frame-font-size": "52px"
 																	},
 																	children: "to Slack"
 																})]
 															})
 														})
 													}),
-													className: "framer-1bc36ed",
+													className: "frame-1bc36ed",
 													fonts: ["GF;Instrument Sans-600"],
 													verticalAlignment: "top",
 													withExternalLayout: !0
@@ -20305,17 +20305,17 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "20px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "20px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "Upon registration, you'll join Kislap Creative’s Slack for communication and project tracking. We can also use your preferred project management app, though we typically use Asana."
 													})
 												}),
-												className: "framer-1gue4wa",
+												className: "frame-1gue4wa",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
@@ -20330,8 +20330,8 @@ var Hd = Te(Bt),
 												pixelWidth: 324,
 												src: "./images/6zyWZZ107j6NcXOESiSCacrgZ8Y.png"
 											},
-											className: "framer-1gy9giq",
-											"data-framer-name": "Tab_1",
+											className: "frame-1gy9giq",
+											"data-frame-name": "Tab_1",
 											name: "Tab_1"
 										})]
 									})]
@@ -20343,8 +20343,8 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Qn,
 									__perspectiveFX: !1,
 									__targetOpacity: .5,
-									className: "framer-2lyzkn",
-									"data-framer-name": "Line",
+									className: "frame-2lyzkn",
+									"data-frame-name": "Line",
 									name: "Line"
 								}), o(Oe, {
 									__framer__loop: bo,
@@ -20354,15 +20354,15 @@ var Hd = Te(Bt),
 									__framer__loopTransition: Qn,
 									__perspectiveFX: !1,
 									__targetOpacity: .5,
-									className: "framer-1d949ss",
-									"data-framer-name": "Line",
+									className: "frame-1d949ss",
+									"data-frame-name": "Line",
 									name: "Line"
 								})]
 							})]
 						})]
 					}), F() && O("header", {
-						className: "framer-e3j4do hidden-qmdb2w hidden-1i86tcs",
-						"data-framer-name": "",
+						className: "frame-e3j4do hidden-qmdb2w hidden-1i86tcs",
+						"data-frame-name": "",
 						id: z,
 						name: "",
 						ref: Z,
@@ -20394,8 +20394,8 @@ var Hd = Te(Bt),
 									src: "./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png",
 									srcSet: "./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png?scale-down-to=512 512w,./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png?scale-down-to=1024 1024w,./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png 1892w"
 								},
-								className: "framer-1q8k233",
-								"data-framer-name": "",
+								className: "frame-1q8k233",
+								"data-frame-name": "",
 								name: "",
 								transformTemplate: ua
 							})
@@ -20409,8 +20409,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1th8kvx",
-							"data-framer-name": "",
+							className: "frame-1th8kvx",
+							"data-frame-name": "",
 							name: "",
 							style: {
 								transformPerspective: 1200
@@ -20425,7 +20425,7 @@ var Hd = Te(Bt),
 								__framer__threshold: .5,
 								__perspectiveFX: !1,
 								__targetOpacity: 1,
-								className: "framer-1rog4te",
+								className: "frame-1rog4te",
 								style: {
 									transformPerspective: 1200
 								},
@@ -20435,11 +20435,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "32px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "70px"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "32px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "70px"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -20450,8 +20450,8 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-as6w71",
-									"data-framer-name": "     ...",
+									className: "frame-as6w71",
+									"data-frame-name": "     ...",
 									fonts: ["GF;Instrument Sans-600"],
 									name: "     ...",
 									verticalAlignment: "top",
@@ -20462,11 +20462,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "20px",
-												"--framer-letter-spacing": "-1.5px",
-												"--framer-line-height": "71px",
-												"--framer-text-alignment": "center"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "20px",
+												"--frame-letter-spacing": "-1.5px",
+												"--frame-line-height": "71px",
+												"--frame-text-alignment": "center"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -20477,18 +20477,18 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-148vr6h",
-									"data-framer-name": "",
+									className: "frame-148vr6h",
+									"data-frame-name": "",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "",
 									verticalAlignment: "center",
 									withExternalLayout: !0
 								})]
 							}), o("div", {
-								className: "framer-1sdqth0",
+								className: "frame-1sdqth0",
 								children: o(te, {
 									children: o(re, {
-										className: "framer-14sxsur-container",
+										className: "frame-14sxsur-container",
 										children: o($e, {
 											alignment: "center",
 											arrowOptions: {
@@ -20550,11 +20550,11 @@ var Hd = Te(Bt),
 												showProgressDots: !1
 											},
 											slots: [O(A.div, {
-												className: "framer-1p2gygf",
+												className: "frame-1p2gygf",
 												children: [o(A.div, {
-													className: "framer-s4ny98",
+													className: "frame-s4ny98",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -20583,25 +20583,25 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-1rxlezj",
+													className: "frame-1rxlezj",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Faisal Al Khalidi"
 															})
 														}),
-														className: "framer-gy02do",
-														"data-framer-name": "Subtext",
+														className: "frame-gy02do",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20612,16 +20612,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-1da5rq4",
-														"data-framer-name": "Subtext",
+														className: "frame-1da5rq4",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20630,12 +20630,12 @@ var Hd = Te(Bt),
 												})]
 											}), O(A.div, {
 												className: " ",
-												"data-framer-name": "Video 1",
+												"data-frame-name": "Video 1",
 												name: "Video 1",
 												children: [o(A.div, {
-													className: "framer-88jm0u",
+													className: "frame-88jm0u",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -20671,18 +20671,18 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Luca Matarazzo"
 															})
 														}),
-														className: "framer-1pz7z2h",
-														"data-framer-name": "Subtext",
+														className: "frame-1pz7z2h",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20693,16 +20693,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-lxgk05",
-														"data-framer-name": "Subtext",
+														className: "frame-lxgk05",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20710,11 +20710,11 @@ var Hd = Te(Bt),
 													})]
 												})]
 											}), O(A.div, {
-												className: "framer-16i6sg6",
+												className: "frame-16i6sg6",
 												children: [o(A.div, {
 													className: " ",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -20750,18 +20750,18 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Luca Hontau"
 															})
 														}),
-														className: "framer-y2j8ss",
-														"data-framer-name": "Subtext",
+														className: "frame-y2j8ss",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20772,16 +20772,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: "  of KobaltClub"
 															})
 														}),
-														className: "framer-ula9il",
-														"data-framer-name": "Subtext",
+														className: "frame-ula9il",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20790,12 +20790,12 @@ var Hd = Te(Bt),
 												})]
 											}), O(A.div, {
 												className: " ",
-												"data-framer-name": "4",
+												"data-frame-name": "4",
 												name: "4",
 												children: [o(A.div, {
 													className: " ",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -20831,19 +20831,19 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: ""
 															})
 														
 														}),
-														className: "framer-156nfzj",
-														"data-framer-name": "Subtext",
+														className: "frame-156nfzj",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20851,13 +20851,13 @@ var Hd = Te(Bt),
 													})]
 												})]
 											}), O(A.div, {
-												className: "framer-1ozok8h",
-												"data-framer-name": "5",
+												className: "frame-1ozok8h",
+												"data-frame-name": "5",
 												name: "5",
 												children: [o(A.div, {
-													className: "framer-tilm76",
+													className: "frame-tilm76",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -20886,25 +20886,25 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-1o7vzb2",
+													className: "frame-1o7vzb2",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Dolapo"
 															})
 														}),
-														className: "framer-1jfr6y8",
-														"data-framer-name": "Subtext",
+														className: "frame-1jfr6y8",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20915,16 +20915,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: "  of HashtagMonday"
 															})
 														}),
-														className: "framer-1wcanmx",
-														"data-framer-name": "Subtext",
+														className: "frame-1wcanmx",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -20950,8 +20950,8 @@ var Hd = Te(Bt),
 							})]
 						})]
 					}), y() && O("header", {
-						className: "framer-77amyf hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "mobile",
+						className: "frame-77amyf hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "mobile",
 						id: B,
 						name: "mobile",
 						ref: me,
@@ -20984,13 +20984,13 @@ var Hd = Te(Bt),
 									src: "./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png",
 									srcSet: "./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png?scale-down-to=512 512w,./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png?scale-down-to=1024 1024w,./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png 1892w"
 								},
-								className: "framer-14hqnaa",
-								"data-framer-name": "",
+								className: "frame-14hqnaa",
+								"data-frame-name": "",
 								name: ""
 							})
 						}), o(te, {
 							children: o(re, {
-								className: "framer-102kgn0-container",
+								className: "frame-102kgn0-container",
 								children: o($e, {
 									alignment: "center",
 									arrowOptions: {
@@ -21052,17 +21052,17 @@ var Hd = Te(Bt),
 										showProgressDots: !1
 									},
 									slots: [O(A.div, {
-										className: "framer-8r1pv7",
-										"data-framer-name": "Mobile",
+										className: "frame-8r1pv7",
+										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "framer-1u4jgul",
+											className: "frame-1u4jgul",
 											"data-border": !0,
-											"data-framer-name": "Border",
+											"data-frame-name": "Border",
 											name: "Border",
 											children: o(te, {
 												children: o(re, {
-													className: "framer-hbklbx-container",
+													className: "frame-hbklbx-container",
 													children: o(nt, {
 														borderRadius: 12,
 														bottomLeftRadius: 12,
@@ -21087,8 +21087,8 @@ var Hd = Te(Bt),
 												})
 											})
 										}), O(A.div, {
-											className: "framer-1erp6vl",
-											"data-framer-name": "Text",
+											className: "frame-1erp6vl",
+											"data-frame-name": "Text",
 											name: "Text",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
@@ -21096,18 +21096,18 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: "Luca Matarazzo"
 													})
 												}),
-												className: "framer-1bh39r2",
-												"data-framer-name": "Subtext",
+												className: "frame-1bh39r2",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-600"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21118,17 +21118,17 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "  of Grow Pronto"
 													})
 												}),
-												className: "framer-1ax5aw5",
-												"data-framer-name": "Subtext",
+												className: "frame-1ax5aw5",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-regular"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21136,17 +21136,17 @@ var Hd = Te(Bt),
 											})]
 										})]
 									}), O(A.div, {
-										className: "framer-1h2g9a",
-										"data-framer-name": "Mobile",
+										className: "frame-1h2g9a",
+										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "framer-1xkxn64",
+											className: "frame-1xkxn64",
 											"data-border": !0,
-											"data-framer-name": "Border",
+											"data-frame-name": "Border",
 											name: "Border",
 											children: o(te, {
 												children: o(re, {
-													className: "framer-13nsb1u-container",
+													className: "frame-13nsb1u-container",
 													children: o(nt, {
 														borderRadius: 12,
 														bottomLeftRadius: 12,
@@ -21171,8 +21171,8 @@ var Hd = Te(Bt),
 												})
 											})
 										}), O(A.div, {
-											className: "framer-11esjt5",
-											"data-framer-name": "Text",
+											className: "frame-11esjt5",
+											"data-frame-name": "Text",
 											name: "Text",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
@@ -21180,18 +21180,18 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: "Faisal Al Khalidi"
 													})
 												}),
-												className: "framer-9bxedy",
-												"data-framer-name": "Subtext",
+												className: "frame-9bxedy",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-600"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21202,17 +21202,17 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "  of Emailedge.xyz"
 													})
 												}),
-												className: "framer-1e55z81",
-												"data-framer-name": "Subtext",
+												className: "frame-1e55z81",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-regular"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21220,17 +21220,17 @@ var Hd = Te(Bt),
 											})]
 										})]
 									}), O(A.div, {
-										className: "framer-1ocnhjv",
-										"data-framer-name": "Mobile",
+										className: "frame-1ocnhjv",
+										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "framer-74av47",
+											className: "frame-74av47",
 											"data-border": !0,
-											"data-framer-name": "Border",
+											"data-frame-name": "Border",
 											name: "Border",
 											children: o(te, {
 												children: o(re, {
-													className: "framer-1u2yv00-container",
+													className: "frame-1u2yv00-container",
 													children: o(nt, {
 														borderRadius: 12,
 														bottomLeftRadius: 12,
@@ -21255,8 +21255,8 @@ var Hd = Te(Bt),
 												})
 											})
 										}), O(A.div, {
-											className: "framer-1iieyvg",
-											"data-framer-name": "Text",
+											className: "frame-1iieyvg",
+											"data-frame-name": "Text",
 											name: "Text",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
@@ -21264,18 +21264,18 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "4px",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "4px",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: "Luca Hontau"
 													})
 												}),
-												className: "framer-9d3xr5",
-												"data-framer-name": "Subtext",
+												className: "frame-9d3xr5",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-600"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21286,17 +21286,17 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "  of KobaltClub"
 													})
 												}),
-												className: "framer-173pv1a",
-												"data-framer-name": "Subtext",
+												className: "frame-173pv1a",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-regular"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21304,14 +21304,14 @@ var Hd = Te(Bt),
 											})]
 										})]
 									}), O(A.div, {
-										className: "framer-1xrvpl5",
-										"data-framer-name": "Mobile",
+										className: "frame-1xrvpl5",
+										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
 											
 										}), O(A.div, {
-											className: "framer-1fdjzqd",
-											"data-framer-name": "Text",
+											className: "frame-1fdjzqd",
+											"data-frame-name": "Text",
 											name: "Text",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
@@ -21319,18 +21319,18 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: ""
 													})
 												}),
-												className: "framer-ef0xkl",
-												"data-framer-name": "Subtext",
+												className: "frame-ef0xkl",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-600"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21341,17 +21341,17 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: ""
 													})
 												}),
-												className: "framer-14j9294",
-												"data-framer-name": "Subtext",
+												className: "frame-14j9294",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-regular"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21359,14 +21359,14 @@ var Hd = Te(Bt),
 											})]
 										})]
 									}), O(A.div, {
-										className: "framer-1vqmv9b",
-										"data-framer-name": "Mobile",
+										className: "frame-1vqmv9b",
+										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
 											
 										}), O(A.div, {
-											className: "framer-17b21vs",
-											"data-framer-name": "Text",
+											className: "frame-17b21vs",
+											"data-frame-name": "Text",
 											name: "Text",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
@@ -21374,18 +21374,18 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "600",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgb(255, 255, 255)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "600",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgb(255, 255, 255)"
 														},
 														children: "Dolapo"
 													})
 												}),
-												className: "framer-18h09uu",
-												"data-framer-name": "Subtext",
+												className: "frame-18h09uu",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-600"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21396,17 +21396,17 @@ var Hd = Te(Bt),
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "14px",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "14px",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "  of HashtagMonday"
 													})
 												}),
-												className: "framer-j46pqp",
-												"data-framer-name": "Subtext",
+												className: "frame-j46pqp",
+												"data-frame-name": "Subtext",
 												fonts: ["GF;Instrument Sans-regular"],
 												name: "Subtext",
 												verticalAlignment: "center",
@@ -21429,22 +21429,22 @@ var Hd = Te(Bt),
 								})
 							})
 						}), o("header", {
-							className: "framer-1e8ustg",
-							"data-framer-name": "",
+							className: "frame-1e8ustg",
+							"data-frame-name": "",
 							name: "",
 							children: O("div", {
-								className: "framer-19749yq",
+								className: "frame-19749yq",
 								children: [o(N, {
 									__fromCanvasComponent: !0,
 									children: o(R, {
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "27px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "32px"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "27px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "32px"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -21455,8 +21455,8 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-1e8xoxa",
-									"data-framer-name": "     ...",
+									className: "frame-1e8xoxa",
+									"data-frame-name": "     ...",
 									fonts: ["GF;Instrument Sans-600"],
 									name: "     ...",
 									verticalAlignment: "top",
@@ -21467,11 +21467,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "18px",
-												"--framer-letter-spacing": "-1.6px",
-												"--framer-line-height": "22.5px",
-												"--framer-text-alignment": "center"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "18px",
+												"--frame-letter-spacing": "-1.6px",
+												"--frame-line-height": "22.5px",
+												"--frame-text-alignment": "center"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -21482,8 +21482,8 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-noy7xd",
-									"data-framer-name": "",
+									className: "frame-noy7xd",
+									"data-frame-name": "",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "",
 									verticalAlignment: "center",
@@ -21493,7 +21493,7 @@ var Hd = Te(Bt),
 						})]
 					}), m() && O("header", {
 						className: "",
-						"data-framer-name": "Video Section",
+						"data-frame-name": "Video Section",
 						id: ne,
 						name: "Video Section",
 						ref: pe,
@@ -21511,13 +21511,13 @@ var Hd = Te(Bt),
 								srcSet: "./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png?scale-down-to=512 512w,./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png?scale-down-to=1024 1024w,./images/P6sbMM91H8wRr0lyVeCSTsP3o9c.png 1892w"
 							},
 							className: "",
-							"data-framer-name": "",
+							"data-frame-name": "",
 							name: "",
 							transformTemplate: ua
 						}), o("div", {
 							className: ""
 						}), o(A.div, {
-							className: "framer-16dx979",
+							className: "frame-16dx979",
 							style: {
 								rotate: 180
 							}
@@ -21532,7 +21532,7 @@ var Hd = Te(Bt),
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
 							className: "",
-							"data-framer-name": "",
+							"data-frame-name": "",
 							name: "",
 							style: {
 								transformPerspective: 1200
@@ -21557,11 +21557,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "38px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "71px"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "38px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "71px"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -21573,7 +21573,7 @@ var Hd = Te(Bt),
 										})
 									}),
 									className: "",
-									"data-framer-name": "",
+									"data-frame-name": "",
 									fonts: ["GF;Instrument Sans-600"],
 									name: "",
 									verticalAlignment: "top",
@@ -21584,11 +21584,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "24px",
-												"--framer-letter-spacing": "-1.5px",
-												"--framer-line-height": "71px",
-												"--framer-text-alignment": "center"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "24px",
+												"--frame-letter-spacing": "-1.5px",
+												"--frame-line-height": "71px",
+												"--frame-text-alignment": "center"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -21600,7 +21600,7 @@ var Hd = Te(Bt),
 										})
 									}),
 									className: " ",
-									"data-framer-name": "",
+									"data-frame-name": "",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "",
 									verticalAlignment: "center",
@@ -21608,7 +21608,7 @@ var Hd = Te(Bt),
 								})]
 							}), o("div", {
 								className: "",
-								"data-framer-name": "",
+								"data-frame-name": "",
 								name: "",
 								children: o(te, {
 									children: o(re, {
@@ -21674,11 +21674,11 @@ var Hd = Te(Bt),
 												showProgressDots: !1
 											},
 											slots: [O(A.div, {
-												className: "framer-16i6sg6",
+												className: "frame-16i6sg6",
 												children: [o(A.div, {
 													className: " ",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -21707,25 +21707,25 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-1hylq7s",
+													className: "frame-1hylq7s",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-y2j8ss",
-														"data-framer-name": "Subtext",
+														className: "frame-y2j8ss",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21736,16 +21736,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-ula9il",
-														"data-framer-name": "Subtext",
+														className: "frame-ula9il",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21754,7 +21754,7 @@ var Hd = Te(Bt),
 												})]
 											}), O(A.div, {
 												className: " ",
-												"data-framer-name": "4",
+												"data-frame-name": "4",
 												name: "4",
 												children: [o(A.div, {
 													
@@ -21766,18 +21766,18 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-1gbunp0",
-														"data-framer-name": "Subtext",
+														className: "frame-1gbunp0",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21788,16 +21788,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-156nfzj",
-														"data-framer-name": "Subtext",
+														className: "frame-156nfzj",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21806,12 +21806,12 @@ var Hd = Te(Bt),
 												})]
 											}), O(A.div, {
 												className: " ",
-												"data-framer-name": "Video 1",
+												"data-frame-name": "Video 1",
 												name: "Video 1",
 												children: [o(A.div, {
-													className: "framer-88jm0u",
+													className: "frame-88jm0u",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -21840,25 +21840,25 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-dp6io2",
+													className: "frame-dp6io2",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-1pz7z2h",
-														"data-framer-name": "Subtext",
+														className: "frame-1pz7z2h",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21869,16 +21869,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-lxgk05",
-														"data-framer-name": "Subtext",
+														className: "frame-lxgk05",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21886,11 +21886,11 @@ var Hd = Te(Bt),
 													})]
 												})]
 											}), O(A.div, {
-												className: "framer-1p2gygf",
+												className: "frame-1p2gygf",
 												children: [o(A.div, {
-													className: "framer-s4ny98",
+													className: "frame-s4ny98",
 													"data-border": !0,
-													"data-framer-name": "YT",
+													"data-frame-name": "YT",
 													name: "YT",
 													children: o(te, {
 														children: o(re, {
@@ -21919,25 +21919,25 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-1rxlezj",
+													className: "frame-1rxlezj",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Faisal Al Khalidi"
 															})
 														}),
-														className: "framer-gy02do",
-														"data-framer-name": "Subtext",
+														className: "frame-gy02do",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21948,16 +21948,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-1da5rq4",
-														"data-framer-name": "Subtext",
+														className: "frame-1da5rq4",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -21965,31 +21965,31 @@ var Hd = Te(Bt),
 													})]
 												})]
 											}), O(A.div, {
-												className: "framer-1ozok8h",
-												"data-framer-name": "5",
+												className: "frame-1ozok8h",
+												"data-frame-name": "5",
 												name: "5",
 												children: [o(A.div, {
 													
 												}), O(A.div, {
-													className: "framer-1o7vzb2",
+													className: "frame-1o7vzb2",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "20px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1px",
-																	"--framer-line-height": "20px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "20px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1px",
+																	"--frame-line-height": "20px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Dolapo"
 															})
 														}),
-														className: "framer-1jfr6y8",
-														"data-framer-name": "Subtext",
+														className: "frame-1jfr6y8",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-600"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -22000,16 +22000,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-letter-spacing": "-0.5px",
-																	"--framer-line-height": "16px",
-																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-letter-spacing": "-0.5px",
+																	"--frame-line-height": "16px",
+																	"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 																},
 																children: ""
 															})
 														}),
-														className: "framer-1wcanmx",
-														"data-framer-name": "Subtext",
+														className: "frame-1wcanmx",
+														"data-frame-name": "Subtext",
 														fonts: ["GF;Instrument Sans-regular"],
 														name: "Subtext",
 														verticalAlignment: "center",
@@ -22035,22 +22035,22 @@ var Hd = Te(Bt),
 							})]
 						})]
 					}), y() && O("header", {
-						className: "framer-1hmytn2 hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-1hmytn2 hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [O("div", {
-							className: "framer-333w81",
+							className: "frame-333w81",
 							children: [o(N, {
 								__fromCanvasComponent: !0,
 								children: o(R, {
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "27px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2.2px",
-											"--framer-line-height": "32px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "27px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2.2px",
+											"--frame-line-height": "32px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -22061,8 +22061,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-14mfnzc",
-								"data-framer-name": "Questions? Answered.",
+								className: "frame-14mfnzc",
+								"data-frame-name": "Questions? Answered.",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Questions? Answered.",
 								verticalAlignment: "center",
@@ -22073,10 +22073,10 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "18px",
-											"--framer-letter-spacing": "-1px",
-											"--framer-line-height": "22.5px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "18px",
+											"--frame-letter-spacing": "-1px",
+											"--frame-line-height": "22.5px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -22087,8 +22087,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-107banh",
-								"data-framer-name": "One subscription for all your creative needs",
+								className: "frame-107banh",
+								"data-frame-name": "One subscription for all your creative needs",
 								fonts: ["GF;Instrument Sans-regular"],
 								name: "One subscription for all your creative needs",
 								verticalAlignment: "center",
@@ -22130,20 +22130,20 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-3gyw3o",
-								"data-framer-name": "glow",
+								className: "frame-3gyw3o",
+								"data-frame-name": "glow",
 								name: "glow",
 								style: {
 									rotate: 150
 								}
 							})
 						}), o("div", {
-							className: "framer-egxoer",
-							"data-framer-name": "FAQ",
+							className: "frame-egxoer",
+							"data-frame-name": "FAQ",
 							name: "FAQ",
 							children: o(te, {
 								children: o(re, {
-									className: "framer-2gh47b-container",
+									className: "frame-2gh47b-container",
 									children: o(Gn, {
 										height: "100%",
 										id: "rjzLjgS3M",
@@ -22158,26 +22158,26 @@ var Hd = Te(Bt),
 							})
 						})]
 					}), y() && O("header", {
-						className: "framer-v9mfff hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-v9mfff hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						id: oe,
 						name: "Header",
 						ref: _e,
 						children: [O("div", {
-							className: "framer-g5birp",
+							className: "frame-g5birp",
 							children: [O("div", {
-								className: "framer-kjlvhm",
+								className: "frame-kjlvhm",
 								children: [o(N, {
 									__fromCanvasComponent: !0,
 									children: o(R, {
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "27px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "32px"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "27px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "32px"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -22188,8 +22188,8 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-etupqa",
-									"data-framer-name": "Pricing",
+									className: "frame-etupqa",
+									"data-frame-name": "Pricing",
 									fonts: ["GF;Instrument Sans-600"],
 									name: "Pricing",
 									verticalAlignment: "center",
@@ -22197,8 +22197,8 @@ var Hd = Te(Bt),
 								}), o(te, {
 									children: o(Yn, {
 										animate: Xn,
-										className: "framer-1h21o9z-container",
-										"data-framer-appear-id": "1h21o9z",
+										className: "frame-1h21o9z-container",
+										"data-frame-appear-id": "1h21o9z",
 										initial: Un,
 										optimized: !0,
 										style: {
@@ -22224,10 +22224,10 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "18px",
-											"--framer-letter-spacing": "-1px",
-											"--framer-line-height": "22.5px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "18px",
+											"--frame-letter-spacing": "-1px",
+											"--frame-line-height": "22.5px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -22238,8 +22238,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-zh252o",
-								"data-framer-name": "One subscription for all your creative needs",
+								className: "frame-zh252o",
+								"data-frame-name": "One subscription for all your creative needs",
 								fonts: ["GF;Instrument Sans-regular"],
 								name: "One subscription for all your creative needs",
 								verticalAlignment: "center",
@@ -22274,8 +22274,8 @@ var Hd = Te(Bt),
 									src: "./images/c7e36DoolA2Te63o5vrryBMJYd4.png",
 									srcSet: "./images/c7e36DoolA2Te63o5vrryBMJYd4.png?scale-down-to=512 512w,./images/c7e36DoolA2Te63o5vrryBMJYd4.png?scale-down-to=1024 1024w,./images/c7e36DoolA2Te63o5vrryBMJYd4.png?scale-down-to=2048 2048w,./images/c7e36DoolA2Te63o5vrryBMJYd4.png 3375w"
 								},
-								className: "framer-xr3qol",
-								"data-framer-name": "Pricing Image",
+								className: "frame-xr3qol",
+								"data-frame-name": "Pricing Image",
 								name: "Pricing Image"
 							})
 						}), o(Pe, {
@@ -22307,40 +22307,40 @@ var Hd = Te(Bt),
 									src: "./images/oIjtCYAV9wJ6UA4QmMOd3gn6wY.png",
 									srcSet: "./images/oIjtCYAV9wJ6UA4QmMOd3gn6wY.png?scale-down-to=512 512w,./images/oIjtCYAV9wJ6UA4QmMOd3gn6wY.png?scale-down-to=1024 1024w,./images/oIjtCYAV9wJ6UA4QmMOd3gn6wY.png 1161w"
 								},
-								className: "framer-1ajpwpj",
-								"data-framer-name": "Pricing",
+								className: "frame-1ajpwpj",
+								"data-frame-name": "Pricing",
 								name: "Pricing",
 								children: [o(rt, {
 									href: "https://buy.stripe.com/6oE29Vebg0vua7m8xr",
 									openInNewTab: !0,
 									children: o("a", {
-										className: "framer-1dgvyln framer-4zsb7x",
-										"data-framer-name": "CTA - Get Started",
+										className: "frame-1dgvyln frame-4zsb7x",
+										"data-frame-name": "CTA - Get Started",
 										name: "CTA - Get Started",
 										children: O("div", {
-											className: "framer-6bhfi3",
+											className: "frame-6bhfi3",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
 												children: o(R, {
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "11.08px",
-															"--framer-font-weight": "600"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "11.08px",
+															"--frame-font-weight": "600"
 														},
 														children: "GET STARTED"
 													})
 												}),
-												className: "framer-baoqcq",
-												"data-framer-name": "GET STARTED",
+												className: "frame-baoqcq",
+												"data-frame-name": "GET STARTED",
 												fonts: ["GF;Instrument Sans-600"],
 												name: "GET STARTED",
 												verticalAlignment: "top",
 												withExternalLayout: !0
 											}), o(Se, {
-												className: "framer-tqmlko",
-												"data-framer-name": "Arrow 1",
+												className: "frame-tqmlko",
+												"data-frame-name": "Arrow 1",
 												fill: "rgba(0,0,0,1)",
 												intrinsicHeight: 9,
 												intrinsicWidth: 110,
@@ -22361,43 +22361,43 @@ var Hd = Te(Bt),
 										})
 									})
 								}), o("div", {
-									className: "framer-7ue7f3",
-									"data-framer-name": "Glow",
+									className: "frame-7ue7f3",
+									"data-frame-name": "Glow",
 									name: "Glow"
 								})]
 							})
 						}), o(rt, {
 							href: "https://calendly.com/accountmanager-kislapcreative/new-meeting",
 							children: o("a", {
-								className: "framer-2w5w22 framer-4zsb7x",
+								className: "frame-2w5w22 frame-4zsb7x",
 								"data-border": !0,
-								"data-framer-name": "CTA - Get Started",
+								"data-frame-name": "CTA - Get Started",
 								name: "CTA - Get Started",
 								children: O("div", {
-									className: "framer-10oa1qw",
+									className: "frame-10oa1qw",
 									children: [o(N, {
 										__fromCanvasComponent: !0,
 										children: o(R, {
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "11.08px",
-													"--framer-font-weight": "600",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "11.08px",
+													"--frame-font-weight": "600",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: "BOOK A CALL"
 											})
 										}),
-										className: "framer-ta2dyk",
-										"data-framer-name": "BOOK A CALL",
+										className: "frame-ta2dyk",
+										"data-frame-name": "BOOK A CALL",
 										fonts: ["GF;Instrument Sans-600"],
 										name: "BOOK A CALL",
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									}), o(Se, {
-										className: "framer-1ydkb79",
-										"data-framer-name": "Vector",
+										className: "frame-1ydkb79",
+										"data-frame-name": "Vector",
 										fill: "rgba(0,0,0,1)",
 										intrinsicHeight: 10,
 										intrinsicWidth: 15,
@@ -22413,7 +22413,7 @@ var Hd = Te(Bt),
 						})]
 					}), d() && O("header", {
 						className: "",
-						"data-framer-name": "Header",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [o(Pe, {
 							breakpoint: g,
@@ -22452,22 +22452,22 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-jl9d86",
-								"data-framer-name": "glow",
+								className: "frame-jl9d86",
+								"data-frame-name": "glow",
 								name: "glow",
 								style: {
 									rotate: 179
 								}
 							})
 						}), O("header", {
-							className: "framer-lpbwzq",
-							"data-framer-name": "Pricing",
+							className: "frame-lpbwzq",
+							"data-frame-name": "Pricing",
 							id: Be,
 							name: "Pricing",
 							ref: Xe,
 							children: [M() && O("div", {
-								className: "framer-1sz89y0 hidden-11ouoyp",
-								"data-framer-name": "Text",
+								className: "frame-1sz89y0 hidden-11ouoyp",
+								"data-frame-name": "Text",
 								name: "Text",
 								children: [o(N, {
 									__fromCanvasComponent: !0,
@@ -22475,13 +22475,13 @@ var Hd = Te(Bt),
 										children: o("h1", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "38px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-1.0px",
-												"--framer-line-height": "38px",
-												"--framer-text-alignment": "center",
-												"--framer-text-color": "rgb(255, 255, 255)"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "38px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-1.0px",
+												"--frame-line-height": "38px",
+												"--frame-text-alignment": "center",
+												"--frame-text-color": "rgb(255, 255, 255)"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -22492,7 +22492,7 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-plrob3",
+									className: "frame-plrob3",
 									fonts: ["GF;Instrument Sans-600"],
 									verticalAlignment: "top",
 									withExternalLayout: !0
@@ -22502,12 +22502,12 @@ var Hd = Te(Bt),
 										children: o("h1", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "24px",
-												"--framer-letter-spacing": "-1.5px",
-												"--framer-line-height": "24px",
-												"--framer-text-alignment": "center",
-												"--framer-text-color": "rgb(255, 255, 255)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "24px",
+												"--frame-letter-spacing": "-1.5px",
+												"--frame-line-height": "24px",
+												"--frame-text-alignment": "center",
+												"--frame-text-color": "rgb(255, 255, 255)"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -22518,20 +22518,20 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-8zac8y",
+									className: "frame-8zac8y",
 									fonts: ["GF;Instrument Sans-regular"],
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								})]
 							}), O("div", {
-								className: "framer-1pjcd30",
+								className: "frame-1pjcd30",
 								children: [M() && O("div", {
-									className: "framer-1nu7wh1 hidden-11ouoyp",
-									"data-framer-name": "Pricing",
+									className: "frame-1nu7wh1 hidden-11ouoyp",
+									"data-frame-name": "Pricing",
 									name: "Pricing",
 									children: [o("div", {
-										className: "framer-u6azax",
-										"data-framer-name": "Image",
+										className: "frame-u6azax",
+										"data-frame-name": "Image",
 										name: "Image",
 										children: o(rt, {
 											href: "https://www.behance.net/creativecueco",
@@ -22554,39 +22554,39 @@ var Hd = Te(Bt),
 													pixelWidth: 3375,
 													src: "./images/c7e36DoolA2Te63o5vrryBMJYd4.png"
 												},
-												className: "framer-18x1nya framer-4zsb7x",
-												"data-framer-name": "BG_1",
+												className: "frame-18x1nya frame-4zsb7x",
+												"data-frame-name": "BG_1",
 												name: "BG_1",
 												transformTemplate: ua
 											})
 										})
 									}), O("div", {
-										className: "framer-xai64v",
+										className: "frame-xai64v",
 										id: Ze,
 										ref: Ge,
 										children: [O("div", {
-											className: "framer-j1md19",
+											className: "frame-j1md19",
 											id: xe,
 											ref: Je,
 											children: [O("div", {
-												className: "framer-1346dah",
+												className: "frame-1346dah",
 												children: [o(N, {
 													__fromCanvasComponent: !0,
 													children: o(R, {
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", sans-serif',
-																"--framer-font-size": "26px",
-																"--framer-font-weight": "600",
-																"--framer-line-height": "14.72px",
-																"--framer-text-color": "rgb(15, 15, 16)"
+																"--frame-font-family": '"Instrument Sans", sans-serif',
+																"--frame-font-size": "26px",
+																"--frame-font-weight": "600",
+																"--frame-line-height": "14.72px",
+																"--frame-text-color": "rgb(15, 15, 16)"
 															},
 															children: "Featured Price"
 														})
 														
 													}),
-													className: "framer-1vyhwaf",
+													className: "frame-1vyhwaf",
 													fonts: ["GF;Instrument Sans-600"],
 													verticalAlignment: "top",
 													withExternalLayout: !0
@@ -22596,15 +22596,15 @@ var Hd = Te(Bt),
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-size": "14px",
-																"--framer-line-height": "15.08px",
-																"--framer-text-color": "rgb(15, 15, 16)"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-size": "14px",
+																"--frame-line-height": "15.08px",
+																"--frame-text-color": "rgb(15, 15, 16)"
 															},
 															children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
 														})
 													}),
-													className: "framer-w5ce3r",
+													className: "frame-w5ce3r",
 													fonts: ["GF;Instrument Sans-regular"],
 													verticalAlignment: "top",
 													withExternalLayout: !0
@@ -22614,30 +22614,30 @@ var Hd = Te(Bt),
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-size": "26px",
-																"--framer-letter-spacing": "-0.05em",
-																"--framer-line-height": "31.72px",
-																"--framer-text-color": "rgb(15, 15, 16)"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-size": "26px",
+																"--frame-letter-spacing": "-0.05em",
+																"--frame-line-height": "31.72px",
+																"--frame-text-color": "rgb(15, 15, 16)"
 															},
 															children: "$ 1,200/mo"
 														})
 													}),
-													className: "framer-by67le",
+													className: "frame-by67le",
 													fonts: ["GF;Instrument Sans-600"],
 													transformTemplate: cc,
 													verticalAlignment: "top",
 													withExternalLayout: !0
 												})]
 											}), O("div", {
-												className: "framer-nizb4t",
+												className: "frame-nizb4t",
 												children: [O("div", {
-													className: "framer-1rpbbgw",
+													className: "frame-1rpbbgw",
 													children: [O("div", {
-														className: "framer-1g8ax2k",
+														className: "frame-1g8ax2k",
 														children: [o(Se, {
-															className: "framer-p9hhnk",
-															"data-framer-name": "Star_6",
+															className: "frame-p9hhnk",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -22650,25 +22650,25 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Unlimited Requests"
 																})
 															}),
-															className: "framer-1bp733s",
+															className: "frame-1bp733s",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													}), O("div", {
-														className: "framer-1g8p7qs",
+														className: "frame-1g8p7qs",
 														children: [o(Se, {
-															className: "framer-cz9gj1",
-															"data-framer-name": "Star_6",
+															className: "frame-cz9gj1",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -22681,25 +22681,25 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Design + Set-up Klaviyo"
 																})
 															}),
-															className: "framer-5acu8x",
+															className: "frame-5acu8x",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													}), O("div", {
-														className: "framer-12a3s3z",
+														className: "frame-12a3s3z",
 														children: [o(Se, {
-															className: "framer-1yoifbv",
-															"data-framer-name": "Star_6",
+															className: "frame-1yoifbv",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -22712,26 +22712,26 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Slack Channel"
 																})
 															}),
-															className: "framer-1jrx6up",
+															className: "frame-1jrx6up",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													})]
 												}), O("div", {
-													className: "framer-1i9rf1c",
+													className: "frame-1i9rf1c",
 													children: [o(Se, {
-														className: "framer-1flpree",
-														"data-framer-name": "Star_6",
+														className: "frame-1flpree",
+														"data-frame-name": "Star_6",
 														fill: "black",
 														intrinsicHeight: 21,
 														intrinsicWidth: 22,
@@ -22744,25 +22744,25 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "18px",
-																	"--framer-letter-spacing": "0px",
-																	"--framer-line-height": "25.5px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "18px",
+																	"--frame-letter-spacing": "0px",
+																	"--frame-line-height": "25.5px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Unlimited Revisions"
 															})
 														}),
-														className: "framer-oq6rvd",
+														className: "frame-oq6rvd",
 														fonts: ["GF;Instrument Sans-regular"],
 														verticalAlignment: "top",
 														withExternalLayout: !0
 													})]
 												}), O("div", {
-													className: "framer-nlzda8",
+													className: "frame-nlzda8",
 													children: [o(Se, {
-														className: "framer-2v2qnl",
-														"data-framer-name": "Star_6",
+														className: "frame-2v2qnl",
+														"data-frame-name": "Star_6",
 														fill: "black",
 														intrinsicHeight: 21,
 														intrinsicWidth: 22,
@@ -22775,25 +22775,25 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "18px",
-																	"--framer-letter-spacing": "0px",
-																	"--framer-line-height": "25.5px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "18px",
+																	"--frame-letter-spacing": "0px",
+																	"--frame-line-height": "25.5px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Pause or Cancel"
 															})
 														}),
-														className: "framer-17p0elc",
+														className: "frame-17p0elc",
 														fonts: ["GF;Instrument Sans-regular"],
 														verticalAlignment: "top",
 														withExternalLayout: !0
 													})]
 												}), O("div", {
-													className: "framer-114ze5o",
+													className: "frame-114ze5o",
 													children: [o(Se, {
-														className: "framer-7v5hqo",
-														"data-framer-name": "Star_6",
+														className: "frame-7v5hqo",
+														"data-frame-name": "Star_6",
 														fill: "black",
 														intrinsicHeight: 21,
 														intrinsicWidth: 22,
@@ -22806,16 +22806,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "18px",
-																	"--framer-letter-spacing": "0px",
-																	"--framer-line-height": "25.5px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "18px",
+																	"--frame-letter-spacing": "0px",
+																	"--frame-line-height": "25.5px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "24hr turnaround"
 															})
 														}),
-														className: "framer-xb82il",
+														className: "frame-xb82il",
 														fonts: ["GF;Instrument Sans-regular"],
 														verticalAlignment: "top",
 														withExternalLayout: !0
@@ -22823,37 +22823,37 @@ var Hd = Te(Bt),
 												})]
 											})]
 										}), O("div", {
-											className: "framer-beu9w9",
+											className: "frame-beu9w9",
 											children: [o(N, {
 												__fromCanvasComponent: !0,
 												children: o(R, {
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "18px",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "25.5px",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "18px",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "25.5px",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "We offer customizable design packages to fit your needs. Contact us for more details or a personalized quote."
 													})
 												}),
-												className: "framer-1nwq99w",
+												className: "frame-1nwq99w",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
 											}), O("div", {
-												className: "framer-1gz4mxt",
-												"data-framer-name": "CTA Buttons",
+												className: "frame-1gz4mxt",
+												"data-frame-name": "CTA Buttons",
 												name: "CTA Buttons",
 												children: [o(rt, {
 													href: "https://calendly.com/accountmanager-kislapcreative/new-meeting",
 													children: o("a", {
-														className: "framer-1yj5q9e framer-4zsb7x",
+														className: "frame-1yj5q9e frame-4zsb7x",
 														children: o(te, {
 															children: o(re, {
-																className: "framer-1w0rywi-container",
+																className: "frame-1w0rywi-container",
 																children: o(ea, {
 																	height: "100%",
 																	id: "iQCvI4Hv1",
@@ -22872,13 +22872,13 @@ var Hd = Te(Bt),
 													href: "mailto: hello@kislapcreative.com",
 													openInNewTab: !0,
 													children: o("a", {
-														className: "framer-1foiob9 framer-4zsb7x",
+														className: "frame-1foiob9 frame-4zsb7x",
 														children: o(te, {
 															height: 62,
 															width: "325px",
 															y: 5498.52449798584,
 															children: o(re, {
-																className: "framer-8ke0ia-container",
+																className: "frame-8ke0ia-container",
 																children: o(ra, {
 																	height: "100%",
 																	id: "rZ7uxtAhZ",
@@ -22898,15 +22898,15 @@ var Hd = Te(Bt),
 										})]
 									})]
 								}), o("div", {
-									className: "framer-lm6f6i",
-									"data-framer-name": "Got more questions?",
+									className: "frame-lm6f6i",
+									"data-frame-name": "Got more questions?",
 									name: "Got more questions?",
 									children: O("div", {
-										className: "framer-q0cc5l",
-										"data-framer-name": "Step 1",
+										className: "frame-q0cc5l",
+										"data-frame-name": "Step 1",
 										name: "Step 1",
 										children: [O("div", {
-											className: "framer-s2mh3a",
+											className: "frame-s2mh3a",
 											children: [o(Pe, {
 												breakpoint: g,
 												overrides: {
@@ -22933,8 +22933,8 @@ var Hd = Te(Bt),
 														pixelWidth: 27,
 														src: "./images/A0Neg0GtXyz098hYMhI7huTwvg.png"
 													},
-													className: "framer-1royv3e",
-													"data-framer-name": "Calendly",
+													className: "frame-1royv3e",
+													"data-frame-name": "Calendly",
 													name: "Calendly"
 												})
 											}), o(Pe, {
@@ -22945,13 +22945,13 @@ var Hd = Te(Bt),
 															children: [o("h1", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "46px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1.5px",
-																	"--framer-line-height": "59px",
-																	"--framer-text-alignment": "left",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "46px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1.5px",
+																	"--frame-line-height": "59px",
+																	"--frame-text-alignment": "left",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: o("span", {
 																	"data-text-fill": "true",
@@ -22963,13 +22963,13 @@ var Hd = Te(Bt),
 															}), o("h1", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "46px",
-																	"--framer-font-weight": "600",
-																	"--framer-letter-spacing": "-1.5px",
-																	"--framer-line-height": "59px",
-																	"--framer-text-alignment": "left",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "46px",
+																	"--frame-font-weight": "600",
+																	"--frame-letter-spacing": "-1.5px",
+																	"--frame-line-height": "59px",
+																	"--frame-text-alignment": "left",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: o("span", {
 																	"data-text-fill": "true",
@@ -22988,13 +22988,13 @@ var Hd = Te(Bt),
 														children: [o("h1", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", sans-serif',
-																"--framer-font-size": "52px",
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1.5px",
-																"--framer-line-height": "59px",
-																"--framer-text-alignment": "left",
-																"--framer-text-color": "rgb(255, 255, 255)"
+																"--frame-font-family": '"Instrument Sans", sans-serif',
+																"--frame-font-size": "52px",
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1.5px",
+																"--frame-line-height": "59px",
+																"--frame-text-alignment": "left",
+																"--frame-text-color": "rgb(255, 255, 255)"
 															},
 															children: o("span", {
 																"data-text-fill": "true",
@@ -23006,13 +23006,13 @@ var Hd = Te(Bt),
 														}), o("h1", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																"--framer-font-family": '"Instrument Sans", sans-serif',
-																"--framer-font-size": "52px",
-																"--framer-font-weight": "600",
-																"--framer-letter-spacing": "-1.5px",
-																"--framer-line-height": "59px",
-																"--framer-text-alignment": "left",
-																"--framer-text-color": "rgb(255, 255, 255)"
+																"--frame-font-family": '"Instrument Sans", sans-serif',
+																"--frame-font-size": "52px",
+																"--frame-font-weight": "600",
+																"--frame-letter-spacing": "-1.5px",
+																"--frame-line-height": "59px",
+																"--frame-text-alignment": "left",
+																"--frame-text-color": "rgb(255, 255, 255)"
 															},
 															children: o("span", {
 																"data-text-fill": "true",
@@ -23023,7 +23023,7 @@ var Hd = Te(Bt),
 															})
 														})]
 													}),
-													className: "framer-1nd7950",
+													className: "frame-1nd7950",
 													fonts: ["GF;Instrument Sans-600"],
 													verticalAlignment: "top",
 													withExternalLayout: !0
@@ -23034,26 +23034,26 @@ var Hd = Te(Bt),
 													children: o("h1", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "18px",
-															"--framer-letter-spacing": "-0.5px",
-															"--framer-line-height": "25.5px",
-															"--framer-text-alignment": "left",
-															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "18px",
+															"--frame-letter-spacing": "-0.5px",
+															"--frame-line-height": "25.5px",
+															"--frame-text-alignment": "left",
+															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
 														children: "Drop us a message or book a call with us!"
 													})
 												}),
-												className: "framer-bvne3x",
+												className: "frame-bvne3x",
 												fonts: ["GF;Instrument Sans-regular"],
 												verticalAlignment: "top",
 												withExternalLayout: !0
 											})]
 										}), o("div", {
-											className: "framer-1bnhh5n",
+											className: "frame-1bnhh5n",
 											children: o(te, {
 												children: o(re, {
-													className: "framer-i67t0s-container",
+													className: "frame-i67t0s-container",
 													children: o(pr, {
 														calendar: "accountmanager-kislapcreative/new-meeting",
 														height: "100%",
@@ -23075,51 +23075,51 @@ var Hd = Te(Bt),
 							})]
 						})]
 					}), y() && O("header", {
-						className: "framer-1hza6qo hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-1hza6qo hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [O("div", {
-							className: "framer-1cxww1u",
+							className: "frame-1cxww1u",
 							children: [O("div", {
-								className: "framer-qwljby",
+								className: "frame-qwljby",
 								children: [o("div", {
-									className: "framer-q6yyjr",
+									className: "frame-q6yyjr",
 									children: o(N, {
 										__fromCanvasComponent: !0,
 										children: o(R, {
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "14px",
-													"--framer-letter-spacing": "-1px",
-													"--framer-line-height": "22.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "14px",
+													"--frame-letter-spacing": "-1px",
+													"--frame-line-height": "22.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "Upon registration, you'll join Kislap Creative’s Slack for communication and project tracking. We can also use your preferred project management app, though we typically use Asana."
 											})
 										}),
-										className: "framer-qird3m",
+										className: "frame-qird3m",
 										fonts: ["GF;Instrument Sans-regular"],
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									})
 								}), O("div", {
-									className: "framer-177qzlt",
+									className: "frame-177qzlt",
 									children: [O("div", {
-										className: "framer-1jeni85",
+										className: "frame-1jeni85",
 										children: [o(N, {
 											__fromCanvasComponent: !0,
 											children: O(R, {
 												children: [o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "24px",
-														"--framer-font-weight": "600",
-														"--framer-letter-spacing": "-1.5px",
-														"--framer-line-height": "30px",
-														"--framer-text-color": "rgb(255, 255, 255)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "24px",
+														"--frame-font-weight": "600",
+														"--frame-letter-spacing": "-1.5px",
+														"--frame-line-height": "30px",
+														"--frame-text-color": "rgb(255, 255, 255)"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -23131,12 +23131,12 @@ var Hd = Te(Bt),
 												}), o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "24px",
-														"--framer-font-weight": "600",
-														"--framer-letter-spacing": "-1.5px",
-														"--framer-line-height": "30px",
-														"--framer-text-color": "rgb(255, 255, 255)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "24px",
+														"--frame-font-weight": "600",
+														"--frame-letter-spacing": "-1.5px",
+														"--frame-line-height": "30px",
+														"--frame-text-color": "rgb(255, 255, 255)"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -23147,28 +23147,28 @@ var Hd = Te(Bt),
 													})
 												})]
 											}),
-											className: "framer-q3h50j",
+											className: "frame-q3h50j",
 											fonts: ["GF;Instrument Sans-600"],
 											verticalAlignment: "top",
 											withExternalLayout: !0
 										}), o("div", {
-											className: "framer-1kmbr6p",
+											className: "frame-1kmbr6p",
 											children: o(N, {
 												__fromCanvasComponent: !0,
 												children: o(R, {
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTcwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "700",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "100%"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "700",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "100%"
 														},
 														children: "Step  1"
 													})
 												}),
-												className: "framer-yrgtpa",
+												className: "frame-yrgtpa",
 												fonts: ["GF;Instrument Sans-700"],
 												transformTemplate: Xt,
 												verticalAlignment: "top",
@@ -23205,52 +23205,52 @@ var Hd = Te(Bt),
 												src: "./images/4MwZErshBHiHLB7RcMcA9mYCQI.png",
 												srcSet: "./images/4MwZErshBHiHLB7RcMcA9mYCQI.png?scale-down-to=512 512w,./images/4MwZErshBHiHLB7RcMcA9mYCQI.png 745w"
 											},
-											className: "framer-iy9tpt",
-											"data-framer-name": "image",
+											className: "frame-iy9tpt",
+											"data-frame-name": "image",
 											name: "image"
 										})
 									})]
 								})]
 							}), O("div", {
-								className: "framer-1j1gakc",
+								className: "frame-1j1gakc",
 								children: [o("div", {
-									className: "framer-165oh2n",
+									className: "frame-165oh2n",
 									children: o(N, {
 										__fromCanvasComponent: !0,
 										children: o(R, {
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "14px",
-													"--framer-letter-spacing": "-1px",
-													"--framer-line-height": "22.5px",
-													"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "14px",
+													"--frame-letter-spacing": "-1px",
+													"--frame-line-height": "22.5px",
+													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "Our teams collaborate on Slack, eliminating the need for lengthy Zoom calls or emails. We're just a text away, ensuring quick and easy comms anytime you need."
 											})
 										}),
-										className: "framer-9neyi2",
+										className: "frame-9neyi2",
 										fonts: ["GF;Instrument Sans-regular"],
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									})
 								}), O("div", {
-									className: "framer-1l5okqn",
+									className: "frame-1l5okqn",
 									children: [O("div", {
-										className: "framer-i6ihti",
+										className: "frame-i6ihti",
 										children: [o(N, {
 											__fromCanvasComponent: !0,
 											children: O(R, {
 												children: [o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "23px",
-														"--framer-font-weight": "600",
-														"--framer-letter-spacing": "-1.58px",
-														"--framer-line-height": "30px",
-														"--framer-text-color": "rgb(255, 255, 255)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "23px",
+														"--frame-font-weight": "600",
+														"--frame-letter-spacing": "-1.58px",
+														"--frame-line-height": "30px",
+														"--frame-text-color": "rgb(255, 255, 255)"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -23262,12 +23262,12 @@ var Hd = Te(Bt),
 												}), o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "23px",
-														"--framer-font-weight": "600",
-														"--framer-letter-spacing": "-1.58px",
-														"--framer-line-height": "30px",
-														"--framer-text-color": "rgb(255, 255, 255)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "23px",
+														"--frame-font-weight": "600",
+														"--frame-letter-spacing": "-1.58px",
+														"--frame-line-height": "30px",
+														"--frame-text-color": "rgb(255, 255, 255)"
 													},
 													children: o("span", {
 														"data-text-fill": "true",
@@ -23278,28 +23278,28 @@ var Hd = Te(Bt),
 													})
 												})]
 											}),
-											className: "framer-1qp0cf",
+											className: "frame-1qp0cf",
 											fonts: ["GF;Instrument Sans-600"],
 											verticalAlignment: "top",
 											withExternalLayout: !0
 										}), o("div", {
-											className: "framer-aqgs74",
+											className: "frame-aqgs74",
 											children: o(N, {
 												__fromCanvasComponent: !0,
 												children: o(R, {
 													children: o("p", {
 														style: {
 															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTcwMA==",
-															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-															"--framer-font-size": "14px",
-															"--framer-font-weight": "700",
-															"--framer-letter-spacing": "-1px",
-															"--framer-line-height": "100%"
+															"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--frame-font-size": "14px",
+															"--frame-font-weight": "700",
+															"--frame-letter-spacing": "-1px",
+															"--frame-line-height": "100%"
 														},
 														children: "Step  2"
 													})
 												}),
-												className: "framer-ensen3",
+												className: "frame-ensen3",
 												fonts: ["GF;Instrument Sans-700"],
 												transformTemplate: Xt,
 												verticalAlignment: "top",
@@ -23336,16 +23336,16 @@ var Hd = Te(Bt),
 												src: "./images/ZRlW6DqXRwLphN8vyuRZNsdvC5k.png",
 												srcSet: "./images/ZRlW6DqXRwLphN8vyuRZNsdvC5k.png?scale-down-to=512 512w,./images/ZRlW6DqXRwLphN8vyuRZNsdvC5k.png 559w"
 											},
-											className: "framer-1u0reby",
-											"data-framer-name": "Steps_2",
+											className: "frame-1u0reby",
+											"data-frame-name": "Steps_2",
 											name: "Steps_2"
 										})
 									})]
 								})]
 							})]
 						}), O("div", {
-							className: "framer-b1woil",
-							"data-framer-name": "Title",
+							className: "frame-b1woil",
+							"data-frame-name": "Title",
 							name: "Title",
 							children: [o(N, {
 								__fromCanvasComponent: !0,
@@ -23353,11 +23353,11 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "27px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2.5px",
-											"--framer-line-height": "32px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "27px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2.5px",
+											"--frame-line-height": "32px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -23368,8 +23368,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-6azkel",
-								"data-framer-name": "Curious How We Roll?",
+								className: "frame-6azkel",
+								"data-frame-name": "Curious How We Roll?",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Curious How We Roll?",
 								verticalAlignment: "center",
@@ -23380,10 +23380,10 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "18px",
-											"--framer-letter-spacing": "-0.05em",
-											"--framer-line-height": "71px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "18px",
+											"--frame-letter-spacing": "-0.05em",
+											"--frame-line-height": "71px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -23394,53 +23394,53 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-1q6nuxz",
-								"data-framer-name": "It\u2019s very clear & easy, Here\u2019s a rundown",
+								className: "frame-1q6nuxz",
+								"data-frame-name": "It\u2019s very clear & easy, Here\u2019s a rundown",
 								fonts: ["GF;Instrument Sans-regular"],
 								name: "It\u2019s very clear & easy, Here\u2019s a rundown",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							})]
 						}), O("div", {
-							className: "framer-1py1tkj",
+							className: "frame-1py1tkj",
 							children: [o("div", {
-								className: "framer-6xls3n",
+								className: "frame-6xls3n",
 								children: o(N, {
 									__fromCanvasComponent: !0,
 									children: o(R, {
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "14px",
-												"--framer-letter-spacing": "-1px",
-												"--framer-line-height": "22.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "14px",
+												"--frame-letter-spacing": "-1px",
+												"--frame-line-height": "22.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: "After completion, the designs get updated to Figma for you to review and drop comments well before your deadline. This provides you with ample time & flexibility for revisions, giving you peace of mind."
 										})
 									}),
-									className: "framer-u7s9ab",
+									className: "frame-u7s9ab",
 									fonts: ["GF;Instrument Sans-regular"],
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								})
 							}), O("div", {
-								className: "framer-1t3hb77",
+								className: "frame-1t3hb77",
 								children: [O("div", {
-									className: "framer-vmzurg",
+									className: "frame-vmzurg",
 									children: [o(N, {
 										__fromCanvasComponent: !0,
 										children: O(R, {
 											children: [o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "24px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-1.5px",
-													"--framer-line-height": "30px",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "24px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-1.5px",
+													"--frame-line-height": "30px",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -23452,12 +23452,12 @@ var Hd = Te(Bt),
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "24px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-1.5px",
-													"--framer-line-height": "30px",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "24px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-1.5px",
+													"--frame-line-height": "30px",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -23468,28 +23468,28 @@ var Hd = Te(Bt),
 												})
 											})]
 										}),
-										className: "framer-z2a1i",
+										className: "frame-z2a1i",
 										fonts: ["GF;Instrument Sans-600"],
 										verticalAlignment: "top",
 										withExternalLayout: !0
 									}), o("div", {
-										className: "framer-g1f4as",
+										className: "frame-g1f4as",
 										children: o(N, {
 											__fromCanvasComponent: !0,
 											children: o(R, {
 												children: o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTcwMA==",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-font-size": "14px",
-														"--framer-font-weight": "700",
-														"--framer-letter-spacing": "-1px",
-														"--framer-line-height": "100%"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-font-size": "14px",
+														"--frame-font-weight": "700",
+														"--frame-letter-spacing": "-1px",
+														"--frame-line-height": "100%"
 													},
 													children: "Step  3"
 												})
 											}),
-											className: "framer-16y5kv9",
+											className: "frame-16y5kv9",
 											fonts: ["GF;Instrument Sans-700"],
 											transformTemplate: Xt,
 											verticalAlignment: "top",
@@ -23526,8 +23526,8 @@ var Hd = Te(Bt),
 											src: "./images/3c50UNlpzMJnD4LToKmoFCLtUo.png",
 											srcSet: "./images/3c50UNlpzMJnD4LToKmoFCLtUo.png?scale-down-to=512 512w,./images/3c50UNlpzMJnD4LToKmoFCLtUo.png 559w"
 										},
-										className: "framer-nxfoqh",
-										"data-framer-name": "Step_3",
+										className: "frame-nxfoqh",
+										"data-frame-name": "Step_3",
 										name: "Step_3"
 									})
 								})]
@@ -23569,8 +23569,8 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-p83t5f",
-								"data-framer-name": "glow",
+								className: "frame-p83t5f",
+								"data-frame-name": "glow",
 								name: "glow",
 								style: {
 									rotate: 180
@@ -23579,8 +23579,8 @@ var Hd = Te(Bt),
 							})
 						})]
 					}), y() && o("header", {
-						className: "framer-lnxuqy hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-lnxuqy hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: o(Oe, {
 							__framer__animate: {
@@ -23593,8 +23593,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1peo9ze",
-							"data-framer-name": "Fun",
+							className: "frame-1peo9ze",
+							"data-frame-name": "Fun",
 							name: "Fun",
 							style: {
 								transformPerspective: 1200
@@ -23605,11 +23605,11 @@ var Hd = Te(Bt),
 									children: [o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", sans-serif',
-											"--framer-font-size": "28px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2.5px",
-											"--framer-line-height": "50px"
+											"--frame-font-family": '"Instrument Sans", sans-serif',
+											"--frame-font-size": "28px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2.5px",
+											"--frame-line-height": "50px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -23621,11 +23621,11 @@ var Hd = Te(Bt),
 									}), o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", sans-serif',
-											"--framer-font-size": "28px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2.5px",
-											"--framer-line-height": "50px"
+											"--frame-font-family": '"Instrument Sans", sans-serif',
+											"--frame-font-size": "28px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2.5px",
+											"--frame-line-height": "50px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -23636,8 +23636,8 @@ var Hd = Te(Bt),
 										})
 									})]
 								}),
-								className: "framer-ecdqmo",
-								"data-framer-name": "Well, you\u2019ve made it this far...",
+								className: "frame-ecdqmo",
+								"data-frame-name": "Well, you\u2019ve made it this far...",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Well, you\u2019ve made it this far...",
 								verticalAlignment: "top",
@@ -23645,14 +23645,14 @@ var Hd = Te(Bt),
 							})
 						})
 					}), d() && O("header", {
-						className: "framer-rv571d hidden-1i86tcs",
-						"data-framer-name": "Header",
+						className: "frame-rv571d hidden-1i86tcs",
+						"data-frame-name": "Header",
 						id: K,
 						name: "Header",
 						ref: Ce,
 						children: [O("div", {
-							className: "framer-ff6ipe",
-							"data-framer-name": "Text",
+							className: "frame-ff6ipe",
+							"data-frame-name": "Text",
 							name: "Text",
 							children: [o(Pe, {
 								breakpoint: g,
@@ -23662,13 +23662,13 @@ var Hd = Te(Bt),
 											children: o("h1", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "32px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-2px",
-													"--framer-line-height": "38px",
-													"--framer-text-alignment": "center",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "32px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-2px",
+													"--frame-line-height": "38px",
+													"--frame-text-alignment": "center",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -23687,13 +23687,13 @@ var Hd = Te(Bt),
 										children: o("h1", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "38px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-1px",
-												"--framer-line-height": "38px",
-												"--framer-text-alignment": "center",
-												"--framer-text-color": "rgb(255, 255, 255)"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "38px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-1px",
+												"--frame-line-height": "38px",
+												"--frame-text-alignment": "center",
+												"--frame-text-color": "rgb(255, 255, 255)"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -23704,7 +23704,7 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-15jm7ih",
+									className: "frame-15jm7ih",
 									fonts: ["GF;Instrument Sans-600"],
 									verticalAlignment: "top",
 									withExternalLayout: !0
@@ -23717,12 +23717,12 @@ var Hd = Te(Bt),
 											children: o("h1", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-													"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-													"--framer-font-size": "20px",
-													"--framer-letter-spacing": "-1.5px",
-													"--framer-line-height": "24px",
-													"--framer-text-alignment": "center",
-													"--framer-text-color": "rgb(255, 255, 255)"
+													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+													"--frame-font-size": "20px",
+													"--frame-letter-spacing": "-1.5px",
+													"--frame-line-height": "24px",
+													"--frame-text-alignment": "center",
+													"--frame-text-color": "rgb(255, 255, 255)"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -23741,12 +23741,12 @@ var Hd = Te(Bt),
 										children: o("h1", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "24px",
-												"--framer-letter-spacing": "-1.5px",
-												"--framer-line-height": "24px",
-												"--framer-text-alignment": "center",
-												"--framer-text-color": "rgb(255, 255, 255)"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "24px",
+												"--frame-letter-spacing": "-1.5px",
+												"--frame-line-height": "24px",
+												"--frame-text-alignment": "center",
+												"--frame-text-color": "rgb(255, 255, 255)"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -23757,17 +23757,17 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-1je37aq",
+									className: "frame-1je37aq",
 									fonts: ["GF;Instrument Sans-regular"],
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								})
 							})]
 						}), O("div", {
-							className: "framer-197gpkn",
+							className: "frame-197gpkn",
 							children: [M() && o(te, {
 								children: o(re, {
-									className: "framer-1t1xtid-container hidden-11ouoyp",
+									className: "frame-1t1xtid-container hidden-11ouoyp",
 									children: o(Bt, {
 										alignment: "flex-start",
 										direction: "left",
@@ -23805,8 +23805,8 @@ var Hd = Te(Bt),
 												src: "./images/oaZMLR6lpEQYOpARxJbUq0hOUY.png",
 												srcSet: "./images/oaZMLR6lpEQYOpARxJbUq0hOUY.png?scale-down-to=512 512w,./images/oaZMLR6lpEQYOpARxJbUq0hOUY.png?scale-down-to=1024 1024w,./images/oaZMLR6lpEQYOpARxJbUq0hOUY.png?scale-down-to=2048 2048w,./images/oaZMLR6lpEQYOpARxJbUq0hOUY.png 4096w"
 											},
-											className: "framer-1wkjcq2",
-											"data-framer-name": "Graphics_1_1",
+											className: "frame-1wkjcq2",
+											"data-frame-name": "Graphics_1_1",
 											name: "Graphics_1_1"
 										})],
 										speed: 5,
@@ -23818,10 +23818,10 @@ var Hd = Te(Bt),
 									})
 								})
 							}), o("div", {
-								className: "framer-18zmvrf",
+								className: "frame-18zmvrf",
 								children: o(te, {
 									children: o(re, {
-										className: "framer-1r98msi-container",
+										className: "frame-1r98msi-container",
 										children: o(zn, {
 											height: "100%",
 											id: "pXJ9bAnvs",
@@ -23848,8 +23848,8 @@ var Hd = Te(Bt),
 						__framer__threshold: 0,
 						__perspectiveFX: !1,
 						__targetOpacity: 1,
-						className: "framer-16x3cjx hidden-1i86tcs",
-						"data-framer-name": "Header",
+						className: "frame-16x3cjx hidden-1i86tcs",
+						"data-frame-name": "Header",
 						id: lt,
 						name: "Header",
 						ref: l,
@@ -23867,8 +23867,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1yt2o47",
-							"data-framer-name": "Fun",
+							className: "frame-1yt2o47",
+							"data-frame-name": "Fun",
 							name: "Fun",
 							style: {
 								transformPerspective: 1200
@@ -23879,11 +23879,11 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", sans-serif',
-											"--framer-font-size": "38px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2.5px",
-											"--framer-line-height": "53px"
+											"--frame-font-family": '"Instrument Sans", sans-serif',
+											"--frame-font-size": "38px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2.5px",
+											"--frame-line-height": "53px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -23894,8 +23894,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-1mqey0f",
-								"data-framer-name": "Well, you\u2019ve made it this far...",
+								className: "frame-1mqey0f",
+								"data-frame-name": "Well, you\u2019ve made it this far...",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Well, you\u2019ve made it this far...",
 								verticalAlignment: "top",
@@ -23903,8 +23903,8 @@ var Hd = Te(Bt),
 							})
 						})
 					}), o("header", {
-						className: "framer-1eh25xh",
-						"data-framer-name": "Header",
+						className: "frame-1eh25xh",
+						"data-frame-name": "Header",
 						id: ft,
 						name: "Header",
 						ref: mt,
@@ -23919,8 +23919,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1iht9he",
-							"data-framer-name": "Fun",
+							className: "frame-1iht9he",
+							"data-frame-name": "Fun",
 							id: et,
 							name: "Fun",
 							ref: ve,
@@ -23928,8 +23928,8 @@ var Hd = Te(Bt),
 								transformPerspective: 1200
 							},
 							children: o("div", {
-								className: "framer-1bosz12",
-								"data-framer-name": "Scroll Bar",
+								className: "frame-1bosz12",
+								"data-frame-name": "Scroll Bar",
 								name: "Scroll Bar",
 								children: o(Oe, {
 									__framer__styleTransformEffectEnabled: !0,
@@ -23963,8 +23963,8 @@ var Hd = Te(Bt),
 									__framer__transformViewportThreshold: .5,
 									__perspectiveFX: !1,
 									__targetOpacity: 1,
-									className: "framer-11r3f94",
-									"data-framer-name": "Bar",
+									className: "frame-11r3f94",
+									"data-frame-name": "Bar",
 									name: "Bar",
 									style: {
 										transformPerspective: 1200
@@ -23987,8 +23987,8 @@ var Hd = Te(Bt),
 						__framer__threshold: 0,
 						__perspectiveFX: !1,
 						__targetOpacity: 1,
-						className: "framer-13t0pm4",
-						"data-framer-name": "Header",
+						className: "frame-13t0pm4",
+						"data-frame-name": "Header",
 						id: Ie,
 						name: "Header",
 						ref: ue,
@@ -24006,8 +24006,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-ru54va",
-							"data-framer-name": "Fun",
+							className: "frame-ru54va",
+							"data-frame-name": "Fun",
 							name: "Fun",
 							style: {
 								transformPerspective: 1200
@@ -24020,11 +24020,11 @@ var Hd = Te(Bt),
 											children: o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "28px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-2.5px",
-													"--framer-line-height": "50px"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "28px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-2.5px",
+													"--frame-line-height": "50px"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -24043,11 +24043,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "38px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "53px"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "38px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "53px"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -24058,8 +24058,8 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-1egvkod",
-									"data-framer-name": "Well, you\u2019ve made it this far...",
+									className: "frame-1egvkod",
+									"data-frame-name": "Well, you\u2019ve made it this far...",
 									fonts: ["GF;Instrument Sans-600"],
 									name: "Well, you\u2019ve made it this far...",
 									verticalAlignment: "top",
@@ -24068,8 +24068,8 @@ var Hd = Te(Bt),
 							})
 						})
 					}), o("header", {
-						className: "framer-x2oja8",
-						"data-framer-name": "Header",
+						className: "frame-x2oja8",
+						"data-frame-name": "Header",
 						id: Ae,
 						name: "Header",
 						ref: Qe,
@@ -24084,8 +24084,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-nbsj9g",
-							"data-framer-name": "Fun",
+							className: "frame-nbsj9g",
+							"data-frame-name": "Fun",
 							id: Ee,
 							name: "Fun",
 							ref: He,
@@ -24093,8 +24093,8 @@ var Hd = Te(Bt),
 								transformPerspective: 1200
 							},
 							children: o("div", {
-								className: "framer-1b6pixc",
-								"data-framer-name": "Scroll Bar",
+								className: "frame-1b6pixc",
+								"data-frame-name": "Scroll Bar",
 								name: "Scroll Bar",
 								children: o(Oe, {
 									__framer__styleTransformEffectEnabled: !0,
@@ -24128,8 +24128,8 @@ var Hd = Te(Bt),
 									__framer__transformViewportThreshold: .5,
 									__perspectiveFX: !1,
 									__targetOpacity: 1,
-									className: "framer-1en71vj",
-									"data-framer-name": "Bar",
+									className: "frame-1en71vj",
+									"data-frame-name": "Bar",
 									name: "Bar",
 									style: {
 										transformPerspective: 1200
@@ -24152,8 +24152,8 @@ var Hd = Te(Bt),
 						__framer__threshold: 0,
 						__perspectiveFX: !1,
 						__targetOpacity: 1,
-						className: "framer-m70gnk",
-						"data-framer-name": "Header",
+						className: "frame-m70gnk",
+						"data-frame-name": "Header",
 						id: tt,
 						name: "Header",
 						ref: ae,
@@ -24171,8 +24171,8 @@ var Hd = Te(Bt),
 							__framer__threshold: .5,
 							__perspectiveFX: !1,
 							__targetOpacity: 1,
-							className: "framer-1ym9haz",
-							"data-framer-name": "Fun",
+							className: "frame-1ym9haz",
+							"data-frame-name": "Fun",
 							name: "Fun",
 							style: {
 								transformPerspective: 1200
@@ -24185,11 +24185,11 @@ var Hd = Te(Bt),
 											children: [o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "28px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-2.5px",
-													"--framer-line-height": "50px"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "28px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-2.5px",
+													"--frame-line-height": "50px"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -24201,11 +24201,11 @@ var Hd = Te(Bt),
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-													"--framer-font-family": '"Instrument Sans", sans-serif',
-													"--framer-font-size": "28px",
-													"--framer-font-weight": "600",
-													"--framer-letter-spacing": "-2.5px",
-													"--framer-line-height": "50px"
+													"--frame-font-family": '"Instrument Sans", sans-serif',
+													"--frame-font-size": "28px",
+													"--frame-font-weight": "600",
+													"--frame-letter-spacing": "-2.5px",
+													"--frame-line-height": "50px"
 												},
 												children: o("span", {
 													"data-text-fill": "true",
@@ -24224,11 +24224,11 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--framer-font-family": '"Instrument Sans", sans-serif',
-												"--framer-font-size": "38px",
-												"--framer-font-weight": "600",
-												"--framer-letter-spacing": "-2.5px",
-												"--framer-line-height": "60px"
+												"--frame-font-family": '"Instrument Sans", sans-serif',
+												"--frame-font-size": "38px",
+												"--frame-font-weight": "600",
+												"--frame-letter-spacing": "-2.5px",
+												"--frame-line-height": "60px"
 											},
 											children: o("span", {
 												"data-text-fill": "true",
@@ -24239,8 +24239,8 @@ var Hd = Te(Bt),
 											})
 										})
 									}),
-									className: "framer-11ityom",
-									"data-framer-name": "Well, you\u2019ve made it this far...",
+									className: "frame-11ityom",
+									"data-frame-name": "Well, you\u2019ve made it this far...",
 									fonts: ["GF;Instrument Sans-600"],
 									name: "Well, you\u2019ve made it this far...",
 									verticalAlignment: "top",
@@ -24249,7 +24249,7 @@ var Hd = Te(Bt),
 							})
 						}), o(te, {
 							children: o(re, {
-								className: "framer-rjulho-container",
+								className: "frame-rjulho-container",
 								children: o(Qr, {
 									appId: "",
 									height: "100%",
@@ -24265,8 +24265,8 @@ var Hd = Te(Bt),
 						}), d() && o(rt, {
 							href: "https://portal.kislapcreative.com/",
 							children: o("a", {
-								className: "framer-1waheur hidden-1i86tcs framer-4zsb7x",
-								"data-framer-name": "Link",
+								className: "frame-1waheur hidden-1i86tcs frame-4zsb7x",
+								"data-frame-name": "Link",
 								name: "Link",
 								children: M() && o(N, {
 									__fromCanvasComponent: !0,
@@ -24274,18 +24274,18 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "17px",
-												"--framer-letter-spacing": "-1px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)",
-												"--framer-text-decoration": "underline"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "17px",
+												"--frame-letter-spacing": "-1px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)",
+												"--frame-text-decoration": "underline"
 											},
 											children: "Client Portal"
 										})
 									}),
-									className: "framer-tnqif6 hidden-11ouoyp",
-									"data-framer-name": "Subtext",
+									className: "frame-tnqif6 hidden-11ouoyp",
+									"data-frame-name": "Subtext",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "Subtext",
 									verticalAlignment: "top",
@@ -24295,8 +24295,8 @@ var Hd = Te(Bt),
 						}), d() && o(rt, {
 							href: "https://www.notion.so/kislapcreative/Terms-",
 							children: o("a", {
-								className: "framer-kai4cv hidden-1i86tcs framer-4zsb7x",
-								"data-framer-name": "Link",
+								className: "frame-kai4cv hidden-1i86tcs frame-4zsb7x",
+								"data-frame-name": "Link",
 								name: "Link",
 								children: M() && o(N, {
 									__fromCanvasComponent: !0,
@@ -24304,18 +24304,18 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "17px",
-												"--framer-letter-spacing": "-1px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)",
-												"--framer-text-decoration": "underline"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "17px",
+												"--frame-letter-spacing": "-1px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)",
+												"--frame-text-decoration": "underline"
 											},
 											children: "Terms of Service"
 										})
 									}),
-									className: "framer-u38wwi hidden-11ouoyp",
-									"data-framer-name": "Subtext",
+									className: "frame-u38wwi hidden-11ouoyp",
+									"data-frame-name": "Subtext",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "Subtext",
 									verticalAlignment: "top",
@@ -24325,8 +24325,8 @@ var Hd = Te(Bt),
 						}), m() && o(rt, {
 							href: "https://www.notion.so/kislapcreative/Terms-of-Usage-",
 							children: o("a", {
-								className: "framer-1dyypyc hidden-11ouoyp hidden-1i86tcs framer-4zsb7x",
-								"data-framer-name": "Link",
+								className: "frame-1dyypyc hidden-11ouoyp hidden-1i86tcs frame-4zsb7x",
+								"data-frame-name": "Link",
 								name: "Link",
 								children: o(N, {
 									__fromCanvasComponent: !0,
@@ -24334,18 +24334,18 @@ var Hd = Te(Bt),
 										children: o("p", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--framer-font-size": "17px",
-												"--framer-letter-spacing": "-1px",
-												"--framer-line-height": "25.5px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.44)",
-												"--framer-text-decoration": "underline"
+												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+												"--frame-font-size": "17px",
+												"--frame-letter-spacing": "-1px",
+												"--frame-line-height": "25.5px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.44)",
+												"--frame-text-decoration": "underline"
 											},
 											children: "Legal"
 										})
 									}),
-									className: "framer-2j2mfx",
-									"data-framer-name": "Subtext",
+									className: "frame-2j2mfx",
+									"data-frame-name": "Subtext",
 									fonts: ["GF;Instrument Sans-regular"],
 									name: "Subtext",
 									verticalAlignment: "top",
@@ -24357,35 +24357,35 @@ var Hd = Te(Bt),
 							children: o(R, {
 								children: o("p", {
 									style: {
-										"--framer-font-size": "18px",
-										"--framer-line-height": "25.5px"
+										"--frame-font-size": "18px",
+										"--frame-line-height": "25.5px"
 									},
 									children: o("span", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans"',
-											"--framer-font-size": "18px",
-											"--framer-letter-spacing": "-1px",
-											"--framer-text-color": "rgba(255, 255, 255, 0.4399999976158142)"
+											"--frame-font-family": '"Instrument Sans"',
+											"--frame-font-size": "18px",
+											"--frame-letter-spacing": "-1px",
+											"--frame-text-color": "rgba(255, 255, 255, 0.4399999976158142)"
 										},
 										children: "\xA9 2024 KislapCreative"
 									})
 								})
 							}),
-							className: "framer-1t1aayi",
-							"data-framer-name": "Subtext",
+							className: "frame-1t1aayi",
+							"data-frame-name": "Subtext",
 							fonts: ["GF;Instrument Sans-regular"],
 							name: "Subtext",
 							verticalAlignment: "top",
 							withExternalLayout: !0
 						})]
 					}), y() && O("header", {
-						className: "framer-1iikr9g hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-1iikr9g hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [O("div", {
-							className: "framer-w3og9n",
-							"data-framer-name": "Title",
+							className: "frame-w3og9n",
+							"data-frame-name": "Title",
 							name: "Title",
 							children: [o(N, {
 								__fromCanvasComponent: !0,
@@ -24393,10 +24393,10 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "27px",
-											"--framer-letter-spacing": "-1.5px",
-											"--framer-line-height": "100px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "27px",
+											"--frame-letter-spacing": "-1.5px",
+											"--frame-line-height": "100px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -24407,8 +24407,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-1e3ix3m",
-								"data-framer-name": "The better way to get design done",
+								className: "frame-1e3ix3m",
+								"data-frame-name": "The better way to get design done",
 								fonts: ["GF;Instrument Sans-regular"],
 								name: "The better way to get design done",
 								verticalAlignment: "center",
@@ -24419,11 +24419,11 @@ var Hd = Te(Bt),
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "27px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-1.5px",
-											"--framer-line-height": "26px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "27px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-1.5px",
+											"--frame-line-height": "26px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -24434,8 +24434,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-h59yip",
-								"data-framer-name": "Let us sparkle* the load.",
+								className: "frame-h59yip",
+								"data-frame-name": "Let us sparkle* the load.",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Let us sparkle* the load.",
 								verticalAlignment: "center",
@@ -24447,38 +24447,38 @@ var Hd = Te(Bt),
 								children: O("p", {
 									style: {
 										"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-										"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-										"--framer-font-size": "14px",
-										"--framer-letter-spacing": "-0.4px",
-										"--framer-line-height": "23px",
-										"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+										"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+										"--frame-font-size": "14px",
+										"--frame-letter-spacing": "-0.4px",
+										"--frame-line-height": "23px",
+										"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 									},
 									children: [o("span", {
 										style: {
-											"--framer-text-color": "rgba(255, 255, 255, 0.77)"
+											"--frame-text-color": "rgba(255, 255, 255, 0.77)"
 										},
 										children: "Save time and energy with a streamlined design process that helps you create high-converting designs quickly. Our team of experts is here to support you, all for a simple, fixed monthly fee."
 									}), ""]
 								})
 							}),
-							className: "framer-xnri0v",
-							"data-framer-name": "Subtext",
+							className: "frame-xnri0v",
+							"data-frame-name": "Subtext",
 							fonts: ["GF;Instrument Sans-regular"],
 							name: "Subtext",
 							verticalAlignment: "top",
 							withExternalLayout: !0
 						})]
 					}), y() && o("header", {
-						className: "framer-1oavfvt hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-1oavfvt hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: O("header", {
-							className: "framer-8fu52m",
-							"data-framer-name": "Header",
+							className: "frame-8fu52m",
+							"data-frame-name": "Header",
 							name: "Header",
 							children: [o(te, {
 								children: o(re, {
-									className: "framer-u63p2o-container",
+									className: "frame-u63p2o-container",
 									children: o(Bt, {
 										alignment: "center",
 										direction: "left",
@@ -24505,8 +24505,8 @@ var Hd = Te(Bt),
 											widthType: !0
 										},
 										slots: [O(A.div, {
-											className: "framer-50qt7s",
-											"data-framer-name": "Logo ticker",
+											className: "frame-50qt7s",
+											"data-frame-name": "Logo ticker",
 											name: "Logo ticker",
 											children: [o(he, {
 												background: {
@@ -24518,8 +24518,8 @@ var Hd = Te(Bt),
 													pixelWidth: 224,
 													src: "./images/1i5UVWvwLhQZ25ZSLyjpIjLDVA.png"
 												},
-												className: "framer-u33ykm",
-												"data-framer-name": "$4_1_",
+												className: "frame-u33ykm",
+												"data-frame-name": "$4_1_",
 												name: "$4_1_"
 											}), o(he, {
 												background: {
@@ -24531,8 +24531,8 @@ var Hd = Te(Bt),
 													pixelWidth: 150,
 													src: "./images/oMUhJqUmG9b2D3OfNxflJ3ahWCw.png"
 												},
-												className: "framer-1irstna",
-												"data-framer-name": "$1_1_",
+												className: "frame-1irstna",
+												"data-frame-name": "$1_1_",
 												name: "$1_1_"
 											}), o(he, {
 												background: {
@@ -24544,8 +24544,8 @@ var Hd = Te(Bt),
 													pixelWidth: 368,
 													src: "./images/7GVupkY6gHegpLSY18oXVWBiM.png"
 												},
-												className: "framer-1jl009o",
-												"data-framer-name": "$0",
+												className: "frame-1jl009o",
+												"data-frame-name": "$0",
 												name: "$0"
 											}), o(he, {
 												background: {
@@ -24557,8 +24557,8 @@ var Hd = Te(Bt),
 													pixelWidth: 190,
 													src: "./images/Gb0nmygMOf3CLyMTnIub1LEwLw.png"
 												},
-												className: "framer-113fpso",
-												"data-framer-name": "$3_1_",
+												className: "frame-113fpso",
+												"data-frame-name": "$3_1_",
 												name: "$3_1_"
 											}), o(he, {
 												background: {
@@ -24570,8 +24570,8 @@ var Hd = Te(Bt),
 													pixelWidth: 106,
 													src: "./images/ZgDLCNJ1t2FH3mbUePQGnSYy9E.png"
 												},
-												className: "framer-la2mo9",
-												"data-framer-name": "$2_1_",
+												className: "frame-la2mo9",
+												"data-frame-name": "$2_1_",
 												name: "$2_1_"
 											}), o(he, {
 												background: {
@@ -24583,8 +24583,8 @@ var Hd = Te(Bt),
 													pixelWidth: 336,
 													src: "./images/xadCI1crpLlucWRRyC6LSzepWYQ.png"
 												},
-												className: "framer-avfe7d",
-												"data-framer-name": "$5_1_",
+												className: "frame-avfe7d",
+												"data-frame-name": "$5_1_",
 												name: "$5_1_"
 											})]
 										})],
@@ -24626,29 +24626,29 @@ var Hd = Te(Bt),
 										src: "./images/wbAJ804O4oExEunH80Mu6MeQoQ.png",
 										srcSet: "./images/wbAJ804O4oExEunH80Mu6MeQoQ.png?scale-down-to=512 512w,./images/wbAJ804O4oExEunH80Mu6MeQoQ.png?scale-down-to=1024 1024w,./images/wbAJ804O4oExEunH80Mu6MeQoQ.png?scale-down-to=2048 2048w,./images/wbAJ804O4oExEunH80Mu6MeQoQ.png 3840w"
 									},
-									className: "framer-1328u8f",
-									"data-framer-name": "BG_TEXT",
+									className: "frame-1328u8f",
+									"data-frame-name": "BG_TEXT",
 									name: "BG_TEXT"
 								})
 							})]
 						})
 					}), y() && O("header", {
-						className: "framer-1n6bbv5 hidden-qmdb2w hidden-11ouoyp",
-						"data-framer-name": "Header",
+						className: "frame-1n6bbv5 hidden-qmdb2w hidden-11ouoyp",
+						"data-frame-name": "Header",
 						name: "Header",
 						children: [O("div", {
-							className: "framer-77yiyo",
+							className: "frame-77yiyo",
 							children: [o(N, {
 								__fromCanvasComponent: !0,
 								children: o(R, {
 									children: o("p", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "28px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-1.5px",
-											"--framer-line-height": "36.5px"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "28px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-1.5px",
+											"--frame-line-height": "36.5px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -24659,8 +24659,8 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-1soesdx",
-								"data-framer-name": "Got more questions?",
+								className: "frame-1soesdx",
+								"data-frame-name": "Got more questions?",
 								fonts: ["GF;Instrument Sans-600"],
 								name: "Got more questions?",
 								verticalAlignment: "center",
@@ -24670,30 +24670,30 @@ var Hd = Te(Bt),
 								children: o(R, {
 									children: o("p", {
 										style: {
-											"--framer-font-size": "14px",
-											"--framer-line-height": "22.5px"
+											"--frame-font-size": "14px",
+											"--frame-line-height": "22.5px"
 										},
 										children: o("span", {
 											style: {
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--framer-font-family": '"Instrument Sans"',
-												"--framer-font-size": "14px",
-												"--framer-letter-spacing": "-1px",
-												"--framer-text-color": "rgba(255, 255, 255, 0.4399999976158142)"
+												"--frame-font-family": '"Instrument Sans"',
+												"--frame-font-size": "14px",
+												"--frame-letter-spacing": "-1px",
+												"--frame-text-color": "rgba(255, 255, 255, 0.4399999976158142)"
 											},
 											children: "Drop us a message or book a call with us!"
 										})
 									})
 								}),
-								className: "framer-6j9l9",
-								"data-framer-name": "Subtext",
+								className: "frame-6j9l9",
+								"data-frame-name": "Subtext",
 								fonts: ["GF;Instrument Sans-regular"],
 								name: "Subtext",
 								verticalAlignment: "top",
 								withExternalLayout: !0
 							}), o(Se, {
-								className: "framer-1lqswzh",
-								"data-framer-name": "Vector",
+								className: "frame-1lqswzh",
+								"data-frame-name": "Vector",
 								fill: "rgba(0,0,0,1)",
 								intrinsicHeight: 30,
 								intrinsicWidth: 27,
@@ -24740,15 +24740,15 @@ var Hd = Te(Bt),
 									src: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png",
 									srcSet: "./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png?scale-down-to=1024 858w,./images/6jo9SwVsEhLjeHFa8GaHWUCA98.png 957w"
 								},
-								className: "framer-yr0laz hidden-qmdb2w",
-								"data-framer-name": "glow",
+								className: "frame-yr0laz hidden-qmdb2w",
+								"data-frame-name": "glow",
 								name: "glow"
 							})
 						}), o("div", {
-							className: "framer-z0tbr5",
+							className: "frame-z0tbr5",
 							children: o(te, {
 								children: o(re, {
-									className: "framer-qmab6r-container",
+									className: "frame-qmab6r-container",
 									children: o(pr, {
 										calendar: "accountmanager-kislapcreative/new-meeting",
 										height: "100%",
@@ -24766,14 +24766,14 @@ var Hd = Te(Bt),
 							})
 						})]
 					}), F() && O("header", {
-						className: "framer-qp59u2 hidden-qmdb2w hidden-1i86tcs",
-						"data-framer-name": "Pricing",
+						className: "frame-qp59u2 hidden-qmdb2w hidden-1i86tcs",
+						"data-frame-name": "Pricing",
 						id: ut,
 						name: "Pricing",
 						ref: De,
 						children: [O("div", {
-							className: "framer-cz951q",
-							"data-framer-name": "Text",
+							className: "frame-cz951q",
+							"data-frame-name": "Text",
 							name: "Text",
 							children: [o(N, {
 								__fromCanvasComponent: !0,
@@ -24781,13 +24781,13 @@ var Hd = Te(Bt),
 									children: o("h1", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "38px",
-											"--framer-font-weight": "600",
-											"--framer-letter-spacing": "-2px",
-											"--framer-line-height": "38px",
-											"--framer-text-alignment": "center",
-											"--framer-text-color": "rgb(255, 255, 255)"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "38px",
+											"--frame-font-weight": "600",
+											"--frame-letter-spacing": "-2px",
+											"--frame-line-height": "38px",
+											"--frame-text-alignment": "center",
+											"--frame-text-color": "rgb(255, 255, 255)"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -24798,7 +24798,7 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-unsn8t",
+								className: "frame-unsn8t",
 								fonts: ["GF;Instrument Sans-600"],
 								verticalAlignment: "top",
 								withExternalLayout: !0
@@ -24808,12 +24808,12 @@ var Hd = Te(Bt),
 									children: o("h1", {
 										style: {
 											"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-											"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-											"--framer-font-size": "24px",
-											"--framer-letter-spacing": "-1.5px",
-											"--framer-line-height": "24px",
-											"--framer-text-alignment": "center",
-											"--framer-text-color": "rgb(255, 255, 255)"
+											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+											"--frame-font-size": "24px",
+											"--frame-letter-spacing": "-1.5px",
+											"--frame-line-height": "24px",
+											"--frame-text-alignment": "center",
+											"--frame-text-color": "rgb(255, 255, 255)"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
@@ -24824,16 +24824,16 @@ var Hd = Te(Bt),
 										})
 									})
 								}),
-								className: "framer-1lmg93d",
+								className: "frame-1lmg93d",
 								fonts: ["GF;Instrument Sans-regular"],
 								verticalAlignment: "top",
 								withExternalLayout: !0
 							})]
 						}), o("div", {
-							className: "framer-gcrirt",
+							className: "frame-gcrirt",
 							children: O("div", {
-								className: "framer-wb13uq",
-								"data-framer-name": "Pricing",
+								className: "frame-wb13uq",
+								"data-frame-name": "Pricing",
 								name: "Pricing",
 								children: [o(Pe, {
 									breakpoint: g,
@@ -24863,33 +24863,33 @@ var Hd = Te(Bt),
 											src: "./images/c7e36DoolA2Te63o5vrryBMJYd4.png",
 											srcSet: "./images/c7e36DoolA2Te63o5vrryBMJYd4.png?scale-down-to=512 512w,./images/c7e36DoolA2Te63o5vrryBMJYd4.png?scale-down-to=1024 1024w,./images/c7e36DoolA2Te63o5vrryBMJYd4.png?scale-down-to=2048 2048w,./images/c7e36DoolA2Te63o5vrryBMJYd4.png 3375w"
 										},
-										className: "framer-xbodce"
+										className: "frame-xbodce"
 									})
 								}), O("div", {
-									className: "framer-dpe7mt",
+									className: "frame-dpe7mt",
 									children: [O("div", {
-										className: "framer-e53jle",
+										className: "frame-e53jle",
 										children: [o("div", {
-											className: "framer-f67hsf",
+											className: "frame-f67hsf",
 											children: O("div", {
-												className: "framer-10r3q4q",
+												className: "frame-10r3q4q",
 												children: [O("div", {
-													className: "framer-ruroyr",
+													className: "frame-ruroyr",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "14px",
-																	"--framer-line-height": "17.08px",
-																	"--framer-text-color": "rgb(168, 168, 168)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "14px",
+																	"--frame-line-height": "17.08px",
+																	"--frame-text-color": "rgb(168, 168, 168)"
 																},
 																children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
 															})
 														}),
-														className: "framer-1vehi06",
+														className: "frame-1vehi06",
 														fonts: ["GF;Instrument Sans-regular"],
 														verticalAlignment: "top",
 														withExternalLayout: !0
@@ -24899,16 +24899,16 @@ var Hd = Te(Bt),
 															children: o("p", {
 																style: {
 																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																	"--framer-font-size": "26px",
-																	"--framer-font-weight": "600",
-																	"--framer-line-height": "31.72px",
-																	"--framer-text-color": "rgb(255, 255, 255)"
+																	"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--frame-font-size": "26px",
+																	"--frame-font-weight": "600",
+																	"--frame-line-height": "31.72px",
+																	"--frame-text-color": "rgb(255, 255, 255)"
 																},
 																children: "Featured Price"
 															})
 														}),
-														className: "framer-psv9v",
+														className: "frame-psv9v",
 														fonts: ["GF;Instrument Sans-600"],
 														verticalAlignment: "top",
 														withExternalLayout: !0
@@ -24919,32 +24919,32 @@ var Hd = Te(Bt),
 														children: o("p", {
 															style: {
 																"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																"--framer-font-size": "26px",
-																"--framer-letter-spacing": "-0.05em",
-																"--framer-line-height": "31.72px",
-																"--framer-text-color": "rgb(168, 168, 168)"
+																"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																"--frame-font-size": "26px",
+																"--frame-letter-spacing": "-0.05em",
+																"--frame-line-height": "31.72px",
+																"--frame-text-color": "rgb(168, 168, 168)"
 															},
 															children: "$ 1,200/mo"
 														})
 													}),
-													className: "framer-g5hv61",
+													className: "frame-g5hv61",
 													fonts: ["GF;Instrument Sans-regular"],
 													verticalAlignment: "top",
 													withExternalLayout: !0
 												})]
 											})
 										}), o("div", {
-											className: "framer-q9xlc4",
+											className: "frame-q9xlc4",
 											children: O("div", {
-												className: "framer-1uf9uhg",
+												className: "frame-1uf9uhg",
 												children: [O("div", {
-													className: "framer-1ac4urs",
+													className: "frame-1ac4urs",
 													children: [O("div", {
-														className: "framer-1355dhs",
+														className: "frame-1355dhs",
 														children: [o(Se, {
-															className: "framer-sz0g60",
-															"data-framer-name": "Star_6",
+															className: "frame-sz0g60",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -24957,25 +24957,25 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Unlimited requests"
 																})
 															}),
-															className: "framer-mty3t",
+															className: "frame-mty3t",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													}), O("div", {
-														className: "framer-14b3p3i",
+														className: "frame-14b3p3i",
 														children: [o(Se, {
-															className: "framer-1poc1ph",
-															"data-framer-name": "Star_6",
+															className: "frame-1poc1ph",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -24988,25 +24988,25 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Dedicated Designer"
 																})
 															}),
-															className: "framer-qu5sqz",
+															className: "frame-qu5sqz",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													}), O("div", {
-														className: "framer-1ycwcbv",
+														className: "frame-1ycwcbv",
 														children: [o(Se, {
-															className: "framer-9ldhrr",
-															"data-framer-name": "Star_6",
+															className: "frame-9ldhrr",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -25019,28 +25019,28 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Invite your team"
 																})
 															}),
-															className: "framer-1jl8tdp",
+															className: "frame-1jl8tdp",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													})]
 												}), O("div", {
-													className: "framer-14v3lq0",
+													className: "frame-14v3lq0",
 													children: [O("div", {
-														className: "framer-kpjr80",
+														className: "frame-kpjr80",
 														children: [o(Se, {
-															className: "framer-1rrjkis",
-															"data-framer-name": "Star_6",
+															className: "frame-1rrjkis",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -25053,25 +25053,25 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Unlimited revisions"
 																})
 															}),
-															className: "framer-hmw66",
+															className: "frame-hmw66",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													}), O("div", {
-														className: "framer-1h6c6n0",
+														className: "frame-1h6c6n0",
 														children: [o(Se, {
-															className: "framer-1l45807",
-															"data-framer-name": "Star_6",
+															className: "frame-1l45807",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -25084,25 +25084,25 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "Backup Designer"
 																})
 															}),
-															className: "framer-tww6yv",
+															className: "frame-tww6yv",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
 														})]
 													}), O("div", {
-														className: "framer-1k4ntzg",
+														className: "frame-1k4ntzg",
 														children: [o(Se, {
-															className: "framer-1oixt7v",
-															"data-framer-name": "Star_6",
+															className: "frame-1oixt7v",
+															"data-frame-name": "Star_6",
 															fill: "black",
 															intrinsicHeight: 21,
 															intrinsicWidth: 22,
@@ -25115,16 +25115,16 @@ var Hd = Te(Bt),
 																children: o("p", {
 																	style: {
 																		"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-																		"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-																		"--framer-font-size": "18px",
-																		"--framer-letter-spacing": "0px",
-																		"--framer-line-height": "25.5px",
-																		"--framer-text-color": "rgb(255, 255, 255)"
+																		"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																		"--frame-font-size": "18px",
+																		"--frame-letter-spacing": "0px",
+																		"--frame-line-height": "25.5px",
+																		"--frame-text-color": "rgb(255, 255, 255)"
 																	},
 																	children: "2-4hr turnaround"
 																})
 															}),
-															className: "framer-1g476s8",
+															className: "frame-1g476s8",
 															fonts: ["GF;Instrument Sans-regular"],
 															verticalAlignment: "top",
 															withExternalLayout: !0
@@ -25134,14 +25134,14 @@ var Hd = Te(Bt),
 											})
 										})]
 									}), O("div", {
-										className: "framer-17qa3sb",
+										className: "frame-17qa3sb",
 										children: [O("div", {
-											className: "framer-1gav2df",
-											"data-framer-name": "CTA Buttons",
+											className: "frame-1gav2df",
+											"data-frame-name": "CTA Buttons",
 											name: "CTA Buttons",
 											children: [o(te, {
 												children: o(re, {
-													className: "framer-tg0n60-container",
+													className: "frame-tg0n60-container",
 													children: o(ea, {
 														height: "100%",
 														id: "qq0PsBoIm",
@@ -25158,7 +25158,7 @@ var Hd = Te(Bt),
 												height: 62,
 												width: "325px",
 												children: o(re, {
-													className: "framer-1cinb9a-container",
+													className: "frame-1cinb9a-container",
 													children: o(ra, {
 														height: "100%",
 														id: "DGooKw7TW",
@@ -25178,16 +25178,16 @@ var Hd = Te(Bt),
 												children: o("p", {
 													style: {
 														"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-														"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-														"--framer-letter-spacing": "-1px",
-														"--framer-line-height": "25.5px",
-														"--framer-text-alignment": "center",
-														"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+														"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+														"--frame-letter-spacing": "-1px",
+														"--frame-line-height": "25.5px",
+														"--frame-text-alignment": "center",
+														"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 													},
 													children: "We offer customizable design packages to fit your needs. Contact us for more details or a personalized quote."
 												})
 											}),
-											className: "framer-b8q45a",
+											className: "frame-b8q45a",
 											fonts: ["GF;Instrument Sans-regular"],
 											verticalAlignment: "top",
 											withExternalLayout: !0
@@ -25198,7 +25198,7 @@ var Hd = Te(Bt),
 						})]
 					}), d() && o(te, {
 						children: o(re, {
-							className: "framer-jm1wka-container hidden-1i86tcs",
+							className: "frame-jm1wka-container hidden-1i86tcs",
 							layoutScroll: !0,
 							children: o(Zr, {
 								height: "100%",
@@ -25222,8 +25222,8 @@ var Hd = Te(Bt),
 			})
 		})
 	}),
-	gc = ["@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }", `.${Kn.bodyClassName}-framer-yJaOb { background: rgb(7, 7, 9); }`, ".framer-yJaOb.framer-4zsb7x, .framer-yJaOb .framer-4zsb7x { display: block; }", ".framer-yJaOb.framer-qmdb2w { align-content: center; align-items: center; background-color: #070709; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 1200px; }", ".framer-yJaOb .framer-1esd98c { flex: none; height: 360px; overflow: visible; position: relative; width: 430px; }", ".framer-yJaOb .framer-1x751x { flex: none; height: 350px; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; }", ".framer-yJaOb .framer-1rfy42e { flex: none; height: 384px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; top: 0px; width: 100%; }", ".framer-yJaOb .framer-1mkm3ik-container { bottom: -26px; flex: none; height: 400px; left: 0px; position: absolute; right: 0px; }", ".framer-yJaOb .framer-li6er0 { aspect-ratio: 2.512448132780083 / 1; height: var(--framer-aspect-ratio-supported, 306px); overflow: visible; position: relative; width: 769px; }", ".framer-yJaOb .framer-1af99hb { background: linear-gradient(179deg, rgba(8, 8, 10, 0) -2.7710338308407473e-13%, rgba(8, 8, 10, 0.9) 74.58136743837129%); bottom: 20px; flex: none; height: 176px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; width: 100%; z-index: 1; }", ".framer-yJaOb .framer-83izse { align-content: flex-start; align-items: flex-start; bottom: 9px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 57px; justify-content: flex-start; left: calc(54.6511627906977% - 100% / 2); overflow: visible; padding: 0px 10px 0px 10px; position: absolute; width: 100%; }", ".framer-yJaOb .framer-pu5308 { flex: none; height: 55px; overflow: visible; position: relative; width: 217px; z-index: 1; }", ".framer-yJaOb .framer-15hnh4l { flex: none; height: 35px; left: 111px; overflow: visible; position: absolute; top: 19px; width: 114px; }", ".framer-yJaOb .framer-6d35qk { flex: none; height: 16px; left: 0px; position: absolute; top: 19px; white-space: pre-wrap; width: 114px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1yv3vyc { flex: none; height: 17px; left: 0px; position: absolute; top: -1px; width: 100px; }", ".framer-yJaOb .framer-1iwtsgp { bottom: 0px; flex: none; height: 54px; left: 0px; overflow: visible; position: absolute; right: -10px; }", ".framer-yJaOb .framer-10d18f9 { --border-bottom-width: 0.328869491815567px; --border-color: #47ff9c; --border-left-width: 0.328869491815567px; --border-right-width: 0.328869491815567px; --border-style: solid; --border-top-width: 0.328869491815567px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 35px; left: 18px; position: absolute; top: 9px; width: 82px; }", ".framer-yJaOb .framer-19sl4ds { --border-bottom-width: 0.328869491815567px; --border-color: #ffbc70; --border-left-width: 0.328869491815567px; --border-right-width: 0.328869491815567px; --border-style: solid; --border-top-width: 0.328869491815567px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 28px; left: 1px; opacity: 0.3; position: absolute; top: 14px; width: 105px; }", ".framer-yJaOb .framer-183uf98 { flex: none; height: auto; left: 26px; position: absolute; top: 0px; white-space: pre; width: auto; }", ".framer-yJaOb .framer-umc81b { background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%); flex: none; height: 118px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; top: 0px; width: 100%; }", ".framer-yJaOb .framer-o3zjec { --border-bottom-width: 1px; --border-color: rgba(0, 0, 0, 0.08); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 80px; justify-content: space-between; left: 0px; overflow: visible; padding: 20px 30px 20px 40px; position: absolute; right: 0px; top: 0px; z-index: 1; }", ".framer-yJaOb .framer-1ljikb1 { aspect-ratio: 14.066666666666666 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 10px); position: relative; width: 141px; }", ".framer-yJaOb .framer-1rg16my-container { flex: none; height: auto; position: relative; width: 157px; }", ".framer-yJaOb .framer-1e5gbwv-container { bottom: 20px; flex: none; height: auto; left: 50%; position: fixed; transform: translateX(-50%); width: 917px; z-index: 3; }", ".framer-yJaOb .framer-1t32isl { --border-bottom-width: 1px; --border-color: rgba(0, 0, 0, 0.08); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 80px; justify-content: space-between; overflow: visible; padding: 60px 0px 20px 0px; position: relative; width: 1130px; z-index: 1; }", ".framer-yJaOb .framer-i1krv3 { aspect-ratio: 14.066666666666666 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 15px); position: relative; width: 211px; }", ".framer-yJaOb .framer-bxf5zd-container, .framer-yJaOb .framer-1r98msi-container { flex: none; height: auto; position: relative; width: auto; }", ".framer-yJaOb .framer-1bzl8fw { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 28px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-f96sfo { bottom: -223px; flex: none; left: 0px; overflow: visible; position: absolute; right: 0px; top: -364px; z-index: 0; }", '.framer-yJaOb .framer-139ynz2 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 460px; left: 0px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-2.0242914979756863% - 460px / 2); width: 1px; }', '.framer-yJaOb .framer-10sa90y { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 200px; left: 197px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-10.12145748987852% - 200px / 2); width: 1px; }', '.framer-yJaOb .framer-x3nhlb { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 300px; left: 394px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-4.5546558704453215% - 300px / 2); width: 1px; }', '.framer-yJaOb .framer-zq1dwo { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: calc(52.30088495575224% - 1px / 2); opacity: 0.5; overflow: hidden; position: absolute; top: calc(-22.773279352226698% - 350px / 2); width: 1px; }', '.framer-yJaOb .framer-1roffst { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: 788px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-2.5303643724696134% - 350px / 2); width: 1px; }', '.framer-yJaOb .framer-91p4ux { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 270px; left: 1129px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-16.70040485829957% - 270px / 2); width: 1px; }', ".framer-yJaOb .framer-14jv5lw { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 59px 0px 0px 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1hqyc81 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-d27789, .framer-yJaOb .framer-1d08ze6, .framer-yJaOb .framer-b8q45a { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-6dele2 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 706px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1vjblfq, .framer-yJaOb .framer-1sz89y0, .framer-yJaOb .framer-j1md19, .framer-yJaOb .framer-cz951q { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-vatc0c { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-1zhde9 { flex: none; height: 62px; overflow: visible; position: relative; text-decoration: none; width: 237px; }", ".framer-yJaOb .framer-1asq1ww-container, .framer-yJaOb .framer-19gj285-container { bottom: 0px; flex: none; left: 50%; position: absolute; top: 0px; transform: translateX(-50%); width: auto; z-index: 1; }", ".framer-yJaOb .framer-124j29f { flex: none; height: 62px; overflow: visible; position: relative; text-decoration: none; width: 320px; }", ".framer-yJaOb .framer-148qpwl { flex: none; height: 87px; overflow: visible; position: relative; width: 336px; }", ".framer-yJaOb .framer-thgbey { flex: none; height: 54px; left: 169px; overflow: visible; position: absolute; top: 26px; width: 167px; }", ".framer-yJaOb .framer-1gi4gj8 { flex: none; height: 25px; left: 0px; position: absolute; top: 29px; white-space: pre-wrap; width: 167px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1r66y0z { flex: none; height: 24px; left: 0px; position: absolute; top: 0px; width: 151px; }", ".framer-yJaOb .framer-ewxlu5 { flex: none; height: 82px; left: 0px; overflow: visible; position: absolute; top: 5px; width: 163px; }", ".framer-yJaOb .framer-17f24sf { --border-bottom-width: 0.5px; --border-color: #47ff9c; --border-left-width: 0.5px; --border-right-width: 0.5px; --border-style: solid; --border-top-width: 0.5px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 54px; left: 28px; position: absolute; top: 14px; width: 125px; }", ".framer-yJaOb .framer-19c5r27 { --border-bottom-width: 0.5px; --border-color: #ffbc70; --border-left-width: 0.5px; --border-right-width: 0.5px; --border-style: solid; --border-top-width: 0.5px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 42px; left: 2px; opacity: 0.3; position: absolute; top: 21px; width: 159px; }", ".framer-yJaOb .framer-iap158 { flex: none; height: auto; left: 39px; position: absolute; top: 0px; white-space: pre; width: auto; }", ".framer-yJaOb .framer-1u1o2ms { flex: none; height: 469px; overflow: visible; position: relative; width: 100%; }", ".framer-yJaOb .framer-4h0y9q-container { bottom: 0px; flex: none; height: 449px; left: calc(50.00000000000002% - 1128px / 2); position: absolute; width: 1128px; }", ".framer-yJaOb .framer-1lf6usv, .framer-yJaOb .framer-eeaj05, .framer-yJaOb .framer-hcnyfg, .framer-yJaOb .framer-1sbgt9, .framer-yJaOb .framer-x6lrfq, .framer-yJaOb .framer-1r0c8kk, .framer-yJaOb .framer-bidl8e, .framer-yJaOb .framer-sxjuax { aspect-ratio: 2.5122494432071267 / 1; height: var(--framer-aspect-ratio-supported, 449px); overflow: visible; position: relative; width: 1128px; }", ".framer-yJaOb .framer-r7eevg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 310px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1r4t09v { aspect-ratio: 6.956521739130435 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 173px); overflow: visible; position: relative; width: 100%; }", ".framer-yJaOb .framer-1wr6pmw-container { flex: none; height: 42px; left: calc(50.00000000000002% - 972px / 2); position: absolute; top: calc(50.00000000000002% - 42px / 2); width: 972px; z-index: 2; }", ".framer-yJaOb .framer-997zya { aspect-ratio: 23.142857142857142 / 1; height: var(--framer-aspect-ratio-supported, 42px); overflow: visible; position: relative; width: 972px; }", ".framer-yJaOb .framer-1dnvax8 { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 100px; left: calc(50.00000000000002% - 1128px / 2); overflow: hidden; position: absolute; top: calc(50.00000000000002% - 100px / 2); width: 1128px; will-change: var(--framer-will-change-override, transform); z-index: 1; }", ".framer-yJaOb .framer-mcxvik { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: hidden; padding: 0px 20px 20px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1kuj8j { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-top-right-radius: 100px; flex: none; height: 42px; overflow: hidden; position: relative; text-decoration: none; width: 100%; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-i4q6hx, .framer-yJaOb .framer-1svje5d, .framer-yJaOb .framer-6bhfi3, .framer-yJaOb .framer-10oa1qw { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 15px; justify-content: space-between; left: 34px; overflow: hidden; padding: 0px; position: absolute; right: 22px; top: calc(50.00000000000002% - 15px / 2); }", ".framer-yJaOb .framer-1ws8wob, .framer-yJaOb .framer-baoqcq { flex: none; height: 15px; position: relative; white-space: pre-wrap; width: 77px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-wp5bmu, .framer-yJaOb .framer-tqmlko { flex: none; height: 9px; position: relative; width: 110px; }", ".framer-yJaOb .framer-xb5g6v, .framer-yJaOb .framer-2w5w22 { --border-bottom-width: 1px; --border-color: #36373a; --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-top-right-radius: 100px; flex: none; height: 42px; overflow: hidden; position: relative; text-decoration: none; width: 100%; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-1d50s0a, .framer-yJaOb .framer-ta2dyk { flex: none; height: 13px; position: relative; white-space: pre-wrap; width: 77px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1wt59qy, .framer-yJaOb .framer-1ydkb79 { flex: none; height: 10px; position: relative; width: 15px; }", ".framer-yJaOb .framer-736w6c { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: hidden; padding: 20px 0px 0px 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-fhnosr { background-color: #ffffff; flex: 1 0 0px; height: 2px; opacity: 0.1; overflow: hidden; position: relative; width: 1px; }", ".framer-yJaOb .framer-1v01f4k { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 29px 40px 100px 40px; position: relative; width: 100%; }", ".framer-yJaOb .framer-e8002p { aspect-ratio: 0.838737949167397 / 1; bottom: -227px; flex: none; height: var(--framer-aspect-ratio-supported, 778px); opacity: 0.56; overflow: visible; position: absolute; right: 0px; width: 652px; z-index: 0; }", ".framer-yJaOb .framer-pxcg9m { flex: none; height: 595px; overflow: visible; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1c01u1i { flex: none; height: 66px; left: 0px; overflow: visible; position: absolute; top: 0px; width: 1130px; }", ".framer-yJaOb .framer-hii79w { flex: none; height: 66px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 209px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-nsli42 { flex: none; height: 26px; left: 833px; position: absolute; top: 33px; white-space: pre-wrap; width: 297px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1nua3qr { flex: none; height: 592px; left: 0px; overflow: visible; position: absolute; right: 0px; top: -29px; z-index: 0; }", '.framer-yJaOb .framer-1w75c43 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); bottom: 310px; flex: none; left: 0px; opacity: 0.36; overflow: hidden; position: absolute; top: 0px; width: 1px; }', '.framer-yJaOb .framer-q4p74c { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 200px; left: 370px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(50.00000000000002% - 200px / 2); width: 1px; }', '.framer-yJaOb .framer-u5ald9 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 200px; left: 760px; opacity: 0.5; overflow: hidden; position: absolute; top: 0px; width: 1px; }', '.framer-yJaOb .framer-1fglnz0 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 80px; opacity: 0.5; overflow: hidden; position: absolute; right: 0px; top: calc(50.08880994671405% - 80px / 2); width: 1px; }', ".framer-yJaOb .framer-21l2df { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: wrap; gap: 10px; height: min-content; justify-content: center; left: 0px; overflow: hidden; padding: 0px; position: absolute; top: 113px; width: 100%; }", ".framer-yJaOb .framer-16plizr-container, .framer-yJaOb .framer-1a2hh32-container, .framer-yJaOb .framer-1ojgibk-container, .framer-yJaOb .framer-35pdbc-container, .framer-yJaOb .framer-13unamt-container, .framer-yJaOb .framer-xx9ji5-container, .framer-yJaOb .framer-1tiazad-container, .framer-yJaOb .framer-on5ayz-container, .framer-yJaOb .framer-1150vy4-container, .framer-yJaOb .framer-bfdk8e-container, .framer-yJaOb .framer-5ngluu-container, .framer-yJaOb .framer-pgq12l-container { flex: none; height: 220px; position: relative; width: 370px; }", ".framer-yJaOb .framer-1vndgl3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 750px; }", ".framer-yJaOb .framer-77znln { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: wrap; gap: 6px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-qb80t { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: min-content; justify-content: flex-start; overflow: visible; padding: 5px 20px 0px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1fal4sp { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-5u8dhy, .framer-yJaOb .framer-pi5rj, .framer-yJaOb .framer-1lpploj, .framer-yJaOb .framer-1e8xoxa, .framer-yJaOb .framer-zh252o { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1able7e { flex: none; height: 26px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-19jaokw { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 25px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1qu95x9, .framer-yJaOb .framer-xnwj3b { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 24px 14px 20px 18px; position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-82zyox { flex: none; height: 30px; position: relative; width: 36px; }", ".framer-yJaOb .framer-mu3t6w, .framer-yJaOb .framer-1em7ute { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 25px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-zurvpn { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 15px 20px 15px; position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-1t66rpf { flex: none; height: 30px; position: relative; width: 30px; }", ".framer-yJaOb .framer-1q1v2y7 { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 127px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-18c302j { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 37px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 15px 20px 15px; position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-pq89hp, .framer-yJaOb .framer-6dpn2n-container { flex: none; height: 32px; position: relative; width: 28px; }", ".framer-yJaOb .framer-lyq1xl, .framer-yJaOb .framer-4xmo7b { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 148px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-685hf5 { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 15px 10px 15px; position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-kgeh0n-container { flex: none; height: 29px; position: relative; width: 44px; }", ".framer-yJaOb .framer-adzvl { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 37px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 18px 10px 15px; position: relative; width: 1px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-h666d8 { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 141px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-7sri0c { flex: none; height: 30px; position: relative; width: 42px; }", ".framer-yJaOb .framer-1cvfz14, .framer-yJaOb .framer-1p6qwig { aspect-ratio: 0.838737949167397 / 1; bottom: -1px; flex: none; height: var(--framer-aspect-ratio-supported, 439px); left: 0px; opacity: 0.4; overflow: visible; position: absolute; width: 368px; z-index: 1; }", ".framer-yJaOb .framer-1m51ubg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 0px 40px 26px 40px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1thk2rj { aspect-ratio: 0.838737949167397 / 1; bottom: -52px; flex: none; height: var(--framer-aspect-ratio-supported, 777px); left: -19px; opacity: 0.56; overflow: visible; position: absolute; width: 652px; z-index: 0; }", ".framer-yJaOb .framer-922c3f { aspect-ratio: 0.838737949167397 / 1; bottom: -1086px; flex: none; height: var(--framer-aspect-ratio-supported, 777px); opacity: 0.56; overflow: visible; position: absolute; right: -83px; width: 652px; z-index: 0; }", ".framer-yJaOb .framer-moly6x { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 15px 0px 0px 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-105ri9d, .framer-yJaOb .framer-1rog4te, .framer-yJaOb .framer-q0cc5l { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-78jt1e, .framer-yJaOb .framer-15warvq, .framer-yJaOb .framer-117m7dm, .framer-yJaOb .framer-n7rzwm, .framer-yJaOb .framer-plrob3, .framer-yJaOb .framer-8zac8y, .framer-yJaOb .framer-15jm7ih, .framer-yJaOb .framer-1je37aq, .framer-yJaOb .framer-unsn8t, .framer-yJaOb .framer-1lmg93d { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: auto; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1lnhujx { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 50px 0px 0px 0px; position: relative; width: 1130px; }", '.framer-yJaOb .framer-whprmw { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 166px; left: 460px; opacity: 0.5; overflow: hidden; position: absolute; top: 86px; width: 1px; z-index: 0; }', ".framer-yJaOb .framer-4l6fhs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 135px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1qtp4sr, .framer-yJaOb .framer-1fw8ybj, .framer-yJaOb .framer-1fwbuay { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 304px; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-9x6skt, .framer-yJaOb .framer-1llimlp, .framer-yJaOb .framer-1p82eus { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-1qe9ofq, .framer-yJaOb .framer-y39005, .framer-yJaOb .framer-w15tdq, .framer-yJaOb .framer-1toh9in { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 45px; border-bottom-right-radius: 45px; border-top-left-radius: 45px; border-top-right-radius: 45px; flex: none; height: 32px; overflow: hidden; position: relative; width: 94px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-19ofm6m, .framer-yJaOb .framer-1sv0rm2, .framer-yJaOb .framer-1k4sga3, .framer-yJaOb .framer-1qqong, .framer-yJaOb .framer-1vj35v2 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; left: 50%; position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".framer-yJaOb .framer-1ky9q1x, .framer-yJaOb .framer-15cbvpu, .framer-yJaOb .framer-rln9le { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 385px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-iu7loq, .framer-yJaOb .framer-ichsnb { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 384px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1adtj4q-container, .framer-yJaOb .framer-1b33kce-container, .framer-yJaOb .framer-an060h-container { aspect-ratio: 2.2039473684210527 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 304px); position: relative; width: 670px; }", ".framer-yJaOb .framer-15aft5w { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 367px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1og545b, .framer-yJaOb .framer-19sid3s, .framer-yJaOb .framer-177qzlt, .framer-yJaOb .framer-1t3hb77 { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1gkkuvd, .framer-yJaOb .framer-qybbbj, .framer-yJaOb .framer-2lwd1n, .framer-yJaOb .framer-vmzurg { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-30eva3 { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 45px; border-bottom-right-radius: 45px; border-top-left-radius: 45px; border-top-right-radius: 45px; flex: none; height: 26px; overflow: hidden; position: relative; width: 84px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-aw5rmc { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; left: 50%; position: absolute; top: 38%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".framer-yJaOb .framer-1fok0b1, .framer-yJaOb .framer-1q6i7un { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 290px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-mtff6u, .framer-yJaOb .framer-10blq6a, .framer-yJaOb .framer-1gy9giq { aspect-ratio: 1.1868131868131868 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 273px); overflow: visible; position: relative; width: 324px; }", ".framer-yJaOb .framer-z4zw5e { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 45px; border-bottom-right-radius: 45px; border-top-left-radius: 45px; border-top-right-radius: 45px; flex: none; height: 32px; overflow: hidden; position: relative; width: 84px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-1ayqsed { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 38500%; }", ".framer-yJaOb .framer-1bc36ed, .framer-yJaOb .framer-1gue4wa { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 200px; word-break: break-word; word-wrap: break-word; }", '.framer-yJaOb .framer-2lyzkn { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: 0px; opacity: 0.5; overflow: hidden; position: absolute; top: -500px; width: 1px; z-index: 1; }', '.framer-yJaOb .framer-1d949ss { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: 1129px; opacity: 0.5; overflow: hidden; position: absolute; top: -100px; width: 1px; z-index: 1; }', ".framer-yJaOb .framer-e3j4do { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 50px; height: 600px; justify-content: center; overflow: visible; padding: 0px 40px 40px 40px; position: relative; width: 810px; }", ".framer-yJaOb .framer-1q8k233 { aspect-ratio: 6.805755395683454 / 1; bottom: 30px; flex: none; height: var(--framer-aspect-ratio-supported, 29px); left: 50%; opacity: 0.3; overflow: visible; position: absolute; transform: translateX(-50%); width: 100%; z-index: 0; }", ".framer-yJaOb .framer-1th8kvx { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 509px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 730px; }", ".framer-yJaOb .framer-as6w71, .framer-yJaOb { flex: none; height: 66px; position: relative; white-space: pre-wrap; width: 403px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-148vr6h, .framer-yJaOb .  { flex: none; height: 26px; position: relative; text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); white-space: pre-wrap; width: 490px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1sdqth0 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 459px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 681px; }", ".framer-yJaOb .framer-14sxsur-container { flex: none; height: 100%; position: relative; width: 671px; }", ".framer-yJaOb .framer-1p2gygf { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 440px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 671px; }", ".framer-yJaOb .framer-s4ny98, .framer-yJaOb .framer-88jm0u, .framer-yJaOb . , .framer-yJaOb . , .framer-yJaOb .framer-tilm76 { --border-bottom-width: 1px; --border-color: rgba(255, 255, 255, 0.6); --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; align-content: center; align-items: center; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 380px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb . , .framer-yJaOb , .framer-yJaOb . , .framer-yJaOb . , .framer-yJaOb { aspect-ratio: 1.8135135135135134 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 370px); position: relative; width: 671px; }", ".framer-yJaOb .framer-1rxlezj { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-gy02do, .framer-yJaOb .framer-1da5rq4, .framer-yJaOb .framer-1pz7z2h, .framer-yJaOb .framer-lxgk05, .framer-yJaOb .framer-y2j8ss, .framer-yJaOb .framer-ula9il, .framer-yJaOb .framer-1gbunp0, .framer-yJaOb .framer-156nfzj, .framer-yJaOb .framer-1jfr6y8, .framer-yJaOb .framer-1wcanmx, .framer-yJaOb .framer-1bh39r2, .framer-yJaOb .framer-1ax5aw5, .framer-yJaOb .framer-9bxedy, .framer-yJaOb .framer-1e55z81, .framer-yJaOb .framer-173pv1a, .framer-yJaOb .framer-ef0xkl, .framer-yJaOb .framer-14j9294, .framer-yJaOb .framer-18h09uu, .framer-yJaOb .framer-j46pqp, .framer-yJaOb .framer-etupqa, .framer-yJaOb .framer-h59yip { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".framer-yJaOb . , .framer-yJaOb .framer-16i6sg6, .framer-yJaOb . , .framer-yJaOb .framer-1ozok8h { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 440px; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 671px; }", ".framer-yJaOb .framer-dp6io2, .framer-yJaOb .framer-1hylq7s, .framer-yJaOb . , .framer-yJaOb .framer-1o7vzb2 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 671px; }", ".framer-yJaOb .framer-77amyf { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 36px 20px 24px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-14hqnaa { aspect-ratio: 6.805755395683454 / 1; bottom: 38px; flex: none; height: var(--framer-aspect-ratio-supported, 29px); left: -3px; opacity: 0.3; overflow: visible; position: absolute; width: 100%; z-index: 0; }", ".framer-yJaOb .framer-102kgn0-container { flex: none; height: 248px; position: relative; width: 350px; }", ".framer-yJaOb .framer-8r1pv7, .framer-yJaOb .framer-1ocnhjv, .framer-yJaOb .framer-1xrvpl5, .framer-yJaOb .framer-1vqmv9b { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 350px; }", ".framer-yJaOb .framer-1u4jgul, .framer-yJaOb .framer-1xkxn64, .framer-yJaOb .framer-74av47, .framer-yJaOb .framer-wnom2m, .framer-yJaOb .framer-1itc089 { --border-bottom-width: 1px; --border-color: #36373a; --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 200px; overflow: hidden; position: relative; width: 350px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-hbklbx-container, .framer-yJaOb .framer-13nsb1u-container, .framer-yJaOb .framer-1u2yv00-container, .framer-yJaOb .framer-16jbxik-container, .framer-yJaOb .framer-1lrqfl1-container { flex: none; height: 194px; left: calc(50.00000000000002% - 345px / 2); position: absolute; top: calc(50.00000000000002% - 194px / 2); width: 345px; }", ".framer-yJaOb .framer-1erp6vl, .framer-yJaOb .framer-11esjt5, .framer-yJaOb .framer-1iieyvg, .framer-yJaOb .framer-1fdjzqd, .framer-yJaOb .framer-17b21vs { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 2px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-1h2g9a { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 249px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 350px; }", ".framer-yJaOb .framer-9d3xr5 { flex: none; height: 12px; position: relative; white-space: pre-wrap; width: 95px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1e8ustg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 23px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-19749yq, .framer-yJaOb .framer-333w81 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-noy7xd { flex: none; height: auto; position: relative; text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); white-space: pre; width: auto; }", ".framer-yJaOb .framer-18zi607888888888 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 50px; height: min-content; justify-content: center; overflow: visible; padding: 100px 0px 50px 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-sm58dw { aspect-ratio: 6.805755395683454 / 1; bottom: 10px; flex: none; height: var(--framer-aspect-ratio-supported, 176px); left: 50%; opacity: 0.3; overflow: visible; position: absolute; transform: translateX(-50%); width: 100%; z-index: 0; }", ".framer-yJaOb .framer-nqkvjw { background: linear-gradient(90deg, #070709 0%, rgba(171, 171, 171, 0) 81.92342342342343%); bottom: 110px; flex: none; height: 380px; left: 0px; overflow: visible; position: absolute; width: 16%; z-index: 1; }", ".framer-yJaOb .framer-16dx979 { -webkit-filter: blur(5px); background: linear-gradient(90deg, #070709 2%, rgba(171, 171, 171, 0) 54.51280968468468%); bottom: 110px; filter: blur(5px); flex: none; height: 380px; overflow: visible; position: absolute; right: -10px; width: 19%; z-index: 1; }", ".framer-yJaOb .framer-zk1zgm { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 63px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb . { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 66px; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb . { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb { flex: none; height: 440px; position: relative; width: 881px; }", ".framer-yJaOb .framer-1hmytn2 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; height: min-content; justify-content: center; overflow: visible; padding: 60px 20px 20px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-14mfnzc { flex: none; height: 34px; position: relative; white-space: pre-wrap; width: 389px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-107banh { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 387px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-3gyw3o { aspect-ratio: 0.838737949167397 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 563px); left: 0px; opacity: 0.3; overflow: visible; position: absolute; right: -42px; top: -237px; z-index: 0; }", ".framer-yJaOb .framer-egxoer { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-2gh47b-container { flex: none; height: auto; position: relative; width: 100%; }", ".framer-yJaOb .framer-v9mfff { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: hidden; padding: 30px 20px 0px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-g5birp { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 2px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-kjlvhm { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 38px; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1h21o9z-container { flex: none; height: auto; position: relative; width: 157px; z-index: 1; }", ".framer-yJaOb .framer-xr3qol { border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 180px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1ajpwpj { aspect-ratio: 1.4227941176470589 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 141px); overflow: visible; position: relative; width: 100%; }", ".framer-yJaOb .framer-1dgvyln { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-top-right-radius: 100px; bottom: 0px; flex: none; height: 42px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; text-decoration: none; width: 100%; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-7ue7f3 { -webkit-filter: blur(19.10860824584961px); background-color: #47ff9c; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; bottom: 25px; filter: blur(19.10860824584961px); flex: none; height: 17px; position: absolute; right: 0px; width: 72px; z-index: 1; }", ".framer-yJaOb .framer-1vgepcl { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 0px 40px 40px 40px; position: relative; width: 100%; }", ".framer-yJaOb .framer-jl9d86 { aspect-ratio: 0.838737949167397 / 1; bottom: -55px; flex: none; height: var(--framer-aspect-ratio-supported, 820px); left: -18px; opacity: 0.56; overflow: visible; position: absolute; width: 688px; z-index: 0; }", ".framer-yJaOb .framer-lpbwzq { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 41px; height: min-content; justify-content: flex-start; overflow: visible; padding: 60px 0px 0px 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1pjcd30, .framer-yJaOb .framer-gcrirt { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 85px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1nu7wh1 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: 594px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-u6azax { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 363px; overflow: hidden; position: relative; width: 1128px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-18x1nya { aspect-ratio: 1.8472906403940887 / 1; bottom: var(--framer-aspect-ratio-supported, -200px); flex: none; left: 50%; overflow: visible; position: absolute; text-decoration: none; top: -48px; transform: translateX(-50%); width: 100%; }", ".framer-yJaOb .framer-xai64v { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 1129px; }", ".framer-yJaOb .framer-1346dah { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 129px; overflow: hidden; position: relative; width: 440px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-1vyhwaf { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; left: 34px; position: absolute; top: 37px; white-space: pre; width: auto; }", ".framer-yJaOb .framer-w5ce3r { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; bottom: 37px; flex: none; height: auto; left: 34px; position: absolute; white-space: pre; width: auto; }", ".framer-yJaOb .framer-by67le { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; left: 285px; position: absolute; top: 50%; transform: translateY(-50%); white-space: pre; width: auto; }", ".framer-yJaOb .framer-nizb4t { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 129px; overflow: hidden; position: relative; width: 669px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-1rpbbgw { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 32px; justify-content: space-between; left: calc(49.77578475336325% - 598px / 2); overflow: hidden; padding: 0px; position: absolute; top: 27px; width: 598px; }", ".framer-yJaOb .framer-1g8ax2k, .framer-yJaOb .framer-1g8p7qs, .framer-yJaOb .framer-12a3s3z, .framer-yJaOb .framer-1355dhs, .framer-yJaOb .framer-14b3p3i, .framer-yJaOb .framer-1ycwcbv, .framer-yJaOb .framer-kpjr80, .framer-yJaOb .framer-1h6c6n0, .framer-yJaOb .framer-1k4ntzg { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-p9hhnk, .framer-yJaOb .framer-cz9gj1, .framer-yJaOb .framer-1yoifbv, .framer-yJaOb .framer-1flpree, .framer-yJaOb .framer-2v2qnl, .framer-yJaOb .framer-7v5hqo, .framer-yJaOb .framer-sz0g60, .framer-yJaOb .framer-1poc1ph, .framer-yJaOb .framer-9ldhrr, .framer-yJaOb .framer-1rrjkis, .framer-yJaOb .framer-1l45807, .framer-yJaOb .framer-1oixt7v { aspect-ratio: 1.0476190476190477 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 21px); position: relative; width: 22px; }", ".framer-yJaOb .framer-1bp733s, .framer-yJaOb .framer-5acu8x, .framer-yJaOb .framer-1jrx6up, .framer-yJaOb .framer-oq6rvd, .framer-yJaOb .framer-17p0elc, .framer-yJaOb .framer-xb82il, .framer-yJaOb .framer-q3h50j, .framer-yJaOb .framer-z2a1i, .framer-yJaOb .framer-1vehi06, .framer-yJaOb .framer-psv9v, .framer-yJaOb .framer-g5hv61, .framer-yJaOb .framer-mty3t, .framer-yJaOb .framer-qu5sqz, .framer-yJaOb .framer-1jl8tdp, .framer-yJaOb .framer-hmw66, .framer-yJaOb .framer-tww6yv, .framer-yJaOb .framer-1g476s8 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".framer-yJaOb .framer-1i9rf1c { align-content: flex-start; align-items: flex-start; bottom: 34px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; left: 34px; overflow: hidden; padding: 0px; position: absolute; width: min-content; }", ".framer-yJaOb .framer-nlzda8 { align-content: flex-start; align-items: flex-start; bottom: 34px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; left: 50%; overflow: hidden; padding: 0px; position: absolute; transform: translateX(-50%); width: min-content; }", ".framer-yJaOb .framer-114ze5o { align-content: flex-start; align-items: flex-start; bottom: 34px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; left: 472px; overflow: hidden; padding: 0px; position: absolute; width: min-content; }", ".framer-yJaOb .framer-beu9w9 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 84px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1nwq99w { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: 50px; position: relative; white-space: pre-wrap; width: 439px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1gz4mxt { align-content: flex-end; align-items: flex-end; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 20px; height: 62px; justify-content: flex-end; overflow: visible; padding: 0px; position: relative; width: 1px; }", ".framer-yJaOb .framer-1yj5q9e { flex: none; height: 62px; overflow: hidden; position: relative; text-decoration: none; width: 237px; }", ".framer-yJaOb .framer-1w0rywi-container, .framer-yJaOb .framer-8ke0ia-container { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; }", ".framer-yJaOb .framer-1foiob9 { flex: none; height: 62px; overflow: hidden; position: relative; text-decoration: none; width: 325px; }", ".framer-yJaOb .framer-lm6f6i { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-s2mh3a { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 18px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 460px; }", ".framer-yJaOb .framer-1royv3e { aspect-ratio: 0.8709677419354839 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 29px); overflow: visible; position: relative; width: 25px; }", ".framer-yJaOb .framer-1nd7950 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 237px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-bvne3x { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 460px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1bnhh5n { border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 415px; overflow: hidden; position: relative; width: 576px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-i67t0s-container { flex: none; height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; }", ".framer-yJaOb .framer-1hza6qo { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 28px; height: min-content; justify-content: flex-start; overflow: visible; padding: 50px 20px 30px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1cxww1u { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 33px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-qwljby, .framer-yJaOb .framer-1j1gakc, .framer-yJaOb .framer-1py1tkj { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-q6yyjr, .framer-yJaOb .framer-165oh2n, .framer-yJaOb .framer-6xls3n { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-qird3m { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: 1 0 0px; height: 68px; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1jeni85 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-1kmbr6p, .framer-yJaOb .framer-aqgs74, .framer-yJaOb .framer-g1f4as { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 50px; border-bottom-right-radius: 50px; border-top-left-radius: 50px; border-top-right-radius: 50px; flex: none; height: 20px; overflow: hidden; position: relative; width: 65px; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-yrgtpa { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; left: 48%; position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".framer-yJaOb .framer-iy9tpt { aspect-ratio: 1.3796296296296295 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 130px); overflow: visible; position: relative; width: 180px; }", ".framer-yJaOb .framer-9neyi2, .framer-yJaOb .framer-u7s9ab { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1l5okqn { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-i6ihti { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px 0px 0px 20px; position: relative; width: min-content; }", ".framer-yJaOb .framer-1qp0cf { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 183px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-ensen3, .framer-yJaOb .framer-16y5kv9 { --framer-link-text-color: #0099ff; --framer-link-text-decoration: underline; flex: none; height: auto; left: 49%; position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".framer-yJaOb .framer-1u0reby, .framer-yJaOb .framer-nxfoqh { aspect-ratio: 1.3802469135802469 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 130px); overflow: visible; position: relative; width: 180px; }", ".framer-yJaOb .framer-b1woil { flex: none; height: 62px; overflow: visible; position: relative; width: 100%; }", ".framer-yJaOb .framer-6azkel { flex: none; height: 34px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 389px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1q6nuxz { flex: none; height: 26px; left: 1px; position: absolute; top: 36px; white-space: pre-wrap; width: 344px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-p83t5f { aspect-ratio: 0.838737949167397 / 1; bottom: -1px; flex: none; height: var(--framer-aspect-ratio-supported, 439px); left: 36%; opacity: 0.4; overflow: visible; position: absolute; transform: translateX(-50%); width: 368px; z-index: 1; }", ".framer-yJaOb .framer-lnxuqy { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 26px; height: 100vh; justify-content: flex-end; overflow: hidden; padding: 19px 20px 0px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1peo9ze, .framer-yJaOb .framer-1yt2o47, .framer-yJaOb .framer-ru54va { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 40px 0px 0px 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-ecdqmo, .framer-yJaOb .framer-1mqey0f, .framer-yJaOb .framer-1egvkod { flex: none; height: 96px; position: relative; white-space: pre-wrap; width: 349px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-rv571d { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: center; overflow: visible; padding: 10px 0px 0px 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-ff6ipe { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-197gpkn { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1t1xtid-container { flex: none; height: 622px; left: calc(135.04424778761063% - 2036px / 2); position: absolute; top: -60px; width: 2036px; z-index: 0; }", ".framer-yJaOb .framer-1wkjcq2 { aspect-ratio: 2.4150943396226414 / 1; height: var(--framer-aspect-ratio-supported, 623px); overflow: visible; position: relative; width: 1504px; }", ".framer-yJaOb .framer-18zmvrf { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-16x3cjx { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 100vh; justify-content: flex-end; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1eh25xh, .framer-yJaOb .framer-x2oja8 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 70vh; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1iht9he, .framer-yJaOb .framer-nbsj9g { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: hidden; padding: 40px 0px 0px 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-1bosz12, .framer-yJaOb .framer-1b6pixc { background-color: rgba(255, 255, 255, 0.3); flex: none; height: 200px; overflow: hidden; position: relative; width: 2px; }", ".framer-yJaOb .framer-11r3f94, .framer-yJaOb .framer-1en71vj { background-color: #ffffff; flex: none; height: 100%; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; z-index: 1; }", ".framer-yJaOb .framer-13t0pm4, .framer-yJaOb .framer-m70gnk { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 100vh; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".framer-yJaOb .framer-1ym9haz { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 40px 0px 20px 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-11ityom { flex: none; height: 116px; position: relative; white-space: pre-wrap; width: 566px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-rjulho-container { flex: none; height: 100px; position: relative; width: 200px; }", ".framer-yJaOb .framer-1waheur { align-content: center; align-items: center; bottom: 70px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 26px; justify-content: center; left: 752px; overflow: hidden; padding: 0px; position: absolute; text-decoration: none; width: 95px; z-index: 1; }", ".framer-yJaOb .framer-tnqif6 { flex: none; height: 26px; position: relative; white-space: pre-wrap; width: 95px; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".framer-yJaOb .framer-kai4cv { align-content: center; align-items: center; bottom: 70px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 26px; justify-content: center; overflow: hidden; padding: 0px; position: absolute; right: 108px; text-decoration: none; width: 125px; z-index: 1; }", ".framer-yJaOb .framer-u38wwi { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".framer-yJaOb .framer-1dyypyc { align-content: center; align-items: center; bottom: 70px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 26px; justify-content: center; overflow: hidden; padding: 0px; position: absolute; right: 0px; text-decoration: none; width: 63px; z-index: 1; }", ".framer-yJaOb .framer-2j2mfx { bottom: 70px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".framer-yJaOb .framer-1t1aayi { bottom: 80px; flex: none; height: 26px; left: 0px; position: absolute; white-space: pre-wrap; width: 162px; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".framer-yJaOb .framer-1iikr9g { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: hidden; padding: 15px 20px 20px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-w3og9n { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1e3ix3m { flex: none; height: 27px; position: relative; white-space: pre; width: auto; }", ".framer-yJaOb .framer-xnri0v { flex: none; height: 91px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1oavfvt { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-8fu52m { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 430px; }", ".framer-yJaOb .framer-u63p2o-container { flex: none; height: 50px; left: calc(50.00000000000002% - 423px / 2); position: absolute; top: calc(50.00000000000002% - 50px / 2); width: 423px; z-index: 1; }", ".framer-yJaOb .framer-50qt7s { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-u33ykm { aspect-ratio: 3.6129032258064515 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 34px); overflow: visible; position: relative; width: 123px; }", ".framer-yJaOb .framer-1irstna { aspect-ratio: 3.5714285714285716 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 22px); overflow: visible; position: relative; width: 79px; }", ".framer-yJaOb .framer-1jl009o { aspect-ratio: 8.761904761904763 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 17px); overflow: visible; position: relative; width: 158px; }", ".framer-yJaOb .framer-113fpso { aspect-ratio: 2.5675675675675675 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 35px); overflow: visible; position: relative; width: 90px; }", ".framer-yJaOb .framer-la2mo9 { aspect-ratio: 1.2619047619047619 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 41px); overflow: visible; position: relative; width: 52px; }", ".framer-yJaOb .framer-avfe7d { aspect-ratio: 8 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 22px); overflow: visible; position: relative; width: 176px; }", ".framer-yJaOb .framer-1328u8f { aspect-ratio: 6.956521739130435 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 100px); overflow: visible; position: relative; width: 696px; }", ".framer-yJaOb .framer-1n6bbv5 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 26px; height: min-content; justify-content: flex-start; overflow: visible; padding: 35px 20px 0px 20px; position: relative; width: 100%; }", ".framer-yJaOb .framer-77yiyo { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 13px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1soesdx { flex: none; height: 39px; position: relative; white-space: pre-wrap; width: 196px; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-6j9l9 { flex: none; height: 67px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".framer-yJaOb .framer-1lqswzh { flex: none; height: 30px; position: relative; width: 27px; }", ".framer-yJaOb .framer-yr0laz { aspect-ratio: 0.838737949167397 / 1; flex: none; height: var(--framer-aspect-ratio-supported, 439px); opacity: 0.4; overflow: visible; position: absolute; right: 0px; top: -72px; width: 368px; z-index: 0; }", ".framer-yJaOb .framer-z0tbr5 { border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; flex: none; height: 273px; overflow: hidden; position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-qmab6r-container { flex: none; height: 100%; left: calc(50.00000000000002% - 100% / 2); position: absolute; top: calc(50.183150183150204% - 100% / 2); width: 100%; }", ".framer-yJaOb .framer-qp59u2 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 730px; }", ".framer-yJaOb .framer-wb13uq { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-xbodce { border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 363px; overflow: visible; position: relative; width: 100%; }", ".framer-yJaOb .framer-dpe7mt { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-e53jle { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 730px; }", ".framer-yJaOb .framer-f67hsf, .framer-yJaOb .framer-q9xlc4 { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 129px; overflow: hidden; position: relative; width: 100%; will-change: var(--framer-will-change-override, transform); }", ".framer-yJaOb .framer-10r3q4q { align-content: center; align-items: center; bottom: -108px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; overflow: hidden; padding: 0px; position: absolute; right: -285px; top: -108px; width: 630px; }", ".framer-yJaOb .framer-ruroyr { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 345px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 200px; }", ".framer-yJaOb .framer-1uf9uhg { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 68px; justify-content: flex-start; left: calc(47.67123287671235% - 628px / 2); overflow: hidden; padding: 0px; position: absolute; top: calc(47.28682170542638% - 68px / 2); width: 628px; }", ".framer-yJaOb .framer-1ac4urs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 32px; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 598px; }", ".framer-yJaOb .framer-14v3lq0 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 32px; height: 25px; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-17qa3sb { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 20px 0px 0px 0px; position: relative; width: 100%; }", ".framer-yJaOb .framer-1gav2df { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-end; overflow: visible; padding: 20px 0px 0px 0px; position: relative; width: min-content; }", ".framer-yJaOb .framer-tg0n60-container { flex: none; height: 62px; position: relative; width: 237px; }", ".framer-yJaOb .framer-1cinb9a-container { flex: none; height: 62px; position: relative; width: 325px; }", ".framer-yJaOb .framer-jm1wka-container { flex: none; height: 400px; left: calc(50.00000000000002% - 600px / 2); position: fixed; top: 9884px; width: 600px; z-index: 1; }", "@supports (background: -webkit-named-image(i)) and (not (scale:1)) { .framer-yJaOb.framer-qmdb2w, .framer-yJaOb .framer-83izse, .framer-yJaOb .framer-1bzl8fw, .framer-yJaOb .framer-14jv5lw, .framer-yJaOb .framer-1hqyc81, .framer-yJaOb .framer-vatc0c, .framer-yJaOb .framer-r7eevg, .framer-yJaOb .framer-mcxvik, .framer-yJaOb .framer-736w6c, .framer-yJaOb .framer-1v01f4k, .framer-yJaOb .framer-21l2df, .framer-yJaOb .framer-1vndgl3, .framer-yJaOb .framer-77znln, .framer-yJaOb .framer-qb80t, .framer-yJaOb .framer-1fal4sp, .framer-yJaOb .framer-19jaokw, .framer-yJaOb .framer-1qu95x9, .framer-yJaOb .framer-mu3t6w, .framer-yJaOb .framer-zurvpn, .framer-yJaOb .framer-18c302j, .framer-yJaOb .framer-1em7ute, .framer-yJaOb .framer-685hf5, .framer-yJaOb .framer-adzvl, .framer-yJaOb .framer-xnwj3b, .framer-yJaOb .framer-1m51ubg, .framer-yJaOb .framer-moly6x, .framer-yJaOb .framer-1lnhujx, .framer-yJaOb .framer-4l6fhs, .framer-yJaOb .framer-9x6skt, .framer-yJaOb .framer-1llimlp, .framer-yJaOb .framer-1gkkuvd, .framer-yJaOb .framer-qybbbj, .framer-yJaOb .framer-1p82eus, .framer-yJaOb .framer-2lwd1n, .framer-yJaOb .framer-e3j4do, .framer-yJaOb .framer-1th8kvx, .framer-yJaOb .framer-1sdqth0, .framer-yJaOb .framer-1p2gygf, .framer-yJaOb .framer-s4ny98, .framer-yJaOb .framer-1rxlezj, .framer-yJaOb . , .framer-yJaOb .framer-88jm0u, .framer-yJaOb .framer-dp6io2, .framer-yJaOb .framer-16i6sg6, .framer-yJaOb . , .framer-yJaOb .framer-1hylq7s, .framer-yJaOb . , .framer-yJaOb . , .framer-yJaOb . , .framer-yJaOb .framer-1ozok8h, .framer-yJaOb .framer-tilm76, .framer-yJaOb .framer-1o7vzb2, .framer-yJaOb .framer-77amyf, .framer-yJaOb .framer-8r1pv7, .framer-yJaOb .framer-1erp6vl, .framer-yJaOb .framer-1h2g9a, .framer-yJaOb .framer-11esjt5, .framer-yJaOb .framer-1ocnhjv, .framer-yJaOb .framer-1iieyvg, .framer-yJaOb .framer-1xrvpl5, .framer-yJaOb .framer-1fdjzqd, .framer-yJaOb .framer-1vqmv9b, .framer-yJaOb .framer-17b21vs, .framer-yJaOb .framer-1e8ustg, .framer-yJaOb .framer-19749yq, .framer-yJaOb .framer-18zi607888888888, .framer-yJaOb .framer-zk1zgm, .framer-yJaOb , .framer-yJaOb .framer-1hmytn2, .framer-yJaOb .framer-333w81, .framer-yJaOb .framer-egxoer, .framer-yJaOb .framer-v9mfff, .framer-yJaOb .framer-g5birp, .framer-yJaOb .framer-1vgepcl, .framer-yJaOb .framer-lpbwzq, .framer-yJaOb .framer-1pjcd30, .framer-yJaOb .framer-1nu7wh1, .framer-yJaOb .framer-xai64v, .framer-yJaOb .framer-1g8ax2k, .framer-yJaOb .framer-1g8p7qs, .framer-yJaOb .framer-12a3s3z, .framer-yJaOb .framer-1i9rf1c, .framer-yJaOb .framer-nlzda8, .framer-yJaOb .framer-114ze5o, .framer-yJaOb .framer-beu9w9, .framer-yJaOb .framer-1gz4mxt, .framer-yJaOb .framer-lm6f6i, .framer-yJaOb .framer-s2mh3a, .framer-yJaOb .framer-1hza6qo, .framer-yJaOb .framer-1cxww1u, .framer-yJaOb .framer-qwljby, .framer-yJaOb .framer-q6yyjr, .framer-yJaOb .framer-1jeni85, .framer-yJaOb .framer-1j1gakc, .framer-yJaOb .framer-165oh2n, .framer-yJaOb .framer-i6ihti, .framer-yJaOb .framer-1py1tkj, .framer-yJaOb .framer-6xls3n, .framer-yJaOb .framer-vmzurg, .framer-yJaOb .framer-lnxuqy, .framer-yJaOb .framer-1peo9ze, .framer-yJaOb .framer-rv571d, .framer-yJaOb .framer-197gpkn, .framer-yJaOb .framer-18zmvrf, .framer-yJaOb .framer-16x3cjx, .framer-yJaOb .framer-1yt2o47, .framer-yJaOb .framer-1eh25xh, .framer-yJaOb .framer-1iht9he, .framer-yJaOb .framer-13t0pm4, .framer-yJaOb .framer-ru54va, .framer-yJaOb .framer-x2oja8, .framer-yJaOb .framer-nbsj9g, .framer-yJaOb .framer-m70gnk, .framer-yJaOb .framer-1ym9haz, .framer-yJaOb .framer-1waheur, .framer-yJaOb .framer-kai4cv, .framer-yJaOb .framer-1dyypyc, .framer-yJaOb .framer-1iikr9g, .framer-yJaOb .framer-w3og9n, .framer-yJaOb .framer-1oavfvt, .framer-yJaOb .framer-8fu52m, .framer-yJaOb .framer-50qt7s, .framer-yJaOb .framer-1n6bbv5, .framer-yJaOb .framer-77yiyo, .framer-yJaOb .framer-qp59u2, .framer-yJaOb .framer-gcrirt, .framer-yJaOb .framer-wb13uq, .framer-yJaOb .framer-dpe7mt, .framer-yJaOb .framer-e53jle, .framer-yJaOb .framer-ruroyr, .framer-yJaOb .framer-1uf9uhg, .framer-yJaOb .framer-1355dhs, .framer-yJaOb .framer-14b3p3i, .framer-yJaOb .framer-1ycwcbv, .framer-yJaOb .framer-14v3lq0, .framer-yJaOb .framer-kpjr80, .framer-yJaOb .framer-1h6c6n0, .framer-yJaOb .framer-1k4ntzg, .framer-yJaOb .framer-17qa3sb, .framer-yJaOb .framer-1gav2df { gap: 0px; } .framer-yJaOb.framer-qmdb2w > *, .framer-yJaOb .framer-14jv5lw > *, .framer-yJaOb .framer-r7eevg > *, .framer-yJaOb .framer-1v01f4k > *, .framer-yJaOb .framer-1m51ubg > *, .framer-yJaOb .framer-moly6x > *, .framer-yJaOb .framer-1th8kvx > *, .framer-yJaOb .framer-1p2gygf > *, .framer-yJaOb .  > *, .framer-yJaOb .framer-16i6sg6 > *, .framer-yJaOb .  > *, .framer-yJaOb .framer-1ozok8h > *, .framer-yJaOb .framer-77amyf > *, .framer-yJaOb .framer-8r1pv7 > *, .framer-yJaOb .framer-1h2g9a > *, .framer-yJaOb .framer-1ocnhjv > *, .framer-yJaOb .framer-1xrvpl5 > *, .framer-yJaOb .framer-1vqmv9b > *, .framer-yJaOb .framer-v9mfff > *, .framer-yJaOb .framer-1vgepcl > *, .framer-yJaOb .framer-qwljby > *, .framer-yJaOb .framer-1j1gakc > *, .framer-yJaOb .framer-1py1tkj > *, .framer-yJaOb .framer-16x3cjx > *, .framer-yJaOb .framer-1eh25xh > *, .framer-yJaOb .framer-13t0pm4 > *, .framer-yJaOb .framer-x2oja8 > *, .framer-yJaOb .framer-m70gnk > *, .framer-yJaOb .framer-wb13uq > * { margin: 0px; margin-bottom: calc(20px / 2); margin-top: calc(20px / 2); } .framer-yJaOb.framer-qmdb2w > :first-child, .framer-yJaOb .framer-1bzl8fw > :first-child, .framer-yJaOb .framer-14jv5lw > :first-child, .framer-yJaOb .framer-1hqyc81 > :first-child, .framer-yJaOb .framer-r7eevg > :first-child, .framer-yJaOb .framer-mcxvik > :first-child, .framer-yJaOb .framer-1v01f4k > :first-child, .framer-yJaOb .framer-qb80t > :first-child, .framer-yJaOb .framer-1fal4sp > :first-child, .framer-yJaOb .framer-19jaokw > :first-child, .framer-yJaOb .framer-1qu95x9 > :first-child, .framer-yJaOb .framer-zurvpn > :first-child, .framer-yJaOb .framer-18c302j > :first-child, .framer-yJaOb .framer-685hf5 > :first-child, .framer-yJaOb .framer-adzvl > :first-child, .framer-yJaOb .framer-xnwj3b > :first-child, .framer-yJaOb .framer-1m51ubg > :first-child, .framer-yJaOb .framer-moly6x > :first-child, .framer-yJaOb .framer-1lnhujx > :first-child, .framer-yJaOb .framer-4l6fhs > :first-child, .framer-yJaOb .framer-9x6skt > :first-child, .framer-yJaOb .framer-1llimlp > :first-child, .framer-yJaOb .framer-1gkkuvd > :first-child, .framer-yJaOb .framer-qybbbj > :first-child, .framer-yJaOb .framer-1p82eus > :first-child, .framer-yJaOb .framer-2lwd1n > :first-child, .framer-yJaOb .framer-e3j4do > :first-child, .framer-yJaOb .framer-1th8kvx > :first-child, .framer-yJaOb .framer-1p2gygf > :first-child, .framer-yJaOb .framer-s4ny98 > :first-child, .framer-yJaOb .framer-1rxlezj > :first-child, .framer-yJaOb .  > :first-child, .framer-yJaOb .framer-88jm0u > :first-child, .framer-yJaOb .framer-dp6io2 > :first-child, .framer-yJaOb .framer-16i6sg6 > :first-child, .framer-yJaOb .  > :first-child, .framer-yJaOb .framer-1hylq7s > :first-child, .framer-yJaOb .  > :first-child, .framer-yJaOb .  > :first-child, .framer-yJaOb .  > :first-child, .framer-yJaOb .framer-1ozok8h > :first-child, .framer-yJaOb .framer-tilm76 > :first-child, .framer-yJaOb .framer-1o7vzb2 > :first-child, .framer-yJaOb .framer-77amyf > :first-child, .framer-yJaOb .framer-8r1pv7 > :first-child, .framer-yJaOb .framer-1erp6vl > :first-child, .framer-yJaOb .framer-1h2g9a > :first-child, .framer-yJaOb .framer-11esjt5 > :first-child, .framer-yJaOb .framer-1ocnhjv > :first-child, .framer-yJaOb .framer-1iieyvg > :first-child, .framer-yJaOb .framer-1xrvpl5 > :first-child, .framer-yJaOb .framer-1fdjzqd > :first-child, .framer-yJaOb .framer-1vqmv9b > :first-child, .framer-yJaOb .framer-17b21vs > :first-child, .framer-yJaOb .framer-1e8ustg > :first-child, .framer-yJaOb .framer-19749yq > :first-child, .framer-yJaOb .framer-18zi607888888888 > :first-child, .framer-yJaOb .framer-zk1zgm > :first-child, .framer-yJaOb .framer-1hmytn2 > :first-child, .framer-yJaOb .framer-333w81 > :first-child, .framer-yJaOb .framer-egxoer > :first-child, .framer-yJaOb .framer-v9mfff > :first-child, .framer-yJaOb .framer-g5birp > :first-child, .framer-yJaOb .framer-1vgepcl > :first-child, .framer-yJaOb .framer-lpbwzq > :first-child, .framer-yJaOb .framer-1pjcd30 > :first-child, .framer-yJaOb .framer-1nu7wh1 > :first-child, .framer-yJaOb .framer-xai64v > :first-child, .framer-yJaOb .framer-lm6f6i > :first-child, .framer-yJaOb .framer-s2mh3a > :first-child, .framer-yJaOb .framer-1hza6qo > :first-child, .framer-yJaOb .framer-1cxww1u > :first-child, .framer-yJaOb .framer-qwljby > :first-child, .framer-yJaOb .framer-1j1gakc > :first-child, .framer-yJaOb .framer-i6ihti > :first-child, .framer-yJaOb .framer-1py1tkj > :first-child, .framer-yJaOb .framer-vmzurg > :first-child, .framer-yJaOb .framer-lnxuqy > :first-child, .framer-yJaOb .framer-rv571d > :first-child, .framer-yJaOb .framer-18zmvrf > :first-child, .framer-yJaOb .framer-16x3cjx > :first-child, .framer-yJaOb .framer-1eh25xh > :first-child, .framer-yJaOb .framer-1iht9he > :first-child, .framer-yJaOb .framer-13t0pm4 > :first-child, .framer-yJaOb .framer-x2oja8 > :first-child, .framer-yJaOb .framer-nbsj9g > :first-child, .framer-yJaOb .framer-m70gnk > :first-child, .framer-yJaOb .framer-1iikr9g > :first-child, .framer-yJaOb .framer-w3og9n > :first-child, .framer-yJaOb .framer-1oavfvt > :first-child, .framer-yJaOb .framer-8fu52m > :first-child, .framer-yJaOb .framer-1n6bbv5 > :first-child, .framer-yJaOb .framer-77yiyo > :first-child, .framer-yJaOb .framer-qp59u2 > :first-child, .framer-yJaOb .framer-gcrirt > :first-child, .framer-yJaOb .framer-wb13uq > :first-child, .framer-yJaOb .framer-dpe7mt > :first-child, .framer-yJaOb .framer-e53jle > :first-child, .framer-yJaOb .framer-ruroyr > :first-child, .framer-yJaOb .framer-1uf9uhg > :first-child, .framer-yJaOb .framer-17qa3sb > :first-child { margin-top: 0px; } .framer-yJaOb.framer-qmdb2w > :last-child, .framer-yJaOb .framer-1bzl8fw > :last-child, .framer-yJaOb .framer-14jv5lw > :last-child, .framer-yJaOb .framer-1hqyc81 > :last-child, .framer-yJaOb .framer-r7eevg > :last-child, .framer-yJaOb .framer-mcxvik > :last-child, .framer-yJaOb .framer-1v01f4k > :last-child, .framer-yJaOb .framer-qb80t > :last-child, .framer-yJaOb .framer-1fal4sp > :last-child, .framer-yJaOb .framer-19jaokw > :last-child, .framer-yJaOb .framer-1qu95x9 > :last-child, .framer-yJaOb .framer-zurvpn > :last-child, .framer-yJaOb .framer-18c302j > :last-child, .framer-yJaOb .framer-685hf5 > :last-child, .framer-yJaOb .framer-adzvl > :last-child, .framer-yJaOb .framer-xnwj3b > :last-child, .framer-yJaOb .framer-1m51ubg > :last-child, .framer-yJaOb .framer-moly6x > :last-child, .framer-yJaOb .framer-1lnhujx > :last-child, .framer-yJaOb .framer-4l6fhs > :last-child, .framer-yJaOb .framer-9x6skt > :last-child, .framer-yJaOb .framer-1llimlp > :last-child, .framer-yJaOb .framer-1gkkuvd > :last-child, .framer-yJaOb .framer-qybbbj > :last-child, .framer-yJaOb .framer-1p82eus > :last-child, .framer-yJaOb .framer-2lwd1n > :last-child, .framer-yJaOb .framer-e3j4do > :last-child, .framer-yJaOb .framer-1th8kvx > :last-child, .framer-yJaOb .framer-1p2gygf > :last-child, .framer-yJaOb .framer-s4ny98 > :last-child, .framer-yJaOb .framer-1rxlezj > :last-child, .framer-yJaOb .  > :last-child, .framer-yJaOb .framer-88jm0u > :last-child, .framer-yJaOb .framer-dp6io2 > :last-child, .framer-yJaOb .framer-16i6sg6 > :last-child, .framer-yJaOb .  > :last-child, .framer-yJaOb .framer-1hylq7s > :last-child, .framer-yJaOb .  > :last-child, .framer-yJaOb .  > :last-child, .framer-yJaOb .  > :last-child, .framer-yJaOb .framer-1ozok8h > :last-child, .framer-yJaOb .framer-tilm76 > :last-child, .framer-yJaOb .framer-1o7vzb2 > :last-child, .framer-yJaOb .framer-77amyf > :last-child, .framer-yJaOb .framer-8r1pv7 > :last-child, .framer-yJaOb .framer-1erp6vl > :last-child, .framer-yJaOb .framer-1h2g9a > :last-child, .framer-yJaOb .framer-11esjt5 > :last-child, .framer-yJaOb .framer-1ocnhjv > :last-child, .framer-yJaOb .framer-1iieyvg > :last-child, .framer-yJaOb .framer-1xrvpl5 > :last-child, .framer-yJaOb .framer-1fdjzqd > :last-child, .framer-yJaOb .framer-1vqmv9b > :last-child, .framer-yJaOb .framer-17b21vs > :last-child, .framer-yJaOb .framer-1e8ustg > :last-child, .framer-yJaOb .framer-19749yq > :last-child, .framer-yJaOb .framer-18zi607888888 > :last-child, .framer-yJaOb .framer-zk1zgm > :last-child, .framer-yJaOb .framer-1hmytn2 > :last-child, .framer-yJaOb .framer-333w81 > :last-child, .framer-yJaOb .framer-egxoer > :last-child, .framer-yJaOb .framer-v9mfff > :last-child, .framer-yJaOb .framer-g5birp > :last-child, .framer-yJaOb .framer-1vgepcl > :last-child, .framer-yJaOb .framer-lpbwzq > :last-child, .framer-yJaOb .framer-1pjcd30 > :last-child, .framer-yJaOb .framer-1nu7wh1 > :last-child, .framer-yJaOb .framer-xai64v > :last-child, .framer-yJaOb .framer-lm6f6i > :last-child, .framer-yJaOb .framer-s2mh3a > :last-child, .framer-yJaOb .framer-1hza6qo > :last-child, .framer-yJaOb .framer-1cxww1u > :last-child, .framer-yJaOb .framer-qwljby > :last-child, .framer-yJaOb .framer-1j1gakc > :last-child, .framer-yJaOb .framer-i6ihti > :last-child, .framer-yJaOb .framer-1py1tkj > :last-child, .framer-yJaOb .framer-vmzurg > :last-child, .framer-yJaOb .framer-lnxuqy > :last-child, .framer-yJaOb .framer-rv571d > :last-child, .framer-yJaOb .framer-18zmvrf > :last-child, .framer-yJaOb .framer-16x3cjx > :last-child, .framer-yJaOb .framer-1eh25xh > :last-child, .framer-yJaOb .framer-1iht9he > :last-child, .framer-yJaOb .framer-13t0pm4 > :last-child, .framer-yJaOb .framer-x2oja8 > :last-child, .framer-yJaOb .framer-nbsj9g > :last-child, .framer-yJaOb .framer-m70gnk > :last-child, .framer-yJaOb .framer-1iikr9g > :last-child, .framer-yJaOb .framer-w3og9n > :last-child, .framer-yJaOb .framer-1oavfvt > :last-child, .framer-yJaOb .framer-8fu52m > :last-child, .framer-yJaOb .framer-1n6bbv5 > :last-child, .framer-yJaOb .framer-77yiyo > :last-child, .framer-yJaOb .framer-qp59u2 > :last-child, .framer-yJaOb .framer-gcrirt > :last-child, .framer-yJaOb .framer-wb13uq > :last-child, .framer-yJaOb .framer-dpe7mt > :last-child, .framer-yJaOb .framer-e53jle > :last-child, .framer-yJaOb .framer-ruroyr > :last-child, .framer-yJaOb .framer-1uf9uhg > :last-child, .framer-yJaOb .framer-17qa3sb > :last-child { margin-bottom: 0px; } .framer-yJaOb .framer-83izse > *, .framer-yJaOb .framer-736w6c > *, .framer-yJaOb .framer-21l2df > *, .framer-yJaOb .framer-1vndgl3 > *, .framer-yJaOb .framer-1sdqth0 > *, .framer-yJaOb  > *, .framer-yJaOb .framer-beu9w9 > *, .framer-yJaOb .framer-1peo9ze > *, .framer-yJaOb .framer-1yt2o47 > *, .framer-yJaOb .framer-ru54va > *, .framer-yJaOb .framer-1ym9haz > *, .framer-yJaOb .framer-1waheur > *, .framer-yJaOb .framer-kai4cv > *, .framer-yJaOb .framer-1dyypyc > * { margin: 0px; margin-left: calc(10px / 2); margin-right: calc(10px / 2); } .framer-yJaOb .framer-83izse > :first-child, .framer-yJaOb .framer-vatc0c > :first-child, .framer-yJaOb .framer-736w6c > :first-child, .framer-yJaOb .framer-21l2df > :first-child, .framer-yJaOb .framer-1vndgl3 > :first-child, .framer-yJaOb .framer-77znln > :first-child, .framer-yJaOb .framer-mu3t6w > :first-child, .framer-yJaOb .framer-1em7ute > :first-child, .framer-yJaOb .framer-1sdqth0 > :first-child, .framer-yJaOb  > :first-child, .framer-yJaOb .framer-1g8ax2k > :first-child, .framer-yJaOb .framer-1g8p7qs > :first-child, .framer-yJaOb .framer-12a3s3z > :first-child, .framer-yJaOb .framer-1i9rf1c > :first-child, .framer-yJaOb .framer-nlzda8 > :first-child, .framer-yJaOb .framer-114ze5o > :first-child, .framer-yJaOb .framer-beu9w9 > :first-child, .framer-yJaOb .framer-1gz4mxt > :first-child, .framer-yJaOb .framer-q6yyjr > :first-child, .framer-yJaOb .framer-1jeni85 > :first-child, .framer-yJaOb .framer-165oh2n > :first-child, .framer-yJaOb .framer-6xls3n > :first-child, .framer-yJaOb .framer-1peo9ze > :first-child, .framer-yJaOb .framer-197gpkn > :first-child, .framer-yJaOb .framer-1yt2o47 > :first-child, .framer-yJaOb .framer-ru54va > :first-child, .framer-yJaOb .framer-1ym9haz > :first-child, .framer-yJaOb .framer-1waheur > :first-child, .framer-yJaOb .framer-kai4cv > :first-child, .framer-yJaOb .framer-1dyypyc > :first-child, .framer-yJaOb .framer-50qt7s > :first-child, .framer-yJaOb .framer-1355dhs > :first-child, .framer-yJaOb .framer-14b3p3i > :first-child, .framer-yJaOb .framer-1ycwcbv > :first-child, .framer-yJaOb .framer-14v3lq0 > :first-child, .framer-yJaOb .framer-kpjr80 > :first-child, .framer-yJaOb .framer-1h6c6n0 > :first-child, .framer-yJaOb .framer-1k4ntzg > :first-child, .framer-yJaOb .framer-1gav2df > :first-child { margin-left: 0px; } .framer-yJaOb .framer-83izse > :last-child, .framer-yJaOb .framer-vatc0c > :last-child, .framer-yJaOb .framer-736w6c > :last-child, .framer-yJaOb .framer-21l2df > :last-child, .framer-yJaOb .framer-1vndgl3 > :last-child, .framer-yJaOb .framer-77znln > :last-child, .framer-yJaOb .framer-mu3t6w > :last-child, .framer-yJaOb .framer-1em7ute > :last-child, .framer-yJaOb .framer-1sdqth0 > :last-child, .framer-yJaOb  > :last-child, .framer-yJaOb .framer-1g8ax2k > :last-child, .framer-yJaOb .framer-1g8p7qs > :last-child, .framer-yJaOb .framer-12a3s3z > :last-child, .framer-yJaOb .framer-1i9rf1c > :last-child, .framer-yJaOb .framer-nlzda8 > :last-child, .framer-yJaOb .framer-114ze5o > :last-child, .framer-yJaOb .framer-beu9w9 > :last-child, .framer-yJaOb .framer-1gz4mxt > :last-child, .framer-yJaOb .framer-q6yyjr > :last-child, .framer-yJaOb .framer-1jeni85 > :last-child, .framer-yJaOb .framer-165oh2n > :last-child, .framer-yJaOb .framer-6xls3n > :last-child, .framer-yJaOb .framer-1peo9ze > :last-child, .framer-yJaOb .framer-197gpkn > :last-child, .framer-yJaOb .framer-1yt2o47 > :last-child, .framer-yJaOb .framer-ru54va > :last-child, .framer-yJaOb .framer-1ym9haz > :last-child, .framer-yJaOb .framer-1waheur > :last-child, .framer-yJaOb .framer-kai4cv > :last-child, .framer-yJaOb .framer-1dyypyc > :last-child, .framer-yJaOb .framer-50qt7s > :last-child, .framer-yJaOb .framer-1355dhs > :last-child, .framer-yJaOb .framer-14b3p3i > :last-child, .framer-yJaOb .framer-1ycwcbv > :last-child, .framer-yJaOb .framer-14v3lq0 > :last-child, .framer-yJaOb .framer-kpjr80 > :last-child, .framer-yJaOb .framer-1h6c6n0 > :last-child, .framer-yJaOb .framer-1k4ntzg > :last-child, .framer-yJaOb .framer-1gav2df > :last-child { margin-right: 0px; } .framer-yJaOb .framer-1bzl8fw > *, .framer-yJaOb .framer-1hza6qo > * { margin: 0px; margin-bottom: calc(28px / 2); margin-top: calc(28px / 2); } .framer-yJaOb .framer-1hqyc81 > *, .framer-yJaOb .framer-1fal4sp > *, .framer-yJaOb .framer-19749yq > *, .framer-yJaOb .framer-333w81 > *, .framer-yJaOb .framer-lm6f6i > *, .framer-yJaOb .framer-1iht9he > *, .framer-yJaOb .framer-nbsj9g > * { margin: 0px; margin-bottom: calc(0px / 2); margin-top: calc(0px / 2); } .framer-yJaOb .framer-vatc0c > *, .framer-yJaOb .framer-1gz4mxt > *, .framer-yJaOb .framer-1gav2df > * { margin: 0px; margin-left: calc(20px / 2); margin-right: calc(20px / 2); } .framer-yJaOb .framer-mcxvik > *, .framer-yJaOb .framer-1iikr9g > * { margin: 0px; margin-bottom: calc(15px / 2); margin-top: calc(15px / 2); } .framer-yJaOb .framer-77znln > * { margin: 0px; margin-left: calc(6px / 2); margin-right: calc(6px / 2); } .framer-yJaOb .framer-qb80t > *, .framer-yJaOb .framer-1oavfvt > *, .framer-yJaOb .framer-8fu52m > * { margin: 0px; margin-bottom: calc(42px / 2); margin-top: calc(42px / 2); } .framer-yJaOb .framer-19jaokw > * { margin: 0px; margin-bottom: calc(25px / 2); margin-top: calc(25px / 2); } .framer-yJaOb .framer-1qu95x9 > *, .framer-yJaOb .framer-zurvpn > *, .framer-yJaOb .framer-685hf5 > *, .framer-yJaOb .framer-xnwj3b > *, .framer-yJaOb .framer-1nu7wh1 > * { margin: 0px; margin-bottom: calc(40px / 2); margin-top: calc(40px / 2); } .framer-yJaOb .framer-mu3t6w > *, .framer-yJaOb .framer-1em7ute > * { margin: 0px; margin-left: calc(25px / 2); margin-right: calc(25px / 2); } .framer-yJaOb .framer-18c302j > *, .framer-yJaOb .framer-adzvl > * { margin: 0px; margin-bottom: calc(37px / 2); margin-top: calc(37px / 2); } .framer-yJaOb .framer-1lnhujx > *, .framer-yJaOb .framer-rv571d > * { margin: 0px; margin-bottom: calc(60px / 2); margin-top: calc(60px / 2); } .framer-yJaOb .framer-4l6fhs > * { margin: 0px; margin-bottom: calc(135px / 2); margin-top: calc(135px / 2); } .framer-yJaOb .framer-9x6skt > *, .framer-yJaOb .framer-1llimlp > *, .framer-yJaOb .framer-1gkkuvd > *, .framer-yJaOb .framer-qybbbj > *, .framer-yJaOb .framer-1p82eus > *, .framer-yJaOb .framer-2lwd1n > *, .framer-yJaOb .framer-s4ny98 > *, .framer-yJaOb .framer-88jm0u > *, .framer-yJaOb .  > *, .framer-yJaOb .  > *, .framer-yJaOb .framer-tilm76 > *, .framer-yJaOb .framer-egxoer > *, .framer-yJaOb .framer-xai64v > *, .framer-yJaOb .framer-i6ihti > *, .framer-yJaOb .framer-vmzurg > *, .framer-yJaOb .framer-18zmvrf > *, .framer-yJaOb .framer-w3og9n > *, .framer-yJaOb .framer-dpe7mt > *, .framer-yJaOb .framer-e53jle > *, .framer-yJaOb .framer-ruroyr > *, .framer-yJaOb .framer-1uf9uhg > *, .framer-yJaOb .framer-17qa3sb > * { margin: 0px; margin-bottom: calc(10px / 2); margin-top: calc(10px / 2); } .framer-yJaOb .framer-e3j4do > *, .framer-yJaOb .framer-18zi607888888 > * { margin: 0px; margin-bottom: calc(50px / 2); margin-top: calc(50px / 2); } .framer-yJaOb .framer-1rxlezj > *, .framer-yJaOb .framer-dp6io2 > *, .framer-yJaOb .framer-1hylq7s > *, .framer-yJaOb .  > *, .framer-yJaOb .framer-1o7vzb2 > * { margin: 0px; margin-bottom: calc(4px / 2); margin-top: calc(4px / 2); } .framer-yJaOb .framer-1erp6vl > *, .framer-yJaOb .framer-11esjt5 > *, .framer-yJaOb .framer-1iieyvg > *, .framer-yJaOb .framer-1fdjzqd > *, .framer-yJaOb .framer-17b21vs > *, .framer-yJaOb .framer-g5birp > * { margin: 0px; margin-bottom: calc(2px / 2); margin-top: calc(2px / 2); } .framer-yJaOb .framer-1e8ustg > * { margin: 0px; margin-bottom: calc(23px / 2); margin-top: calc(23px / 2); } .framer-yJaOb .framer-zk1zgm > * { margin: 0px; margin-bottom: calc(63px / 2); margin-top: calc(63px / 2); } .framer-yJaOb .framer-1hmytn2 > *, .framer-yJaOb .framer-qp59u2 > * { margin: 0px; margin-bottom: calc(30px / 2); margin-top: calc(30px / 2); } .framer-yJaOb .framer-lpbwzq > * { margin: 0px; margin-bottom: calc(41px / 2); margin-top: calc(41px / 2); } .framer-yJaOb .framer-1pjcd30 > *, .framer-yJaOb .framer-gcrirt > * { margin: 0px; margin-bottom: calc(85px / 2); margin-top: calc(85px / 2); } .framer-yJaOb .framer-1g8ax2k > *, .framer-yJaOb .framer-1g8p7qs > *, .framer-yJaOb .framer-12a3s3z > *, .framer-yJaOb .framer-1i9rf1c > *, .framer-yJaOb .framer-nlzda8 > *, .framer-yJaOb .framer-114ze5o > *, .framer-yJaOb .framer-1355dhs > *, .framer-yJaOb .framer-14b3p3i > *, .framer-yJaOb .framer-1ycwcbv > *, .framer-yJaOb .framer-kpjr80 > *, .framer-yJaOb .framer-1h6c6n0 > *, .framer-yJaOb .framer-1k4ntzg > * { margin: 0px; margin-left: calc(5px / 2); margin-right: calc(5px / 2); } .framer-yJaOb .framer-s2mh3a > * { margin: 0px; margin-bottom: calc(18px / 2); margin-top: calc(18px / 2); } .framer-yJaOb .framer-1cxww1u > * { margin: 0px; margin-bottom: calc(33px / 2); margin-top: calc(33px / 2); } .framer-yJaOb .framer-q6yyjr > *, .framer-yJaOb .framer-165oh2n > *, .framer-yJaOb .framer-6xls3n > *, .framer-yJaOb .framer-197gpkn > * { margin: 0px; margin-left: calc(0px / 2); margin-right: calc(0px / 2); } .framer-yJaOb .framer-1jeni85 > * { margin: 0px; margin-left: calc(15px / 2); margin-right: calc(15px / 2); } .framer-yJaOb .framer-lnxuqy > *, .framer-yJaOb .framer-1n6bbv5 > * { margin: 0px; margin-bottom: calc(26px / 2); margin-top: calc(26px / 2); } .framer-yJaOb .framer-50qt7s > * { margin: 0px; margin-left: calc(40px / 2); margin-right: calc(40px / 2); } .framer-yJaOb .framer-77yiyo > * { margin: 0px; margin-bottom: calc(13px / 2); margin-top: calc(13px / 2); } .framer-yJaOb .framer-14v3lq0 > * { margin: 0px; margin-left: calc(32px / 2); margin-right: calc(32px / 2); } }", `@media (min-width: 810px) and (max-width: 1199px) { .${Kn.bodyClassName}-framer-yJaOb { background: rgb(7, 7, 9); } .framer-yJaOb.framer-qmdb2w { width: 810px; } .framer-yJaOb .framer-1t32isl { order: 2; padding: 60px 20px 20px 20px; width: 100%; } .framer-yJaOb .framer-1bzl8fw { order: 3; padding: 0px 20px 0px 20px; width: 100%; } .framer-yJaOb .framer-14jv5lw { padding: 25px 0px 0px 20px; } .framer-yJaOb .framer-1hqyc81 { align-content: flex-start; align-items: flex-start; width: 100%; } .framer-yJaOb .framer-d27789, .framer-yJaOb .framer-1d08ze6 { white-space: pre; width: auto; } .framer-yJaOb .framer-1vjblfq { align-content: flex-start; align-items: flex-start; flex-wrap: wrap; gap: 10px; justify-content: flex-start; } .framer-yJaOb .framer-1u1o2ms { order: 4; } .framer-yJaOb .framer-4h0y9q-container { height: 319px; left: unset; right: -11px; width: 800px; } .framer-yJaOb .framer-r7eevg { height: min-content; order: 5; } .framer-yJaOb .framer-1r4t09v { height: var(--framer-aspect-ratio-supported, 116px); } .framer-yJaOb .framer-1wr6pmw-container { aspect-ratio: 23.142857142857142 / 1; height: var(--framer-aspect-ratio-supported, 39px); left: 50%; top: 50%; transform: translate(-50%, -50%); width: 112%; } .framer-yJaOb .framer-1dnvax8 { aspect-ratio: 11.28 / 1; height: var(--framer-aspect-ratio-supported, 53px); left: 50%; top: 50%; transform: translate(-50%, -50%); width: 600px; } .framer-yJaOb .framer-1v01f4k { order: 6; padding: 0px 40px 50px 40px; } .framer-yJaOb .framer-e8002p { height: var(--framer-aspect-ratio-supported, 777px); } .framer-yJaOb .framer-pxcg9m { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 44px; height: min-content; justify-content: flex-start; padding: 0px; width: 100%; } .framer-yJaOb .framer-1c01u1i { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; left: unset; padding: 0px; position: relative; top: unset; width: 100%; } .framer-yJaOb .framer-hii79w, .framer-yJaOb .framer-21l2df { left: unset; position: relative; top: unset; } .framer-yJaOb .framer-nsli42 { left: unset; position: relative; top: unset; white-space: pre; width: auto; } .framer-yJaOb .framer-1m51ubg { order: 8; } .framer-yJaOb .framer-moly6x, .framer-yJaOb .framer-1lnhujx { padding: 0px; width: 100%; } .framer-yJaOb .framer-whprmw, .framer-yJaOb .framer-mtff6u, .framer-yJaOb .framer-qybbbj, .framer-yJaOb .framer-psv9v, .framer-yJaOb .framer-b8q45a { order: 0; } .framer-yJaOb .framer-4l6fhs { gap: 50px; order: 1; width: 100%; } .framer-yJaOb .framer-1og545b, .framer-yJaOb .framer-2lyzkn { order: 2; } .framer-yJaOb .framer-1gkkuvd, .framer-yJaOb .framer-10blq6a, .framer-yJaOb .framer-1vehi06, .framer-yJaOb .framer-1gav2df { order: 1; } .framer-yJaOb .framer-19sid3s, .framer-yJaOb .framer-1d949ss { order: 3; } .framer-yJaOb .framer-1ayqsed { order: 1; width: 100%; } .framer-yJaOb .framer-1toh9in { width: 84px; } .framer-yJaOb .framer-1bc36ed { width: auto; } .framer-yJaOb .framer-1gue4wa { width: 290px; } .framer-yJaOb .framer-e3j4do { order: 10; } .framer-yJaOb .framer-1q8k233 { height: var(--framer-aspect-ratio-supported, 119px); } .framer-yJaOb .framer-1vgepcl { order: 15; padding: 0px 40px 20px 40px; } .framer-yJaOb .framer-lpbwzq, .framer-yJaOb .framer-ff6ipe { width: 730px; } .framer-yJaOb .framer-q0cc5l { height: 311px; } .framer-yJaOb .framer-s2mh3a { flex: 1 0 0px; width: 1px; } .framer-yJaOb .framer-bvne3x { width: 260px; } .framer-yJaOb .framer-1bnhh5n { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 100%; justify-content: center; padding: 0px; width: 424px; } .framer-yJaOb .framer-i67t0s-container { height: 165%; left: unset; position: relative; top: unset; } .framer-yJaOb .framer-rv571d { order: 18; } .framer-yJaOb .framer-197gpkn { align-content: center; align-items: center; justify-content: center; width: 100%; } .framer-yJaOb .framer-16x3cjx { order: 20; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-1eh25xh { order: 21; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-13t0pm4 { order: 22; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-x2oja8 { order: 23; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-m70gnk { order: 24; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-1t1aayi { left: 20px; } .framer-yJaOb .framer-qp59u2 { order: 11; } .framer-yJaOb .framer-10r3q4q { bottom: unset; height: 56px; left: 34px; right: unset; top: calc(49.61240310077522% - 56px / 2); } .framer-yJaOb .framer-ruroyr { height: 55px; width: 156px; } .framer-yJaOb .framer-jm1wka-container { order: 29; } @supports (background: -webkit-named-image(i)) and (not (scale:1)) { .framer-yJaOb .framer-1vjblfq, .framer-yJaOb .framer-pxcg9m, .framer-yJaOb .framer-1c01u1i, .framer-yJaOb .framer-4l6fhs, .framer-yJaOb .framer-1bnhh5n { gap: 0px; } .framer-yJaOb .framer-1vjblfq > *, .framer-yJaOb .framer-1bnhh5n > * { margin: 0px; margin-left: calc(10px / 2); margin-right: calc(10px / 2); } .framer-yJaOb .framer-1vjblfq > :first-child, .framer-yJaOb .framer-1bnhh5n > :first-child { margin-left: 0px; } .framer-yJaOb .framer-1vjblfq > :last-child, .framer-yJaOb .framer-1bnhh5n > :last-child { margin-right: 0px; } .framer-yJaOb .framer-pxcg9m > * { margin: 0px; margin-bottom: calc(44px / 2); margin-top: calc(44px / 2); } .framer-yJaOb .framer-pxcg9m > :first-child, .framer-yJaOb .framer-4l6fhs > :first-child { margin-top: 0px; } .framer-yJaOb .framer-pxcg9m > :last-child, .framer-yJaOb .framer-4l6fhs > :last-child { margin-bottom: 0px; } .framer-yJaOb .framer-1c01u1i > *, .framer-yJaOb .framer-1c01u1i > :first-child, .framer-yJaOb .framer-1c01u1i > :last-child { margin: 0px; } .framer-yJaOb .framer-4l6fhs > * { margin: 0px; margin-bottom: calc(50px / 2); margin-top: calc(50px / 2); } }}`, `@media (max-width: 809px) { .${Kn.bodyClassName}-framer-yJaOb { background: rgb(7, 7, 9); } .framer-yJaOb.framer-qmdb2w { gap: 0px; width: 430px; } .framer-yJaOb .framer-1esd98c, .framer-yJaOb .framer-1kuj8j, .framer-yJaOb .framer-1qu95x9, .framer-yJaOb .framer-6dpn2n-container, .framer-yJaOb .framer-1p6qwig, .framer-yJaOb .framer-1e8ustg, .framer-yJaOb .framer-333w81, .framer-yJaOb .framer-1cxww1u, .framer-yJaOb .framer-q6yyjr, .framer-yJaOb .framer-q3h50j, .framer-yJaOb .framer-i6ihti, .framer-yJaOb .framer-1qp0cf, .framer-yJaOb .framer-6xls3n, .framer-yJaOb .framer-z2a1i, .framer-yJaOb .framer-xnri0v, .framer-yJaOb .framer-1soesdx, .framer-yJaOb .framer-yr0laz { order: 1; } .framer-yJaOb .framer-mcxvik { order: 6; } .framer-yJaOb .framer-xb5g6v, .framer-yJaOb .framer-1fal4sp, .framer-yJaOb .framer-1em7ute, .framer-yJaOb .framer-3gyw3o, .framer-yJaOb .framer-177qzlt, .framer-yJaOb .framer-1kmbr6p, .framer-yJaOb .framer-1l5okqn, .framer-yJaOb .framer-aqgs74, .framer-yJaOb .framer-b1woil, .framer-yJaOb .framer-1t3hb77, .framer-yJaOb .framer-g1f4as, .framer-yJaOb .framer-w3og9n, .framer-yJaOb .framer-77yiyo, .framer-yJaOb .framer-1lqswzh { order: 0; } .framer-yJaOb .framer-736w6c, .framer-yJaOb .framer-mu3t6w, .framer-yJaOb .framer-h666d8, .framer-yJaOb .framer-1cvfz14, .framer-yJaOb .framer-102kgn0-container, .framer-yJaOb .framer-egxoer, .framer-yJaOb .framer-1py1tkj, .framer-yJaOb .framer-6j9l9, .framer-yJaOb .framer-z0tbr5 { order: 2; } .framer-yJaOb .framer-qb80t { order: 8; } .framer-yJaOb .framer-19jaokw, .framer-yJaOb .framer-xnwj3b, .framer-yJaOb .framer-165oh2n, .framer-yJaOb .framer-p83t5f { order: 3; } .framer-yJaOb .framer-77amyf { order: 12; } .framer-yJaOb .framer-14hqnaa { height: var(--framer-aspect-ratio-supported, 64px); order: 0; } .framer-yJaOb .framer-1hmytn2 { order: 15; } .framer-yJaOb .framer-v9mfff { order: 13; } .framer-yJaOb .framer-1ajpwpj { height: var(--framer-aspect-ratio-supported, 274px); } .framer-yJaOb .framer-1hza6qo { order: 11; } .framer-yJaOb .framer-1jeni85 { flex-direction: column; } .framer-yJaOb .framer-1u0reby { height: var(--framer-aspect-ratio-supported, 131px); order: 0; } .framer-yJaOb .framer-nxfoqh { height: var(--framer-aspect-ratio-supported, 131px); } .framer-yJaOb .framer-lnxuqy { order: 16; } .framer-yJaOb .framer-1eh25xh { order: 21; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-13t0pm4 { order: 22; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-x2oja8 { order: 23; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-m70gnk { order: 24; padding: 40px 20px 40px 20px; width: 100%; } .framer-yJaOb .framer-1ym9haz { align-content: flex-start; align-items: flex-start; justify-content: flex-start; width: 566px; } .framer-yJaOb .framer-11ityom { white-space: pre; width: auto; } .framer-yJaOb .framer-1t1aayi { left: 20px; } .framer-yJaOb .framer-1iikr9g { order: 5; } .framer-yJaOb .framer-1oavfvt { order: 7; } .framer-yJaOb .framer-1n6bbv5 { order: 14; } @supports (background: -webkit-named-image(i)) and (not (scale:1)) { .framer-yJaOb.framer-qmdb2w, .framer-yJaOb .framer-1jeni85 { gap: 0px; } .framer-yJaOb.framer-qmdb2w > * { margin: 0px; margin-bottom: calc(0px / 2); margin-top: calc(0px / 2); } .framer-yJaOb.framer-qmdb2w > :first-child, .framer-yJaOb .framer-1jeni85 > :first-child { margin-top: 0px; } .framer-yJaOb.framer-qmdb2w > :last-child, .framer-yJaOb .framer-1jeni85 > :last-child { margin-bottom: 0px; } .framer-yJaOb .framer-1jeni85 > * { margin: 0px; margin-bottom: calc(15px / 2); margin-top: calc(15px / 2); } }}`, '.framer-yJaOb[data-border="true"]::after, .framer-yJaOb [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }'],
-	tn = Re(uc, gc, "framer-yJaOb"),
+	gc = ["@supports (aspect-ratio: 1) { body { --frame-aspect-ratio-supported: auto; } }", `.${Kn.bodyClassName}-frame-yJaOb { background: rgb(7, 7, 9); }`, ".frame-yJaOb.frame-4zsb7x, .frame-yJaOb .frame-4zsb7x { display: block; }", ".frame-yJaOb.frame-qmdb2w { align-content: center; align-items: center; background-color: #070709; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 1200px; }", ".frame-yJaOb .frame-1esd98c { flex: none; height: 360px; overflow: visible; position: relative; width: 430px; }", ".frame-yJaOb .frame-1x751x { flex: none; height: 350px; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; }", ".frame-yJaOb .frame-1rfy42e { flex: none; height: 384px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; top: 0px; width: 100%; }", ".frame-yJaOb .frame-1mkm3ik-container { bottom: -26px; flex: none; height: 400px; left: 0px; position: absolute; right: 0px; }", ".frame-yJaOb .frame-li6er0 { aspect-ratio: 2.512448132780083 / 1; height: var(--frame-aspect-ratio-supported, 306px); overflow: visible; position: relative; width: 769px; }", ".frame-yJaOb .frame-1af99hb { background: linear-gradient(179deg, rgba(8, 8, 10, 0) -2.7710338308407473e-13%, rgba(8, 8, 10, 0.9) 74.58136743837129%); bottom: 20px; flex: none; height: 176px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; width: 100%; z-index: 1; }", ".frame-yJaOb .frame-83izse { align-content: flex-start; align-items: flex-start; bottom: 9px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 57px; justify-content: flex-start; left: calc(54.6511627906977% - 100% / 2); overflow: visible; padding: 0px 10px 0px 10px; position: absolute; width: 100%; }", ".frame-yJaOb .frame-pu5308 { flex: none; height: 55px; overflow: visible; position: relative; width: 217px; z-index: 1; }", ".frame-yJaOb .frame-15hnh4l { flex: none; height: 35px; left: 111px; overflow: visible; position: absolute; top: 19px; width: 114px; }", ".frame-yJaOb .frame-6d35qk { flex: none; height: 16px; left: 0px; position: absolute; top: 19px; white-space: pre-wrap; width: 114px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1yv3vyc { flex: none; height: 17px; left: 0px; position: absolute; top: -1px; width: 100px; }", ".frame-yJaOb .frame-1iwtsgp { bottom: 0px; flex: none; height: 54px; left: 0px; overflow: visible; position: absolute; right: -10px; }", ".frame-yJaOb .frame-10d18f9 { --border-bottom-width: 0.328869491815567px; --border-color: #47ff9c; --border-left-width: 0.328869491815567px; --border-right-width: 0.328869491815567px; --border-style: solid; --border-top-width: 0.328869491815567px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 35px; left: 18px; position: absolute; top: 9px; width: 82px; }", ".frame-yJaOb .frame-19sl4ds { --border-bottom-width: 0.328869491815567px; --border-color: #ffbc70; --border-left-width: 0.328869491815567px; --border-right-width: 0.328869491815567px; --border-style: solid; --border-top-width: 0.328869491815567px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 28px; left: 1px; opacity: 0.3; position: absolute; top: 14px; width: 105px; }", ".frame-yJaOb .frame-183uf98 { flex: none; height: auto; left: 26px; position: absolute; top: 0px; white-space: pre; width: auto; }", ".frame-yJaOb .frame-umc81b { background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%); flex: none; height: 118px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; top: 0px; width: 100%; }", ".frame-yJaOb .frame-o3zjec { --border-bottom-width: 1px; --border-color: rgba(0, 0, 0, 0.08); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 80px; justify-content: space-between; left: 0px; overflow: visible; padding: 20px 30px 20px 40px; position: absolute; right: 0px; top: 0px; z-index: 1; }", ".frame-yJaOb .frame-1ljikb1 { aspect-ratio: 14.066666666666666 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 10px); position: relative; width: 141px; }", ".frame-yJaOb .frame-1rg16my-container { flex: none; height: auto; position: relative; width: 157px; }", ".frame-yJaOb .frame-1e5gbwv-container { bottom: 20px; flex: none; height: auto; left: 50%; position: fixed; transform: translateX(-50%); width: 917px; z-index: 3; }", ".frame-yJaOb .frame-1t32isl { --border-bottom-width: 1px; --border-color: rgba(0, 0, 0, 0.08); --border-left-width: 0px; --border-right-width: 0px; --border-style: solid; --border-top-width: 0px; align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 80px; justify-content: space-between; overflow: visible; padding: 60px 0px 20px 0px; position: relative; width: 1130px; z-index: 1; }", ".frame-yJaOb .frame-i1krv3 { aspect-ratio: 14.066666666666666 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 15px); position: relative; width: 211px; }", ".frame-yJaOb .frame-bxf5zd-container, .frame-yJaOb .frame-1r98msi-container { flex: none; height: auto; position: relative; width: auto; }", ".frame-yJaOb .frame-1bzl8fw { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 28px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-f96sfo { bottom: -223px; flex: none; left: 0px; overflow: visible; position: absolute; right: 0px; top: -364px; z-index: 0; }", '.frame-yJaOb .frame-139ynz2 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 460px; left: 0px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-2.0242914979756863% - 460px / 2); width: 1px; }', '.frame-yJaOb .frame-10sa90y { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 200px; left: 197px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-10.12145748987852% - 200px / 2); width: 1px; }', '.frame-yJaOb .frame-x3nhlb { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 300px; left: 394px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-4.5546558704453215% - 300px / 2); width: 1px; }', '.frame-yJaOb .frame-zq1dwo { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: calc(52.30088495575224% - 1px / 2); opacity: 0.5; overflow: hidden; position: absolute; top: calc(-22.773279352226698% - 350px / 2); width: 1px; }', '.frame-yJaOb .frame-1roffst { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: 788px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-2.5303643724696134% - 350px / 2); width: 1px; }', '.frame-yJaOb .frame-91p4ux { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 270px; left: 1129px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(-16.70040485829957% - 270px / 2); width: 1px; }', ".frame-yJaOb .frame-14jv5lw { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 59px 0px 0px 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1hqyc81 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-d27789, .frame-yJaOb .frame-1d08ze6, .frame-yJaOb .frame-b8q45a { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-6dele2 { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 706px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1vjblfq, .frame-yJaOb .frame-1sz89y0, .frame-yJaOb .frame-j1md19, .frame-yJaOb .frame-cz951q { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-vatc0c { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-1zhde9 { flex: none; height: 62px; overflow: visible; position: relative; text-decoration: none; width: 237px; }", ".frame-yJaOb .frame-1asq1ww-container, .frame-yJaOb .frame-19gj285-container { bottom: 0px; flex: none; left: 50%; position: absolute; top: 0px; transform: translateX(-50%); width: auto; z-index: 1; }", ".frame-yJaOb .frame-124j29f { flex: none; height: 62px; overflow: visible; position: relative; text-decoration: none; width: 320px; }", ".frame-yJaOb .frame-148qpwl { flex: none; height: 87px; overflow: visible; position: relative; width: 336px; }", ".frame-yJaOb .frame-thgbey { flex: none; height: 54px; left: 169px; overflow: visible; position: absolute; top: 26px; width: 167px; }", ".frame-yJaOb .frame-1gi4gj8 { flex: none; height: 25px; left: 0px; position: absolute; top: 29px; white-space: pre-wrap; width: 167px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1r66y0z { flex: none; height: 24px; left: 0px; position: absolute; top: 0px; width: 151px; }", ".frame-yJaOb .frame-ewxlu5 { flex: none; height: 82px; left: 0px; overflow: visible; position: absolute; top: 5px; width: 163px; }", ".frame-yJaOb .frame-17f24sf { --border-bottom-width: 0.5px; --border-color: #47ff9c; --border-left-width: 0.5px; --border-right-width: 0.5px; --border-style: solid; --border-top-width: 0.5px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 54px; left: 28px; position: absolute; top: 14px; width: 125px; }", ".frame-yJaOb .frame-19c5r27 { --border-bottom-width: 0.5px; --border-color: #ffbc70; --border-left-width: 0.5px; --border-right-width: 0.5px; --border-style: solid; --border-top-width: 0.5px; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; flex: none; height: 42px; left: 2px; opacity: 0.3; position: absolute; top: 21px; width: 159px; }", ".frame-yJaOb .frame-iap158 { flex: none; height: auto; left: 39px; position: absolute; top: 0px; white-space: pre; width: auto; }", ".frame-yJaOb .frame-1u1o2ms { flex: none; height: 469px; overflow: visible; position: relative; width: 100%; }", ".frame-yJaOb .frame-4h0y9q-container { bottom: 0px; flex: none; height: 449px; left: calc(50.00000000000002% - 1128px / 2); position: absolute; width: 1128px; }", ".frame-yJaOb .frame-1lf6usv, .frame-yJaOb .frame-eeaj05, .frame-yJaOb .frame-hcnyfg, .frame-yJaOb .frame-1sbgt9, .frame-yJaOb .frame-x6lrfq, .frame-yJaOb .frame-1r0c8kk, .frame-yJaOb .frame-bidl8e, .frame-yJaOb .frame-sxjuax { aspect-ratio: 2.5122494432071267 / 1; height: var(--frame-aspect-ratio-supported, 449px); overflow: visible; position: relative; width: 1128px; }", ".frame-yJaOb .frame-r7eevg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 310px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1r4t09v { aspect-ratio: 6.956521739130435 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 173px); overflow: visible; position: relative; width: 100%; }", ".frame-yJaOb .frame-1wr6pmw-container { flex: none; height: 42px; left: calc(50.00000000000002% - 972px / 2); position: absolute; top: calc(50.00000000000002% - 42px / 2); width: 972px; z-index: 2; }", ".frame-yJaOb .frame-997zya { aspect-ratio: 23.142857142857142 / 1; height: var(--frame-aspect-ratio-supported, 42px); overflow: visible; position: relative; width: 972px; }", ".frame-yJaOb .frame-1dnvax8 { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 100px; left: calc(50.00000000000002% - 1128px / 2); overflow: hidden; position: absolute; top: calc(50.00000000000002% - 100px / 2); width: 1128px; will-change: var(--frame-will-change-override, transform); z-index: 1; }", ".frame-yJaOb .frame-mcxvik { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: hidden; padding: 0px 20px 20px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1kuj8j { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-top-right-radius: 100px; flex: none; height: 42px; overflow: hidden; position: relative; text-decoration: none; width: 100%; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-i4q6hx, .frame-yJaOb .frame-1svje5d, .frame-yJaOb .frame-6bhfi3, .frame-yJaOb .frame-10oa1qw { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 15px; justify-content: space-between; left: 34px; overflow: hidden; padding: 0px; position: absolute; right: 22px; top: calc(50.00000000000002% - 15px / 2); }", ".frame-yJaOb .frame-1ws8wob, .frame-yJaOb .frame-baoqcq { flex: none; height: 15px; position: relative; white-space: pre-wrap; width: 77px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-wp5bmu, .frame-yJaOb .frame-tqmlko { flex: none; height: 9px; position: relative; width: 110px; }", ".frame-yJaOb .frame-xb5g6v, .frame-yJaOb .frame-2w5w22 { --border-bottom-width: 1px; --border-color: #36373a; --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-top-right-radius: 100px; flex: none; height: 42px; overflow: hidden; position: relative; text-decoration: none; width: 100%; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-1d50s0a, .frame-yJaOb .frame-ta2dyk { flex: none; height: 13px; position: relative; white-space: pre-wrap; width: 77px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1wt59qy, .frame-yJaOb .frame-1ydkb79 { flex: none; height: 10px; position: relative; width: 15px; }", ".frame-yJaOb .frame-736w6c { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: hidden; padding: 20px 0px 0px 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-fhnosr { background-color: #ffffff; flex: 1 0 0px; height: 2px; opacity: 0.1; overflow: hidden; position: relative; width: 1px; }", ".frame-yJaOb .frame-1v01f4k { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 29px 40px 100px 40px; position: relative; width: 100%; }", ".frame-yJaOb .frame-e8002p { aspect-ratio: 0.838737949167397 / 1; bottom: -227px; flex: none; height: var(--frame-aspect-ratio-supported, 778px); opacity: 0.56; overflow: visible; position: absolute; right: 0px; width: 652px; z-index: 0; }", ".frame-yJaOb .frame-pxcg9m { flex: none; height: 595px; overflow: visible; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1c01u1i { flex: none; height: 66px; left: 0px; overflow: visible; position: absolute; top: 0px; width: 1130px; }", ".frame-yJaOb .frame-hii79w { flex: none; height: 66px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 209px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-nsli42 { flex: none; height: 26px; left: 833px; position: absolute; top: 33px; white-space: pre-wrap; width: 297px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1nua3qr { flex: none; height: 592px; left: 0px; overflow: visible; position: absolute; right: 0px; top: -29px; z-index: 0; }", '.frame-yJaOb .frame-1w75c43 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); bottom: 310px; flex: none; left: 0px; opacity: 0.36; overflow: hidden; position: absolute; top: 0px; width: 1px; }', '.frame-yJaOb .frame-q4p74c { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 200px; left: 370px; opacity: 0.5; overflow: hidden; position: absolute; top: calc(50.00000000000002% - 200px / 2); width: 1px; }', '.frame-yJaOb .frame-u5ald9 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 200px; left: 760px; opacity: 0.5; overflow: hidden; position: absolute; top: 0px; width: 1px; }', '.frame-yJaOb .frame-1fglnz0 { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 80px; opacity: 0.5; overflow: hidden; position: absolute; right: 0px; top: calc(50.08880994671405% - 80px / 2); width: 1px; }', ".frame-yJaOb .frame-21l2df { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: wrap; gap: 10px; height: min-content; justify-content: center; left: 0px; overflow: hidden; padding: 0px; position: absolute; top: 113px; width: 100%; }", ".frame-yJaOb .frame-16plizr-container, .frame-yJaOb .frame-1a2hh32-container, .frame-yJaOb .frame-1ojgibk-container, .frame-yJaOb .frame-35pdbc-container, .frame-yJaOb .frame-13unamt-container, .frame-yJaOb .frame-xx9ji5-container, .frame-yJaOb .frame-1tiazad-container, .frame-yJaOb .frame-on5ayz-container, .frame-yJaOb .frame-1150vy4-container, .frame-yJaOb .frame-bfdk8e-container, .frame-yJaOb .frame-5ngluu-container, .frame-yJaOb .frame-pgq12l-container { flex: none; height: 220px; position: relative; width: 370px; }", ".frame-yJaOb .frame-1vndgl3 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 750px; }", ".frame-yJaOb .frame-77znln { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: wrap; gap: 6px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-qb80t { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: min-content; justify-content: flex-start; overflow: visible; padding: 5px 20px 0px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1fal4sp { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-5u8dhy, .frame-yJaOb .frame-pi5rj, .frame-yJaOb .frame-1lpploj, .frame-yJaOb .frame-1e8xoxa, .frame-yJaOb .frame-zh252o { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1able7e { flex: none; height: 26px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-19jaokw { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 25px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1qu95x9, .frame-yJaOb .frame-xnwj3b { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 24px 14px 20px 18px; position: relative; width: 100%; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-82zyox { flex: none; height: 30px; position: relative; width: 36px; }", ".frame-yJaOb .frame-mu3t6w, .frame-yJaOb .frame-1em7ute { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 25px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-zurvpn { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 15px 20px 15px; position: relative; width: 1px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-1t66rpf { flex: none; height: 30px; position: relative; width: 30px; }", ".frame-yJaOb .frame-1q1v2y7 { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 127px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-18c302j { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 37px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 15px 20px 15px; position: relative; width: 1px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-pq89hp, .frame-yJaOb .frame-6dpn2n-container { flex: none; height: 32px; position: relative; width: 28px; }", ".frame-yJaOb .frame-lyq1xl, .frame-yJaOb .frame-4xmo7b { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 148px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-685hf5 { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 15px 10px 15px; position: relative; width: 1px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-kgeh0n-container { flex: none; height: 29px; position: relative; width: 44px; }", ".frame-yJaOb .frame-adzvl { align-content: flex-start; align-items: flex-start; background-color: #0e0e0f; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 37px; height: 280px; justify-content: flex-start; overflow: hidden; padding: 24px 18px 10px 15px; position: relative; width: 1px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-h666d8 { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 141px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-7sri0c { flex: none; height: 30px; position: relative; width: 42px; }", ".frame-yJaOb .frame-1cvfz14, .frame-yJaOb .frame-1p6qwig { aspect-ratio: 0.838737949167397 / 1; bottom: -1px; flex: none; height: var(--frame-aspect-ratio-supported, 439px); left: 0px; opacity: 0.4; overflow: visible; position: absolute; width: 368px; z-index: 1; }", ".frame-yJaOb .frame-1m51ubg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 0px 40px 26px 40px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1thk2rj { aspect-ratio: 0.838737949167397 / 1; bottom: -52px; flex: none; height: var(--frame-aspect-ratio-supported, 777px); left: -19px; opacity: 0.56; overflow: visible; position: absolute; width: 652px; z-index: 0; }", ".frame-yJaOb .frame-922c3f { aspect-ratio: 0.838737949167397 / 1; bottom: -1086px; flex: none; height: var(--frame-aspect-ratio-supported, 777px); opacity: 0.56; overflow: visible; position: absolute; right: -83px; width: 652px; z-index: 0; }", ".frame-yJaOb .frame-moly6x { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 15px 0px 0px 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-105ri9d, .frame-yJaOb .frame-1rog4te, .frame-yJaOb .frame-q0cc5l { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-78jt1e, .frame-yJaOb .frame-15warvq, .frame-yJaOb .frame-117m7dm, .frame-yJaOb .frame-n7rzwm, .frame-yJaOb .frame-plrob3, .frame-yJaOb .frame-8zac8y, .frame-yJaOb .frame-15jm7ih, .frame-yJaOb .frame-1je37aq, .frame-yJaOb .frame-unsn8t, .frame-yJaOb .frame-1lmg93d { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: auto; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1lnhujx { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 50px 0px 0px 0px; position: relative; width: 1130px; }", '.frame-yJaOb .frame-whprmw { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 166px; left: 460px; opacity: 0.5; overflow: hidden; position: absolute; top: 86px; width: 1px; z-index: 0; }', ".frame-yJaOb .frame-4l6fhs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 135px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1qtp4sr, .frame-yJaOb .frame-1fw8ybj, .frame-yJaOb .frame-1fwbuay { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 304px; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-9x6skt, .frame-yJaOb .frame-1llimlp, .frame-yJaOb .frame-1p82eus { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-1qe9ofq, .frame-yJaOb .frame-y39005, .frame-yJaOb .frame-w15tdq, .frame-yJaOb .frame-1toh9in { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 45px; border-bottom-right-radius: 45px; border-top-left-radius: 45px; border-top-right-radius: 45px; flex: none; height: 32px; overflow: hidden; position: relative; width: 94px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-19ofm6m, .frame-yJaOb .frame-1sv0rm2, .frame-yJaOb .frame-1k4sga3, .frame-yJaOb .frame-1qqong, .frame-yJaOb .frame-1vj35v2 { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; left: 50%; position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".frame-yJaOb .frame-1ky9q1x, .frame-yJaOb .frame-15cbvpu, .frame-yJaOb .frame-rln9le { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 385px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-iu7loq, .frame-yJaOb .frame-ichsnb { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 384px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1adtj4q-container, .frame-yJaOb .frame-1b33kce-container, .frame-yJaOb .frame-an060h-container { aspect-ratio: 2.2039473684210527 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 304px); position: relative; width: 670px; }", ".frame-yJaOb .frame-15aft5w { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 367px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1og545b, .frame-yJaOb .frame-19sid3s, .frame-yJaOb .frame-177qzlt, .frame-yJaOb .frame-1t3hb77 { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1gkkuvd, .frame-yJaOb .frame-qybbbj, .frame-yJaOb .frame-2lwd1n, .frame-yJaOb .frame-vmzurg { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-30eva3 { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 45px; border-bottom-right-radius: 45px; border-top-left-radius: 45px; border-top-right-radius: 45px; flex: none; height: 26px; overflow: hidden; position: relative; width: 84px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-aw5rmc { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; left: 50%; position: absolute; top: 38%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".frame-yJaOb .frame-1fok0b1, .frame-yJaOb .frame-1q6i7un { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 290px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-mtff6u, .frame-yJaOb .frame-10blq6a, .frame-yJaOb .frame-1gy9giq { aspect-ratio: 1.1868131868131868 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 273px); overflow: visible; position: relative; width: 324px; }", ".frame-yJaOb .frame-z4zw5e { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 45px; border-bottom-right-radius: 45px; border-top-left-radius: 45px; border-top-right-radius: 45px; flex: none; height: 32px; overflow: hidden; position: relative; width: 84px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-1ayqsed { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 38500%; }", ".frame-yJaOb .frame-1bc36ed, .frame-yJaOb .frame-1gue4wa { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 200px; word-break: break-word; word-wrap: break-word; }", '.frame-yJaOb .frame-2lyzkn { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: 0px; opacity: 0.5; overflow: hidden; position: absolute; top: -500px; width: 1px; z-index: 1; }', '.frame-yJaOb .frame-1d949ss { background: radial-gradient(50% 38.3% at 50% 50%, var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c) /* {"name":"Primary"} */ 0%, rgb(0, 0, 0) 100%); flex: none; height: 350px; left: 1129px; opacity: 0.5; overflow: hidden; position: absolute; top: -100px; width: 1px; z-index: 1; }', ".frame-yJaOb .frame-e3j4do { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 50px; height: 600px; justify-content: center; overflow: visible; padding: 0px 40px 40px 40px; position: relative; width: 810px; }", ".frame-yJaOb .frame-1q8k233 { aspect-ratio: 6.805755395683454 / 1; bottom: 30px; flex: none; height: var(--frame-aspect-ratio-supported, 29px); left: 50%; opacity: 0.3; overflow: visible; position: absolute; transform: translateX(-50%); width: 100%; z-index: 0; }", ".frame-yJaOb .frame-1th8kvx { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 509px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 730px; }", ".frame-yJaOb .frame-as6w71, .frame-yJaOb { flex: none; height: 66px; position: relative; white-space: pre-wrap; width: 403px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-148vr6h, .frame-yJaOb .  { flex: none; height: 26px; position: relative; text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); white-space: pre-wrap; width: 490px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1sdqth0 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 459px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 681px; }", ".frame-yJaOb .frame-14sxsur-container { flex: none; height: 100%; position: relative; width: 671px; }", ".frame-yJaOb .frame-1p2gygf { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 440px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 671px; }", ".frame-yJaOb .frame-s4ny98, .frame-yJaOb .frame-88jm0u, .frame-yJaOb . , .frame-yJaOb . , .frame-yJaOb .frame-tilm76 { --border-bottom-width: 1px; --border-color: rgba(255, 255, 255, 0.6); --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; align-content: center; align-items: center; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 380px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb . , .frame-yJaOb , .frame-yJaOb . , .frame-yJaOb . , .frame-yJaOb { aspect-ratio: 1.8135135135135134 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 370px); position: relative; width: 671px; }", ".frame-yJaOb .frame-1rxlezj { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-gy02do, .frame-yJaOb .frame-1da5rq4, .frame-yJaOb .frame-1pz7z2h, .frame-yJaOb .frame-lxgk05, .frame-yJaOb .frame-y2j8ss, .frame-yJaOb .frame-ula9il, .frame-yJaOb .frame-1gbunp0, .frame-yJaOb .frame-156nfzj, .frame-yJaOb .frame-1jfr6y8, .frame-yJaOb .frame-1wcanmx, .frame-yJaOb .frame-1bh39r2, .frame-yJaOb .frame-1ax5aw5, .frame-yJaOb .frame-9bxedy, .frame-yJaOb .frame-1e55z81, .frame-yJaOb .frame-173pv1a, .frame-yJaOb .frame-ef0xkl, .frame-yJaOb .frame-14j9294, .frame-yJaOb .frame-18h09uu, .frame-yJaOb .frame-j46pqp, .frame-yJaOb .frame-etupqa, .frame-yJaOb .frame-h59yip { flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".frame-yJaOb . , .frame-yJaOb .frame-16i6sg6, .frame-yJaOb . , .frame-yJaOb .frame-1ozok8h { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 440px; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 671px; }", ".frame-yJaOb .frame-dp6io2, .frame-yJaOb .frame-1hylq7s, .frame-yJaOb . , .frame-yJaOb .frame-1o7vzb2 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 4px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 671px; }", ".frame-yJaOb .frame-77amyf { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 36px 20px 24px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-14hqnaa { aspect-ratio: 6.805755395683454 / 1; bottom: 38px; flex: none; height: var(--frame-aspect-ratio-supported, 29px); left: -3px; opacity: 0.3; overflow: visible; position: absolute; width: 100%; z-index: 0; }", ".frame-yJaOb .frame-102kgn0-container { flex: none; height: 248px; position: relative; width: 350px; }", ".frame-yJaOb .frame-8r1pv7, .frame-yJaOb .frame-1ocnhjv, .frame-yJaOb .frame-1xrvpl5, .frame-yJaOb .frame-1vqmv9b { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 350px; }", ".frame-yJaOb .frame-1u4jgul, .frame-yJaOb .frame-1xkxn64, .frame-yJaOb .frame-74av47, .frame-yJaOb .frame-wnom2m, .frame-yJaOb .frame-1itc089 { --border-bottom-width: 1px; --border-color: #36373a; --border-left-width: 1px; --border-right-width: 1px; --border-style: solid; --border-top-width: 1px; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 200px; overflow: hidden; position: relative; width: 350px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-hbklbx-container, .frame-yJaOb .frame-13nsb1u-container, .frame-yJaOb .frame-1u2yv00-container, .frame-yJaOb .frame-16jbxik-container, .frame-yJaOb .frame-1lrqfl1-container { flex: none; height: 194px; left: calc(50.00000000000002% - 345px / 2); position: absolute; top: calc(50.00000000000002% - 194px / 2); width: 345px; }", ".frame-yJaOb .frame-1erp6vl, .frame-yJaOb .frame-11esjt5, .frame-yJaOb .frame-1iieyvg, .frame-yJaOb .frame-1fdjzqd, .frame-yJaOb .frame-17b21vs { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 2px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-1h2g9a { align-content: flex-start; align-items: flex-start; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 249px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 350px; }", ".frame-yJaOb .frame-9d3xr5 { flex: none; height: 12px; position: relative; white-space: pre-wrap; width: 95px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1e8ustg { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 23px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-19749yq, .frame-yJaOb .frame-333w81 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-noy7xd { flex: none; height: auto; position: relative; text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25); white-space: pre; width: auto; }", ".frame-yJaOb .frame-18zi607888888888 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 50px; height: min-content; justify-content: center; overflow: visible; padding: 100px 0px 50px 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-sm58dw { aspect-ratio: 6.805755395683454 / 1; bottom: 10px; flex: none; height: var(--frame-aspect-ratio-supported, 176px); left: 50%; opacity: 0.3; overflow: visible; position: absolute; transform: translateX(-50%); width: 100%; z-index: 0; }", ".frame-yJaOb .frame-nqkvjw { background: linear-gradient(90deg, #070709 0%, rgba(171, 171, 171, 0) 81.92342342342343%); bottom: 110px; flex: none; height: 380px; left: 0px; overflow: visible; position: absolute; width: 16%; z-index: 1; }", ".frame-yJaOb .frame-16dx979 { -webkit-filter: blur(5px); background: linear-gradient(90deg, #070709 2%, rgba(171, 171, 171, 0) 54.51280968468468%); bottom: 110px; filter: blur(5px); flex: none; height: 380px; overflow: visible; position: absolute; right: -10px; width: 19%; z-index: 1; }", ".frame-yJaOb .frame-zk1zgm { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 63px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb . { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 66px; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb . { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb { flex: none; height: 440px; position: relative; width: 881px; }", ".frame-yJaOb .frame-1hmytn2 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; height: min-content; justify-content: center; overflow: visible; padding: 60px 20px 20px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-14mfnzc { flex: none; height: 34px; position: relative; white-space: pre-wrap; width: 389px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-107banh { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 387px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-3gyw3o { aspect-ratio: 0.838737949167397 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 563px); left: 0px; opacity: 0.3; overflow: visible; position: absolute; right: -42px; top: -237px; z-index: 0; }", ".frame-yJaOb .frame-egxoer { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-2gh47b-container { flex: none; height: auto; position: relative; width: 100%; }", ".frame-yJaOb .frame-v9mfff { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: hidden; padding: 30px 20px 0px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-g5birp { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 2px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-kjlvhm { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 38px; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1h21o9z-container { flex: none; height: auto; position: relative; width: 157px; z-index: 1; }", ".frame-yJaOb .frame-xr3qol { border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 180px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1ajpwpj { aspect-ratio: 1.4227941176470589 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 141px); overflow: visible; position: relative; width: 100%; }", ".frame-yJaOb .frame-1dgvyln { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 100px; border-bottom-right-radius: 100px; border-top-left-radius: 100px; border-top-right-radius: 100px; bottom: 0px; flex: none; height: 42px; left: calc(50.00000000000002% - 100% / 2); overflow: hidden; position: absolute; text-decoration: none; width: 100%; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-7ue7f3 { -webkit-filter: blur(19.10860824584961px); background-color: #47ff9c; border-bottom-left-radius: 100%; border-bottom-right-radius: 100%; border-top-left-radius: 100%; border-top-right-radius: 100%; bottom: 25px; filter: blur(19.10860824584961px); flex: none; height: 17px; position: absolute; right: 0px; width: 72px; z-index: 1; }", ".frame-yJaOb .frame-1vgepcl { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: visible; padding: 0px 40px 40px 40px; position: relative; width: 100%; }", ".frame-yJaOb .frame-jl9d86 { aspect-ratio: 0.838737949167397 / 1; bottom: -55px; flex: none; height: var(--frame-aspect-ratio-supported, 820px); left: -18px; opacity: 0.56; overflow: visible; position: absolute; width: 688px; z-index: 0; }", ".frame-yJaOb .frame-lpbwzq { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 41px; height: min-content; justify-content: flex-start; overflow: visible; padding: 60px 0px 0px 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1pjcd30, .frame-yJaOb .frame-gcrirt { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 85px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1nu7wh1 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 40px; height: 594px; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-u6azax { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 363px; overflow: hidden; position: relative; width: 1128px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-18x1nya { aspect-ratio: 1.8472906403940887 / 1; bottom: var(--frame-aspect-ratio-supported, -200px); flex: none; left: 50%; overflow: visible; position: absolute; text-decoration: none; top: -48px; transform: translateX(-50%); width: 100%; }", ".frame-yJaOb .frame-xai64v { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 1129px; }", ".frame-yJaOb .frame-1346dah { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 129px; overflow: hidden; position: relative; width: 440px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-1vyhwaf { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; left: 34px; position: absolute; top: 37px; white-space: pre; width: auto; }", ".frame-yJaOb .frame-w5ce3r { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; bottom: 37px; flex: none; height: auto; left: 34px; position: absolute; white-space: pre; width: auto; }", ".frame-yJaOb .frame-by67le { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; left: 285px; position: absolute; top: 50%; transform: translateY(-50%); white-space: pre; width: auto; }", ".frame-yJaOb .frame-nizb4t { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 129px; overflow: hidden; position: relative; width: 669px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-1rpbbgw { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 32px; justify-content: space-between; left: calc(49.77578475336325% - 598px / 2); overflow: hidden; padding: 0px; position: absolute; top: 27px; width: 598px; }", ".frame-yJaOb .frame-1g8ax2k, .frame-yJaOb .frame-1g8p7qs, .frame-yJaOb .frame-12a3s3z, .frame-yJaOb .frame-1355dhs, .frame-yJaOb .frame-14b3p3i, .frame-yJaOb .frame-1ycwcbv, .frame-yJaOb .frame-kpjr80, .frame-yJaOb .frame-1h6c6n0, .frame-yJaOb .frame-1k4ntzg { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-p9hhnk, .frame-yJaOb .frame-cz9gj1, .frame-yJaOb .frame-1yoifbv, .frame-yJaOb .frame-1flpree, .frame-yJaOb .frame-2v2qnl, .frame-yJaOb .frame-7v5hqo, .frame-yJaOb .frame-sz0g60, .frame-yJaOb .frame-1poc1ph, .frame-yJaOb .frame-9ldhrr, .frame-yJaOb .frame-1rrjkis, .frame-yJaOb .frame-1l45807, .frame-yJaOb .frame-1oixt7v { aspect-ratio: 1.0476190476190477 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 21px); position: relative; width: 22px; }", ".frame-yJaOb .frame-1bp733s, .frame-yJaOb .frame-5acu8x, .frame-yJaOb .frame-1jrx6up, .frame-yJaOb .frame-oq6rvd, .frame-yJaOb .frame-17p0elc, .frame-yJaOb .frame-xb82il, .frame-yJaOb .frame-q3h50j, .frame-yJaOb .frame-z2a1i, .frame-yJaOb .frame-1vehi06, .frame-yJaOb .frame-psv9v, .frame-yJaOb .frame-g5hv61, .frame-yJaOb .frame-mty3t, .frame-yJaOb .frame-qu5sqz, .frame-yJaOb .frame-1jl8tdp, .frame-yJaOb .frame-hmw66, .frame-yJaOb .frame-tww6yv, .frame-yJaOb .frame-1g476s8 { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre; width: auto; }", ".frame-yJaOb .frame-1i9rf1c { align-content: flex-start; align-items: flex-start; bottom: 34px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; left: 34px; overflow: hidden; padding: 0px; position: absolute; width: min-content; }", ".frame-yJaOb .frame-nlzda8 { align-content: flex-start; align-items: flex-start; bottom: 34px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; left: 50%; overflow: hidden; padding: 0px; position: absolute; transform: translateX(-50%); width: min-content; }", ".frame-yJaOb .frame-114ze5o { align-content: flex-start; align-items: flex-start; bottom: 34px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 5px; height: min-content; justify-content: center; left: 472px; overflow: hidden; padding: 0px; position: absolute; width: min-content; }", ".frame-yJaOb .frame-beu9w9 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 84px; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1nwq99w { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: 50px; position: relative; white-space: pre-wrap; width: 439px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1gz4mxt { align-content: flex-end; align-items: flex-end; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 20px; height: 62px; justify-content: flex-end; overflow: visible; padding: 0px; position: relative; width: 1px; }", ".frame-yJaOb .frame-1yj5q9e { flex: none; height: 62px; overflow: hidden; position: relative; text-decoration: none; width: 237px; }", ".frame-yJaOb .frame-1w0rywi-container, .frame-yJaOb .frame-8ke0ia-container { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; }", ".frame-yJaOb .frame-1foiob9 { flex: none; height: 62px; overflow: hidden; position: relative; text-decoration: none; width: 325px; }", ".frame-yJaOb .frame-lm6f6i { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-s2mh3a { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 18px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 460px; }", ".frame-yJaOb .frame-1royv3e { aspect-ratio: 0.8709677419354839 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 29px); overflow: visible; position: relative; width: 25px; }", ".frame-yJaOb .frame-1nd7950 { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 237px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-bvne3x { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; max-width: 100%; position: relative; white-space: pre-wrap; width: 460px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1bnhh5n { border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 415px; overflow: hidden; position: relative; width: 576px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-i67t0s-container { flex: none; height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; }", ".frame-yJaOb .frame-1hza6qo { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 28px; height: min-content; justify-content: flex-start; overflow: visible; padding: 50px 20px 30px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1cxww1u { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 33px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-qwljby, .frame-yJaOb .frame-1j1gakc, .frame-yJaOb .frame-1py1tkj { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-q6yyjr, .frame-yJaOb .frame-165oh2n, .frame-yJaOb .frame-6xls3n { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-qird3m { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: 1 0 0px; height: 68px; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1jeni85 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-1kmbr6p, .frame-yJaOb .frame-aqgs74, .frame-yJaOb .frame-g1f4as { background-color: var(--token-d5675626-2b00-420b-8a0f-1e2756e5b25c, #47ff9c); border-bottom-left-radius: 50px; border-bottom-right-radius: 50px; border-top-left-radius: 50px; border-top-right-radius: 50px; flex: none; height: 20px; overflow: hidden; position: relative; width: 65px; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-yrgtpa { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; left: 48%; position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".frame-yJaOb .frame-iy9tpt { aspect-ratio: 1.3796296296296295 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 130px); overflow: visible; position: relative; width: 180px; }", ".frame-yJaOb .frame-9neyi2, .frame-yJaOb .frame-u7s9ab { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: 1 0 0px; height: auto; position: relative; white-space: pre-wrap; width: 1px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1l5okqn { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-i6ihti { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px 0px 0px 20px; position: relative; width: min-content; }", ".frame-yJaOb .frame-1qp0cf { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; position: relative; white-space: pre-wrap; width: 183px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-ensen3, .frame-yJaOb .frame-16y5kv9 { --frame-link-text-color: #0099ff; --frame-link-text-decoration: underline; flex: none; height: auto; left: 49%; position: absolute; top: 50%; transform: translate(-50%, -50%); white-space: pre; width: auto; }", ".frame-yJaOb .frame-1u0reby, .frame-yJaOb .frame-nxfoqh { aspect-ratio: 1.3802469135802469 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 130px); overflow: visible; position: relative; width: 180px; }", ".frame-yJaOb .frame-b1woil { flex: none; height: 62px; overflow: visible; position: relative; width: 100%; }", ".frame-yJaOb .frame-6azkel { flex: none; height: 34px; left: 0px; position: absolute; top: 0px; white-space: pre-wrap; width: 389px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1q6nuxz { flex: none; height: 26px; left: 1px; position: absolute; top: 36px; white-space: pre-wrap; width: 344px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-p83t5f { aspect-ratio: 0.838737949167397 / 1; bottom: -1px; flex: none; height: var(--frame-aspect-ratio-supported, 439px); left: 36%; opacity: 0.4; overflow: visible; position: absolute; transform: translateX(-50%); width: 368px; z-index: 1; }", ".frame-yJaOb .frame-lnxuqy { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 26px; height: 100vh; justify-content: flex-end; overflow: hidden; padding: 19px 20px 0px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1peo9ze, .frame-yJaOb .frame-1yt2o47, .frame-yJaOb .frame-ru54va { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 40px 0px 0px 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-ecdqmo, .frame-yJaOb .frame-1mqey0f, .frame-yJaOb .frame-1egvkod { flex: none; height: 96px; position: relative; white-space: pre-wrap; width: 349px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-rv571d { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 60px; height: min-content; justify-content: center; overflow: visible; padding: 10px 0px 0px 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-ff6ipe { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-197gpkn { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1t1xtid-container { flex: none; height: 622px; left: calc(135.04424778761063% - 2036px / 2); position: absolute; top: -60px; width: 2036px; z-index: 0; }", ".frame-yJaOb .frame-1wkjcq2 { aspect-ratio: 2.4150943396226414 / 1; height: var(--frame-aspect-ratio-supported, 623px); overflow: visible; position: relative; width: 1504px; }", ".frame-yJaOb .frame-18zmvrf { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-16x3cjx { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 100vh; justify-content: flex-end; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1eh25xh, .frame-yJaOb .frame-x2oja8 { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 70vh; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1iht9he, .frame-yJaOb .frame-nbsj9g { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 0px; height: min-content; justify-content: center; overflow: hidden; padding: 40px 0px 0px 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-1bosz12, .frame-yJaOb .frame-1b6pixc { background-color: rgba(255, 255, 255, 0.3); flex: none; height: 200px; overflow: hidden; position: relative; width: 2px; }", ".frame-yJaOb .frame-11r3f94, .frame-yJaOb .frame-1en71vj { background-color: #ffffff; flex: none; height: 100%; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; z-index: 1; }", ".frame-yJaOb .frame-13t0pm4, .frame-yJaOb .frame-m70gnk { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: 100vh; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 1130px; }", ".frame-yJaOb .frame-1ym9haz { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 40px 0px 20px 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-11ityom { flex: none; height: 116px; position: relative; white-space: pre-wrap; width: 566px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-rjulho-container { flex: none; height: 100px; position: relative; width: 200px; }", ".frame-yJaOb .frame-1waheur { align-content: center; align-items: center; bottom: 70px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 26px; justify-content: center; left: 752px; overflow: hidden; padding: 0px; position: absolute; text-decoration: none; width: 95px; z-index: 1; }", ".frame-yJaOb .frame-tnqif6 { flex: none; height: 26px; position: relative; white-space: pre-wrap; width: 95px; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".frame-yJaOb .frame-kai4cv { align-content: center; align-items: center; bottom: 70px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 26px; justify-content: center; overflow: hidden; padding: 0px; position: absolute; right: 108px; text-decoration: none; width: 125px; z-index: 1; }", ".frame-yJaOb .frame-u38wwi { bottom: 0px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".frame-yJaOb .frame-1dyypyc { align-content: center; align-items: center; bottom: 70px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 26px; justify-content: center; overflow: hidden; padding: 0px; position: absolute; right: 0px; text-decoration: none; width: 63px; z-index: 1; }", ".frame-yJaOb .frame-2j2mfx { bottom: 70px; flex: none; left: 0px; position: absolute; right: 0px; top: 0px; white-space: pre-wrap; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".frame-yJaOb .frame-1t1aayi { bottom: 80px; flex: none; height: 26px; left: 0px; position: absolute; white-space: pre-wrap; width: 162px; word-break: break-word; word-wrap: break-word; z-index: 1; }", ".frame-yJaOb .frame-1iikr9g { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 15px; height: min-content; justify-content: center; overflow: hidden; padding: 15px 20px 20px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-w3og9n { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1e3ix3m { flex: none; height: 27px; position: relative; white-space: pre; width: auto; }", ".frame-yJaOb .frame-xnri0v { flex: none; height: 91px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1oavfvt { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-8fu52m { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 42px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 430px; }", ".frame-yJaOb .frame-u63p2o-container { flex: none; height: 50px; left: calc(50.00000000000002% - 423px / 2); position: absolute; top: calc(50.00000000000002% - 50px / 2); width: 423px; z-index: 1; }", ".frame-yJaOb .frame-50qt7s { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 40px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-u33ykm { aspect-ratio: 3.6129032258064515 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 34px); overflow: visible; position: relative; width: 123px; }", ".frame-yJaOb .frame-1irstna { aspect-ratio: 3.5714285714285716 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 22px); overflow: visible; position: relative; width: 79px; }", ".frame-yJaOb .frame-1jl009o { aspect-ratio: 8.761904761904763 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 17px); overflow: visible; position: relative; width: 158px; }", ".frame-yJaOb .frame-113fpso { aspect-ratio: 2.5675675675675675 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 35px); overflow: visible; position: relative; width: 90px; }", ".frame-yJaOb .frame-la2mo9 { aspect-ratio: 1.2619047619047619 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 41px); overflow: visible; position: relative; width: 52px; }", ".frame-yJaOb .frame-avfe7d { aspect-ratio: 8 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 22px); overflow: visible; position: relative; width: 176px; }", ".frame-yJaOb .frame-1328u8f { aspect-ratio: 6.956521739130435 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 100px); overflow: visible; position: relative; width: 696px; }", ".frame-yJaOb .frame-1n6bbv5 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 26px; height: min-content; justify-content: flex-start; overflow: visible; padding: 35px 20px 0px 20px; position: relative; width: 100%; }", ".frame-yJaOb .frame-77yiyo { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 13px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1soesdx { flex: none; height: 39px; position: relative; white-space: pre-wrap; width: 196px; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-6j9l9 { flex: none; height: 67px; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }", ".frame-yJaOb .frame-1lqswzh { flex: none; height: 30px; position: relative; width: 27px; }", ".frame-yJaOb .frame-yr0laz { aspect-ratio: 0.838737949167397 / 1; flex: none; height: var(--frame-aspect-ratio-supported, 439px); opacity: 0.4; overflow: visible; position: absolute; right: 0px; top: -72px; width: 368px; z-index: 0; }", ".frame-yJaOb .frame-z0tbr5 { border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; flex: none; height: 273px; overflow: hidden; position: relative; width: 100%; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-qmab6r-container { flex: none; height: 100%; left: calc(50.00000000000002% - 100% / 2); position: absolute; top: calc(50.183150183150204% - 100% / 2); width: 100%; }", ".frame-yJaOb .frame-qp59u2 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 30px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 730px; }", ".frame-yJaOb .frame-wb13uq { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-start; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-xbodce { border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 363px; overflow: visible; position: relative; width: 100%; }", ".frame-yJaOb .frame-dpe7mt { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-e53jle { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 0px; position: relative; width: 730px; }", ".frame-yJaOb .frame-f67hsf, .frame-yJaOb .frame-q9xlc4 { background-color: #0f0f10; border-bottom-left-radius: 15px; border-bottom-right-radius: 15px; border-top-left-radius: 15px; border-top-right-radius: 15px; flex: none; height: 129px; overflow: hidden; position: relative; width: 100%; will-change: var(--frame-will-change-override, transform); }", ".frame-yJaOb .frame-10r3q4q { align-content: center; align-items: center; bottom: -108px; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; overflow: hidden; padding: 0px; position: absolute; right: -285px; top: -108px; width: 630px; }", ".frame-yJaOb .frame-ruroyr { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 345px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 200px; }", ".frame-yJaOb .frame-1uf9uhg { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 68px; justify-content: flex-start; left: calc(47.67123287671235% - 628px / 2); overflow: hidden; padding: 0px; position: absolute; top: calc(47.28682170542638% - 68px / 2); width: 628px; }", ".frame-yJaOb .frame-1ac4urs { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; height: 32px; justify-content: space-between; overflow: hidden; padding: 0px; position: relative; width: 598px; }", ".frame-yJaOb .frame-14v3lq0 { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 32px; height: 25px; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-17qa3sb { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: visible; padding: 20px 0px 0px 0px; position: relative; width: 100%; }", ".frame-yJaOb .frame-1gav2df { align-content: flex-end; align-items: flex-end; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 20px; height: min-content; justify-content: flex-end; overflow: visible; padding: 20px 0px 0px 0px; position: relative; width: min-content; }", ".frame-yJaOb .frame-tg0n60-container { flex: none; height: 62px; position: relative; width: 237px; }", ".frame-yJaOb .frame-1cinb9a-container { flex: none; height: 62px; position: relative; width: 325px; }", ".frame-yJaOb .frame-jm1wka-container { flex: none; height: 400px; left: calc(50.00000000000002% - 600px / 2); position: fixed; top: 9884px; width: 600px; z-index: 1; }", "@supports (background: -webkit-named-image(i)) and (not (scale:1)) { .frame-yJaOb.frame-qmdb2w, .frame-yJaOb .frame-83izse, .frame-yJaOb .frame-1bzl8fw, .frame-yJaOb .frame-14jv5lw, .frame-yJaOb .frame-1hqyc81, .frame-yJaOb .frame-vatc0c, .frame-yJaOb .frame-r7eevg, .frame-yJaOb .frame-mcxvik, .frame-yJaOb .frame-736w6c, .frame-yJaOb .frame-1v01f4k, .frame-yJaOb .frame-21l2df, .frame-yJaOb .frame-1vndgl3, .frame-yJaOb .frame-77znln, .frame-yJaOb .frame-qb80t, .frame-yJaOb .frame-1fal4sp, .frame-yJaOb .frame-19jaokw, .frame-yJaOb .frame-1qu95x9, .frame-yJaOb .frame-mu3t6w, .frame-yJaOb .frame-zurvpn, .frame-yJaOb .frame-18c302j, .frame-yJaOb .frame-1em7ute, .frame-yJaOb .frame-685hf5, .frame-yJaOb .frame-adzvl, .frame-yJaOb .frame-xnwj3b, .frame-yJaOb .frame-1m51ubg, .frame-yJaOb .frame-moly6x, .frame-yJaOb .frame-1lnhujx, .frame-yJaOb .frame-4l6fhs, .frame-yJaOb .frame-9x6skt, .frame-yJaOb .frame-1llimlp, .frame-yJaOb .frame-1gkkuvd, .frame-yJaOb .frame-qybbbj, .frame-yJaOb .frame-1p82eus, .frame-yJaOb .frame-2lwd1n, .frame-yJaOb .frame-e3j4do, .frame-yJaOb .frame-1th8kvx, .frame-yJaOb .frame-1sdqth0, .frame-yJaOb .frame-1p2gygf, .frame-yJaOb .frame-s4ny98, .frame-yJaOb .frame-1rxlezj, .frame-yJaOb . , .frame-yJaOb .frame-88jm0u, .frame-yJaOb .frame-dp6io2, .frame-yJaOb .frame-16i6sg6, .frame-yJaOb . , .frame-yJaOb .frame-1hylq7s, .frame-yJaOb . , .frame-yJaOb . , .frame-yJaOb . , .frame-yJaOb .frame-1ozok8h, .frame-yJaOb .frame-tilm76, .frame-yJaOb .frame-1o7vzb2, .frame-yJaOb .frame-77amyf, .frame-yJaOb .frame-8r1pv7, .frame-yJaOb .frame-1erp6vl, .frame-yJaOb .frame-1h2g9a, .frame-yJaOb .frame-11esjt5, .frame-yJaOb .frame-1ocnhjv, .frame-yJaOb .frame-1iieyvg, .frame-yJaOb .frame-1xrvpl5, .frame-yJaOb .frame-1fdjzqd, .frame-yJaOb .frame-1vqmv9b, .frame-yJaOb .frame-17b21vs, .frame-yJaOb .frame-1e8ustg, .frame-yJaOb .frame-19749yq, .frame-yJaOb .frame-18zi607888888888, .frame-yJaOb .frame-zk1zgm, .frame-yJaOb , .frame-yJaOb .frame-1hmytn2, .frame-yJaOb .frame-333w81, .frame-yJaOb .frame-egxoer, .frame-yJaOb .frame-v9mfff, .frame-yJaOb .frame-g5birp, .frame-yJaOb .frame-1vgepcl, .frame-yJaOb .frame-lpbwzq, .frame-yJaOb .frame-1pjcd30, .frame-yJaOb .frame-1nu7wh1, .frame-yJaOb .frame-xai64v, .frame-yJaOb .frame-1g8ax2k, .frame-yJaOb .frame-1g8p7qs, .frame-yJaOb .frame-12a3s3z, .frame-yJaOb .frame-1i9rf1c, .frame-yJaOb .frame-nlzda8, .frame-yJaOb .frame-114ze5o, .frame-yJaOb .frame-beu9w9, .frame-yJaOb .frame-1gz4mxt, .frame-yJaOb .frame-lm6f6i, .frame-yJaOb .frame-s2mh3a, .frame-yJaOb .frame-1hza6qo, .frame-yJaOb .frame-1cxww1u, .frame-yJaOb .frame-qwljby, .frame-yJaOb .frame-q6yyjr, .frame-yJaOb .frame-1jeni85, .frame-yJaOb .frame-1j1gakc, .frame-yJaOb .frame-165oh2n, .frame-yJaOb .frame-i6ihti, .frame-yJaOb .frame-1py1tkj, .frame-yJaOb .frame-6xls3n, .frame-yJaOb .frame-vmzurg, .frame-yJaOb .frame-lnxuqy, .frame-yJaOb .frame-1peo9ze, .frame-yJaOb .frame-rv571d, .frame-yJaOb .frame-197gpkn, .frame-yJaOb .frame-18zmvrf, .frame-yJaOb .frame-16x3cjx, .frame-yJaOb .frame-1yt2o47, .frame-yJaOb .frame-1eh25xh, .frame-yJaOb .frame-1iht9he, .frame-yJaOb .frame-13t0pm4, .frame-yJaOb .frame-ru54va, .frame-yJaOb .frame-x2oja8, .frame-yJaOb .frame-nbsj9g, .frame-yJaOb .frame-m70gnk, .frame-yJaOb .frame-1ym9haz, .frame-yJaOb .frame-1waheur, .frame-yJaOb .frame-kai4cv, .frame-yJaOb .frame-1dyypyc, .frame-yJaOb .frame-1iikr9g, .frame-yJaOb .frame-w3og9n, .frame-yJaOb .frame-1oavfvt, .frame-yJaOb .frame-8fu52m, .frame-yJaOb .frame-50qt7s, .frame-yJaOb .frame-1n6bbv5, .frame-yJaOb .frame-77yiyo, .frame-yJaOb .frame-qp59u2, .frame-yJaOb .frame-gcrirt, .frame-yJaOb .frame-wb13uq, .frame-yJaOb .frame-dpe7mt, .frame-yJaOb .frame-e53jle, .frame-yJaOb .frame-ruroyr, .frame-yJaOb .frame-1uf9uhg, .frame-yJaOb .frame-1355dhs, .frame-yJaOb .frame-14b3p3i, .frame-yJaOb .frame-1ycwcbv, .frame-yJaOb .frame-14v3lq0, .frame-yJaOb .frame-kpjr80, .frame-yJaOb .frame-1h6c6n0, .frame-yJaOb .frame-1k4ntzg, .frame-yJaOb .frame-17qa3sb, .frame-yJaOb .frame-1gav2df { gap: 0px; } .frame-yJaOb.frame-qmdb2w > *, .frame-yJaOb .frame-14jv5lw > *, .frame-yJaOb .frame-r7eevg > *, .frame-yJaOb .frame-1v01f4k > *, .frame-yJaOb .frame-1m51ubg > *, .frame-yJaOb .frame-moly6x > *, .frame-yJaOb .frame-1th8kvx > *, .frame-yJaOb .frame-1p2gygf > *, .frame-yJaOb .  > *, .frame-yJaOb .frame-16i6sg6 > *, .frame-yJaOb .  > *, .frame-yJaOb .frame-1ozok8h > *, .frame-yJaOb .frame-77amyf > *, .frame-yJaOb .frame-8r1pv7 > *, .frame-yJaOb .frame-1h2g9a > *, .frame-yJaOb .frame-1ocnhjv > *, .frame-yJaOb .frame-1xrvpl5 > *, .frame-yJaOb .frame-1vqmv9b > *, .frame-yJaOb .frame-v9mfff > *, .frame-yJaOb .frame-1vgepcl > *, .frame-yJaOb .frame-qwljby > *, .frame-yJaOb .frame-1j1gakc > *, .frame-yJaOb .frame-1py1tkj > *, .frame-yJaOb .frame-16x3cjx > *, .frame-yJaOb .frame-1eh25xh > *, .frame-yJaOb .frame-13t0pm4 > *, .frame-yJaOb .frame-x2oja8 > *, .frame-yJaOb .frame-m70gnk > *, .frame-yJaOb .frame-wb13uq > * { margin: 0px; margin-bottom: calc(20px / 2); margin-top: calc(20px / 2); } .frame-yJaOb.frame-qmdb2w > :first-child, .frame-yJaOb .frame-1bzl8fw > :first-child, .frame-yJaOb .frame-14jv5lw > :first-child, .frame-yJaOb .frame-1hqyc81 > :first-child, .frame-yJaOb .frame-r7eevg > :first-child, .frame-yJaOb .frame-mcxvik > :first-child, .frame-yJaOb .frame-1v01f4k > :first-child, .frame-yJaOb .frame-qb80t > :first-child, .frame-yJaOb .frame-1fal4sp > :first-child, .frame-yJaOb .frame-19jaokw > :first-child, .frame-yJaOb .frame-1qu95x9 > :first-child, .frame-yJaOb .frame-zurvpn > :first-child, .frame-yJaOb .frame-18c302j > :first-child, .frame-yJaOb .frame-685hf5 > :first-child, .frame-yJaOb .frame-adzvl > :first-child, .frame-yJaOb .frame-xnwj3b > :first-child, .frame-yJaOb .frame-1m51ubg > :first-child, .frame-yJaOb .frame-moly6x > :first-child, .frame-yJaOb .frame-1lnhujx > :first-child, .frame-yJaOb .frame-4l6fhs > :first-child, .frame-yJaOb .frame-9x6skt > :first-child, .frame-yJaOb .frame-1llimlp > :first-child, .frame-yJaOb .frame-1gkkuvd > :first-child, .frame-yJaOb .frame-qybbbj > :first-child, .frame-yJaOb .frame-1p82eus > :first-child, .frame-yJaOb .frame-2lwd1n > :first-child, .frame-yJaOb .frame-e3j4do > :first-child, .frame-yJaOb .frame-1th8kvx > :first-child, .frame-yJaOb .frame-1p2gygf > :first-child, .frame-yJaOb .frame-s4ny98 > :first-child, .frame-yJaOb .frame-1rxlezj > :first-child, .frame-yJaOb .  > :first-child, .frame-yJaOb .frame-88jm0u > :first-child, .frame-yJaOb .frame-dp6io2 > :first-child, .frame-yJaOb .frame-16i6sg6 > :first-child, .frame-yJaOb .  > :first-child, .frame-yJaOb .frame-1hylq7s > :first-child, .frame-yJaOb .  > :first-child, .frame-yJaOb .  > :first-child, .frame-yJaOb .  > :first-child, .frame-yJaOb .frame-1ozok8h > :first-child, .frame-yJaOb .frame-tilm76 > :first-child, .frame-yJaOb .frame-1o7vzb2 > :first-child, .frame-yJaOb .frame-77amyf > :first-child, .frame-yJaOb .frame-8r1pv7 > :first-child, .frame-yJaOb .frame-1erp6vl > :first-child, .frame-yJaOb .frame-1h2g9a > :first-child, .frame-yJaOb .frame-11esjt5 > :first-child, .frame-yJaOb .frame-1ocnhjv > :first-child, .frame-yJaOb .frame-1iieyvg > :first-child, .frame-yJaOb .frame-1xrvpl5 > :first-child, .frame-yJaOb .frame-1fdjzqd > :first-child, .frame-yJaOb .frame-1vqmv9b > :first-child, .frame-yJaOb .frame-17b21vs > :first-child, .frame-yJaOb .frame-1e8ustg > :first-child, .frame-yJaOb .frame-19749yq > :first-child, .frame-yJaOb .frame-18zi607888888888 > :first-child, .frame-yJaOb .frame-zk1zgm > :first-child, .frame-yJaOb .frame-1hmytn2 > :first-child, .frame-yJaOb .frame-333w81 > :first-child, .frame-yJaOb .frame-egxoer > :first-child, .frame-yJaOb .frame-v9mfff > :first-child, .frame-yJaOb .frame-g5birp > :first-child, .frame-yJaOb .frame-1vgepcl > :first-child, .frame-yJaOb .frame-lpbwzq > :first-child, .frame-yJaOb .frame-1pjcd30 > :first-child, .frame-yJaOb .frame-1nu7wh1 > :first-child, .frame-yJaOb .frame-xai64v > :first-child, .frame-yJaOb .frame-lm6f6i > :first-child, .frame-yJaOb .frame-s2mh3a > :first-child, .frame-yJaOb .frame-1hza6qo > :first-child, .frame-yJaOb .frame-1cxww1u > :first-child, .frame-yJaOb .frame-qwljby > :first-child, .frame-yJaOb .frame-1j1gakc > :first-child, .frame-yJaOb .frame-i6ihti > :first-child, .frame-yJaOb .frame-1py1tkj > :first-child, .frame-yJaOb .frame-vmzurg > :first-child, .frame-yJaOb .frame-lnxuqy > :first-child, .frame-yJaOb .frame-rv571d > :first-child, .frame-yJaOb .frame-18zmvrf > :first-child, .frame-yJaOb .frame-16x3cjx > :first-child, .frame-yJaOb .frame-1eh25xh > :first-child, .frame-yJaOb .frame-1iht9he > :first-child, .frame-yJaOb .frame-13t0pm4 > :first-child, .frame-yJaOb .frame-x2oja8 > :first-child, .frame-yJaOb .frame-nbsj9g > :first-child, .frame-yJaOb .frame-m70gnk > :first-child, .frame-yJaOb .frame-1iikr9g > :first-child, .frame-yJaOb .frame-w3og9n > :first-child, .frame-yJaOb .frame-1oavfvt > :first-child, .frame-yJaOb .frame-8fu52m > :first-child, .frame-yJaOb .frame-1n6bbv5 > :first-child, .frame-yJaOb .frame-77yiyo > :first-child, .frame-yJaOb .frame-qp59u2 > :first-child, .frame-yJaOb .frame-gcrirt > :first-child, .frame-yJaOb .frame-wb13uq > :first-child, .frame-yJaOb .frame-dpe7mt > :first-child, .frame-yJaOb .frame-e53jle > :first-child, .frame-yJaOb .frame-ruroyr > :first-child, .frame-yJaOb .frame-1uf9uhg > :first-child, .frame-yJaOb .frame-17qa3sb > :first-child { margin-top: 0px; } .frame-yJaOb.frame-qmdb2w > :last-child, .frame-yJaOb .frame-1bzl8fw > :last-child, .frame-yJaOb .frame-14jv5lw > :last-child, .frame-yJaOb .frame-1hqyc81 > :last-child, .frame-yJaOb .frame-r7eevg > :last-child, .frame-yJaOb .frame-mcxvik > :last-child, .frame-yJaOb .frame-1v01f4k > :last-child, .frame-yJaOb .frame-qb80t > :last-child, .frame-yJaOb .frame-1fal4sp > :last-child, .frame-yJaOb .frame-19jaokw > :last-child, .frame-yJaOb .frame-1qu95x9 > :last-child, .frame-yJaOb .frame-zurvpn > :last-child, .frame-yJaOb .frame-18c302j > :last-child, .frame-yJaOb .frame-685hf5 > :last-child, .frame-yJaOb .frame-adzvl > :last-child, .frame-yJaOb .frame-xnwj3b > :last-child, .frame-yJaOb .frame-1m51ubg > :last-child, .frame-yJaOb .frame-moly6x > :last-child, .frame-yJaOb .frame-1lnhujx > :last-child, .frame-yJaOb .frame-4l6fhs > :last-child, .frame-yJaOb .frame-9x6skt > :last-child, .frame-yJaOb .frame-1llimlp > :last-child, .frame-yJaOb .frame-1gkkuvd > :last-child, .frame-yJaOb .frame-qybbbj > :last-child, .frame-yJaOb .frame-1p82eus > :last-child, .frame-yJaOb .frame-2lwd1n > :last-child, .frame-yJaOb .frame-e3j4do > :last-child, .frame-yJaOb .frame-1th8kvx > :last-child, .frame-yJaOb .frame-1p2gygf > :last-child, .frame-yJaOb .frame-s4ny98 > :last-child, .frame-yJaOb .frame-1rxlezj > :last-child, .frame-yJaOb .  > :last-child, .frame-yJaOb .frame-88jm0u > :last-child, .frame-yJaOb .frame-dp6io2 > :last-child, .frame-yJaOb .frame-16i6sg6 > :last-child, .frame-yJaOb .  > :last-child, .frame-yJaOb .frame-1hylq7s > :last-child, .frame-yJaOb .  > :last-child, .frame-yJaOb .  > :last-child, .frame-yJaOb .  > :last-child, .frame-yJaOb .frame-1ozok8h > :last-child, .frame-yJaOb .frame-tilm76 > :last-child, .frame-yJaOb .frame-1o7vzb2 > :last-child, .frame-yJaOb .frame-77amyf > :last-child, .frame-yJaOb .frame-8r1pv7 > :last-child, .frame-yJaOb .frame-1erp6vl > :last-child, .frame-yJaOb .frame-1h2g9a > :last-child, .frame-yJaOb .frame-11esjt5 > :last-child, .frame-yJaOb .frame-1ocnhjv > :last-child, .frame-yJaOb .frame-1iieyvg > :last-child, .frame-yJaOb .frame-1xrvpl5 > :last-child, .frame-yJaOb .frame-1fdjzqd > :last-child, .frame-yJaOb .frame-1vqmv9b > :last-child, .frame-yJaOb .frame-17b21vs > :last-child, .frame-yJaOb .frame-1e8ustg > :last-child, .frame-yJaOb .frame-19749yq > :last-child, .frame-yJaOb .frame-18zi607888888 > :last-child, .frame-yJaOb .frame-zk1zgm > :last-child, .frame-yJaOb .frame-1hmytn2 > :last-child, .frame-yJaOb .frame-333w81 > :last-child, .frame-yJaOb .frame-egxoer > :last-child, .frame-yJaOb .frame-v9mfff > :last-child, .frame-yJaOb .frame-g5birp > :last-child, .frame-yJaOb .frame-1vgepcl > :last-child, .frame-yJaOb .frame-lpbwzq > :last-child, .frame-yJaOb .frame-1pjcd30 > :last-child, .frame-yJaOb .frame-1nu7wh1 > :last-child, .frame-yJaOb .frame-xai64v > :last-child, .frame-yJaOb .frame-lm6f6i > :last-child, .frame-yJaOb .frame-s2mh3a > :last-child, .frame-yJaOb .frame-1hza6qo > :last-child, .frame-yJaOb .frame-1cxww1u > :last-child, .frame-yJaOb .frame-qwljby > :last-child, .frame-yJaOb .frame-1j1gakc > :last-child, .frame-yJaOb .frame-i6ihti > :last-child, .frame-yJaOb .frame-1py1tkj > :last-child, .frame-yJaOb .frame-vmzurg > :last-child, .frame-yJaOb .frame-lnxuqy > :last-child, .frame-yJaOb .frame-rv571d > :last-child, .frame-yJaOb .frame-18zmvrf > :last-child, .frame-yJaOb .frame-16x3cjx > :last-child, .frame-yJaOb .frame-1eh25xh > :last-child, .frame-yJaOb .frame-1iht9he > :last-child, .frame-yJaOb .frame-13t0pm4 > :last-child, .frame-yJaOb .frame-x2oja8 > :last-child, .frame-yJaOb .frame-nbsj9g > :last-child, .frame-yJaOb .frame-m70gnk > :last-child, .frame-yJaOb .frame-1iikr9g > :last-child, .frame-yJaOb .frame-w3og9n > :last-child, .frame-yJaOb .frame-1oavfvt > :last-child, .frame-yJaOb .frame-8fu52m > :last-child, .frame-yJaOb .frame-1n6bbv5 > :last-child, .frame-yJaOb .frame-77yiyo > :last-child, .frame-yJaOb .frame-qp59u2 > :last-child, .frame-yJaOb .frame-gcrirt > :last-child, .frame-yJaOb .frame-wb13uq > :last-child, .frame-yJaOb .frame-dpe7mt > :last-child, .frame-yJaOb .frame-e53jle > :last-child, .frame-yJaOb .frame-ruroyr > :last-child, .frame-yJaOb .frame-1uf9uhg > :last-child, .frame-yJaOb .frame-17qa3sb > :last-child { margin-bottom: 0px; } .frame-yJaOb .frame-83izse > *, .frame-yJaOb .frame-736w6c > *, .frame-yJaOb .frame-21l2df > *, .frame-yJaOb .frame-1vndgl3 > *, .frame-yJaOb .frame-1sdqth0 > *, .frame-yJaOb  > *, .frame-yJaOb .frame-beu9w9 > *, .frame-yJaOb .frame-1peo9ze > *, .frame-yJaOb .frame-1yt2o47 > *, .frame-yJaOb .frame-ru54va > *, .frame-yJaOb .frame-1ym9haz > *, .frame-yJaOb .frame-1waheur > *, .frame-yJaOb .frame-kai4cv > *, .frame-yJaOb .frame-1dyypyc > * { margin: 0px; margin-left: calc(10px / 2); margin-right: calc(10px / 2); } .frame-yJaOb .frame-83izse > :first-child, .frame-yJaOb .frame-vatc0c > :first-child, .frame-yJaOb .frame-736w6c > :first-child, .frame-yJaOb .frame-21l2df > :first-child, .frame-yJaOb .frame-1vndgl3 > :first-child, .frame-yJaOb .frame-77znln > :first-child, .frame-yJaOb .frame-mu3t6w > :first-child, .frame-yJaOb .frame-1em7ute > :first-child, .frame-yJaOb .frame-1sdqth0 > :first-child, .frame-yJaOb  > :first-child, .frame-yJaOb .frame-1g8ax2k > :first-child, .frame-yJaOb .frame-1g8p7qs > :first-child, .frame-yJaOb .frame-12a3s3z > :first-child, .frame-yJaOb .frame-1i9rf1c > :first-child, .frame-yJaOb .frame-nlzda8 > :first-child, .frame-yJaOb .frame-114ze5o > :first-child, .frame-yJaOb .frame-beu9w9 > :first-child, .frame-yJaOb .frame-1gz4mxt > :first-child, .frame-yJaOb .frame-q6yyjr > :first-child, .frame-yJaOb .frame-1jeni85 > :first-child, .frame-yJaOb .frame-165oh2n > :first-child, .frame-yJaOb .frame-6xls3n > :first-child, .frame-yJaOb .frame-1peo9ze > :first-child, .frame-yJaOb .frame-197gpkn > :first-child, .frame-yJaOb .frame-1yt2o47 > :first-child, .frame-yJaOb .frame-ru54va > :first-child, .frame-yJaOb .frame-1ym9haz > :first-child, .frame-yJaOb .frame-1waheur > :first-child, .frame-yJaOb .frame-kai4cv > :first-child, .frame-yJaOb .frame-1dyypyc > :first-child, .frame-yJaOb .frame-50qt7s > :first-child, .frame-yJaOb .frame-1355dhs > :first-child, .frame-yJaOb .frame-14b3p3i > :first-child, .frame-yJaOb .frame-1ycwcbv > :first-child, .frame-yJaOb .frame-14v3lq0 > :first-child, .frame-yJaOb .frame-kpjr80 > :first-child, .frame-yJaOb .frame-1h6c6n0 > :first-child, .frame-yJaOb .frame-1k4ntzg > :first-child, .frame-yJaOb .frame-1gav2df > :first-child { margin-left: 0px; } .frame-yJaOb .frame-83izse > :last-child, .frame-yJaOb .frame-vatc0c > :last-child, .frame-yJaOb .frame-736w6c > :last-child, .frame-yJaOb .frame-21l2df > :last-child, .frame-yJaOb .frame-1vndgl3 > :last-child, .frame-yJaOb .frame-77znln > :last-child, .frame-yJaOb .frame-mu3t6w > :last-child, .frame-yJaOb .frame-1em7ute > :last-child, .frame-yJaOb .frame-1sdqth0 > :last-child, .frame-yJaOb  > :last-child, .frame-yJaOb .frame-1g8ax2k > :last-child, .frame-yJaOb .frame-1g8p7qs > :last-child, .frame-yJaOb .frame-12a3s3z > :last-child, .frame-yJaOb .frame-1i9rf1c > :last-child, .frame-yJaOb .frame-nlzda8 > :last-child, .frame-yJaOb .frame-114ze5o > :last-child, .frame-yJaOb .frame-beu9w9 > :last-child, .frame-yJaOb .frame-1gz4mxt > :last-child, .frame-yJaOb .frame-q6yyjr > :last-child, .frame-yJaOb .frame-1jeni85 > :last-child, .frame-yJaOb .frame-165oh2n > :last-child, .frame-yJaOb .frame-6xls3n > :last-child, .frame-yJaOb .frame-1peo9ze > :last-child, .frame-yJaOb .frame-197gpkn > :last-child, .frame-yJaOb .frame-1yt2o47 > :last-child, .frame-yJaOb .frame-ru54va > :last-child, .frame-yJaOb .frame-1ym9haz > :last-child, .frame-yJaOb .frame-1waheur > :last-child, .frame-yJaOb .frame-kai4cv > :last-child, .frame-yJaOb .frame-1dyypyc > :last-child, .frame-yJaOb .frame-50qt7s > :last-child, .frame-yJaOb .frame-1355dhs > :last-child, .frame-yJaOb .frame-14b3p3i > :last-child, .frame-yJaOb .frame-1ycwcbv > :last-child, .frame-yJaOb .frame-14v3lq0 > :last-child, .frame-yJaOb .frame-kpjr80 > :last-child, .frame-yJaOb .frame-1h6c6n0 > :last-child, .frame-yJaOb .frame-1k4ntzg > :last-child, .frame-yJaOb .frame-1gav2df > :last-child { margin-right: 0px; } .frame-yJaOb .frame-1bzl8fw > *, .frame-yJaOb .frame-1hza6qo > * { margin: 0px; margin-bottom: calc(28px / 2); margin-top: calc(28px / 2); } .frame-yJaOb .frame-1hqyc81 > *, .frame-yJaOb .frame-1fal4sp > *, .frame-yJaOb .frame-19749yq > *, .frame-yJaOb .frame-333w81 > *, .frame-yJaOb .frame-lm6f6i > *, .frame-yJaOb .frame-1iht9he > *, .frame-yJaOb .frame-nbsj9g > * { margin: 0px; margin-bottom: calc(0px / 2); margin-top: calc(0px / 2); } .frame-yJaOb .frame-vatc0c > *, .frame-yJaOb .frame-1gz4mxt > *, .frame-yJaOb .frame-1gav2df > * { margin: 0px; margin-left: calc(20px / 2); margin-right: calc(20px / 2); } .frame-yJaOb .frame-mcxvik > *, .frame-yJaOb .frame-1iikr9g > * { margin: 0px; margin-bottom: calc(15px / 2); margin-top: calc(15px / 2); } .frame-yJaOb .frame-77znln > * { margin: 0px; margin-left: calc(6px / 2); margin-right: calc(6px / 2); } .frame-yJaOb .frame-qb80t > *, .frame-yJaOb .frame-1oavfvt > *, .frame-yJaOb .frame-8fu52m > * { margin: 0px; margin-bottom: calc(42px / 2); margin-top: calc(42px / 2); } .frame-yJaOb .frame-19jaokw > * { margin: 0px; margin-bottom: calc(25px / 2); margin-top: calc(25px / 2); } .frame-yJaOb .frame-1qu95x9 > *, .frame-yJaOb .frame-zurvpn > *, .frame-yJaOb .frame-685hf5 > *, .frame-yJaOb .frame-xnwj3b > *, .frame-yJaOb .frame-1nu7wh1 > * { margin: 0px; margin-bottom: calc(40px / 2); margin-top: calc(40px / 2); } .frame-yJaOb .frame-mu3t6w > *, .frame-yJaOb .frame-1em7ute > * { margin: 0px; margin-left: calc(25px / 2); margin-right: calc(25px / 2); } .frame-yJaOb .frame-18c302j > *, .frame-yJaOb .frame-adzvl > * { margin: 0px; margin-bottom: calc(37px / 2); margin-top: calc(37px / 2); } .frame-yJaOb .frame-1lnhujx > *, .frame-yJaOb .frame-rv571d > * { margin: 0px; margin-bottom: calc(60px / 2); margin-top: calc(60px / 2); } .frame-yJaOb .frame-4l6fhs > * { margin: 0px; margin-bottom: calc(135px / 2); margin-top: calc(135px / 2); } .frame-yJaOb .frame-9x6skt > *, .frame-yJaOb .frame-1llimlp > *, .frame-yJaOb .frame-1gkkuvd > *, .frame-yJaOb .frame-qybbbj > *, .frame-yJaOb .frame-1p82eus > *, .frame-yJaOb .frame-2lwd1n > *, .frame-yJaOb .frame-s4ny98 > *, .frame-yJaOb .frame-88jm0u > *, .frame-yJaOb .  > *, .frame-yJaOb .  > *, .frame-yJaOb .frame-tilm76 > *, .frame-yJaOb .frame-egxoer > *, .frame-yJaOb .frame-xai64v > *, .frame-yJaOb .frame-i6ihti > *, .frame-yJaOb .frame-vmzurg > *, .frame-yJaOb .frame-18zmvrf > *, .frame-yJaOb .frame-w3og9n > *, .frame-yJaOb .frame-dpe7mt > *, .frame-yJaOb .frame-e53jle > *, .frame-yJaOb .frame-ruroyr > *, .frame-yJaOb .frame-1uf9uhg > *, .frame-yJaOb .frame-17qa3sb > * { margin: 0px; margin-bottom: calc(10px / 2); margin-top: calc(10px / 2); } .frame-yJaOb .frame-e3j4do > *, .frame-yJaOb .frame-18zi607888888 > * { margin: 0px; margin-bottom: calc(50px / 2); margin-top: calc(50px / 2); } .frame-yJaOb .frame-1rxlezj > *, .frame-yJaOb .frame-dp6io2 > *, .frame-yJaOb .frame-1hylq7s > *, .frame-yJaOb .  > *, .frame-yJaOb .frame-1o7vzb2 > * { margin: 0px; margin-bottom: calc(4px / 2); margin-top: calc(4px / 2); } .frame-yJaOb .frame-1erp6vl > *, .frame-yJaOb .frame-11esjt5 > *, .frame-yJaOb .frame-1iieyvg > *, .frame-yJaOb .frame-1fdjzqd > *, .frame-yJaOb .frame-17b21vs > *, .frame-yJaOb .frame-g5birp > * { margin: 0px; margin-bottom: calc(2px / 2); margin-top: calc(2px / 2); } .frame-yJaOb .frame-1e8ustg > * { margin: 0px; margin-bottom: calc(23px / 2); margin-top: calc(23px / 2); } .frame-yJaOb .frame-zk1zgm > * { margin: 0px; margin-bottom: calc(63px / 2); margin-top: calc(63px / 2); } .frame-yJaOb .frame-1hmytn2 > *, .frame-yJaOb .frame-qp59u2 > * { margin: 0px; margin-bottom: calc(30px / 2); margin-top: calc(30px / 2); } .frame-yJaOb .frame-lpbwzq > * { margin: 0px; margin-bottom: calc(41px / 2); margin-top: calc(41px / 2); } .frame-yJaOb .frame-1pjcd30 > *, .frame-yJaOb .frame-gcrirt > * { margin: 0px; margin-bottom: calc(85px / 2); margin-top: calc(85px / 2); } .frame-yJaOb .frame-1g8ax2k > *, .frame-yJaOb .frame-1g8p7qs > *, .frame-yJaOb .frame-12a3s3z > *, .frame-yJaOb .frame-1i9rf1c > *, .frame-yJaOb .frame-nlzda8 > *, .frame-yJaOb .frame-114ze5o > *, .frame-yJaOb .frame-1355dhs > *, .frame-yJaOb .frame-14b3p3i > *, .frame-yJaOb .frame-1ycwcbv > *, .frame-yJaOb .frame-kpjr80 > *, .frame-yJaOb .frame-1h6c6n0 > *, .frame-yJaOb .frame-1k4ntzg > * { margin: 0px; margin-left: calc(5px / 2); margin-right: calc(5px / 2); } .frame-yJaOb .frame-s2mh3a > * { margin: 0px; margin-bottom: calc(18px / 2); margin-top: calc(18px / 2); } .frame-yJaOb .frame-1cxww1u > * { margin: 0px; margin-bottom: calc(33px / 2); margin-top: calc(33px / 2); } .frame-yJaOb .frame-q6yyjr > *, .frame-yJaOb .frame-165oh2n > *, .frame-yJaOb .frame-6xls3n > *, .frame-yJaOb .frame-197gpkn > * { margin: 0px; margin-left: calc(0px / 2); margin-right: calc(0px / 2); } .frame-yJaOb .frame-1jeni85 > * { margin: 0px; margin-left: calc(15px / 2); margin-right: calc(15px / 2); } .frame-yJaOb .frame-lnxuqy > *, .frame-yJaOb .frame-1n6bbv5 > * { margin: 0px; margin-bottom: calc(26px / 2); margin-top: calc(26px / 2); } .frame-yJaOb .frame-50qt7s > * { margin: 0px; margin-left: calc(40px / 2); margin-right: calc(40px / 2); } .frame-yJaOb .frame-77yiyo > * { margin: 0px; margin-bottom: calc(13px / 2); margin-top: calc(13px / 2); } .frame-yJaOb .frame-14v3lq0 > * { margin: 0px; margin-left: calc(32px / 2); margin-right: calc(32px / 2); } }", `@media (min-width: 810px) and (max-width: 1199px) { .${Kn.bodyClassName}-frame-yJaOb { background: rgb(7, 7, 9); } .frame-yJaOb.frame-qmdb2w { width: 810px; } .frame-yJaOb .frame-1t32isl { order: 2; padding: 60px 20px 20px 20px; width: 100%; } .frame-yJaOb .frame-1bzl8fw { order: 3; padding: 0px 20px 0px 20px; width: 100%; } .frame-yJaOb .frame-14jv5lw { padding: 25px 0px 0px 20px; } .frame-yJaOb .frame-1hqyc81 { align-content: flex-start; align-items: flex-start; width: 100%; } .frame-yJaOb .frame-d27789, .frame-yJaOb .frame-1d08ze6 { white-space: pre; width: auto; } .frame-yJaOb .frame-1vjblfq { align-content: flex-start; align-items: flex-start; flex-wrap: wrap; gap: 10px; justify-content: flex-start; } .frame-yJaOb .frame-1u1o2ms { order: 4; } .frame-yJaOb .frame-4h0y9q-container { height: 319px; left: unset; right: -11px; width: 800px; } .frame-yJaOb .frame-r7eevg { height: min-content; order: 5; } .frame-yJaOb .frame-1r4t09v { height: var(--frame-aspect-ratio-supported, 116px); } .frame-yJaOb .frame-1wr6pmw-container { aspect-ratio: 23.142857142857142 / 1; height: var(--frame-aspect-ratio-supported, 39px); left: 50%; top: 50%; transform: translate(-50%, -50%); width: 112%; } .frame-yJaOb .frame-1dnvax8 { aspect-ratio: 11.28 / 1; height: var(--frame-aspect-ratio-supported, 53px); left: 50%; top: 50%; transform: translate(-50%, -50%); width: 600px; } .frame-yJaOb .frame-1v01f4k { order: 6; padding: 0px 40px 50px 40px; } .frame-yJaOb .frame-e8002p { height: var(--frame-aspect-ratio-supported, 777px); } .frame-yJaOb .frame-pxcg9m { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 44px; height: min-content; justify-content: flex-start; padding: 0px; width: 100%; } .frame-yJaOb .frame-1c01u1i { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between; left: unset; padding: 0px; position: relative; top: unset; width: 100%; } .frame-yJaOb .frame-hii79w, .frame-yJaOb .frame-21l2df { left: unset; position: relative; top: unset; } .frame-yJaOb .frame-nsli42 { left: unset; position: relative; top: unset; white-space: pre; width: auto; } .frame-yJaOb .frame-1m51ubg { order: 8; } .frame-yJaOb .frame-moly6x, .frame-yJaOb .frame-1lnhujx { padding: 0px; width: 100%; } .frame-yJaOb .frame-whprmw, .frame-yJaOb .frame-mtff6u, .frame-yJaOb .frame-qybbbj, .frame-yJaOb .frame-psv9v, .frame-yJaOb .frame-b8q45a { order: 0; } .frame-yJaOb .frame-4l6fhs { gap: 50px; order: 1; width: 100%; } .frame-yJaOb .frame-1og545b, .frame-yJaOb .frame-2lyzkn { order: 2; } .frame-yJaOb .frame-1gkkuvd, .frame-yJaOb .frame-10blq6a, .frame-yJaOb .frame-1vehi06, .frame-yJaOb .frame-1gav2df { order: 1; } .frame-yJaOb .frame-19sid3s, .frame-yJaOb .frame-1d949ss { order: 3; } .frame-yJaOb .frame-1ayqsed { order: 1; width: 100%; } .frame-yJaOb .frame-1toh9in { width: 84px; } .frame-yJaOb .frame-1bc36ed { width: auto; } .frame-yJaOb .frame-1gue4wa { width: 290px; } .frame-yJaOb .frame-e3j4do { order: 10; } .frame-yJaOb .frame-1q8k233 { height: var(--frame-aspect-ratio-supported, 119px); } .frame-yJaOb .frame-1vgepcl { order: 15; padding: 0px 40px 20px 40px; } .frame-yJaOb .frame-lpbwzq, .frame-yJaOb .frame-ff6ipe { width: 730px; } .frame-yJaOb .frame-q0cc5l { height: 311px; } .frame-yJaOb .frame-s2mh3a { flex: 1 0 0px; width: 1px; } .frame-yJaOb .frame-bvne3x { width: 260px; } .frame-yJaOb .frame-1bnhh5n { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 100%; justify-content: center; padding: 0px; width: 424px; } .frame-yJaOb .frame-i67t0s-container { height: 165%; left: unset; position: relative; top: unset; } .frame-yJaOb .frame-rv571d { order: 18; } .frame-yJaOb .frame-197gpkn { align-content: center; align-items: center; justify-content: center; width: 100%; } .frame-yJaOb .frame-16x3cjx { order: 20; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-1eh25xh { order: 21; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-13t0pm4 { order: 22; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-x2oja8 { order: 23; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-m70gnk { order: 24; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-1t1aayi { left: 20px; } .frame-yJaOb .frame-qp59u2 { order: 11; } .frame-yJaOb .frame-10r3q4q { bottom: unset; height: 56px; left: 34px; right: unset; top: calc(49.61240310077522% - 56px / 2); } .frame-yJaOb .frame-ruroyr { height: 55px; width: 156px; } .frame-yJaOb .frame-jm1wka-container { order: 29; } @supports (background: -webkit-named-image(i)) and (not (scale:1)) { .frame-yJaOb .frame-1vjblfq, .frame-yJaOb .frame-pxcg9m, .frame-yJaOb .frame-1c01u1i, .frame-yJaOb .frame-4l6fhs, .frame-yJaOb .frame-1bnhh5n { gap: 0px; } .frame-yJaOb .frame-1vjblfq > *, .frame-yJaOb .frame-1bnhh5n > * { margin: 0px; margin-left: calc(10px / 2); margin-right: calc(10px / 2); } .frame-yJaOb .frame-1vjblfq > :first-child, .frame-yJaOb .frame-1bnhh5n > :first-child { margin-left: 0px; } .frame-yJaOb .frame-1vjblfq > :last-child, .frame-yJaOb .frame-1bnhh5n > :last-child { margin-right: 0px; } .frame-yJaOb .frame-pxcg9m > * { margin: 0px; margin-bottom: calc(44px / 2); margin-top: calc(44px / 2); } .frame-yJaOb .frame-pxcg9m > :first-child, .frame-yJaOb .frame-4l6fhs > :first-child { margin-top: 0px; } .frame-yJaOb .frame-pxcg9m > :last-child, .frame-yJaOb .frame-4l6fhs > :last-child { margin-bottom: 0px; } .frame-yJaOb .frame-1c01u1i > *, .frame-yJaOb .frame-1c01u1i > :first-child, .frame-yJaOb .frame-1c01u1i > :last-child { margin: 0px; } .frame-yJaOb .frame-4l6fhs > * { margin: 0px; margin-bottom: calc(50px / 2); margin-top: calc(50px / 2); } }}`, `@media (max-width: 809px) { .${Kn.bodyClassName}-frame-yJaOb { background: rgb(7, 7, 9); } .frame-yJaOb.frame-qmdb2w { gap: 0px; width: 430px; } .frame-yJaOb .frame-1esd98c, .frame-yJaOb .frame-1kuj8j, .frame-yJaOb .frame-1qu95x9, .frame-yJaOb .frame-6dpn2n-container, .frame-yJaOb .frame-1p6qwig, .frame-yJaOb .frame-1e8ustg, .frame-yJaOb .frame-333w81, .frame-yJaOb .frame-1cxww1u, .frame-yJaOb .frame-q6yyjr, .frame-yJaOb .frame-q3h50j, .frame-yJaOb .frame-i6ihti, .frame-yJaOb .frame-1qp0cf, .frame-yJaOb .frame-6xls3n, .frame-yJaOb .frame-z2a1i, .frame-yJaOb .frame-xnri0v, .frame-yJaOb .frame-1soesdx, .frame-yJaOb .frame-yr0laz { order: 1; } .frame-yJaOb .frame-mcxvik { order: 6; } .frame-yJaOb .frame-xb5g6v, .frame-yJaOb .frame-1fal4sp, .frame-yJaOb .frame-1em7ute, .frame-yJaOb .frame-3gyw3o, .frame-yJaOb .frame-177qzlt, .frame-yJaOb .frame-1kmbr6p, .frame-yJaOb .frame-1l5okqn, .frame-yJaOb .frame-aqgs74, .frame-yJaOb .frame-b1woil, .frame-yJaOb .frame-1t3hb77, .frame-yJaOb .frame-g1f4as, .frame-yJaOb .frame-w3og9n, .frame-yJaOb .frame-77yiyo, .frame-yJaOb .frame-1lqswzh { order: 0; } .frame-yJaOb .frame-736w6c, .frame-yJaOb .frame-mu3t6w, .frame-yJaOb .frame-h666d8, .frame-yJaOb .frame-1cvfz14, .frame-yJaOb .frame-102kgn0-container, .frame-yJaOb .frame-egxoer, .frame-yJaOb .frame-1py1tkj, .frame-yJaOb .frame-6j9l9, .frame-yJaOb .frame-z0tbr5 { order: 2; } .frame-yJaOb .frame-qb80t { order: 8; } .frame-yJaOb .frame-19jaokw, .frame-yJaOb .frame-xnwj3b, .frame-yJaOb .frame-165oh2n, .frame-yJaOb .frame-p83t5f { order: 3; } .frame-yJaOb .frame-77amyf { order: 12; } .frame-yJaOb .frame-14hqnaa { height: var(--frame-aspect-ratio-supported, 64px); order: 0; } .frame-yJaOb .frame-1hmytn2 { order: 15; } .frame-yJaOb .frame-v9mfff { order: 13; } .frame-yJaOb .frame-1ajpwpj { height: var(--frame-aspect-ratio-supported, 274px); } .frame-yJaOb .frame-1hza6qo { order: 11; } .frame-yJaOb .frame-1jeni85 { flex-direction: column; } .frame-yJaOb .frame-1u0reby { height: var(--frame-aspect-ratio-supported, 131px); order: 0; } .frame-yJaOb .frame-nxfoqh { height: var(--frame-aspect-ratio-supported, 131px); } .frame-yJaOb .frame-lnxuqy { order: 16; } .frame-yJaOb .frame-1eh25xh { order: 21; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-13t0pm4 { order: 22; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-x2oja8 { order: 23; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-m70gnk { order: 24; padding: 40px 20px 40px 20px; width: 100%; } .frame-yJaOb .frame-1ym9haz { align-content: flex-start; align-items: flex-start; justify-content: flex-start; width: 566px; } .frame-yJaOb .frame-11ityom { white-space: pre; width: auto; } .frame-yJaOb .frame-1t1aayi { left: 20px; } .frame-yJaOb .frame-1iikr9g { order: 5; } .frame-yJaOb .frame-1oavfvt { order: 7; } .frame-yJaOb .frame-1n6bbv5 { order: 14; } @supports (background: -webkit-named-image(i)) and (not (scale:1)) { .frame-yJaOb.frame-qmdb2w, .frame-yJaOb .frame-1jeni85 { gap: 0px; } .frame-yJaOb.frame-qmdb2w > * { margin: 0px; margin-bottom: calc(0px / 2); margin-top: calc(0px / 2); } .frame-yJaOb.frame-qmdb2w > :first-child, .frame-yJaOb .frame-1jeni85 > :first-child { margin-top: 0px; } .frame-yJaOb.frame-qmdb2w > :last-child, .frame-yJaOb .frame-1jeni85 > :last-child { margin-bottom: 0px; } .frame-yJaOb .frame-1jeni85 > * { margin: 0px; margin-bottom: calc(15px / 2); margin-top: calc(15px / 2); } }}`, '.frame-yJaOb[data-border="true"]::after, .frame-yJaOb [data-border="true"]::after { content: ""; border-width: var(--border-top-width, 0) var(--border-right-width, 0) var(--border-bottom-width, 0) var(--border-left-width, 0); border-color: var(--border-color, none); border-style: var(--border-style, none); width: 100%; height: 100%; position: absolute; box-sizing: border-box; left: 0; top: 0; border-radius: inherit; pointer-events: none; }'],
+	tn = Re(uc, gc, "frame-yJaOb"),
 	R1 = tn;
 tn.displayName = "Home";
 tn.defaultProps = {
