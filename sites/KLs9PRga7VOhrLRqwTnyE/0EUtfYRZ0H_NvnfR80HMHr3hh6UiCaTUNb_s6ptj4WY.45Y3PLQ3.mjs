@@ -1528,7 +1528,7 @@ function Is() {
 		},
 		children: o("div", {
 			style: ji,
-			children: "To embed a Youtube video, add the URL to the properties\xA0panel."
+			children: ""
 		})
 	})
 }
@@ -1651,7 +1651,7 @@ function Ms() {
 		},
 		children: o("div", {
 			style: En,
-			children: "To embed a website or widget, add it to the properties\xA0panel."
+			children: ""
 		})
 	})
 }
@@ -15190,7 +15190,7 @@ var km = {
 													"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
 												},
 												children: "Lightning Fast Turnarounds. "
-											}), "Our designers respond and begin the task within 4 hours from it\u2019s creation & assignment in Notion."]
+											}), "Designers start the task within 4 hours of its creation and assignment on Asana."]
 										})
 									})
 								}
@@ -19077,7 +19077,7 @@ var Hd = Te(Bt),
 													style: {
 														"--frame-text-color": "rgb(203,255,13)"
 													},
-													children: "Demure & Mindful.."
+													children: "Demure & Mindful."
 												}), " Our designs are always 100% original and unique. We never use templates, kits, or recycled designs."]
 											})
 										}),
@@ -19124,7 +19124,7 @@ var Hd = Te(Bt),
 													"--frame-line-height": "24.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
-												children: "Our designers respond and begin"
+												children: "Designers respond and begin the"
 											}), o("p", {
 												style: {
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
@@ -19133,7 +19133,7 @@ var Hd = Te(Bt),
 													"--frame-line-height": "24.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
-												children: " the task within 2 - 4 hours from it\u2019s  creation in Notion."
+												children: "task within 2-4 hours from it's creation through Asana."
 											})]
 										}),
 										className: "frame-lyq1xl",
@@ -19332,7 +19332,7 @@ var Hd = Te(Bt),
 												style: {
 													"--frame-text-color": "rgb(203,255,13)"
 												},
-												children: "Maximum 2 requests per day.\nRecommended for brands looking to revamp their flows"
+												children: "Pause or cancel anytime."
 											}), "  You can pause or cancel anytime with our flexible subscription. No long-term commitments, direct control."]
 										})
 									}),
@@ -20950,10 +20950,10 @@ var Hd = Te(Bt),
 							})]
 						})]
 					}), y() && O("header", {
-						className: "frame-77amyf hidden-qmdb2w hidden-11ouoyp",
-						"data-frame-name": "mobile",
+						className: "",
+						"data-frame-name": "",
 						id: B,
-						name: "mobile",
+						name: "",
 						ref: me,
 						children: [o(Pe, {
 							breakpoint: g,
@@ -20990,7 +20990,7 @@ var Hd = Te(Bt),
 							})
 						}), o(te, {
 							children: o(re, {
-								className: "frame-102kgn0-container",
+								className: "pol",
 								children: o($e, {
 									alignment: "center",
 									arrowOptions: {
@@ -21052,17 +21052,17 @@ var Hd = Te(Bt),
 										showProgressDots: !1
 									},
 									slots: [O(A.div, {
-										className: "frame-8r1pv7",
+										className: "",
 										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "frame-1u4jgul",
+											className: "",
 											"data-border": !0,
 											"data-frame-name": "Border",
 											name: "Border",
 											children: o(te, {
 												children: o(re, {
-													className: "frame-hbklbx-container",
+													className: "",
 													children: o(nt, {
 														borderRadius: 12,
 														bottomLeftRadius: 12,
@@ -21081,7 +21081,7 @@ var Hd = Te(Bt),
 														thumbnail: "Medium Quality",
 														topLeftRadius: 12,
 														topRightRadius: 12,
-														url: "https://youtu.be/v4KeqGJy3Pk?si=jSDqS3j5o7f1vrDm",
+														url: "",
 														width: "100%"
 													})
 												})
@@ -21103,7 +21103,7 @@ var Hd = Te(Bt),
 															"--frame-line-height": "14px",
 															"--frame-text-color": "rgb(255, 255, 255)"
 														},
-														children: "Luca Matarazzo"
+														children: ""
 													})
 												}),
 												className: "frame-1bh39r2",
@@ -21124,7 +21124,7 @@ var Hd = Te(Bt),
 															"--frame-line-height": "14px",
 															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "  of Grow Pronto"
+														children: ""
 													})
 												}),
 												className: "frame-1ax5aw5",
@@ -21165,7 +21165,7 @@ var Hd = Te(Bt),
 														thumbnail: "Medium Quality",
 														topLeftRadius: 12,
 														topRightRadius: 12,
-														url: "https://youtu.be/xHRZ8Orb_7c?si=zFAoidU-MXunGqEm",
+														url: "",
 														width: "100%"
 													})
 												})
@@ -21187,7 +21187,7 @@ var Hd = Te(Bt),
 															"--frame-line-height": "14px",
 															"--frame-text-color": "rgb(255, 255, 255)"
 														},
-														children: "Faisal Al Khalidi"
+														children: ""
 													})
 												}),
 												className: "frame-9bxedy",
@@ -21208,7 +21208,7 @@ var Hd = Te(Bt),
 															"--frame-line-height": "14px",
 															"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "  of Emailedge.xyz"
+														children: ""
 													})
 												}),
 												className: "frame-1e55z81",
@@ -21451,14 +21451,14 @@ var Hd = Te(Bt),
 												style: {
 													backgroundImage: "linear-gradient(92deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 118.696%)"
 												},
-												children: "     ..."
+												children: ""
 											})
 										})
 									}),
 									className: "frame-1e8xoxa",
 									"data-frame-name": "     ...",
 									fonts: ["GF;Instrument Sans-600"],
-									name: "     ...",
+									name: "",
 									verticalAlignment: "top",
 									withExternalLayout: !0
 								}), o(N, {
@@ -22057,14 +22057,14 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(93deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 170.623%)"
 											},
-											children: "Questions? Answered."
+											children: "Frequently Asked Questions."
 										})
 									})
 								}),
 								className: "frame-14mfnzc",
-								"data-frame-name": "Questions? Answered.",
+								"data-frame-name": "Frequently Asked Questions.",
 								fonts: ["GF;Instrument Sans-600"],
-								name: "Questions? Answered.",
+								name: "Frequently Asked Questions.",
 								verticalAlignment: "center",
 								withExternalLayout: !0
 							}), o(N, {
@@ -23675,7 +23675,7 @@ var Hd = Te(Bt),
 													style: {
 														backgroundImage: "linear-gradient(95deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 245.491%)"
 													},
-													children: "Questions? Answered."
+													children: "Frequently Asked Questions."
 												})
 											})
 										})
@@ -24403,7 +24403,7 @@ var Hd = Te(Bt),
 											style: {
 												backgroundImage: "linear-gradient(96deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 163.647%)"
 											},
-											children: "The better way to get design done"
+											children: "Design made easy."
 										})
 									})
 								}),
@@ -24648,7 +24648,7 @@ var Hd = Te(Bt),
 											"--frame-font-size": "28px",
 											"--frame-font-weight": "600",
 											"--frame-letter-spacing": "-1.5px",
-											"--frame-line-height": "36.5px"
+											"--frame-line-height": "29.5px"
 										},
 										children: o("span", {
 											"data-text-fill": "true",
