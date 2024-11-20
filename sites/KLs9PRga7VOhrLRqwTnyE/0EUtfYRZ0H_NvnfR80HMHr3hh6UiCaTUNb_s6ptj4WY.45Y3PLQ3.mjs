@@ -20549,7 +20549,389 @@ var Hd = Te(Bt),
 												dotsRadius: 50,
 												showProgressDots: !1
 											},
-											
+											slots: [O(A.div, {
+												className: "framer-1p2gygf",
+												children: [o(A.div, {
+													className: "framer-s4ny98",
+													"data-border": !0,
+													"data-framer-name": "YT",
+													name: "YT",
+													children: o(te, {
+														children: o(re, {
+															className: " ",
+															children: o(nt, {
+																borderRadius: 8,
+																bottomLeftRadius: 8,
+																bottomRightRadius: 8,
+																height: "100%",
+																id: "s9CjsipSP",
+																isMixedBorderRadius: !1,
+																isRed: !0,
+																layoutId: "s9CjsipSP",
+																play: "Off",
+																shouldMute: !0,
+																style: {
+																	height: "100%",
+																	width: "100%"
+																},
+																thumbnail: "Low Quality",
+																topLeftRadius: 8,
+																topRightRadius: 8,
+																url: "https://youtu.be/xHRZ8Orb_7c?si=xuoxNnHDZ7UGSVmW",
+																width: "100%"
+															})
+														})
+													})
+												}), O(A.div, {
+													className: "framer-1rxlezj",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: "Faisal Al Khalidi"
+															})
+														}),
+														className: "framer-gy02do",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-600"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													}), o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-letter-spacing": "-0.5px",
+																	"--framer-line-height": "16px",
+																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																},
+																children: ""
+															})
+														}),
+														className: "framer-1da5rq4",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
+											}), O(A.div, {
+												className: " ",
+												"data-framer-name": "Video 1",
+												name: "Video 1",
+												children: [o(A.div, {
+													className: "framer-88jm0u",
+													"data-border": !0,
+													"data-framer-name": "YT",
+													name: "YT",
+													children: o(te, {
+														children: o(re, {
+															className: "",
+															children: o(nt, {
+																borderRadius: 8,
+																bottomLeftRadius: 8,
+																bottomRightRadius: 8,
+																height: "100%",
+																id: "dBEtL2ZNT",
+																isMixedBorderRadius: !1,
+																isRed: !0,
+																layoutId: "dBEtL2ZNT",
+																play: "Off",
+																shouldMute: !0,
+																style: {
+																	height: "100%",
+																	width: "100%"
+																},
+																thumbnail: "Low Quality",
+																topLeftRadius: 8,
+																topRightRadius: 8,
+																url: "https://youtu.be/v4KeqGJy3Pk?si=Rpxu6_U57ZVhnP5Y",
+																width: "100%"
+															})
+														})
+													})
+												}), O(A.div, {
+													className: "",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: "Luca Matarazzo"
+															})
+														}),
+														className: "framer-1pz7z2h",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-600"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													}), o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-letter-spacing": "-0.5px",
+																	"--framer-line-height": "16px",
+																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																},
+																children: ""
+															})
+														}),
+														className: "framer-lxgk05",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
+											}), O(A.div, {
+												className: "framer-16i6sg6",
+												children: [o(A.div, {
+													className: " ",
+													"data-border": !0,
+													"data-framer-name": "YT",
+													name: "YT",
+													children: o(te, {
+														children: o(re, {
+															className: " ",
+															children: o(nt, {
+																borderRadius: 8,
+																bottomLeftRadius: 8,
+																bottomRightRadius: 8,
+																height: "100%",
+																id: "grU3pUWtE",
+																isMixedBorderRadius: !1,
+																isRed: !0,
+																layoutId: "grU3pUWtE",
+																play: "Off",
+																shouldMute: !0,
+																style: {
+																	height: "100%",
+																	width: "100%"
+																},
+																thumbnail: "Low Quality",
+																topLeftRadius: 8,
+																topRightRadius: 8,
+																url: "https://youtu.be/W5iQW0DgwTM?si=9ZcBoT3G3ldmntaR",
+																width: "100%"
+															})
+														})
+													})
+												}), O(A.div, {
+													className: "",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: "Luca Hontau"
+															})
+														}),
+														className: "framer-y2j8ss",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-600"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													}), o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-letter-spacing": "-0.5px",
+																	"--framer-line-height": "16px",
+																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																},
+																children: "  of KobaltClub"
+															})
+														}),
+														className: "framer-ula9il",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
+											}), O(A.div, {
+												className: " ",
+												"data-framer-name": "4",
+												name: "4",
+												children: [o(A.div, {
+													className: " ",
+													"data-border": !0,
+													"data-framer-name": "YT",
+													name: "YT",
+													children: o(te, {
+														children: o(re, {
+															className: " ",
+															children: o(nt, {
+																borderRadius: 8,
+																bottomLeftRadius: 8,
+																bottomRightRadius: 8,
+																height: "100%",
+																id: "Knl2SzP8c",
+																isMixedBorderRadius: !1,
+																isRed: !0,
+																layoutId: "Knl2SzP8c",
+																play: "Off",
+																shouldMute: !0,
+																style: {
+																	height: "100%",
+																	width: "100%"
+																},
+																thumbnail: "Low Quality",
+																topLeftRadius: 8,
+																topRightRadius: 8,
+																url: "https://www.youtube.com/watch?v=ScBaFzJBKQo&ab_channel=creativecue",
+																width: "100%"
+															})
+														})
+													})
+												}), O(A.div, {
+													className: " ",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: ""
+															})
+														
+														}),
+														className: "framer-156nfzj",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
+											}), O(A.div, {
+												className: "framer-1ozok8h",
+												"data-framer-name": "5",
+												name: "5",
+												children: [o(A.div, {
+													className: "framer-tilm76",
+													"data-border": !0,
+													"data-framer-name": "YT",
+													name: "YT",
+													children: o(te, {
+														children: o(re, {
+															className: " ",
+															children: o(nt, {
+																borderRadius: 8,
+																bottomLeftRadius: 8,
+																bottomRightRadius: 8,
+																height: "100%",
+																id: "dPKccwmz7",
+																isMixedBorderRadius: !1,
+																isRed: !0,
+																layoutId: "dPKccwmz7",
+																play: "Off",
+																shouldMute: !0,
+																style: {
+																	height: "100%",
+																	width: "100%"
+																},
+																thumbnail: "Low Quality",
+																topLeftRadius: 8,
+																topRightRadius: 8,
+																url: "https://www.youtube.com/watch?v=-7SeqSqFos0",
+																width: "100%"
+															})
+														})
+													})
+												}), O(A.div, {
+													className: "framer-1o7vzb2",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: "Dolapo"
+															})
+														}),
+														className: "framer-1jfr6y8",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-600"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													}), o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-letter-spacing": "-0.5px",
+																	"--framer-line-height": "16px",
+																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																},
+																children: "  of HashtagMonday"
+															})
+														}),
+														className: "framer-1wcanmx",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
+											})],
 											startFrom: 0,
 											style: {
 												height: "100%",
@@ -20704,7 +21086,55 @@ var Hd = Te(Bt),
 													})
 												})
 											})
-										
+										}), O(A.div, {
+											className: "framer-1erp6vl",
+											"data-framer-name": "Text",
+											name: "Text",
+											children: [o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-font-weight": "600",
+															"--framer-letter-spacing": "-1px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgb(255, 255, 255)"
+														},
+														children: "Luca Matarazzo"
+													})
+												}),
+												className: "framer-1bh39r2",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-600"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											}), o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-letter-spacing": "-0.5px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+														},
+														children: "  of Grow Pronto"
+													})
+												}),
+												className: "framer-1ax5aw5",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-regular"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											})]
+										})]
 									}), O(A.div, {
 										className: "framer-1h2g9a",
 										"data-framer-name": "Mobile",
@@ -20740,7 +21170,55 @@ var Hd = Te(Bt),
 													})
 												})
 											})
-										
+										}), O(A.div, {
+											className: "framer-11esjt5",
+											"data-framer-name": "Text",
+											name: "Text",
+											children: [o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-font-weight": "600",
+															"--framer-letter-spacing": "-1px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgb(255, 255, 255)"
+														},
+														children: "Faisal Al Khalidi"
+													})
+												}),
+												className: "framer-9bxedy",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-600"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											}), o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-letter-spacing": "-0.5px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+														},
+														children: "  of Emailedge.xyz"
+													})
+												}),
+												className: "framer-1e55z81",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-regular"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											})]
+										})]
 									}), O(A.div, {
 										className: "framer-1ocnhjv",
 										"data-framer-name": "Mobile",
@@ -20776,7 +21254,55 @@ var Hd = Te(Bt),
 													})
 												})
 											})
-										
+										}), O(A.div, {
+											className: "framer-1iieyvg",
+											"data-framer-name": "Text",
+											name: "Text",
+											children: [o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-font-weight": "600",
+															"--framer-letter-spacing": "-1px",
+															"--framer-line-height": "4px",
+															"--framer-text-color": "rgb(255, 255, 255)"
+														},
+														children: "Luca Hontau"
+													})
+												}),
+												className: "framer-9d3xr5",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-600"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											}), o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-letter-spacing": "-0.5px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+														},
+														children: "  of KobaltClub"
+													})
+												}),
+												className: "framer-173pv1a",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-regular"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											})]
+										})]
 									}), O(A.div, {
 										className: "framer-1xrvpl5",
 										"data-framer-name": "Mobile",
@@ -20838,6 +21364,55 @@ var Hd = Te(Bt),
 										name: "Mobile",
 										children: [o(A.div, {
 											
+										}), O(A.div, {
+											className: "framer-17b21vs",
+											"data-framer-name": "Text",
+											name: "Text",
+											children: [o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-font-weight": "600",
+															"--framer-letter-spacing": "-1px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgb(255, 255, 255)"
+														},
+														children: "Dolapo"
+													})
+												}),
+												className: "framer-18h09uu",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-600"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											}), o(N, {
+												__fromCanvasComponent: !0,
+												children: o(R, {
+													children: o("p", {
+														style: {
+															"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+															"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+															"--framer-font-size": "14px",
+															"--framer-letter-spacing": "-0.5px",
+															"--framer-line-height": "14px",
+															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+														},
+														children: "  of HashtagMonday"
+													})
+												}),
+												className: "framer-j46pqp",
+												"data-framer-name": "Subtext",
+												fonts: ["GF;Instrument Sans-regular"],
+												name: "Subtext",
+												verticalAlignment: "center",
+												withExternalLayout: !0
+											})]
+										})]
 									})],
 									startFrom: 0,
 									style: {
@@ -21343,14 +21918,104 @@ var Hd = Te(Bt),
 															})
 														})
 													})
-												
+												}), O(A.div, {
+													className: "framer-1rxlezj",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: "Faisal Al Khalidi"
+															})
+														}),
+														className: "framer-gy02do",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-600"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													}), o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-letter-spacing": "-0.5px",
+																	"--framer-line-height": "16px",
+																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																},
+																children: ""
+															})
+														}),
+														className: "framer-1da5rq4",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
 											}), O(A.div, {
 												className: "framer-1ozok8h",
 												"data-framer-name": "5",
 												name: "5",
 												children: [o(A.div, {
 													
-												
+												}), O(A.div, {
+													className: "framer-1o7vzb2",
+													children: [o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-font-size": "20px",
+																	"--framer-font-weight": "600",
+																	"--framer-letter-spacing": "-1px",
+																	"--framer-line-height": "20px",
+																	"--framer-text-color": "rgb(255, 255, 255)"
+																},
+																children: "Dolapo"
+															})
+														}),
+														className: "framer-1jfr6y8",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-600"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													}), o(N, {
+														__fromCanvasComponent: !0,
+														children: o(R, {
+															children: o("p", {
+																style: {
+																	"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
+																	"--framer-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
+																	"--framer-letter-spacing": "-0.5px",
+																	"--framer-line-height": "16px",
+																	"--framer-text-color": "rgba(255, 255, 255, 0.44)"
+																},
+																children: ""
+															})
+														}),
+														className: "framer-1wcanmx",
+														"data-framer-name": "Subtext",
+														fonts: ["GF;Instrument Sans-regular"],
+														name: "Subtext",
+														verticalAlignment: "center",
+														withExternalLayout: !0
+													})]
+												})]
 											})],
 											startFrom: 1,
 											style: {
