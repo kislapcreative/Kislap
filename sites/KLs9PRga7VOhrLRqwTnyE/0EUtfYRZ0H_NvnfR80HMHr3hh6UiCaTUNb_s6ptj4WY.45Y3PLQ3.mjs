@@ -20664,7 +20664,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-dp6io2",
+													className: "",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
@@ -20743,7 +20743,7 @@ var Hd = Te(Bt),
 														})
 													})
 												}), O(A.div, {
-													className: "framer-1hylq7s",
+													className: "",
 													children: [o(N, {
 														__fromCanvasComponent: !0,
 														children: o(R, {
@@ -20793,36 +20793,7 @@ var Hd = Te(Bt),
 												"data-framer-name": "4",
 												name: "4",
 												children: [o(A.div, {
-													className: " ",
-													"data-border": !0,
-													"data-framer-name": "YT",
-													name: "YT",
-													children: o(te, {
-														children: o(re, {
-															className: " ",
-															children: o(nt, {
-																borderRadius: 8,
-																bottomLeftRadius: 8,
-																bottomRightRadius: 8,
-																height: "100%",
-																id: "Knl2SzP8c",
-																isMixedBorderRadius: !1,
-																isRed: !0,
-																layoutId: "Knl2SzP8c",
-																play: "Off",
-																shouldMute: !0,
-																style: {
-																	height: "100%",
-																	width: "100%"
-																},
-																thumbnail: "Low Quality",
-																topLeftRadius: 8,
-																topRightRadius: 8,
-																url: "https://www.youtube.com/watch?v=ScBaFzJBKQo&ab_channel=creativecue",
-																width: "100%"
-															})
-														})
-													})
+													
 												}), O(A.div, {
 													className: " ",
 													children: [o(N, {
@@ -20855,36 +20826,7 @@ var Hd = Te(Bt),
 												"data-framer-name": "5",
 												name: "5",
 												children: [o(A.div, {
-													className: "framer-tilm76",
-													"data-border": !0,
-													"data-framer-name": "YT",
-													name: "YT",
-													children: o(te, {
-														children: o(re, {
-															className: " ",
-															children: o(nt, {
-																borderRadius: 8,
-																bottomLeftRadius: 8,
-																bottomRightRadius: 8,
-																height: "100%",
-																id: "dPKccwmz7",
-																isMixedBorderRadius: !1,
-																isRed: !0,
-																layoutId: "dPKccwmz7",
-																play: "Off",
-																shouldMute: !0,
-																style: {
-																	height: "100%",
-																	width: "100%"
-																},
-																thumbnail: "Low Quality",
-																topLeftRadius: 8,
-																topRightRadius: 8,
-																url: "https://www.youtube.com/watch?v=-7SeqSqFos0",
-																width: "100%"
-															})
-														})
-													})
+													
 												}), O(A.div, {
 													className: "framer-1o7vzb2",
 													children: [o(N, {
@@ -21308,36 +21250,7 @@ var Hd = Te(Bt),
 										"data-framer-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "framer-wnom2m",
-											"data-border": !0,
-											"data-framer-name": "Border",
-											name: "Border",
-											children: o(te, {
-												children: o(re, {
-													className: "framer-16jbxik-container",
-													children: o(nt, {
-														borderRadius: 12,
-														bottomLeftRadius: 12,
-														bottomRightRadius: 12,
-														height: "100%",
-														id: "RkJDdftJo",
-														isMixedBorderRadius: !1,
-														isRed: !1,
-														layoutId: "RkJDdftJo",
-														play: "Off",
-														shouldMute: !0,
-														style: {
-															height: "100%",
-															width: "100%"
-														},
-														thumbnail: "Medium Quality",
-														topLeftRadius: 12,
-														topRightRadius: 12,
-														url: "https://www.youtube.com/watch?v=ScBaFzJBKQo&ab_channel=creativecue",
-														width: "100%"
-													})
-												})
-											})
+											
 										}), O(A.div, {
 											className: "framer-1fdjzqd",
 											"data-framer-name": "Text",
@@ -21376,7 +21289,7 @@ var Hd = Te(Bt),
 															"--framer-line-height": "14px",
 															"--framer-text-color": "rgba(255, 255, 255, 0.44)"
 														},
-														children: "  of DadFuel"
+														children: ""
 													})
 												}),
 												className: "framer-14j9294",
@@ -21392,36 +21305,7 @@ var Hd = Te(Bt),
 										"data-framer-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "framer-1itc089",
-											"data-border": !0,
-											"data-framer-name": "Border",
-											name: "Border",
-											children: o(te, {
-												children: o(re, {
-													className: "framer-1lrqfl1-container",
-													children: o(nt, {
-														borderRadius: 12,
-														bottomLeftRadius: 12,
-														bottomRightRadius: 12,
-														height: "100%",
-														id: "Z97PJE7_a",
-														isMixedBorderRadius: !1,
-														isRed: !1,
-														layoutId: "Z97PJE7_a",
-														play: "Off",
-														shouldMute: !0,
-														style: {
-															height: "100%",
-															width: "100%"
-														},
-														thumbnail: "Medium Quality",
-														topLeftRadius: 12,
-														topRightRadius: 12,
-														url: "https://www.youtube.com/watch?v=-7SeqSqFos0",
-														width: "100%"
-													})
-												})
-											})
+											
 										}), O(A.div, {
 											className: "framer-17b21vs",
 											"data-framer-name": "Text",
@@ -21779,7 +21663,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "20px",
 																	"--framer-text-color": "rgb(255, 255, 255)"
 																},
-																children: "Luca Hontau"
+																children: ""
 															})
 														}),
 														className: "framer-y2j8ss",
@@ -21815,36 +21699,7 @@ var Hd = Te(Bt),
 												"data-framer-name": "4",
 												name: "4",
 												children: [o(A.div, {
-													className: " ",
-													"data-border": !0,
-													"data-framer-name": "YT",
-													name: "YT",
-													children: o(te, {
-														children: o(re, {
-															className: " ",
-															children: o(nt, {
-																borderRadius: 8,
-																bottomLeftRadius: 8,
-																bottomRightRadius: 8,
-																height: "100%",
-																id: "Knl2SzP8c",
-																isMixedBorderRadius: !1,
-																isRed: !0,
-																layoutId: "Knl2SzP8c",
-																play: "Off",
-																shouldMute: !0,
-																style: {
-																	height: "100%",
-																	width: "100%"
-																},
-																thumbnail: "Low Quality",
-																topLeftRadius: 8,
-																topRightRadius: 8,
-																url: "https://www.youtube.com/watch?v=ScBaFzJBKQo&ab_channel=creativecue",
-																width: "100%"
-															})
-														})
-													})
+													
 												}), O(A.div, {
 													className: " ",
 													children: [o(N, {
@@ -21941,7 +21796,7 @@ var Hd = Te(Bt),
 																	"--framer-line-height": "20px",
 																	"--framer-text-color": "rgb(255, 255, 255)"
 																},
-																children: "Luca Matarazzo"
+																children: ""
 															})
 														}),
 														className: "framer-1pz7z2h",
@@ -22056,36 +21911,7 @@ var Hd = Te(Bt),
 												"data-framer-name": "5",
 												name: "5",
 												children: [o(A.div, {
-													className: "framer-tilm76",
-													"data-border": !0,
-													"data-framer-name": "YT",
-													name: "YT",
-													children: o(te, {
-														children: o(re, {
-															className: " ",
-															children: o(nt, {
-																borderRadius: 8,
-																bottomLeftRadius: 8,
-																bottomRightRadius: 8,
-																height: "100%",
-																id: "dPKccwmz7",
-																isMixedBorderRadius: !1,
-																isRed: !0,
-																layoutId: "dPKccwmz7",
-																play: "Off",
-																shouldMute: !0,
-																style: {
-																	height: "100%",
-																	width: "100%"
-																},
-																thumbnail: "Low Quality",
-																topLeftRadius: 8,
-																topRightRadius: 8,
-																url: "https://www.youtube.com/watch?v=-7SeqSqFos0",
-																width: "100%"
-															})
-														})
-													})
+													
 												}), O(A.div, {
 													className: "framer-1o7vzb2",
 													children: [o(N, {
