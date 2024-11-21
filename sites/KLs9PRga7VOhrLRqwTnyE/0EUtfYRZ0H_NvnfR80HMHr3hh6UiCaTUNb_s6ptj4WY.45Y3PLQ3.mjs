@@ -14733,7 +14733,7 @@ Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 
 							style: {
 								width: "100%"
 							},
-							SxNXHpJ3V: "Do you offer other design service apart from emails?",
+							SxNXHpJ3V: "Do you offer design service apart from emails?",
 							variant: "JrNr_BFNn",
 							width: "100%",
 							...gr({
@@ -17048,7 +17048,7 @@ Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 
 								style: {
 									width: "100%"
 								},
-								SxNXHpJ3V: "Do you offer other design service apart from emails?",
+								SxNXHpJ3V: "Other design service apart from emails?",
 								variant: "Nqla507UG",
 								width: "100%",
 								...Or({
