@@ -13623,7 +13623,15 @@ var Gf = {
 		return {
 			...f,
 			EHrI2fXcZ: a ?? f.EHrI2fXcZ,
-			NjxELG2Gg: (h = n ?? f.NjxELG2Gg) !== null && h !== void 0 ? h : "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace. This almost always guarantees subpar designs. So while $3,999 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals.",
+			NjxELG2Gg: (h = n ?? f.NjxELG2Gg) !== null && h !== void 0 ? h : `Yes, we do! Our pricing is tailored for different types of brands and agencies:
+
+Standard Brands: 10 requests per month for $800 USD/month, with a maximum of 1 request per day. Ideal for small businesses.
+
+Premium Brands: 20 requests per month for $1,200 USD/month, with a maximum of 2 requests per day. Best for brands looking to refresh and optimize their processes.
+
+Standard Agencies: 25 requests per month for $1,500 USD/month, with a maximum of 3 requests per day. Designed for small agencies with 1-3 clients.
+
+Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 5 requests per day. Recommended for agencies with 4-10 clients.`,
 			SxNXHpJ3V: (u = i ?? f.SxNXHpJ3V) !== null && u !== void 0 ? u : "Why Creativecue instead of hiring?",
 			variant: (w = (g = qf[f.variant]) !== null && g !== void 0 ? g : f.variant) !== null && w !== void 0 ? w : "JrNr_BFNn"
 		}
@@ -13976,7 +13984,15 @@ na.displayName = "FAQ - Component", na.defaultProps = {
 		type: H.String
 	},
 	NjxELG2Gg: {
-		defaultValue: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace. This almost always guarantees subpar designs. So while $3,999 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals.",
+		defaultValue: `Yes, we do! Our pricing is tailored for different types of brands and agencies:
+
+Standard Brands: 10 requests per month for $800 USD/month, with a maximum of 1 request per day. Ideal for small businesses.
+
+Premium Brands: 20 requests per month for $1,200 USD/month, with a maximum of 2 requests per day. Best for brands looking to refresh and optimize their processes.
+
+Standard Agencies: 25 requests per month for $1,500 USD/month, with a maximum of 3 requests per day. Designed for small agencies with 1-3 clients.
+
+Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 5 requests per day. Recommended for agencies with 4-10 clients.`,
 		displayTextArea: !0,
 		placeholder: "",
 		title: "Text",
@@ -14706,7 +14722,14 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 							height: "100%",
 							id: "RtXqGOk0V",
 							layoutId: "RtXqGOk0V",
-							NjxELG2Gg: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace. This almost always guarantees subpar designs. So while $3,999 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals.",
+							NjxELG2Gg: `Standard Brands: 10 requests per month for $800 USD/month, with a maximum of 1 request per day. Ideal for small businesses.
+
+Premium Brands: 20 requests per month for $1,200 USD/month, with a maximum of 2 requests per day. Best for brands looking to refresh and optimize their processes.
+
+Standard Agencies: 25 requests per month for $1,500 USD/month, with a maximum of 3 requests per day. Designed for small agencies with 1-3 clients.
+
+Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 5 requests per day. Recommended for agencies with 4-10 clients.`,
+
 							style: {
 								width: "100%"
 							},
@@ -16912,11 +16935,19 @@ var Ld = {
 								height: "100%",
 								id: "QLe57xEjd",
 								layoutId: "QLe57xEjd",
-								NjxELG2Gg: "It's high, we know it is. But it's that price for a good reason. You might find cheaper agencies than Creativecue out there, but a lot of them use pre-made templates or recycle old work with slight modifications. You've got to be careful, honestly. We've heard many horror stories. Also, many of these agencies are operated by a single designer. This can lead to them being inundated with design requests, compelling them to work beyond their optimal pace. This almost always guarantees subpar designs. So while $3,999 per month is higher than some, what you get in return is a dedicated, talented designer ready to deliver you something world-class and specific to your business goals.",
+								NjxELG2Gg: `Yes, we do! Our pricing is tailored for different types of brands and agencies:
+
+Standard Brands: 10 requests per month for $800 USD/month, with a maximum of 1 request per day. Ideal for small businesses.
+
+Premium Brands: 20 requests per month for $1,200 USD/month, with a maximum of 2 requests per day. Best for brands looking to refresh and optimize their processes.
+
+Standard Agencies: 25 requests per month for $1,500 USD/month, with a maximum of 3 requests per day. Designed for small agencies with 1-3 clients.
+
+Premium Agencies: 50 requests per month for $1,500 USD/month, with a maximum of 5 requests per day. Recommended for agencies with 4-10 clients.`,
 								style: {
 									width: "100%"
 								},
-								SxNXHpJ3V: "Do you offer standard pricing for particular brands and agencies?",
+								SxNXHpJ3V: "Standard pricing for brands & agencies?",
 								variant: "Nqla507UG",
 								width: "100%",
 								...Or({
@@ -16935,9 +16966,7 @@ var Ld = {
 								height: "100%",
 								id: "WY72KyQ0p",
 								layoutId: "WY72KyQ0p",
-								NjxELG2Gg: `No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.
-
-Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.`,
+								NjxELG2Gg: "Absolutely, we offer paid trials to help you decide before making a full commitment.",
 								style: {
 									width: "100%"
 								},
@@ -16993,7 +17022,7 @@ Our AI-generated images are unique to your brand, designed to fit your style and
 								height: "100%",
 								id: "VJXdCCa3s",
 								layoutId: "VJXdCCa3s",
-								NjxELG2Gg: "No problem! We can create custom lifestyle images for you using our advanced AI tools. Whether you need images thats showcase your products in real-life scenarios or visuals that capture a specific mood or aesthetic, we can generate them for you with an ease.Our AI-generated images are unique to your brand, designed to fit your style and vision without the need for a traditional photoshoot.",
+								NjxELG2Gg: "Our designers work quickly and can respond to design requests within an hour; We want what’s best for your brand and always focused on custom made designs however, the time can take up to 1-2 business days depending on the complexity of the design request.",
 								style: {
 									width: "100%"
 								},
