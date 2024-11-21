@@ -21428,68 +21428,7 @@ var Hd = Te(Bt),
 									width: "100%"
 								})
 							})
-						}), o("header", {
-							className: "frame-1e8ustg",
-							"data-frame-name": "",
-							name: "",
-							children: O("div", {
-								className: "frame-19749yq",
-								children: [o(N, {
-									__fromCanvasComponent: !0,
-									children: o(R, {
-										children: o("p", {
-											style: {
-												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLTYwMA==",
-												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--frame-font-size": "27px",
-												"--frame-font-weight": "600",
-												"--frame-letter-spacing": "-2.5px",
-												"--frame-line-height": "32px"
-											},
-											children: o("span", {
-												"data-text-fill": "true",
-												style: {
-													backgroundImage: "linear-gradient(92deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 118.696%)"
-												},
-												children: ""
-											})
-										})
-									}),
-									className: "frame-1e8xoxa",
-									"data-frame-name": "     ...",
-									fonts: ["GF;Instrument Sans-600"],
-									name: "",
-									verticalAlignment: "top",
-									withExternalLayout: !0
-								}), o(N, {
-									__fromCanvasComponent: !0,
-									children: o(R, {
-										children: o("p", {
-											style: {
-												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
-												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
-												"--frame-font-size": "18px",
-												"--frame-letter-spacing": "-1.6px",
-												"--frame-line-height": "22.5px",
-												"--frame-text-alignment": "center"
-											},
-											children: o("span", {
-												"data-text-fill": "true",
-												style: {
-													backgroundImage: "linear-gradient(90deg, rgb(203,255,13) 41.1987%, rgba(255, 255, 255, 0) 136.477%)"
-												},
-												children: ""
-											})
-										})
-									}),
-									className: "frame-noy7xd",
-									"data-frame-name": "",
-									fonts: ["GF;Instrument Sans-regular"],
-									name: "",
-									verticalAlignment: "center",
-									withExternalLayout: !0
-								})]
-							})
+						
 						})]
 					}), m() && O("header", {
 						className: "",
