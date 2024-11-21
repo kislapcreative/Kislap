@@ -22073,7 +22073,7 @@ var Hd = Te(Bt),
 								"data-frame-name": "glow",
 								name: "glow",
 								style: {
-									rotate: 150
+									rotate: 180
 								}
 							})
 						}), o("div", {
