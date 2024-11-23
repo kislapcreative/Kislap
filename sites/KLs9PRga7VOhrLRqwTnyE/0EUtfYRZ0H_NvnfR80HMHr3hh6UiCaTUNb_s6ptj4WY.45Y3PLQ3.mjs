@@ -22279,7 +22279,7 @@ var Hd = Te(Bt),
 								"data-frame-name": "Pricing",
 								name: "Pricing",
 								children: [o(rt, {
-									href: "https://buy.stripe.com/6oE29Vebg0vua7m8xr",
+									href: "https://www.instagram.com/kislapcreative",
 									openInNewTab: !0,
 									children: o("a", {
 										className: "frame-1dgvyln frame-4zsb7x",
@@ -22502,7 +22502,7 @@ var Hd = Te(Bt),
 										"data-frame-name": "Image",
 										name: "Image",
 										children: o(rt, {
-											href: "https://www.behance.net/creativecueco",
+											href: "https://www.instagram.com/kislapcreative",
 											children: o(Nt, {
 												__framer__loop: dc,
 												__framer__loopEffectEnabled: !0,
