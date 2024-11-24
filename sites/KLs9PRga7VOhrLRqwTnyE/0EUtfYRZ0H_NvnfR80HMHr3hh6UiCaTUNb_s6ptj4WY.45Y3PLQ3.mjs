@@ -15189,7 +15189,8 @@ var km = {
 											},
 											children: [o(A.span, {
 												style: {
-													"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))"
+													"--frame-text-color": "var(--extracted-1w3ko1f, rgb(203,255,13))",
+													"--frame-line-height": "17.5px"
 												},
 												children: "No Micromanaging. "
 											}), "We are taking the initiative to manage all aspects, including designers, tasks, and deadlines. "]
@@ -15204,7 +15205,7 @@ var km = {
 												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 												"--frame-font-size": "18px",
 												"--frame-letter-spacing": "-1.1px",
-												"--frame-line-height": "25.5px",
+												"--frame-line-height": "24.5px",
 												"--frame-text-color": "var(--extracted-r6o4lv, var(--token-5d5295bd-a551-4ef9-ba58-7cfab2ac71cc, rgba(255, 255, 255, 0.44)))"
 											},
 											children: [o(A.span, {
@@ -18623,7 +18624,7 @@ var Hd = Te(Bt),
 														"--frame-font-family": '"Instrument Sans", sans-serif',
 														"--frame-font-size": "32px",
 														"--frame-font-weight": "600",
-														"--frame-letter-spacing": "-2.5px",
+														"--frame-letter-spacing": "-1.0px",
 														"--frame-line-height": "71px"
 													},
 													children: o("span", {
@@ -19055,7 +19056,7 @@ var Hd = Te(Bt),
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 												"--frame-letter-spacing": "-0.05em",
-												"--frame-line-height": "25.5px",
+												"--frame-line-height": "17.5px",
 												"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: [o("span", {
@@ -19099,7 +19100,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.05em",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: [o("span", {
@@ -19141,7 +19142,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.05em",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "18.5px",
 													"--frame-text-color": "rgb(203,255,13)"
 												},
 												children: "Lightning Fast Turnarounds."
@@ -19150,7 +19151,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.05em",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "Designers respond and begin the"
@@ -19159,7 +19160,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.05em",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "task within 2-4 hours from it's creation through Asana."
@@ -19210,7 +19211,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.6px",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgb(203,255,13)"
 												},
 												children: "No Hassle."
@@ -19219,7 +19220,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.6px",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "We take care of the curation and hiring"
@@ -19228,7 +19229,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.6px",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "of top designers, saving you from dealing with"
@@ -19237,7 +19238,7 @@ var Hd = Te(Bt),
 													"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-letter-spacing": "-0.6px",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: "unreliable designers."
@@ -19263,7 +19264,7 @@ var Hd = Te(Bt),
 													"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 													"--frame-font-size": "14px",
 													"--frame-letter-spacing": "-0.03em",
-													"--frame-line-height": "24.5px",
+													"--frame-line-height": "17.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
 												children: [o("span", {
@@ -19276,7 +19277,7 @@ var Hd = Te(Bt),
 													style: {
 														"--frame-font-size": "16px"
 													},
-													children: "No more to-do lists. "
+													children: ""
 												}), o("span", {
 													style: {
 														"--frame-font-size": "16px"
@@ -19286,7 +19287,7 @@ var Hd = Te(Bt),
 													style: {
 														"--frame-font-size": "16px"
 													},
-													children: "We manage everything from designers to tasks, and deadlines,"
+													children: "We are taking the initiative to manage all aspects, including designers, tasks, and deadlines."
 												})]
 											}), o("p", {
 												style: {
@@ -19296,7 +19297,7 @@ var Hd = Te(Bt),
 													"--frame-line-height": "24.5px",
 													"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 												},
-												children: "All done for you. "
+												children: ""
 											})]
 										}),
 										className: "frame-h666d8",
@@ -19354,7 +19355,7 @@ var Hd = Te(Bt),
 												"--font-selector": "R0Y7SW5zdHJ1bWVudCBTYW5zLXJlZ3VsYXI=",
 												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 												"--frame-letter-spacing": "-0.05em",
-												"--frame-line-height": "15.5px",
+												"--frame-line-height": "17.5px",
 												"--frame-text-color": "rgba(255, 255, 255, 0.44)"
 											},
 											children: [o("span", {
@@ -21019,7 +21020,7 @@ var Hd = Te(Bt),
 							})
 						}), o(te, {
 							children: o(re, {
-								className: "pol",
+								className: "",
 								children: o($e, {
 									alignment: "center",
 									arrowOptions: {
@@ -21085,36 +21086,9 @@ var Hd = Te(Bt),
 										"data-frame-name": "Mobile",
 										name: "Mobile",
 										children: [o(A.div, {
-											className: "",
-											"data-border": !0,
-											"data-frame-name": "Border",
-											name: "Border",
-											children: o(te, {
-												children: o(re, {
-													className: "",
-													children: o(nt, {
-														borderRadius: 12,
-														bottomLeftRadius: 12,
-														bottomRightRadius: 12,
-														height: "100%",
-														id: "uLme6DuxP",
-														isMixedBorderRadius: !1,
-														isRed: !1,
-														layoutId: "uLme6DuxP",
-														play: "Off",
-														shouldMute: !0,
-														style: {
-															height: "100%",
-															width: "100%"
-														},
-														thumbnail: "Medium Quality",
-														topLeftRadius: 12,
-														topRightRadius: 12,
-														url: "",
-														width: "100%"
-													})
-												})
-											})
+											
+											
+								
 										}), O(A.div, {
 											className: "frame-1erp6vl",
 											"data-frame-name": "Text",
@@ -21257,32 +21231,7 @@ var Hd = Te(Bt),
 											"data-border": !0,
 											"data-frame-name": "Border",
 											name: "Border",
-											children: o(te, {
-												children: o(re, {
-													className: "frame-1u2yv00-container",
-													children: o(nt, {
-														borderRadius: 12,
-														bottomLeftRadius: 12,
-														bottomRightRadius: 12,
-														height: "100%",
-														id: "wlFE1Ow3K",
-														isMixedBorderRadius: !1,
-														isRed: !1,
-														layoutId: "wlFE1Ow3K",
-														play: "Off",
-														shouldMute: !0,
-														style: {
-															height: "100%",
-															width: "100%"
-														},
-														thumbnail: "Medium Quality",
-														topLeftRadius: 12,
-														topRightRadius: 12,
-														url: "https://youtu.be/W5iQW0DgwTM?si=9ZcBoT3G3ldmntaR",
-														width: "100%"
-													})
-												})
-											})
+											
 										}), O(A.div, {
 											className: "frame-1iieyvg",
 											"data-frame-name": "Text",
@@ -22017,7 +21966,7 @@ var Hd = Te(Bt),
 											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 											"--frame-font-size": "27px",
 											"--frame-font-weight": "600",
-											"--frame-letter-spacing": "-2.2px",
+											"--frame-letter-spacing": "-1.2px",
 											"--frame-line-height": "32px"
 										},
 										children: o("span", {
@@ -22144,7 +22093,7 @@ var Hd = Te(Bt),
 												"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 												"--frame-font-size": "27px",
 												"--frame-font-weight": "600",
-												"--frame-letter-spacing": "-2.5px",
+												"--frame-letter-spacing": "-1.5px",
 												"--frame-line-height": "32px"
 											},
 											children: o("span", {
@@ -23324,7 +23273,7 @@ var Hd = Te(Bt),
 											"--frame-font-family": '"Instrument Sans", "Instrument Sans Placeholder", sans-serif',
 											"--frame-font-size": "27px",
 											"--frame-font-weight": "600",
-											"--frame-letter-spacing": "-2.5px",
+											"--frame-letter-spacing": "-1.5px",
 											"--frame-line-height": "32px"
 										},
 										children: o("span", {
